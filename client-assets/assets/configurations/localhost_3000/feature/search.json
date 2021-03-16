@@ -1,13 +1,5 @@
 {
     "search": {
-      "visibleFiltersV2": {
-        "primaryCategory": {
-          "displayName": "Primary Category"
-        },
-        "mimeType": {
-          "displayName": "Mime Type"
-        }
-      },
       "visibleFilters": {
         "learningMode": {
           "displayName": "Mode"

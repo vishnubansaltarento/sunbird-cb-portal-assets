@@ -149,6 +149,25 @@
       "url": "/app/network-v2",
       "shortName": "Network"
     },
+    "feature_dashboard_v2": {
+      "accessKey": "D",
+      "icon": "bar_chart",
+      "iconType": "mat-icon",
+      "id": "feature_dashboard_v2",
+      "keywords": [
+        "home",
+        "dashboard"
+      ],
+      "name": "Home",
+      "permission": [
+        "DASHBOARD"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Dashboard",
+      "url": "app/home/users",
+      "shortName": "Home"
+    },
     "feature_frac": {
       "accessKey": "A",
       "icon": "airplay",
@@ -203,7 +222,7 @@
       "show": true,
       "status": "live",
       "toolTip": "Dashboard",
-      "url": "/page/home",
+      "url": "/app/home/directory",
       "shortName": "Home"
     },
     "feature_badges": {
@@ -259,6 +278,9 @@
       ],
       "name": "Author",
       "permission": [
+        "editor",
+        "admin",
+        "publisher"
       ],
       "show": true,
       "status": "live",
@@ -278,6 +300,9 @@
       ],
       "name": "Create",
       "permission": [
+        "editor",
+        "admin",
+        "publisher"
       ],
       "show": true,
       "status": "live",
@@ -489,7 +514,11 @@
         "review"
       ],
       "name": "Review",
-      "permission": [],
+      "permission": [
+        "editor",
+        "admin",
+        "publisher"
+      ],
       "show": true,
       "status": "live",
       "toolTip": "Review",
@@ -578,6 +607,14 @@
       "name": "Contribution",
       "toolTip": "Contribution",
       "hasRole": [
+        "content-creator",
+        "channel-creator",
+        "ka-creator",
+        "kb-creator",
+        "editor",
+        "reviewer",
+        "publisher",
+        "admin"
       ]
     },
     {

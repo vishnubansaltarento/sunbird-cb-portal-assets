@@ -245,13 +245,23 @@
           "name": "Competencies",
           "key": "competencies",
           "fragment": false,
-          "render": false,
+          "render": true,
           "badges": {
             "enabled": false,
             "uri": ""
           },
-          "enabled": false,
-          "routerLink": "/app/notifications"
+          "enabled": true,
+          "routerLink": "/author/competencies",
+          "requiredRoles": [
+            "admin",
+            "super-admin",
+            "content-admin",
+            "editor",
+            "content-creator",
+            "reviewer",
+            "content-creator",
+            "publisher"
+          ]
         },
         {
           "name": "Policies",

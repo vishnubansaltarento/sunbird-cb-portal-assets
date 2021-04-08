@@ -37,7 +37,8 @@
       "content-creator",
       "editor",
       "admin"
-    ]
+    ],
+    "primaryCategory": "Learning Resource"
   },
   {
     "id": "link",
@@ -174,7 +175,8 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-    ]
+    ],
+    "primaryCategory": "Course"
   },
   {
     "id": "learningPath",

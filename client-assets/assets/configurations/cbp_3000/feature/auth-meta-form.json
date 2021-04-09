@@ -335,10 +335,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Channel": [],
       "Collection": [],
       "Course": [],
@@ -346,6 +342,9 @@
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
     },
     "notShowFor": {},
     "showFor": {
@@ -999,14 +998,14 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Collection": [],
       "Course": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {
@@ -2663,10 +2662,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Channel": [],
       "Collection": [],
       "Course": [],
@@ -2674,6 +2669,10 @@
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {
@@ -2924,14 +2923,14 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Collection": [],
       "Course": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {
@@ -4744,10 +4743,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Channel": [],
       "Collection": [],
       "Course": [],
@@ -4755,6 +4750,10 @@
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {
@@ -5018,10 +5017,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Channel": [],
       "Collection": [],
       "Course": [],
@@ -5029,6 +5024,10 @@
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {
@@ -5746,11 +5745,27 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {},
+    "mandatoryFor": {
+      "Channel": [],
+      "Collection": [],
+      "Course": [],
+      "Knowledge Artifact": [],
+      "Knowledge Board": [],
+      "Learning Path": [],
+      "Resource": []
+    },
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {},
-    "showFor": {},
+    "showFor": {
+      "Channel": [],
+      "Collection": [],
+      "Course": [],
+      "Knowledge Artifact": [],
+      "Knowledge Board": [],
+      "Learning Path": [],
+      "Resource": []
+    },
     "type": "string"
   },
   "preContents": {
@@ -7215,16 +7230,15 @@
       "Knowledge Board": []
     },
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Channel": [],
       "Collection": [],
       "Course": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
     },
     "notShowFor": {},
     "showFor": {
@@ -7657,14 +7671,14 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Collection": [],
       "Course": [],
       "Learning Path": [],
       "Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      
     },
     "notShowFor": {},
     "showFor": {

@@ -73,7 +73,8 @@
       "content-creator",
       "editor",
       "admin"
-    ]
+    ],
+    "primaryCategory": "Learning Resource"
   },
   {
     "id": "webModule",
@@ -91,7 +92,8 @@
       "content-creator",
       "editor",
       "admin"
-    ]
+    ],
+    "primaryCategory": "Learning Resource"
   },
   {
     "id": "activities",
@@ -162,7 +164,8 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-    ]
+    ],
+    "primaryCategory": "Course Unit"
   },
   {
     "id": "course",

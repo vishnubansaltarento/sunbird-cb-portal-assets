@@ -2857,7 +2857,7 @@
               "Channel"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Collection": [
@@ -2867,7 +2867,7 @@
               "Collection"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Course": [
@@ -2877,7 +2877,7 @@
               "Course"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Knowledge Artifact": [
@@ -2887,7 +2887,7 @@
               "Knowledge Artifact"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Knowledge Board": [
@@ -2897,7 +2897,7 @@
               "Knowledge Board"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Learning Path": [
@@ -2907,7 +2907,7 @@
               "Learning Path"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ],
       "Resource": [
@@ -2917,7 +2917,7 @@
               "Resource"
             ]
           },
-          "value": 0
+          "value": "0"
         }
       ]
     },

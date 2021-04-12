@@ -373,7 +373,7 @@
       "toolTip": "Notification",
       "url": "/app/notifications",
       "shortName": "Notifications",
-      "badgeEndpoint": "/apis/protected/v8/user/iconBadge/unseenNotificationCount"
+      "badgeEndpoint": ""
     },
     "feature_playlist": {
       "accessKey": "P",

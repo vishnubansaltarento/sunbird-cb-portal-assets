@@ -16,7 +16,6 @@
       "upload",
       "link",
       "assessment",
-      "webModule",
       "activities"
     ],
     "enabled": true
@@ -64,7 +63,7 @@
     "available": true,
     "enabled": true,
     "contentType": "Resource",
-    "mimeType": "application/quiz",
+    "mimeType": "application/json",
     "additionalMeta": {
       "categoryType": "Assessment",
       "resourceType": "Assessment"
@@ -81,8 +80,8 @@
     "parent": "resource",
     "name": "Webpage",
     "icon": "language",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "contentType": "Resource",
     "mimeType": "application/web-module",
     "additionalMeta": {
@@ -160,7 +159,7 @@
     "description": "Create a collection of Resources",
     "icon": "call_to_action",
     "contentType": "Collection",
-    "available": true,
+    "available": false,
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [

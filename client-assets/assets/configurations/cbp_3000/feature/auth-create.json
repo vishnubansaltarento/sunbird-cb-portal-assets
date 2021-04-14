@@ -63,7 +63,7 @@
     "available": true,
     "enabled": true,
     "contentType": "Resource",
-    "mimeType": "application/quiz",
+    "mimeType": "application/json",
     "additionalMeta": {
       "categoryType": "Assessment",
       "resourceType": "Assessment"

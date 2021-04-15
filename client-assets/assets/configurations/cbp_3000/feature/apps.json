@@ -397,8 +397,7 @@
       "status": "live",
       "toolTip": "Notification",
       "url": "/app/notifications",
-      "shortName": "Notifications",
-      "badgeEndpoint": "/apis/protected/v8/user/iconBadge/unseenNotificationCount"
+      "shortName": "Notifications"
     },
     "feature_playlist": {
       "accessKey": "P",

@@ -158,8 +158,8 @@
     "description": "Create a collection of Resources",
     "icon": "call_to_action",
     "contentType": "Collection",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
     ]
@@ -186,7 +186,7 @@
     "icon": "call_to_action",
     "contentType": "Learning Path",
     "available": true,
-    "enabled": true,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
     ]

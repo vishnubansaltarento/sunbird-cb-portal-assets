@@ -214,25 +214,41 @@
         [
           {
             "dimensions": {},
-            "className": "",
+            "className": "new-box",
             "widget": {
               "widgetType": "contentStrip",
-              "widgetSubType": "contentStripMultipleNew",
+              "widgetSubType": "contentStripMultiple",
               "widgetData": {
                 "strips": [
                   {
                     "key": "continueLearning",
-                    "logo": "school",
-                    "title": "learn",
-                    "stripBackground": "assets/instances/eagle/background/learn.svg",
+                    "title": "Learn",
                     "titleDescription": "Continue Learning",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                        }
+                      }
+                    },
                     "stripConfig": {
-                      "cardSubType": "standard"
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
                     },
                     "viewMoreUrl": {
-                      "path": "/page/learn",
-                      "viewMoreText": "Learn",
-                      "queryParams": {}
+                      "path": "/app/search/learning",
+                      "queryParams": {
+                        "q": "",
+                        "p": "Trending"
+                      }
                     },
                     "filters": [],
                     "request": {

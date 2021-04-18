@@ -135,7 +135,7 @@
                     "viewMoreUrl": {
                       "path": "/app/search/learning",
                       "queryParams": {
-                        "q": "all",
+                        "q": "",
                         "p": "Trending"
                       }
                     },

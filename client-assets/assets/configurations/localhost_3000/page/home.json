@@ -97,7 +97,7 @@
                   {
                     "key": "continueLearning",
                     "logo": "school",
-                    "title": "learn",
+                    "title": "Learn",
                     "stripBackground": "assets/instances/eagle/background/learn.svg",
                     "titleDescription": "Continue Learning",
                     "stripConfig": {
@@ -115,7 +115,7 @@
                         "queryParams": {
                           "orgdetails": "orgName,email",
                           "licenseDetails": "name,description,url",
-                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable,,posterImage,duration,creatorLogo,license",
                           "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates`"
                         }
                       }

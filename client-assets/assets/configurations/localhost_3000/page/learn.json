@@ -149,28 +149,7 @@
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Collection",
-                              "Resource",
-                              "Content Playlist",
-                              "Course",
-                              "Course Assessment",
-                              "Digital Textbook",
-                              "eTextbook",
-                              "Explanation Content",
-                              "Learning Resource",
-                              "Lesson Plan Unit",
-                              "Practice Question Set",
-                              "Teacher Resource",
-                              "Textbook Unit",
-                              "LessonPlan",
-                              "FocusSpot",
-                              "Learning Outcome Definition",
-                              "Curiosity Questions",
-                              "MarkingSchemeRubric",
-                              "ExplanationResource",
-                              "ExperientialResource",
-                              "Practice Resource",
-                              "TVLesson"
+                              "Course"
                             ]
                           },
                           "query": "",
@@ -180,6 +159,9 @@
                           "fields": [
                             "name",
                             "appIcon",
+                            "instructions",
+                            "description",
+                            "purpose",
                             "mimeType",
                             "gradeLevel",
                             "identifier",
@@ -192,16 +174,22 @@
                             "contentType",
                             "channel",
                             "organisation",
-                            "trackable"
-                          ],
-                          "facets": [
-                            "board",
-                            "gradeLevel",
-                            "subject",
-                            "medium",
-                            "primaryCategory",
-                            "mimeType"
+                            "trackable",
+                            "license",
+                            "posterImage",
+                            "idealScreenSize",
+                            "learningMode",
+                            "creatorLogo",
+                            "duration"
                           ]
+                          // "facets": [
+                          //   "board",
+                          //   "gradeLevel",
+                          //   "subject",
+                          //   "medium",
+                          //   "primaryCategory",
+                          //   "mimeType"
+                          // ]
                         }
                       }
                     }
@@ -222,7 +210,7 @@
                 "strips": [
                   {
                     "key": "continueLearning",
-                    "title": "Learn",
+                    "title": "Continue Learning",
                     "titleDescription": "Continue Learning",
                     "info": {
                       "mode": "below",

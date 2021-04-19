@@ -136,7 +136,8 @@
                       "path": "/app/search/learning",
                       "queryParams": {
                         "q": "",
-                        "p": "Trending"
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
                       }
                     },
                     "stripConfig": {
@@ -147,11 +148,14 @@
                     "request": {
                       "searchV6": {
                         "request": {
-                          "filters": {
+                          "filters": [{
                             "primaryCategory": [
                               "Course"
+                            ],
+                            "contentType": [
+                              "Course"
                             ]
-                          },
+                          }],
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"

@@ -9,7 +9,7 @@
     "newDesign": false,
     "urlPatternMatching": [
       {
-        "allowReplace": false,
+        "allowReplace": true,
         "source": "youtube",
         "pattern": "^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\\.com)?\/.+",
         "allowIframe": true

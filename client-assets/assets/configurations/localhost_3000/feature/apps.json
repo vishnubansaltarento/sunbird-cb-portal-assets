@@ -282,7 +282,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "http://igot-sunbird-cbp.idc.tarento.com/"
+      "url": "https://igot-sunbird-cbp.idc.tarento.com/"
     },
     "feature_mdo": {
       "accessKey": "",
@@ -302,7 +302,7 @@
       "status": "live",
       "toolTip": "MDO",
       "shortName": "MDP",
-      "url": "http://igot-sunbird-mdo.idc.tarento.com/"
+      "url": "https://igot-sunbird-mdo.idc.tarento.com/"
     },
     "feature_spv": {
       "accessKey": "",
@@ -322,7 +322,7 @@
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "http://igot-sunbird-spv.idc.tarento.com/"
+      "url": "https://igot-sunbird-spv.idc.tarento.com/"
     },
     "feature_create": {
       "accessKey": "",

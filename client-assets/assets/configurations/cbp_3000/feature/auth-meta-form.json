@@ -5754,13 +5754,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Channel": [],
-      "Collection": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},

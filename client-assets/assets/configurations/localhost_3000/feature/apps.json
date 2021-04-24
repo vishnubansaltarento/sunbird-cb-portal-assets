@@ -599,9 +599,7 @@
     {
       "featureIds": [
         "feature_aboutUs",
-        "feature_learningAnalytics",
         "feature_mobileApps",
-        "feature_Terms&Condition",
         "feature_quickTour"
       ],
       "icon": "",

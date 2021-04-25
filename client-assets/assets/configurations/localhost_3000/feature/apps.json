@@ -60,9 +60,7 @@
         "terms and conditions of sale"
       ],
       "name": "Terms & Condition",
-      "permission": [
-        ""
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Terms & Condition",
@@ -81,9 +79,7 @@
         "about us"
       ],
       "name": "About Us",
-      "permission": [
-        "ABOUT_US"
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "About Us",
@@ -148,24 +144,6 @@
       "toolTip": "network",
       "url": "/app/network-v2",
       "shortName": "Network"
-    },
-    "feature_frac": {
-      "accessKey": "A",
-      "icon": "airplay",
-      "iconType": "mat-icon",
-      "id": "feature_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac",
-      "permission": [
-        "admin"
-      ],
-      "show": true,
-      "status": "live",
-      "toolTip": "Frac",
-      "url": "/app/frac",
-      "shortName": "Frac"
     },
     "feature_goals": {
       "accessKey": "",
@@ -258,13 +236,93 @@
         "authoring tool"
       ],
       "name": "Author",
-      "permission": [
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
       "url": "/author/home"
+    },
+    "feature_frac": {
+      "accessKey": "A",
+      "icon": "airplay",
+      "iconType": "mat-icon",
+      "id": "feature_frac",
+      "keywords": [
+        "frac"
+      ],
+      "isExternal": "true",
+      "name": "Frac",
+      "permission": [],
+      "show": true,
+      "status": "live",
+      "toolTip": "Frac",
+      "shortName": "Frac",
+      "url": "https://igot-sunbird-frac.idc.tarento.com/"      
+    },
+    "feature_cbp": {
+      "accessKey": "",
+      "icon": "menu_book",
+      "iconType": "mat-icon",
+      "id": "feature_cbp",
+      "keywords": [
+        "author",
+        "authoring tool"
+      ],
+      "isExternal": "true",
+      "name": "CBP",
+      "permission": [
+        "editor",
+        "publisher",
+        "content_creator",
+        "content-creator",
+        "reviewer"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://igot-sunbird-cbp.idc.tarento.com/"
+    },
+    "feature_mdo": {
+      "accessKey": "",
+      "icon": "supervisor_account",
+      "iconType": "mat-icon",
+      "id": "feature_mdo",
+      "keywords": [
+        "mdo"
+      ],
+      "isExternal": "true",
+      "name": "MDO",
+      "permission": [
+        "admin",
+        "mdo admin"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "MDO",
+      "shortName": "MDP",
+      "url": "https://igot-sunbird-mdo.idc.tarento.com/"
+    },
+    "feature_spv": {
+      "accessKey": "",
+      "icon": "supervised_user_circle",
+      "iconType": "mat-icon",
+      "id": "feature_spv",
+      "keywords": [
+        "spv"
+      ],
+      "isExternal": "true",
+      "name": "SPV",
+      "permission": [
+        "superAdmin",
+        "spv admin"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "SPV",
+      "shortName": "SPV",
+      "url": "https://igot-sunbird-spv.idc.tarento.com/"
     },
     "feature_create": {
       "accessKey": "",
@@ -277,8 +335,7 @@
         "create"
       ],
       "name": "Create",
-      "permission": [
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Create",
@@ -346,9 +403,7 @@
         "la"
       ],
       "name": "Learning Analytics",
-      "permission": [
-        "LEARNING_ANALYTICS"
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Learning Analytics",
@@ -528,9 +583,7 @@
         "setup"
       ],
       "name": "Settings",
-      "permission": [
-        "SETTINGS"
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Settings",
@@ -577,8 +630,7 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": [
-      ]
+      "hasRole": ["none"]
     },
     {
       "featureIds": [
@@ -595,6 +647,46 @@
       "hasRole": [
         "admin"
       ]
+    },
+    {
+      "featureIds": [
+        "feature_mdo",
+        "feature_cbp",
+        "feature_spv"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_admin",
+      "keywords": [
+        "admin"
+      ],
+      "name": "Portals",
+      "toolTip": "Portals",
+      "hasRole": [
+        "admin",
+        "editor",
+        "publisher",
+        "content_creator",
+        "content-creator",
+        "reviewer",
+        "mdo admin",
+        "cbp admin",
+        "spv admin"
+      ]
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
+      "hasRole": []
     },
     {
       "featureIds": [

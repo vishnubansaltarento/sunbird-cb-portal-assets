@@ -52,6 +52,18 @@
                     },
                     "enabled": true,
                     "routerLink": "/app/events"
+                },
+                {
+                    "name": "Work Allocation",
+                    "key": "workallocation",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                      "enabled": false,
+                      "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/workallocation"
                 }
             ]
         }

@@ -65,7 +65,7 @@
               "uri": ""
             },
             "enabled": true,
-            "routerLink": "/app/workallocation/list"
+            "routerLink": "/app/home/workallocation"
         },
         {
           "name": "Privileges",

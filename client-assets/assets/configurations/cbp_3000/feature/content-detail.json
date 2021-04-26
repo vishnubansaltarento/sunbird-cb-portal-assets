@@ -18,20 +18,6 @@
                     "customRouting": true,
                     "paramaterName":"contentId",
                     "routerLink": "/author/content-detail/<param>/overview"
-                },
-                {
-                    "name": "Insights",
-                    "key": "insights",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "customRouting": true,
-                    "paramaterName":"contentId",
-                    "routerLink": "/author/content-detail/<param>/insights"
                 }
             ]
         }

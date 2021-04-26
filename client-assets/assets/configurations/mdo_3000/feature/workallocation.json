@@ -44,18 +44,6 @@
               "routerLink": "/app/home/approvals"
           },
           {
-              "name": "Events",
-              "key": "events",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                  "enabled": false,
-                  "uri": ""
-              },
-              "enabled": true,
-              "routerLink": "/app/events"
-          },
-          {
               "name": "Work Allocation",
               "key": "workallocation",
               "fragment": false,

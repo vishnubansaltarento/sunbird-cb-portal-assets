@@ -135,8 +135,9 @@
                     "viewMoreUrl": {
                       "path": "/app/search/learning",
                       "queryParams": {
-                        "q": "all",
-                        "p": "Trending"
+                        "q": "",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
                       }
                     },
                     "stripConfig": {
@@ -147,32 +148,14 @@
                     "request": {
                       "searchV6": {
                         "request": {
-                          "filters": {
+                          "filters": [{
                             "primaryCategory": [
-                              "Collection",
-                              "Resource",
-                              "Content Playlist",
-                              "Course",
-                              "Course Assessment",
-                              "Digital Textbook",
-                              "eTextbook",
-                              "Explanation Content",
-                              "Learning Resource",
-                              "Lesson Plan Unit",
-                              "Practice Question Set",
-                              "Teacher Resource",
-                              "Textbook Unit",
-                              "LessonPlan",
-                              "FocusSpot",
-                              "Learning Outcome Definition",
-                              "Curiosity Questions",
-                              "MarkingSchemeRubric",
-                              "ExplanationResource",
-                              "ExperientialResource",
-                              "Practice Resource",
-                              "TVLesson"
+                              "Course"
+                            ],
+                            "contentType": [
+                              "Course"
                             ]
-                          },
+                          }],
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -180,6 +163,9 @@
                           "fields": [
                             "name",
                             "appIcon",
+                            "instructions",
+                            "description",
+                            "purpose",
                             "mimeType",
                             "gradeLevel",
                             "identifier",
@@ -192,15 +178,13 @@
                             "contentType",
                             "channel",
                             "organisation",
-                            "trackable"
-                          ],
-                          "facets": [
-                            "board",
-                            "gradeLevel",
-                            "subject",
-                            "medium",
-                            "primaryCategory",
-                            "mimeType"
+                            "trackable",
+                            "license",
+                            "posterImage",
+                            "idealScreenSize",
+                            "learningMode",
+                            "creatorLogo",
+                            "duration"
                           ]
                         }
                       }
@@ -214,85 +198,51 @@
         [
           {
             "dimensions": {},
-            "className": "",
+            "className": "new-box",
             "widget": {
               "widgetType": "contentStrip",
-              "widgetSubType": "contentStripMultipleNew",
+              "widgetSubType": "contentStripMultiple",
               "widgetData": {
                 "strips": [
                   {
                     "key": "continueLearning",
-                    "logo": "school",
-                    "title": "learn",
-                    "stripBackground": "assets/instances/eagle/background/learn.svg",
+                    "title": "Continue Learning",
                     "titleDescription": "Continue Learning",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                        }
+                      }
+                    },
                     "stripConfig": {
-                      "cardSubType": "standard"
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
                     },
                     "viewMoreUrl": {
-                      "path": "/page/learn",
-                      "viewMoreText": "Learn",
-                      "queryParams": {}
+                      "path": "/app/search/learning",
+                      "queryParams": {
+                        "q": "",
+                        "p": "Trending"
+                      }
                     },
                     "filters": [],
                     "request": {
-                      "searchV6": {
-                        "request": {
-                          "filters": {
-                            "primaryCategory": [
-                              "Collection",
-                              "Resource",
-                              "Content Playlist",
-                              "Course",
-                              "Course Assessment",
-                              "Digital Textbook",
-                              "eTextbook",
-                              "Explanation Content",
-                              "Learning Resource",
-                              "Lesson Plan Unit",
-                              "Practice Question Set",
-                              "Teacher Resource",
-                              "Textbook Unit",
-                              "LessonPlan",
-                              "FocusSpot",
-                              "Learning Outcome Definition",
-                              "Curiosity Questions",
-                              "MarkingSchemeRubric",
-                              "ExplanationResource",
-                              "ExperientialResource",
-                              "Practice Resource",
-                              "TVLesson"
-                            ]
-                          },
-                          "query": "",
-                          "sort_by": {
-                            "lastUpdatedOn": "desc"
-                          },
-                          "fields": [
-                            "name",
-                            "appIcon",
-                            "mimeType",
-                            "gradeLevel",
-                            "identifier",
-                            "medium",
-                            "pkgVersion",
-                            "board",
-                            "subject",
-                            "resourceType",
-                            "primaryCategory",
-                            "contentType",
-                            "channel",
-                            "organisation",
-                            "trackable"
-                          ],
-                          "facets": [
-                            "board",
-                            "gradeLevel",
-                            "subject",
-                            "medium",
-                            "primaryCategory",
-                            "mimeType"
-                          ]
+                      "enrollmentList": {
+                        "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+                        "queryParams": {
+                          "orgdetails": "orgName,email",
+                          "licenseDetails": "name,description,url",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable",
+                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates`"
                         }
                       }
                     }

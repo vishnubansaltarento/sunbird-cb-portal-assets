@@ -51,7 +51,7 @@
                   "uri": ""
                 },
                 "enabled": true,
-                "routerLink": "/app/home/all-cbp",
+                "routerLink": "/app/home/cbp",
                 "queryParams": "draft",
                 "requiredRoles": []
               }

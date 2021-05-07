@@ -433,12 +433,10 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
       "Course": []
     },
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
     "notShowFor": {
       "Resource": [],
       "Channel": [],

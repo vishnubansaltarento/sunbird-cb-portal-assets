@@ -18,7 +18,7 @@
                     "routerLink": "/app/home/users"
                 },
                 {
-                    "name": "Roles and Access",
+                    "name": "Roles and access",
                     "key": "roles-access",
                     "fragment": false,
                     "render": true,
@@ -42,7 +42,7 @@
                     "routerLink": "/app/home/approvals"
                 },
                 {
-                    "name": "Work Allocation",
+                    "name": "Work allocation",
                     "key": "workallocation",
                     "fragment": false,
                     "render": true,

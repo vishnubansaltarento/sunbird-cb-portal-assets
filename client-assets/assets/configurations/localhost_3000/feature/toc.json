@@ -4,15 +4,15 @@
   "banners": [],
   "atAGlance": {
     "lastUpdatedOn": {
-      "displayName": "Last Updated  On",
+      "displayName": "Last updated on",
       "enabled": true
     },
     "expiryDate": {
-      "displayName": "Expiry Date",
+      "displayName": "Expiry date",
       "enabled": true
     },
     "learningMode": {
-      "displayName": "Learning Mode",
+      "displayName": "Learning mode",
       "enabled": true
     },
     "region": {
@@ -28,7 +28,7 @@
       "enabled": true
     },
     "hasTranslations": {
-      "displayName": "Has Translations",
+      "displayName": "Has translations",
       "enabled": true
     },
     "keywords": {
@@ -40,11 +40,11 @@
       "enabled": true
     },
     "displayContentType": {
-      "displayName": "Content Type",
+      "displayName": "Content type",
       "enabled": true
     },
     "complexityLevel": {
-      "displayName": "Complexity Level",
+      "displayName": "Complexity level",
       "enabled": true
     },
     "duration": {
@@ -56,15 +56,19 @@
       "enabled": true
     },
     "viewCount": {
-      "displayName": "View Count",
+      "displayName": "View count",
       "enabled": true
     },
     "sourceShortName": {
-      "displayName": "Source Name",
+      "displayName": "Source name",
       "enabled": true
     },
     "structure": {
       "displayName": "Structure",
+      "enabled": true
+    },
+    "competencies": {
+      "displayName": "Competencies",
       "enabled": true
     }
   },
@@ -78,15 +82,15 @@
       "enabled": true
     },
     "learningObjective": {
-      "displayName": "Learning Objective",
+      "displayName": "Learning objective",
       "enabled": true
     },
     "registrationInstructions": {
-      "displayName": "Registration Instructions",
+      "displayName": "Registration instructions",
       "enabled": true
     },
     "studyMaterials": {
-      "displayName": "Study Materials",
+      "displayName": "Study materials",
       "enabled": true
     },
     "skills": {

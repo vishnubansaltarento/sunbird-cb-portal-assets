@@ -28,7 +28,7 @@
   "defaultLocale": "",
   "defaultThemeClass": "theme-igot",
   "details": {
-    "appName": "SPV-iGOT"
+    "appName": "iGoT"
   },
   "disablePidCheck": true,
   "isContentDownloadAvailable": false,
@@ -226,6 +226,26 @@
   "themes": [
     {
       "color": {
+        "accent": "#607d8b",
+        "primary": "#9e9e9e",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-grey",
+      "themeClass": "theme-grey",
+      "themeName": "Grey Theme"
+    },
+    {
+      "color": {
+        "accent": "#607d8b",
+        "primary": "#673ab7",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-deep-purple",
+      "themeClass": "theme-deep-purple",
+      "themeName": "Deep Purple Theme"
+    },
+    {
+      "color": {
         "accent": "#00A9F4",
         "primary": "#ffffff",
         "warn": "#f44336"
@@ -233,6 +253,46 @@
       "themeFile": "theme-igot",
       "themeClass": "theme-igot",
       "themeName": "iGOT Theme"
+    },
+    {
+      "color": {
+        "accent": "#607d8b",
+        "primary": "#3f51b5",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-indigo",
+      "themeClass": "theme-indigo",
+      "themeName": "Indigo Theme"
+    },
+    {
+      "color": {
+        "accent": "#607d8b",
+        "primary": "#03a9f4",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-lite-blue",
+      "themeClass": "theme-lite-blue",
+      "themeName": "Lite Blue Theme"
+    },
+    {
+      "color": {
+        "accent": "#009688",
+        "primary": "#ff9800",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-orange",
+      "themeClass": "theme-orange",
+      "themeName": "Orange Theme"
+    },
+    {
+      "color": {
+        "accent": "#af235f",
+        "primary": "#005f87",
+        "warn": "#f44336"
+      },
+      "themeFile": "theme-teal",
+      "themeClass": "theme-teal",
+      "themeName": "Teal Theme"
     }
   ],
   "validMailIdExtensionsForMailMe": [
@@ -266,19 +326,6 @@
         {
           "type": "featureButton",
           "config": {
-            "actionBtnId": "feature_dashboard_v2",
-            "toolTip": "Dashboard",
-            "className": "fixtopMargin",
-            "config": {
-              "actionBtnId": "feature_dashboard_v2",
-              "type": "card-mini",
-              "hideTitle": true
-            }
-          }
-        },
-        {
-          "type": "featureButton",
-          "config": {
             "actionBtnId": "feature_notification",
             "toolTip": "Notification",
             "className": "fixtopMargin",
@@ -294,7 +341,11 @@
           "config": {
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
-            "widgetData": {},
+            "widgetData": {
+              "disableViewProfile" : true,
+              "disableAllFeatures" : true,
+              "disableSettings" : true
+            },
             "hideTitle": true
           }
         }
@@ -371,7 +422,7 @@
       "path": "/page/learn",
       "active": true,
       "hubname": "Learn",
-      "desc": "Shape your Skills with hunderds-of online course",
+      "desc": "Sharpen your skills with hunderds-of online courses",
       "icon": "school",
       "accessKey": "L"
     },
@@ -379,7 +430,7 @@
       "path": "/app/discuss/home",
       "active": true,
       "hubname": "Discuss",
-      "desc": "Have a question? Have an Idea? discuss with your peers",
+      "desc": "Have a question? Have an Idea? Discuss it with your peers",
       "icon": "forum",
       "accessKey": "D"
     },
@@ -387,7 +438,7 @@
       "path": "/app/network-v2",
       "active": true,
       "hubname": "Network",
-      "desc": "Connect with Interesting people, see what they are upto.",
+      "desc": "Connect with Interesting people, see what they are upto",
       "icon": "group",
       "accessKey": "N"
     },
@@ -395,7 +446,7 @@
       "path": "/app/careers/home",
       "active": true,
       "hubname": "Career",
-      "desc": "Explore the carrier option grow into the path you are",
+      "desc": "Explore the career option. Grow into the path of your choice",
       "icon": "work",
       "accessKey": "C"
     },

@@ -28,7 +28,9 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "requiredRoles": [],
+                    "requiredRoles": [
+                        "CBC ADMIN"
+                    ],
                     "routerLink": "/app/home/users"
                 },
                 {

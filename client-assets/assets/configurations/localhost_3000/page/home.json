@@ -99,7 +99,7 @@
                     "logo": "school",
                     "title": "Learn",
                     "stripBackground": "assets/instances/eagle/background/learn.svg",
-                    "titleDescription": "Continue Learning",
+                    "titleDescription": "Continue learning",
                     "stripConfig": {
                       "cardSubType": "standard"
                     },

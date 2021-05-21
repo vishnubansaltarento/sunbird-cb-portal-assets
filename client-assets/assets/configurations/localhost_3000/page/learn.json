@@ -206,8 +206,8 @@
                 "strips": [
                   {
                     "key": "continueLearning",
-                    "title": "Continue Learning",
-                    "titleDescription": "Continue Learning",
+                    "title": "Continue learning",
+                    "titleDescription": "Continue learning",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",

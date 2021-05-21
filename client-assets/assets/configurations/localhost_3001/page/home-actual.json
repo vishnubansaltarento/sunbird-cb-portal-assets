@@ -124,7 +124,7 @@
                 "strips": [
                   {
                     "key": "continueLearning",
-                    "title": "Continue Learning",
+                    "title": "Continue learning",
                     "stripConfig": {
                       "cardSubType": "standard"
                     },

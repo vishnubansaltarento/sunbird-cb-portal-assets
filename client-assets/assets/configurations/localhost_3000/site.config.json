@@ -28,7 +28,7 @@
   "defaultLocale": "",
   "defaultThemeClass": "theme-igot",
   "details": {
-    "appName": "SPV-iGOT"
+    "appName": "CBC-iGOT"
   },
   "disablePidCheck": true,
   "isContentDownloadAvailable": false,
@@ -264,37 +264,15 @@
           }
         },
         {
-          "type": "featureButton",
-          "config": {
-            "actionBtnId": "feature_dashboard_v2",
-            "toolTip": "Dashboard",
-            "className": "fixtopMargin",
-            "config": {
-              "actionBtnId": "feature_dashboard_v2",
-              "type": "card-mini",
-              "hideTitle": true
-            }
-          }
-        },
-        {
-          "type": "featureButton",
-          "config": {
-            "actionBtnId": "feature_notification",
-            "toolTip": "Notification",
-            "className": "fixtopMargin",
-            "config": {
-              "actionBtnId": "feature_notification",
-              "type": "card-mini",
-              "hideTitle": true
-            }
-          }
-        },
-        {
           "type": "widgetButton",
           "config": {
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
-            "widgetData": {},
+            "widgetData": {
+              "disableViewProfile" : true,
+              "disableAllFeatures" : true,
+              "disableSettings" : true
+            },
             "hideTitle": true
           }
         }
@@ -371,7 +349,7 @@
       "path": "/page/learn",
       "active": true,
       "hubname": "Learn",
-      "desc": "Sharpen your skills with hunderds-of online courses",
+      "desc": "Shape your Skills with hunderds-of online course",
       "icon": "school",
       "accessKey": "L"
     },
@@ -379,7 +357,7 @@
       "path": "/app/discuss/home",
       "active": true,
       "hubname": "Discuss",
-      "desc": "Have a question? Have an Idea? Discuss it with your peers",
+      "desc": "Have a question? Have an Idea? discuss with your peers",
       "icon": "forum",
       "accessKey": "D"
     },
@@ -387,7 +365,7 @@
       "path": "/app/network-v2",
       "active": true,
       "hubname": "Network",
-      "desc": "Connect with Interesting people, see what they are upto",
+      "desc": "Connect with Interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N"
     },
@@ -395,7 +373,7 @@
       "path": "/app/careers/home",
       "active": true,
       "hubname": "Career",
-      "desc": "Explore the career option. Grow into the path of your choice",
+      "desc": "Explore the carrier option grow into the path you are",
       "icon": "work",
       "accessKey": "C"
     },

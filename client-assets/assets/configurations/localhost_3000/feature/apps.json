@@ -277,7 +277,7 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://igot-sunbird-frac.idc.tarento.com/"      
+      "url": "https://igot-sunbird-frac.idc.tarento.com/"
     },
     "feature_cbp": {
       "accessKey": "",
@@ -379,13 +379,7 @@
         "comment"
       ],
       "name": "Feedback",
-      "permission": [
-        "FEEDBACK",
-        "author",
-        "editor",
-        "admin",
-        "publisher"
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Feedback",
@@ -662,7 +656,8 @@
         "editor",
         "reviewer",
         "publisher",
-        "admin"
+        "admin",
+        "none"
       ]
     },
     {

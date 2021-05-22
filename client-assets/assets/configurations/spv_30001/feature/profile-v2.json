@@ -40,11 +40,11 @@
                 "enabled": false,
                 "uri": ""
             },
-            "enabled": true,
+            "enabled": false,
             "routerLink": ".",
             "widget": {
                 "widgetType": "profilev2",
-                "widgetSubType": "certificationsv2",
+                "widgetSubType": "certifications",
                 "widgetHostClass": "margin-bottom-l",
                 "widgetData": {}
             }

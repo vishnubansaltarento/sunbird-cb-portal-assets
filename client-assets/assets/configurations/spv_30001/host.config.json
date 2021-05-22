@@ -6,7 +6,7 @@
     "defaultLocale": "en",
     "defaultThemeClass": "theme-igot",
     "details": {
-        "appName": "iGoT"
+        "appName": "SPV-iGOT"
     },
     "disablePidCheck": false,
     "isContentDownloadAvailable": false,
@@ -63,7 +63,7 @@
         "clientId": "portal",
         "key": "ws-kc-token-storage",
         "realm": "sunbird",
-        "url": "https://igot-dev.in/auth"
+        "url": "https://igot-sunbird.idc.tarento.com/auth"
     },
     "locals": [
         {

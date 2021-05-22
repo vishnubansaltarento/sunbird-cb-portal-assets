@@ -74,7 +74,7 @@
     "clientId": "portal",
     "key": "ws-kc-token-storage",
     "realm": "sunbird",
-    "url": "https://igot-dev.in/auth"
+    "url": "https://igot-sunbird.idc.tarento.com/auth"
   },
   "locals": [
     {

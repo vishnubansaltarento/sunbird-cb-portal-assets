@@ -64,7 +64,7 @@
                   "routerLink": "/app/home"
                 },
                 {
-                  "name": "Roles and Access",
+                  "name": "Roles and access",
                   "key": "roles-access",
                   "render": true,
                   "badges": {

@@ -98,7 +98,21 @@
                     "enabled": false,
                     "requiredRoles": [],
                     "routerLink": "/app/home/roles-access"
-                }                
+                },
+                {
+                    "name": "Approvals",
+                    "key": "approvals",
+                   "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/approvals",
+                    "queryParams": "draft",
+                    "requiredRoles": []
+                } 
             ]
         }
     }

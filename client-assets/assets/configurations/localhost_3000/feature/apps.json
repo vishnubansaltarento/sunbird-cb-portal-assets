@@ -258,7 +258,7 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://frac.igot-dev.in/"
+      "url": "https://frac-dictionary.igot-dev.in/"
     },
     "feature_cbp": {
       "accessKey": "",
@@ -295,7 +295,8 @@
       "isExternal": "true",
       "name": "CBC",
       "permission": [
-        "cbc admin"
+        "cbc admin",
+        "cbc_member"
       ],
       "show": true,
       "status": "live",
@@ -688,7 +689,8 @@
         "mdo admin",
         "cbp admin",
         "spv admin",
-        "cbc admin"
+        "cbc admin",
+        "cbc_member"
       ]
     },
     {

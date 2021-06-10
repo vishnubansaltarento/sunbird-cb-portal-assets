@@ -67,5 +67,23 @@
         "Behavioural",
         "Domain",
         "Functional"
-    ]
+    ],
+    "assistant": {
+        "help": [
+            {
+                "name": "Drafting competencies",
+                "appIcon": "https://igot.blob.core.windows.net/public/content/do_11327647969989427214307/artifact/do_11327647970098380814308_1620664026741_test448192519201591623096543.thumb.jpg",
+                "duration": "12 minutes",
+                "mimeType": "video",
+                "artifactUrl": "/assets/instances/eagle/videos/wat-help.mp4"
+            },
+            {
+                "name": "12 step work allocation process",
+                "appIcon": "https://igot.blob.core.windows.net/public/content/do_11328133285267046414498/artifact/do_11327648079200256014382_1620664160384_gdp11597836661217.thumb.jpg",
+                "duration": "8 minutes",
+                "mimeType": "pdf",
+                "artifactUrl": "/assets/instances/eagle/pdfs/wat-help.pdf"
+            }
+        ]
+    }
 }

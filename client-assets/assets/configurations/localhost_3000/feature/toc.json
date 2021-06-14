@@ -63,6 +63,10 @@
       "displayName": "Source name",
       "enabled": true
     },
+    "source": {
+      "displayName": "Source name",
+      "enabled": true
+    },
     "structure": {
       "displayName": "Structure",
       "enabled": true
@@ -103,7 +107,7 @@
     },
     "topics": {
       "displayName": "Topics",
-      "enabled": true
+      "enabled": false
     }
   },
   "analytics": {

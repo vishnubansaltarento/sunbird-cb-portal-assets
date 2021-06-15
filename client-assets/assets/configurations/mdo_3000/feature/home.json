@@ -54,7 +54,7 @@
                     "routerLink": "/app/home/approvals"
                 },
                 {
-                    "name": "Work allocation",
+                    "name": "Work allocation tool",
                     "key": "workallocation",
                     "fragment": false,
                     "render": true,

@@ -52,6 +52,9 @@
       "isExternal": true
     },
     "hasRole": [
+      "content-creator",
+      "editor",
+      "admin"
     ],
     "primaryCategory": "Learning Resource"
   },
@@ -163,6 +166,9 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
+      "content-creator",
+      "editor",
+      "admin"
     ],
     "primaryCategory": "Course Unit"
   },
@@ -177,6 +183,9 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
+      "content-creator",
+      "editor",
+      "admin"
     ],
     "primaryCategory": "Course"
   },

@@ -264,7 +264,7 @@
     },
     "feature_frac": {
       "accessKey": "A",
-      "icon": "airplay",
+      "icon": "/assets/icons/FRAC_dictionaries.svg",
       "iconType": "mat-icon",
       "id": "feature_frac",
       "keywords": [
@@ -277,11 +277,11 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://igot-sunbird-frac.idc.tarento.com/"
+      "url": "https://frac-dictionary.igot-dev.in/"
     },
     "feature_cbp": {
       "accessKey": "",
-      "icon": "menu_book",
+      "icon": "/assets/icons/CBP_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_cbp",
       "keywords": [
@@ -302,11 +302,31 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://igot-sunbird-cbp.idc.tarento.com/"
+      "url": "https://cbp.igot-dev.in/"
+    },
+    "feature_cbc": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "cbc"
+      ],
+      "isExternal": "true",
+      "name": "CBC",
+      "permission": [
+        "cbc admin",
+        "cbc_member"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbc.igot-dev.in/"
     },
     "feature_mdo": {
       "accessKey": "",
-      "icon": "supervisor_account",
+      "icon": "/assets/icons/MDO_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_mdo",
       "keywords": [
@@ -322,11 +342,11 @@
       "status": "live",
       "toolTip": "MDO",
       "shortName": "MDP",
-      "url": "https://igot-sunbird-mdo.idc.tarento.com/"
+      "url": "https://mdo.igot-dev.in/"
     },
     "feature_spv": {
       "accessKey": "",
-      "icon": "supervised_user_circle",
+      "icon": "/assets/icons/SPV_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_spv",
       "keywords": [
@@ -342,7 +362,7 @@
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://igot-sunbird-spv.idc.tarento.com/"
+      "url": "https://spv.igot-dev.in/"
     },
     "feature_create": {
       "accessKey": "",
@@ -680,7 +700,8 @@
       "featureIds": [
         "feature_mdo",
         "feature_cbp",
-        "feature_spv"
+        "feature_spv",
+        "feature_cbc"
       ],
       "icon": "",
       "iconType": "none",
@@ -699,7 +720,9 @@
         "reviewer",
         "mdo admin",
         "cbp admin",
-        "spv admin"
+        "spv admin",
+        "cbc admin",
+        "cbc_member"
       ]
     },
     {

@@ -112,9 +112,9 @@
     },
     "telemetryConfig": {
         "pdata": {
-            "id": "web-ui",
+            "id": "sunbird-cb-portal",
             "ver": "1.0.0",
-            "pid": ""
+            "pid": "sunbird-cb-portal"
         },
         "env": "prod",
         "channel": "",

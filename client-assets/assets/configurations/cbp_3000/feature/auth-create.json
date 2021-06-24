@@ -161,7 +161,7 @@
     "name": "Module",
     "description": "Create a collection of Resources",
     "icon": "call_to_action",
-    "contentType": "Collection",
+    "contentType": "CourseUnit",
     "available": false,
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",

@@ -15,7 +15,12 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/welcome"
+                    "routerLink": "/app/home/welcome",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo admin",
+                        "wat_user"
+                    ]
                 },
                 {
                     "name": "Users",
@@ -27,7 +32,11 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/users"
+                    "routerLink": "/app/home/users",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo admin"
+                    ]
                 },
                 {
                     "name": "Roles and access",
@@ -39,7 +48,11 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/roles-access"
+                    "routerLink": "/app/home/roles-access",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo admin"
+                    ]
                 },
                 {
                     "name": "Approvals",
@@ -51,7 +64,11 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/approvals"
+                    "routerLink": "/app/home/approvals",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo admin"
+                    ]
                 },
                 {
                     "name": "Work allocation tool",
@@ -63,7 +80,10 @@
                       "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/workallocation"
+                    "routerLink": "/app/home/workallocation",
+                    "requiredRoles": [
+                        "wat_user"
+                    ]
                 }
             ]
         }

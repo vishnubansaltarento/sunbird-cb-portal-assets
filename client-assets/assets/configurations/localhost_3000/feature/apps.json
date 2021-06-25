@@ -336,7 +336,8 @@
       "name": "MDO",
       "permission": [
         "admin",
-        "mdo admin"
+        "mdo admin",
+        "wat_user"
       ],
       "show": true,
       "status": "live",
@@ -722,7 +723,8 @@
         "cbp admin",
         "spv admin",
         "cbc admin",
-        "cbc_member"
+        "cbc_member",
+        "wat_user"
       ]
     },
     {

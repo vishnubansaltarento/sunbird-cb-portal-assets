@@ -82,6 +82,8 @@
                     "enabled": true,
                     "routerLink": "/app/home/workallocation",
                     "requiredRoles": [
+                        "admin",
+                        "mdo admin",
                         "wat_user"
                     ]
                 }

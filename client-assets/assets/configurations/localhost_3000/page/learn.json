@@ -82,8 +82,9 @@
                     "xs": "assets/instances/eagle/banners/hubs/learning/xs.jpg",
                     "xxl": "assets/instances/eagle/banners/hubs/learning/xxl.jpg"
                   },
-                  "redirectUrl": "/app/search/learning",
+                  "redirectUrl": "/app/globalsearch",
                   "queryParams": {
+                    "tab": "Learn",
                     "q": "Salesforce",
                     "lang": "en",
                     "f": "{}"
@@ -138,8 +139,9 @@
                       "postCardForSearch": true
                     },
                     "viewMoreUrl": {
-                      "path": "/app/search/learning",
+                      "path": "/app/globalsearch",
                       "queryParams": {
+                        "tab": "Learn",
                         "q": "",
                         "p": "Trending"
                       }
@@ -190,8 +192,9 @@
                       }
                     },
                     "viewMoreUrl": {
-                      "path": "/app/search/learning",
+                      "path": "/app/globalsearch",
                       "queryParams": {
+                        "tab": "Learn",
                         "q": "",
                         "p": "Trending",
                         "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
@@ -251,66 +254,6 @@
               }
             }
           }
-<<<<<<< HEAD
-        ],
-        [
-          {
-            "dimensions": {},
-            "className": "new-box",
-            "widget": {
-              "widgetType": "contentStrip",
-              "widgetSubType": "contentStripMultiple",
-              "widgetData": {
-                "strips": [
-                  {
-                    "key": "continueLearning",
-                    "title": "Continue learning",
-                    "titleDescription": "Continue learning",
-                    "info": {
-                      "mode": "below",
-                      "visibilityMode": "hidden",
-                      "icon": {
-                        "icon": "info",
-                        "scale": 0.8
-                      },
-                      "widget": {
-                        "widgetType": "element",
-                        "widgetSubType": "elementHtml",
-                        "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
-                        }
-                      }
-                    },
-                    "stripConfig": {
-                      "cardSubType": "standard",
-                      "postCardForSearch": true
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/search/learning",
-                      "queryParams": {
-                        "q": "",
-                        "p": "Trending"
-                      }
-                    },
-                    "filters": [],
-                    "request": {
-                      "enrollmentList": {
-                        "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
-                        "queryParams": {
-                          "orgdetails": "orgName,email",
-                          "licenseDetails": "name,description,url",
-                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable",
-                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates`"
-                        }
-                      }
-                    }
-                  }
-                ]
-              }
-            }
-          }
-=======
->>>>>>> 576439a6ce55e84804a8586a6cb099ea6f309c3c
         ]
       ]
     }

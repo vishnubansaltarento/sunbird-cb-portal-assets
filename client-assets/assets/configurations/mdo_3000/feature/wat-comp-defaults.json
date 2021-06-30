@@ -85,5 +85,13 @@
                 "artifactUrl": "/assets/instances/eagle/pdfs/wat-help.pdf"
             }
         ]
-    }
+    },
+    "externalUrls": [
+        {
+            "key": "COMPETENCY",
+            "uri": "https://frac-dictionary.igot-stage.in/",
+            "displayName": "Competency Dictionary",
+            "icon": "launch"
+        }
+    ]
 }

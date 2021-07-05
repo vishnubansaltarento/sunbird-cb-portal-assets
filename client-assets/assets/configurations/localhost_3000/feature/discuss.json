@@ -51,7 +51,7 @@
             "routerLink": "/app/discuss/leaderboard"
         },
         {
-            "name": "My Discussions",
+            "name": "Your Discussions",
             "key": "mydiscussions",
             "badges": {
                 "enabled": false,

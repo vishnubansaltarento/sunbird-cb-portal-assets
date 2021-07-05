@@ -104,7 +104,7 @@
             }
         },
         {
-            "name": "My Competencies",
+            "name": "Your Competencies",
             "key": "competencies",
             "dataKey": "",
             "render": false,

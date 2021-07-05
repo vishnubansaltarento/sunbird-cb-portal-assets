@@ -11,7 +11,7 @@
             "routerLink": "/app/network-v2/home"
         },
         {
-            "name": "My connections",
+            "name": "Your connections",
             "key": "MyConnections",
             "badges": {
                 "enabled": true,
@@ -31,7 +31,7 @@
             "routerLink": "/app/network-v2/connection-requests"
         },
         {
-            "name": "From my MDO",
+            "name": "From your MDO",
             "key": "formMyMDO",
             "badges": {
                 "enabled": true,

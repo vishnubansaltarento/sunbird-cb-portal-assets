@@ -74,7 +74,7 @@
     "clientId": "portal",
     "key": "ws-kc-token-storage",
     "realm": "sunbird",
-    "url": "https://igot-sunbird.idc.tarento.com/auth"
+    "url": "https://igot-dev.in/auth"
   },
   "locals": [
     {
@@ -266,19 +266,6 @@
         {
           "type": "featureButton",
           "config": {
-            "actionBtnId": "feature_mydashboard",
-            "toolTip": "My Dashboard",
-            "className": "fixtopMargin",
-            "config": {
-              "actionBtnId": "feature_mydashboard",
-              "type": "card-mini",
-              "hideTitle": true
-            }
-          }
-        },
-        {
-          "type": "featureButton",
-          "config": {
             "actionBtnId": "feature_notification",
             "toolTip": "Notification",
             "className": "fixtopMargin",
@@ -295,9 +282,9 @@
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
             "widgetData": {
-              "disableViewProfile" : true,
-              "disableAllFeatures" : true,
-              "disableSettings" : true
+              "disableViewProfile": true,
+              "disableAllFeatures": true,
+              "disableSettings": true
             },
             "hideTitle": true
           }

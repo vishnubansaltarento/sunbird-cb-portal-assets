@@ -6,23 +6,6 @@
             "logo": true,
             "menus": [
                 {
-                    "name": "Home",
-                    "key": "Home",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/welcome",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo admin",
-                        "wat_user"
-                    ]
-                },
-                {
                     "name": "Users",
                     "key": "users",
                     "fragment": false,
@@ -32,11 +15,7 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/users",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo admin"
-                    ]
+                    "routerLink": "/app/home/users"
                 },
                 {
                     "name": "Roles and access",
@@ -48,11 +27,7 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/roles-access",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo admin"
-                    ]
+                    "routerLink": "/app/home/roles-access"
                 },
                 {
                     "name": "Approvals",
@@ -64,14 +39,10 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/approvals",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo admin"
-                    ]
+                    "routerLink": "/app/home/approvals"
                 },
                 {
-                    "name": "Work allocation tool",
+                    "name": "Work allocation",
                     "key": "workallocation",
                     "fragment": false,
                     "render": true,
@@ -80,12 +51,7 @@
                       "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/workallocation",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo admin",
-                        "wat_user"
-                    ]
+                    "routerLink": "/app/home/workallocation"
                 }
             ]
         }

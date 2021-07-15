@@ -6,6 +6,18 @@
         "logo": true,
         "menus": [
           {
+            "name": "Home",
+            "key": "home",
+            "fragment": false,
+            "render": true,
+            "badges": {
+              "enabled": false,
+              "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/welcome"
+          },
+          {
             "name": "Users",
             "key": "users",
             "fragment": false,
@@ -42,6 +54,18 @@
               },
               "enabled": true,
               "routerLink": "/app/home/approvals"
+          },
+          {
+              "name": "Events",
+              "key": "events",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                  "enabled": false,
+                  "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/events"
           },
           {
               "name": "Work allocation tool",

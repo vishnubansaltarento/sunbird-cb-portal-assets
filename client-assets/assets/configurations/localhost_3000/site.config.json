@@ -384,6 +384,14 @@
       "desc": "Add your competencies, see what others are adding",
       "icon": "extension",
       "accessKey": "O"
+    },
+    {
+      "path": "/app/event-hub",
+      "active": true,
+      "hubname": "Events",
+      "desc": "Add your events",
+      "icon": "event",
+      "accessKey": "O"
     }
   ],
   "featuredApps": [

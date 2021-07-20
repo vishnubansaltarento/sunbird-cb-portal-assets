@@ -18,7 +18,7 @@
                     "routerLink": "/app/home/welcome",
                     "requiredRoles": [
                         "admin",
-                        "mdo admin",
+                        "mdo_admin",
                         "wat_user"
                     ]
                 },
@@ -35,7 +35,7 @@
                     "routerLink": "/app/home/users",
                     "requiredRoles": [
                         "admin",
-                        "mdo admin"
+                        "mdo_admin"
                     ]
                 },
                 {
@@ -51,7 +51,7 @@
                     "routerLink": "/app/home/roles-access",
                     "requiredRoles": [
                         "admin",
-                        "mdo admin"
+                        "mdo_admin"
                     ]
                 },
                 {
@@ -67,7 +67,7 @@
                     "routerLink": "/app/home/approvals",
                     "requiredRoles": [
                         "admin",
-                        "mdo admin"
+                        "mdo_admin"
                     ]
                 },
                 {
@@ -95,7 +95,7 @@
                     "routerLink": "/app/home/workallocation",
                     "requiredRoles": [
                         "admin",
-                        "mdo admin",
+                        "mdo_admin",
                         "wat_user"
                     ]
                 }

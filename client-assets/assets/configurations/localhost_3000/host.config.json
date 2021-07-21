@@ -118,7 +118,7 @@
         },
         "env": "prod",
         "channel": "",
-        "batchsize": 1,
+        "batchsize": 10,
         "host": "",
         "endpoint": "/apis/protected/v8/user/telemetry",
         "apislug": "",

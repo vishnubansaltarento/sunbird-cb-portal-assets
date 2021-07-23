@@ -45,9 +45,9 @@
     },
     "roleList": {
         "admin": "Overall application admin. Can perform admin activities and also encompasses all other roles",
-        "reviewer": "Can only review contents assigned to them through authoring tool",
-        "publisher": "Can only publish contents assigned to them through authoring tool",
+        "content_reviewer": "Can only review contents assigned to them through authoring tool",
+        "content_publisher": "Can only publish contents assigned to them through authoring tool",
         "editor": "Can edit, review and publish all contents - including those created by others",
-        "content-creator": "Can create content - resources, modules, courses, programs through authoring tool"
+        "content_creator": "Can create content - resources, modules, courses, programs through authoring tool"
     }
 }

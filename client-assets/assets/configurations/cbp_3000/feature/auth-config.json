@@ -157,7 +157,7 @@
       }
     },
     {
-      "role": "reviewer",
+      "role": "content_reviewer",
       "editMeta": {
         "enableByDefault": false,
         "conditions": {
@@ -174,7 +174,7 @@
       }
     },
     {
-      "role": "publisher",
+      "role": "content_publisher",
       "editMeta": {
         "enableByDefault": false,
         "conditions": {
@@ -214,9 +214,9 @@
           "routerLink": "/author/cbp/me",
           "queryParams": "draft",
           "requiredRoles": [
-            "reviewer",
-            "content-creator",
-            "publisher",
+            "content_reviewer",
+            "content_creator",
+            "content_publisher",
             "editor",
             "admin"
           ]
@@ -238,7 +238,7 @@
             "super-admin",
             "content-admin",
             "editor",
-            "content-creator"
+            "content_creator"
           ]
         },
         {
@@ -257,10 +257,9 @@
             "super-admin",
             "content-admin",
             "editor",
-            "content-creator",
-            "reviewer",
-            "content-creator",
-            "publisher"
+            "content_creator",
+            "content_reviewer",
+            "content_publisher"
           ]
         },
         {

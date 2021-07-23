@@ -102,14 +102,14 @@
         },
         "roles": {
             "some": [
-                "content-creator",
+                "content_creator",
                 "kb-creator",
                 "channel-creator",
                 "ka-creator",
                 "editor",
                 "admin",
-                "reviewer",
-                "publisher"
+                "content_reviewer",
+                "content_publisher"
             ]
         }
     },
@@ -118,7 +118,7 @@
         "enabled": true,
         "roles": {
             "some": [
-                "content-creator",
+                "content_creator",
                 "kb-creator",
                 "channel-creator",
                 "ka-creator",
@@ -134,7 +134,7 @@
             "some": [
                 "editor",
                 "admin",
-                "reviewer"
+                "content_reviewer"
             ]
         }
     },
@@ -145,7 +145,7 @@
             "some": [
                 "editor",
                 "admin",
-                "publisher"
+                "content_publisher"
             ]
         }
     }

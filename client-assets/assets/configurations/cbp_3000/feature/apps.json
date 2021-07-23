@@ -280,7 +280,7 @@
       "permission": [
         "editor",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -302,7 +302,7 @@
       "permission": [
         "editor",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -332,7 +332,7 @@
         "author",
         "editor",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -494,7 +494,7 @@
       "permission": [
         "editor",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -516,7 +516,7 @@
       "permission": [
         "editor",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -598,13 +598,13 @@
       "name": "Contribution",
       "toolTip": "Contribution",
       "hasRole": [
-        "content-creator",
+        "content_creator",
         "channel-creator",
         "ka-creator",
         "kb-creator",
         "editor",
-        "reviewer",
-        "publisher",
+        "content_reviewer",
+        "content_publisher",
         "admin"
       ]
     },

@@ -13,7 +13,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -118,7 +118,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -159,7 +159,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -200,7 +200,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -241,7 +241,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -281,7 +281,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -321,7 +321,7 @@
       "allowedRoles": [
         "author",
         "creator",
-        "content-creator",
+        "content_creator",
         "editor",
         "admin",
         "content-admin",
@@ -640,7 +640,7 @@
       },
       "content-admin": {},
       "super-admin": {},
-      "content-creator": {
+      "content_creator": {
         "condition": {
           "status": [
             "Draft"

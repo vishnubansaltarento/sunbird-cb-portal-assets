@@ -19,13 +19,13 @@
             "icon": "/assets/icons/module.svg",
             "tag": "LC",
             "hasRole": [
-                "content-creator",
+                "content_creator",
                 "channel-creator",
                 "ka-creator",
                 "kb-creator",
                 "editor",
-                "reviewer",
-                "publisher",
+                "content_reviewer",
+                "content_publisher",
                 "admin"
             ]
         },

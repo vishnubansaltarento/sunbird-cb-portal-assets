@@ -248,7 +248,7 @@
   },
   "enabledRole": [
     "author",
-    "reviewer",
-    "publisher"
+    "content_reviewer",
+    "content_publisher"
   ]
 }

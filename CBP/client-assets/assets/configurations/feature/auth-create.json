@@ -7,7 +7,7 @@
     "contentType": "Resource",
     "mimeType": "application/html",
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -33,7 +33,7 @@
       "isExternal": false
     },
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -52,7 +52,7 @@
       "isExternal": true
     },
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -72,7 +72,7 @@
       "resourceType": "Assessment"
     },
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -91,7 +91,7 @@
 
     },
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -166,7 +166,7 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],
@@ -183,7 +183,7 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-      "content-creator",
+      "content_creator",
       "editor",
       "admin"
     ],

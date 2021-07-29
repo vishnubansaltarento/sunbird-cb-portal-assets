@@ -61,8 +61,8 @@
   ],
   "indexHtmlMeta": {
     "description": "iGOT 2.0 is a learning platform aimed at promoting capacity development among civil services. It is a solution built to be ‘fit for purpose’ to meet the exact learning needs of the civil services. iGOT 2.0 will help create impactful and relevant learning paths to achieve the outcomes relevant to their career aspirations.",
-    "webmanifest": "/assets/configurations/mdo.igot-dev.in/manifest/manifest.webmanifest",
-    "xIcon": "/assets/configurations/mdo.igot-dev.in/manifest/favicon.ico"
+    "webmanifest": "/assets/configurations/manifest/manifest.webmanifest",
+    "xIcon": "/assets/configurations/manifest/favicon.ico"
   },
   "locals": [
     {

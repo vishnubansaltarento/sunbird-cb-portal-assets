@@ -8138,7 +8138,12 @@
     },
     "disabledFor": {
       "Knowledge Artifact": [],
-      "Knowledge Board": []
+      "Knowledge Board": [],
+      "Channel": [],
+      "CourseUnit": [],
+      "Course": [],
+      "Learning Path": [],
+      "Resource": []
     },
     "mandatoryFor": {
       "Channel": [],

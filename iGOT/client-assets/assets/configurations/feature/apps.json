@@ -200,7 +200,7 @@
       "show": true,
       "status": "live",
       "toolTip": "Dashboard",
-      "url": "/app/home/directory",
+      "url": "/page/home/",
       "shortName": "Home"
     },
     "feature_badges": {
@@ -291,12 +291,12 @@
       "isExternal": "true",
       "name": "CBP",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher",
-        "content_creator",
+        "CONTENT_PUBLISHER",
+        "CONTENT_CREATOR",
         "content-creator",
-        "reviewer"
+        "CONTENT_REVIEWER"
       ],
       "show": true,
       "status": "live",
@@ -315,8 +315,8 @@
       "isExternal": "true",
       "name": "CBC",
       "permission": [
-        "cbc admin",
-        "cbc_member"
+        "CBC_ADMIN",
+        "CBC_MEMBER"
       ],
       "show": true,
       "status": "live",
@@ -336,8 +336,9 @@
       "name": "MDO",
       "permission": [
         "admin",
-        "mdo admin",
-        "wat_user"
+        "MDO_ADMIN",
+        "WAT_USER",
+        "WAT_MEMBER"
       ],
       "show": true,
       "status": "live",
@@ -357,7 +358,7 @@
       "name": "SPV",
       "permission": [
         "superAdmin",
-        "spv admin"
+        "SPV_ADMIN"
       ],
       "show": true,
       "status": "live",
@@ -558,9 +559,9 @@
       ],
       "name": "Publish",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher"
+        "CONTENT_PUBLISHER"
       ],
       "show": true,
       "status": "live",
@@ -580,9 +581,9 @@
       ],
       "name": "Review",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher"
+        "CONTENT_PUBLISHER"
       ],
       "show": true,
       "status": "live",
@@ -670,13 +671,13 @@
       "name": "Contribution",
       "toolTip": "Contribution",
       "hasRole": [
-        "content-creator",
+        "CONTENT_CREATOR",
         "channel-creator",
         "ka-creator",
         "kb-creator",
-        "editor",
-        "reviewer",
-        "publisher",
+        "EDITOR",
+        "CONTENT_REVIEWER",
+        "CONTENT_PUBLISHER",
         "admin",
         "none"
       ]
@@ -714,17 +715,17 @@
       "toolTip": "Portals",
       "hasRole": [
         "admin",
-        "editor",
-        "publisher",
-        "content_creator",
-        "content-creator",
-        "reviewer",
-        "mdo admin",
+        "EDITOR",
+        "CONTENT_PUBLISHER",
+        "CONTENT_CREATOR",
+        "CONTENT_REVIEWER",
+        "MDO_ADMIN",
         "cbp admin",
-        "spv admin",
-        "cbc admin",
-        "cbc_member",
-        "wat_user"
+        "SPV_ADMIN",
+        "CBC_ADMIN",
+        "CBC_MEMBER",
+        "WAT_USER",
+        "WAT_MEMBER"
       ]
     },
     {

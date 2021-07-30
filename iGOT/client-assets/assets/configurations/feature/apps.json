@@ -293,10 +293,10 @@
       "permission": [
         "EDITOR",
         "admin",
-        "CONTENT_PUBLISHER",
-        "CONTENT_CREATOR",
+        "content_publisher",
+        "content_creator",
         "content-creator",
-        "CONTENT_REVIEWER"
+        "content_reviewer"
       ],
       "show": true,
       "status": "live",
@@ -315,7 +315,7 @@
       "isExternal": "true",
       "name": "CBC",
       "permission": [
-        "CBC_ADMIN",
+        "cbc_admin",
         "CBC_MEMBER"
       ],
       "show": true,
@@ -336,9 +336,9 @@
       "name": "MDO",
       "permission": [
         "admin",
-        "MDO_ADMIN",
-        "WAT_USER",
-        "WAT_MEMBER"
+        "mdo_admin",
+        "wat_user",
+        "wat_member"
       ],
       "show": true,
       "status": "live",
@@ -358,7 +358,7 @@
       "name": "SPV",
       "permission": [
         "superAdmin",
-        "SPV_ADMIN"
+        "spv_admin"
       ],
       "show": true,
       "status": "live",
@@ -561,7 +561,7 @@
       "permission": [
         "EDITOR",
         "admin",
-        "CONTENT_PUBLISHER"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -583,7 +583,7 @@
       "permission": [
         "EDITOR",
         "admin",
-        "CONTENT_PUBLISHER"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -671,13 +671,13 @@
       "name": "Contribution",
       "toolTip": "Contribution",
       "hasRole": [
-        "CONTENT_CREATOR",
+        "content_creator",
         "channel-creator",
         "ka-creator",
         "kb-creator",
         "EDITOR",
-        "CONTENT_REVIEWER",
-        "CONTENT_PUBLISHER",
+        "content_reviewer",
+        "content_publisher",
         "admin",
         "none"
       ]
@@ -715,17 +715,17 @@
       "toolTip": "Portals",
       "hasRole": [
         "admin",
-        "EDITOR",
-        "CONTENT_PUBLISHER",
-        "CONTENT_CREATOR",
-        "CONTENT_REVIEWER",
-        "MDO_ADMIN",
-        "cbp admin",
-        "SPV_ADMIN",
-        "CBC_ADMIN",
-        "CBC_MEMBER",
-        "WAT_USER",
-        "WAT_MEMBER"
+        "editor",
+        "content_publisher",
+        "content_creator",
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member"
       ]
     },
     {

@@ -19,7 +19,7 @@
                     "requiredRoles": [
                         "admin",
                         "mdo_admin",
-                        "wat_user"
+                        "wat_member"
                     ]
                 },
                 {
@@ -84,7 +84,7 @@
                     "requiredRoles": [
                         "admin",
                         "mdo_admin",
-                        "wat_user"
+                        "wat_member"
                     ]
                 }
             ]

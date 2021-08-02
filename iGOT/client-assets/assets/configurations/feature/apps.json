@@ -200,7 +200,7 @@
       "show": true,
       "status": "live",
       "toolTip": "Dashboard",
-      "url": "/app/home/directory",
+      "url": "/page/home/",
       "shortName": "Home"
     },
     "feature_badges": {
@@ -291,12 +291,12 @@
       "isExternal": "true",
       "name": "CBP",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher",
+        "content_publisher",
         "content_creator",
         "content-creator",
-        "reviewer"
+        "content_reviewer"
       ],
       "show": true,
       "status": "live",
@@ -315,8 +315,8 @@
       "isExternal": "true",
       "name": "CBC",
       "permission": [
-        "cbc admin",
-        "cbc_member"
+        "cbc_admin",
+        "CBC_MEMBER"
       ],
       "show": true,
       "status": "live",
@@ -336,8 +336,9 @@
       "name": "MDO",
       "permission": [
         "admin",
-        "mdo admin",
-        "wat_user"
+        "mdo_admin",
+        "wat_user",
+        "wat_member"
       ],
       "show": true,
       "status": "live",
@@ -357,7 +358,7 @@
       "name": "SPV",
       "permission": [
         "superAdmin",
-        "spv admin"
+        "spv_admin"
       ],
       "show": true,
       "status": "live",
@@ -558,9 +559,9 @@
       ],
       "name": "Publish",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -580,9 +581,9 @@
       ],
       "name": "Review",
       "permission": [
-        "editor",
+        "EDITOR",
         "admin",
-        "publisher"
+        "content_publisher"
       ],
       "show": true,
       "status": "live",
@@ -670,13 +671,13 @@
       "name": "Contribution",
       "toolTip": "Contribution",
       "hasRole": [
-        "content-creator",
+        "content_creator",
         "channel-creator",
         "ka-creator",
         "kb-creator",
-        "editor",
-        "reviewer",
-        "publisher",
+        "EDITOR",
+        "content_reviewer",
+        "content_publisher",
         "admin",
         "none"
       ]
@@ -715,16 +716,16 @@
       "hasRole": [
         "admin",
         "editor",
-        "publisher",
+        "content_publisher",
         "content_creator",
-        "content-creator",
-        "reviewer",
-        "mdo admin",
-        "cbp admin",
-        "spv admin",
-        "cbc admin",
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
         "cbc_member",
-        "wat_user"
+        "wat_user",
+        "wat_member"
       ]
     },
     {

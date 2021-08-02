@@ -212,7 +212,7 @@
           },
           "enabled": true,
           "routerLink": "/author/cbp/me",
-          "queryParams": "draft",
+          "queryParams": "published",
           "requiredRoles": [
             "content_reviewer",
             "content_creator",

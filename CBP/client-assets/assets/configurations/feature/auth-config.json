@@ -232,7 +232,7 @@
           },
           "enabled": true,
           "routerLink": "/author/cbp/all",
-          "queryParams": "draft",
+          "queryParams": "published",
           "requiredRoles": [
             "admin",
             "super-admin",

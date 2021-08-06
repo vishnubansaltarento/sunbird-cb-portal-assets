@@ -291,7 +291,7 @@
       "isExternal": "true",
       "name": "CBP",
       "permission": [
-        "EDITOR",
+        "editor",
         "admin",
         "content_publisher",
         "content_creator",
@@ -559,7 +559,7 @@
       ],
       "name": "Publish",
       "permission": [
-        "EDITOR",
+        "editor",
         "admin",
         "content_publisher"
       ],
@@ -581,7 +581,7 @@
       ],
       "name": "Review",
       "permission": [
-        "EDITOR",
+        "editor",
         "admin",
         "content_publisher"
       ],
@@ -675,7 +675,7 @@
         "channel-creator",
         "ka-creator",
         "kb-creator",
-        "EDITOR",
+        "editor",
         "content_reviewer",
         "content_publisher",
         "admin",

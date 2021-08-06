@@ -1,12 +1,11 @@
 {
-  "name": "iGot: Learning Amplified",
+  "name": "CBC: Capacity Building Commission",
   "categories": [
     "education",
-    "books",
     "productivity",
-    "social"
+    "government"
   ],
-  "short_name": "iGot",
+  "short_name": "CBC",
   "theme_color": "#3f51b5",
   "background_color": "#3f51b5",
   "display": "standalone",

@@ -280,8 +280,8 @@
                     "filters": [],
                     "request": {
                       "api": {
-                        "path": "/apis/protected/v8/connections/v2/connections/recommended",
-                        "queryParams": {"size":50,"offset":0,"search":[{"field":"employmentDetails.departmentName","values":[""]}]}
+                        "path": "/apis/protected/v8/connections/v2/connections/recommended/userDepartment",
+                        "queryParams": ""
                       }
                     }
                   }

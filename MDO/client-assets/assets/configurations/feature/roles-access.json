@@ -70,7 +70,23 @@
                       "admin",
                       "mdo_admin"
                   ]
-              },      
+              },
+              {
+                "name": "Events",
+                "key": "events",
+                "fragment": false,
+                "render": true,
+                "badges": {
+                    "enabled": false,
+                    "uri": ""
+                },
+                "enabled": true,
+                "routerLink": "/app/events",
+                "requiredRoles": [
+                    "admin",
+                    "mdo_admin"
+                ]
+              },     
               {
                   "name": "Work allocation tool",
                   "key": "workallocation",

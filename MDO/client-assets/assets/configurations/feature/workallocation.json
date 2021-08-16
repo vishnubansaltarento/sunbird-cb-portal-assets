@@ -1,73 +1,93 @@
 {
-    "menus": {
+  "menus": {
       "widgetType": "menus",
       "widgetSubType": "leftMenu",
       "widgetData": {
-        "logo": true,
-        "menus": [
-          {
-            "name": "Home",
-            "key": "home",
-            "fragment": false,
-            "render": true,
-            "badges": {
-              "enabled": false,
-              "uri": ""
-            },
-            "enabled": true,
-            "routerLink": "/app/home/welcome"
-          },
-          {
-            "name": "Users",
-            "key": "users",
-            "fragment": false,
-            "render": true,
-            "badges": {
-              "enabled": false,
-              "uri": ""
-            },
-            "enabled": true,
-            "paramaterName": "role",
-            "routerLink": "/app/home/users",
-            "customRouting": true
-          },
-          {
-            "name": "Roles and access",
-            "key": "roles-access",
-            "fragment": false,
-            "render": true,
-            "badges": {
-                "enabled": false,
-                "uri": ""
-            },
-            "enabled": true,
-            "routerLink": "/app/home/roles-access"
-          },
-          {
-              "name": "Approvals",
-              "key": "approvals",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                  "enabled": false,
-                  "uri": ""
+          "logo": true,
+          "menus": [
+              {
+                  "name": "Home",
+                  "key": "Home",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                      "enabled": false,
+                      "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/welcome",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin",
+                      "wat_member"
+                  ]
               },
-              "enabled": true,
-              "routerLink": "/app/home/approvals"
-          },
-          {
-              "name": "Work allocation tool",
-              "key": "workallocation",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                "enabled": false,
-                "uri": ""
+              {
+                  "name": "Users",
+                  "key": "users",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                      "enabled": false,
+                      "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/users",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin"
+                  ]
               },
-              "enabled": true,
-              "routerLink": "/app/workallocation/list"
-          }
-        ]
+              {
+                  "name": "Roles and access",
+                  "key": "roles-access",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                      "enabled": false,
+                      "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/roles-access",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin"
+                  ]
+              },
+              {
+                  "name": "Approvals",
+                  "key": "approvals",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                      "enabled": false,
+                      "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/approvals",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin"
+                  ]
+              },        
+              {
+                  "name": "Work allocation tool",
+                  "key": "workallocation",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                    "enabled": false,
+                    "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/workallocation",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin",
+                      "wat_member"
+                  ]
+              }
+          ]
       }
-    }
   }
+}

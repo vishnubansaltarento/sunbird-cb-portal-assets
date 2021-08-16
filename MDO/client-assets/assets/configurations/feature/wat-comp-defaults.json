@@ -9,7 +9,7 @@
             ],
             "name": "Level 1",
             "level": "Level 1",
-            "source": "ISTM",
+            "source": "WAT",
             "status": "UNVERIFIED",
             "type": "COMPETENCY",
             "description": "Possesses basic knowledge and skills related to some elements of the competency and is able to apply them with moderate supervision"
@@ -21,7 +21,7 @@
             ],
             "name": "Level 2",
             "level": "Level 2",
-            "source": "ISTM",
+            "source": "WAT",
             "status": "UNVERIFIED",
             "type": "COMPETENCY",
             "description": "Able to demonstrate knowledge and skills related to most of the elements of the competency and apply them without need for constant supervision"
@@ -33,7 +33,7 @@
             ],
             "name": "Level 3",
             "level": "Level 3",
-            "source": "ISTM",
+            "source": "WAT",
             "status": "UNVERIFIED",
             "type": "COMPETENCY",
             "description": "Possesses strong knowledge and skills required for the competency and demonstrates an understanding of the interlinkages between competencies. Acts as an advisor on the topic, often producing manuals/notes to support colleagues. "
@@ -45,7 +45,7 @@
             ],
             "name": "Level 4",
             "level": "Level 4",
-            "source": "ISTM",
+            "source": "WAT",
             "status": "UNVERIFIED",
             "type": "COMPETENCY",
             "description": "Demonstrates excellence in all capabilities related to the competency compared to best industry benchmarks within the country. Is a person of authority on  practices and/or systems related to the competency and is widely consulted on the same."
@@ -57,7 +57,7 @@
             ],
             "name": "Level 5",
             "level": "Level 5",
-            "source": "ISTM",
+            "source": "WAT",
             "status": "UNVERIFIED",
             "type": "COMPETENCY",
             "description": "Demonstrates complete mastery of the competency and use of it in unprecedented ways. Has a fundamental, outsized impact on their field of knowledge with few other people having similar capabilities. "

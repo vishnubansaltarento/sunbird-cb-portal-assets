@@ -175,7 +175,7 @@
                 "strips": [
                   {
                     "key": "latest",
-                    "title": "Newly added programs",
+                    "title": "Programs",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",

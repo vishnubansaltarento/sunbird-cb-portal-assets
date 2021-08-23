@@ -170,7 +170,7 @@
     },
     "feature_frac": {
       "accessKey": "A",
-      "icon": "airplay",
+      "icon": "/assets/icons/FRAC_dictionaries.svg",
       "iconType": "mat-icon",
       "id": "feature_frac",
       "keywords": [

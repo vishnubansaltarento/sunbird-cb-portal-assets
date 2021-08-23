@@ -245,7 +245,7 @@
     },
     "feature_frac": {
       "accessKey": "A",
-      "icon": "airplay",
+      "icon": "/assets/icons/FRAC_dictionaries.svg",
       "iconType": "mat-icon",
       "id": "feature_frac",
       "keywords": [
@@ -260,53 +260,9 @@
       "shortName": "Frac",
       "url": "https://igot-sunbird-frac.idc.tarento.com/"      
     },
-    "feature_cbp": {
-      "accessKey": "",
-      "icon": "menu_book",
-      "iconType": "mat-icon",
-      "id": "feature_cbp",
-      "keywords": [
-        "author",
-        "authoring tool"
-      ],
-      "isExternal": "true",
-      "name": "CBP",
-      "permission": [
-        "editor",
-        "publisher",
-        "content_creator",
-        "content-creator",
-        "reviewer"
-      ],
-      "show": true,
-      "status": "live",
-      "toolTip": "Author",
-      "shortName": "Author",
-      "url": "https://igot-sunbird-cbp.idc.tarento.com/"
-    },
-    "feature_mdo": {
-      "accessKey": "",
-      "icon": "supervisor_account",
-      "iconType": "mat-icon",
-      "id": "feature_mdo",
-      "keywords": [
-        "mdo"
-      ],
-      "isExternal": "true",
-      "name": "MDO",
-      "permission": [
-        "admin",
-        "mdo admin"
-      ],
-      "show": true,
-      "status": "live",
-      "toolTip": "MDO",
-      "shortName": "MDP",
-      "url": "https://igot-sunbird-mdo.idc.tarento.com/"
-    },
     "feature_spv": {
       "accessKey": "",
-      "icon": "supervised_user_circle",
+      "icon": "/assets/icons/SPV_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_spv",
       "keywords": [
@@ -316,13 +272,13 @@
       "name": "SPV",
       "permission": [
         "superAdmin",
-        "spv admin"
+        "spv_admin"
       ],
       "show": true,
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://igot-sunbird-spv.idc.tarento.com/"
+      "url": "https://spv.igot-dev.in/"
     },
     "feature_create": {
       "accessKey": "",
@@ -632,6 +588,7 @@
       "featureIds": [
         "feature_mdo",
         "feature_cbp",
+        "feature_cbc",
         "feature_spv"
       ],
       "icon": "",
@@ -645,13 +602,16 @@
       "hasRole": [
         "admin",
         "editor",
-        "publisher",
+        "content_publisher",
         "content_creator",
-        "content-creator",
-        "reviewer",
-        "mdo admin",
-        "cbp admin",
-        "spv admin"
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member"
       ]
     },
     {

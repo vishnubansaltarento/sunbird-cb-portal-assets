@@ -482,9 +482,7 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      "Course": []
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {

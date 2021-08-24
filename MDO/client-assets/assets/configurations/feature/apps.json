@@ -306,6 +306,93 @@
       "shortName": "Author",
       "url": "/author/home"
     },
+    "feature_cbp": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBP_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbp",
+      "keywords": [
+        "author",
+        "authoring tool"
+      ],
+      "isExternal": "true",
+      "name": "CBP",
+      "permission": [
+        "editor",
+        "admin",
+        "content_publisher",
+        "content_creator",
+        "content-creator",
+        "content_reviewer"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbp.igot-dev.in/"
+    },
+    "feature_cbc": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "cbc"
+      ],
+      "isExternal": "true",
+      "name": "CBC",
+      "permission": [
+        "cbc_admin",
+        "CBC_MEMBER"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbc.igot-dev.in/"
+    },
+    "feature_mdo": {
+      "accessKey": "",
+      "icon": "/assets/icons/MDO_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_mdo",
+      "keywords": [
+        "mdo"
+      ],
+      "isExternal": "true",
+      "name": "MDO",
+      "permission": [
+        "admin",
+        "mdo_admin",
+        "wat_user",
+        "wat_member"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "MDO",
+      "shortName": "MDP",
+      "url": "https://mdo.igot-dev.in/"
+    },
+    "feature_spv": {
+      "accessKey": "",
+      "icon": "/assets/icons/SPV_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_spv",
+      "keywords": [
+        "spv"
+      ],
+      "isExternal": "true",
+      "name": "SPV",
+      "permission": [
+        "superAdmin",
+        "spv_admin"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "SPV",
+      "shortName": "SPV",
+      "url": "https://spv.igot-dev.in/"
+    },
     "feature_create": {
       "accessKey": "",
       "icon": "create",
@@ -562,27 +649,6 @@
       "toolTip": "Search",
       "url": "/app/search/home",
       "shortName": "Search"
-    },
-    "feature_settings": {
-      "accessKey": "I",
-      "icon": "settings",
-      "iconType": "mat-icon",
-      "id": "feature_settings",
-      "keywords": [
-        "settings",
-        "adjustments",
-        "environments",
-        "setup"
-      ],
-      "name": "Settings",
-      "permission": [
-        "SETTINGS"
-      ],
-      "show": true,
-      "status": "live",
-      "toolTip": "Settings",
-      "url": "/app/profile/settings",
-      "shortName": "Settings"
     }
   },
   "groups": [
@@ -673,18 +739,21 @@
     },
     {
       "featureIds": [
-        "feature_settings"
+        "feature_cbp",
+        "feature_cbc"
       ],
       "icon": "",
       "iconType": "none",
-      "id": "group_account",
+      "id": "portal_admin",
       "keywords": [
-        "settings"
+        "admin"
       ],
-      "name": "Settings",
-      "toolTip": "Settings",
-      "hasRole": []
+      "name": "Portals",
+      "toolTip": "Portals",
+      "hasRole": [
+        "mdo_admin",
+        "wat_member"
+      ]
     }
-  ],
-  "roles": []
+  ]
 }

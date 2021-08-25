@@ -260,6 +260,51 @@
       "shortName": "Frac",
       "url": "https://igot-sunbird-frac.idc.tarento.com/"      
     },
+    "feature_cbp": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBP_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbp",
+      "keywords": [
+        "author",
+        "authoring tool"
+      ],
+      "isExternal": "true",
+      "name": "CBP",
+      "permission": [
+        "editor",
+        "admin",
+        "content_publisher",
+        "content_creator",
+        "content-creator",
+        "content_reviewer"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbp.igot-dev.in/"
+    },
+    "feature_cbc": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "cbc"
+      ],
+      "isExternal": "true",
+      "name": "CBC",
+      "permission": [
+        "cbc_admin",
+        "CBC_MEMBER"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbc.igot-dev.in/"
+    },
     "feature_spv": {
       "accessKey": "",
       "icon": "/assets/icons/SPV_portal.svg",
@@ -588,8 +633,7 @@
       "featureIds": [
         "feature_mdo",
         "feature_cbp",
-        "feature_cbc",
-        "feature_spv"
+        "feature_cbc"
       ],
       "icon": "",
       "iconType": "none",

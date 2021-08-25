@@ -740,7 +740,8 @@
     {
       "featureIds": [
         "feature_cbp",
-        "feature_cbc"
+        "feature_cbc",
+        "feature_spv"
       ],
       "icon": "",
       "iconType": "none",
@@ -751,7 +752,17 @@
       "name": "Portals",
       "toolTip": "Portals",
       "hasRole": [
+        "admin",
+        "editor",
+        "content_publisher",
+        "content_creator",
+        "content_reviewer",
         "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
         "wat_member"
       ]
     }

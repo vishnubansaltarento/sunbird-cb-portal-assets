@@ -373,6 +373,24 @@
       "toolTip": "SPV",
       "shortName": "SPV",
       "url": "https://spv.igot-dev.in/"
+    }, "feature_igot": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "igot"
+      ],
+      "isExternal": "true",
+      "name": "iGOT",
+      "permission": [
+        "public"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://igot-dev.in/"
     },
     "feature_create": {
       "accessKey": "",
@@ -751,6 +769,37 @@
       "name": "Settings",
       "toolTip": "Settings",
       "hasRole": []
+    },
+    {
+      "featureIds": [
+        "feature_mdo",
+        "feature_cbp",
+        "feature_spv",
+        "feature_igot"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_admin",
+      "keywords": [
+        "admin"
+      ],
+      "name": "Portals",
+      "toolTip": "Portals",
+      "hasRole": [
+        "admin",
+        "editor",
+        "content_publisher",
+        "content_creator",
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member",
+        "public"
+      ]
     }
     
   ]

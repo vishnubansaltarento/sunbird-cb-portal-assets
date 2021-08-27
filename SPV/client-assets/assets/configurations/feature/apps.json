@@ -570,6 +570,25 @@
       "toolTip": "Settings",
       "url": "/app/profile/settings",
       "shortName": "Settings"
+    },
+    "feature_igot": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "igot"
+      ],
+      "isExternal": "true",
+      "name": "iGOT",
+      "permission": [
+        "public"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://igot-dev.in/"
     }
   },
   "groups": [
@@ -613,6 +632,7 @@
       "toolTip": "Contribution",
       "hasRole": ["none"]
     },
+
     {
       "featureIds": [
         "feature_admin"
@@ -655,7 +675,8 @@
         "cbc_admin",
         "cbc_member",
         "wat_user",
-        "wat_member"
+        "wat_member",
+        "public"
       ]
     },
     {

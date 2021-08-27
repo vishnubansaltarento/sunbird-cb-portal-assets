@@ -324,6 +324,7 @@
       "shortName": "Author",
       "url": "https://cbc.igot-dev.in/"
     },
+   
     "feature_mdo": {
       "accessKey": "",
       "icon": "/assets/icons/MDO_portal.svg",
@@ -703,7 +704,8 @@
         "feature_mdo",
         "feature_cbp",
         "feature_spv",
-        "feature_cbc"
+        "feature_cbc",
+        "feature_igot"
       ],
       "icon": "",
       "iconType": "none",

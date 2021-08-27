@@ -393,6 +393,25 @@
       "shortName": "SPV",
       "url": "https://spv.igot-dev.in/"
     },
+    "feature_igot": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "igot"
+      ],
+      "isExternal": "true",
+      "name": "iGOT",
+      "permission": [
+        "public"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://igot-dev.in/"
+    },
     "feature_create": {
       "accessKey": "",
       "icon": "create",
@@ -741,7 +760,8 @@
       "featureIds": [
         "feature_cbp",
         "feature_cbc",
-        "feature_spv"
+        "feature_spv",
+        "feature_igot"
       ],
       "icon": "",
       "iconType": "none",
@@ -763,7 +783,8 @@
         "cbc_admin",
         "cbc_member",
         "wat_user",
-        "wat_member"
+        "wat_member",
+        "public"
       ]
     }
   ]

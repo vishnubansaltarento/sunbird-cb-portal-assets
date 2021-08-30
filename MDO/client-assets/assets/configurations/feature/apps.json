@@ -178,7 +178,6 @@
       ],
       "name": "Frac",
       "permission": [
-        "admin"
       ],
       "show": true,
       "status": "live",
@@ -402,7 +401,7 @@
         "igot"
       ],
       "isExternal": "true",
-      "name": "iGOT",
+      "name": "Karmayogi",
       "permission": [
         "public"
       ],
@@ -754,6 +753,20 @@
       ],
       "name": "Info Hub",
       "toolTip": "Information Hub",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
       "hasRole": []
     },
     {

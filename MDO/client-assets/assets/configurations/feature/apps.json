@@ -182,7 +182,7 @@
       "show": true,
       "status": "live",
       "toolTip": "Frac",
-      "url": "/app/frac",
+      "url": "https://frac-dictionary.igot-dev.in/",
       "shortName": "Frac"
     },
     "feature_goals": {

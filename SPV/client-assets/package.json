@@ -15,7 +15,9 @@
   "author": "Shubham Dhingra",
   "license": "ISC",
   "dependencies": {
-    "jslint": "^0.12.1"
+    "jslint": "^0.12.1",
+    "moment": "^2.29.1",
+    "vis-util": "^5.0.2"
   },
   "devDependencies": {
     "del": "^5.1.0",

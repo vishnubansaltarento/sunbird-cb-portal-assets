@@ -245,7 +245,7 @@
     },
     "feature_frac": {
       "accessKey": "A",
-      "icon": "airplay",
+      "icon": "/assets/icons/FRAC_dictionaries.svg",
       "iconType": "mat-icon",
       "id": "feature_frac",
       "keywords": [
@@ -258,11 +258,11 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://igot-sunbird-frac.idc.tarento.com/"      
+      "url": "https://frac-dictionary.igot-dev.in/"      
     },
     "feature_cbp": {
       "accessKey": "",
-      "icon": "menu_book",
+      "icon": "/assets/icons/CBP_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_cbp",
       "keywords": [
@@ -273,40 +273,41 @@
       "name": "CBP",
       "permission": [
         "editor",
-        "publisher",
+        "admin",
+        "content_publisher",
         "content_creator",
         "content-creator",
-        "reviewer"
+        "content_reviewer"
       ],
       "show": true,
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://igot-sunbird-cbp.idc.tarento.com/"
+      "url": "https://cbp.igot-dev.in/"
     },
-    "feature_mdo": {
+    "feature_cbc": {
       "accessKey": "",
-      "icon": "supervisor_account",
+      "icon": "/assets/icons/CBC_portal.svg",
       "iconType": "mat-icon",
-      "id": "feature_mdo",
+      "id": "feature_cbc",
       "keywords": [
-        "mdo"
+        "cbc"
       ],
       "isExternal": "true",
-      "name": "MDO",
+      "name": "CBC",
       "permission": [
-        "admin",
-        "mdo admin"
+        "cbc_admin",
+        "CBC_MEMBER"
       ],
       "show": true,
       "status": "live",
-      "toolTip": "MDO",
-      "shortName": "MDP",
-      "url": "https://igot-sunbird-mdo.idc.tarento.com/"
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://cbc.igot-dev.in/"
     },
     "feature_spv": {
       "accessKey": "",
-      "icon": "supervised_user_circle",
+      "icon": "/assets/icons/SPV_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_spv",
       "keywords": [
@@ -316,13 +317,13 @@
       "name": "SPV",
       "permission": [
         "superAdmin",
-        "spv admin"
+        "spv_admin"
       ],
       "show": true,
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://igot-sunbird-spv.idc.tarento.com/"
+      "url": "https://spv.igot-dev.in/"
     },
     "feature_create": {
       "accessKey": "",
@@ -569,6 +570,25 @@
       "toolTip": "Settings",
       "url": "/app/profile/settings",
       "shortName": "Settings"
+    },
+    "feature_igot": {
+      "accessKey": "",
+      "icon": "/assets/icons/CBC_portal.svg",
+      "iconType": "mat-icon",
+      "id": "feature_cbc",
+      "keywords": [
+        "igot"
+      ],
+      "isExternal": "true",
+      "name": "Karmayogi",
+      "permission": [
+        "public"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Author",
+      "shortName": "Author",
+      "url": "https://igot-dev.in/"
     }
   },
   "groups": [
@@ -612,6 +632,7 @@
       "toolTip": "Contribution",
       "hasRole": ["none"]
     },
+
     {
       "featureIds": [
         "feature_admin"
@@ -632,7 +653,7 @@
       "featureIds": [
         "feature_mdo",
         "feature_cbp",
-        "feature_spv"
+        "feature_cbc"
       ],
       "icon": "",
       "iconType": "none",
@@ -645,13 +666,17 @@
       "hasRole": [
         "admin",
         "editor",
-        "publisher",
+        "content_publisher",
         "content_creator",
-        "content-creator",
-        "reviewer",
-        "mdo admin",
-        "cbp admin",
-        "spv admin"
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member",
+        "public"
       ]
     },
     {

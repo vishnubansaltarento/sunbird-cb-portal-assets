@@ -708,17 +708,9 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": [
-        "content-creator",
-        "channel-creator",
-        "ka-creator",
-        "kb-creator",
-        "editor",
-        "reviewer",
-        "publisher",
-        "admin"
-      ]
+      "hasRole": ["none"]
     },
+
     {
       "featureIds": [
         "feature_admin"
@@ -737,44 +729,9 @@
     },
     {
       "featureIds": [
-        "feature_aboutUs",
-        "feature_learningAnalytics",
-        "feature_mobileApps",
-        "feature_Terms&Condition",
-        "feature_quickTour"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "group_information",
-      "keywords": [
-        "info",
-        "information hub",
-        "info hub"
-      ],
-      "name": "Info Hub",
-      "toolTip": "Information Hub",
-      "hasRole": []
-    },
-    {
-      "featureIds": [
-        "feature_frac"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac Tool",
-      "toolTip": "Frac",
-      "hasRole": []
-    },
-    {
-      "featureIds": [
-        "feature_cbp",
-        "feature_cbc",
         "feature_spv",
-        "feature_igot"
+        "feature_cbp",
+        "feature_cbc"
       ],
       "icon": "",
       "iconType": "none",
@@ -799,6 +756,52 @@
         "wat_member",
         "public"
       ]
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
+        "feature_aboutUs",
+        "feature_mobileApps",
+        "feature_quickTour"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "group_information",
+      "keywords": [
+        "info",
+        "information hub",
+        "info hub"
+      ],
+      "name": "Info Hub",
+      "toolTip": "Information Hub",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
+        "feature_settings"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "group_account",
+      "keywords": [
+        "settings"
+      ],
+      "name": "Settings",
+      "toolTip": "Settings",
+      "hasRole": []
     }
   ]
 }

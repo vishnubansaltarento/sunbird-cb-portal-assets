@@ -573,14 +573,14 @@
     },
     "feature_igot": {
       "accessKey": "",
-      "icon": "/assets/icons/CBC_portal.svg",
+      "icon": "/assets/icons/Karmayogi_portal.svg",
       "iconType": "mat-icon",
       "id": "feature_cbc",
       "keywords": [
         "igot"
       ],
       "isExternal": "true",
-      "name": "Karmayogi",
+      "name": "Karmayogi user portal",
       "permission": [
         "public"
       ],

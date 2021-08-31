@@ -178,12 +178,11 @@
       ],
       "name": "Frac",
       "permission": [
-        "admin"
       ],
       "show": true,
       "status": "live",
       "toolTip": "Frac",
-      "url": "/app/frac",
+      "url": "https://frac-dictionary.igot-dev.in/",
       "shortName": "Frac"
     },
     "feature_goals": {
@@ -382,7 +381,7 @@
         "igot"
       ],
       "isExternal": "true",
-      "name": "iGOT",
+      "name": "Karmayogi",
       "permission": [
         "public"
       ],
@@ -768,6 +767,20 @@
       ],
       "name": "Settings",
       "toolTip": "Settings",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
       "hasRole": []
     },
     {

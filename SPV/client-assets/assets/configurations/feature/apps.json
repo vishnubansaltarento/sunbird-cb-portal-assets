@@ -258,7 +258,7 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://igot-sunbird-frac.idc.tarento.com/"      
+      "url": "https://frac-dictionary.igot-dev.in/"      
     },
     "feature_cbp": {
       "accessKey": "",
@@ -580,7 +580,7 @@
         "igot"
       ],
       "isExternal": "true",
-      "name": "iGOT",
+      "name": "Karmayogi",
       "permission": [
         "public"
       ],

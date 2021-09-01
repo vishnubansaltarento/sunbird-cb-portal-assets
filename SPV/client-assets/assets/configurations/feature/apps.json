@@ -575,7 +575,7 @@
       "accessKey": "",
       "icon": "/assets/icons/Karmayogi_portal.svg",
       "iconType": "mat-icon",
-      "id": "feature_cbc",
+      "id": "feature_igot",
       "keywords": [
         "igot"
       ],
@@ -653,7 +653,8 @@
       "featureIds": [
         "feature_mdo",
         "feature_cbp",
-        "feature_cbc"
+        "feature_cbc",
+        "feature_igot"
       ],
       "icon": "",
       "iconType": "none",

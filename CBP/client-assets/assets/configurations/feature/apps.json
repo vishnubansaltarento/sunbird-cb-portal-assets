@@ -732,7 +732,8 @@
       "featureIds": [
         "feature_mdo",
         "feature_spv",
-        "feature_cbc"
+        "feature_cbc",
+        "feature_igot"
       ],
       "icon": "",
       "iconType": "none",

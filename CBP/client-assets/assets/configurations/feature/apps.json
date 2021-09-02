@@ -168,23 +168,6 @@
       "url": "/author/cbp/me",
       "shortName": "Home"
     },
-    "feature_frac": {
-      "accessKey": "A",
-      "icon": "/assets/icons/FRAC_dictionaries.svg",
-      "iconType": "mat-icon",
-      "id": "feature_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac",
-      "permission": [
-      ],
-      "show": true,
-      "status": "live",
-      "toolTip": "Frac",
-      "url": "https://frac-dictionary.igot-dev.in/",
-      "shortName": "Frac"
-    },
     "feature_goals": {
       "accessKey": "",
       "icon": "track_changes",
@@ -391,6 +374,23 @@
       "toolTip": "Author",
       "shortName": "Author",
       "url": "https://igot-dev.in/"
+    },
+    "feature_frac": {
+      "accessKey": "A",
+      "icon": "/assets/icons/FRAC_dictionaries.svg",
+      "iconType": "mat-icon",
+      "id": "feature_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac",
+      "permission": [
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Frac",
+      "url": "https://frac-dictionary.igot-dev.in/",
+      "shortName": "Frac"
     },
     "feature_create": {
       "accessKey": "",

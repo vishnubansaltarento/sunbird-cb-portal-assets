@@ -374,14 +374,14 @@
       "url": "https://spv.igot-dev.in/"
     }, "feature_igot": {
       "accessKey": "",
-      "icon": "/assets/icons/CBC_portal.svg",
+      "icon": "/assets/icons/Karmayogi_portal.svg",
       "iconType": "mat-icon",
-      "id": "feature_cbc",
+      "id": "feature_igot",
       "keywords": [
         "igot"
       ],
       "isExternal": "true",
-      "name": "Karmayogi",
+      "name": "Karmayogi user",
       "permission": [
         "public"
       ],
@@ -708,17 +708,9 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": [
-        "content-creator",
-        "channel-creator",
-        "ka-creator",
-        "kb-creator",
-        "editor",
-        "reviewer",
-        "publisher",
-        "admin"
-      ]
+      "hasRole": ["none"]
     },
+
     {
       "featureIds": [
         "feature_admin"
@@ -737,10 +729,53 @@
     },
     {
       "featureIds": [
+        "feature_mdo",
+        "feature_cbp",
+        "feature_spv",
+        "feature_igot"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_admin",
+      "keywords": [
+        "admin"
+      ],
+      "name": "Portals",
+      "toolTip": "Portals",
+      "hasRole": [
+        "admin",
+        "editor",
+        "content_publisher",
+        "content_creator",
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member",
+        "public"
+      ]
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
         "feature_aboutUs",
-        "feature_learningAnalytics",
         "feature_mobileApps",
-        "feature_Terms&Condition",
         "feature_quickTour"
       ],
       "icon": "",

@@ -358,14 +358,14 @@
     },
     "feature_igot": {
       "accessKey": "",
-      "icon": "/assets/icons/CBC_portal.svg",
+      "icon": "/assets/icons/Karmayogi_portal.svg",
       "iconType": "mat-icon",
-      "id": "feature_cbc",
+      "id": "feature_igot",
       "keywords": [
         "igot"
       ],
       "isExternal": "true",
-      "name": "Karmayogi",
+      "name": "Karmayogi user",
       "permission": [
         "public"
       ],
@@ -673,8 +673,14 @@
   "groups": [
     {
       "featureIds": [
+        "feature_feedback",
         "feature_badges",
-        "feature_notification"
+        "feature_notification",
+        "feature_goals",
+        "feature_interests",
+        "feature_playlist",
+        "feature_profile",
+        "feature_profile_update"
       ],
       "icon": "",
       "iconType": "none",
@@ -690,6 +696,8 @@
     },
     {
       "featureIds": [
+        "feature_authoring",
+        "feature_create",
         "feature_publish",
         "feature_review"
       ],
@@ -701,22 +709,74 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
+      "hasRole": ["none"]
+    },
+
+    {
+      "featureIds": [
+        "feature_admin"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "group_admin",
+      "keywords": [
+        "admin"
+      ],
+      "name": "Admin",
+      "toolTip": "Admin",
       "hasRole": [
-        "content_creator",
-        "channel-creator",
-        "ka-creator",
-        "kb-creator",
-        "editor",
-        "content_reviewer",
-        "content_publisher",
         "admin"
       ]
     },
     {
       "featureIds": [
+        "feature_mdo",
+        "feature_spv",
+        "feature_cbc",
+        "feature_igot"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_admin",
+      "keywords": [
+        "admin"
+      ],
+      "name": "Portals",
+      "toolTip": "Portals",
+      "hasRole": [
+        "admin",
+        "editor",
+        "content_publisher",
+        "content_creator",
+        "content_reviewer",
+        "mdo_admin",
+        "cbp_admin",
+        "spv_admin",
+        "cbc_admin",
+        "cbc_member",
+        "wat_user",
+        "wat_member",
+        "public"
+      ]
+    },
+    {
+      "featureIds": [
+        "feature_frac"
+      ],
+      "icon": "",
+      "iconType": "none",
+      "id": "portal_frac",
+      "keywords": [
+        "frac"
+      ],
+      "name": "Frac Tool",
+      "toolTip": "Frac",
+      "hasRole": []
+    },
+    {
+      "featureIds": [
         "feature_aboutUs",
         "feature_mobileApps",
-        "feature_Terms&Condition",
         "feature_quickTour"
       ],
       "icon": "",
@@ -744,49 +804,6 @@
       "name": "Settings",
       "toolTip": "Settings",
       "hasRole": []
-    }, {
-      "featureIds": [
-        "feature_frac"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac Tool",
-      "toolTip": "Frac",
-      "hasRole": []
-    }, {
-      "featureIds": [
-        "feature_mdo",
-        "feature_cbc",
-        "feature_spv",
-        "feature_igot"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_admin",
-      "keywords": [
-        "admin"
-      ],
-      "name": "Portals",
-      "toolTip": "Portals",
-      "hasRole": [
-        "admin",
-        "editor",
-        "content_publisher",
-        "content_creator",
-        "content_reviewer",
-        "mdo_admin",
-        "cbp_admin",
-        "spv_admin",
-        "cbc_admin",
-        "cbc_member",
-        "wat_user",
-        "wat_member",
-        "public"
-      ]
     }
   ]
 }

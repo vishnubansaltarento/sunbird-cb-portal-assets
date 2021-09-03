@@ -33,7 +33,7 @@
                 "enabled": true,
                 "uri": ""
             },
-            "enabled": true,
+            "enabled": false,
             "routerLink": "/app/competencies/desired"
         }
     ],

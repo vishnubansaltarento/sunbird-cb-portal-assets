@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Illustrations/Web/Empty/search</title>
+    <defs>
+        <circle id="path-1" cx="32" cy="32" r="4"></circle>
+        <filter x="-312.5%" y="-287.5%" width="725.0%" height="725.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.941176471   0 0 0 0 0.933333333  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Illustrations/Web/Empty/search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="200" height="150"></rect>
+        <g id="Group-3" transform="translate(22.040449, 19.040449)">
+            <g id="Group-10" transform="translate(41.959551, 41.959551) rotate(-23.000000) translate(-41.959551, -41.959551) translate(9.959551, 9.959551)">
+                <rect id="Rectangle" fill="#C8C8C8" x="0" y="0" width="64" height="64" rx="8"></rect>
+                <g id="Oval-Copy-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#EFEFEF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Group-7" transform="translate(116.959551, 72.959551) rotate(-256.000000) translate(-116.959551, -72.959551) translate(84.959551, 40.959551)">
+                <rect id="Rectangle-Copy" fill="#DEDEDF" fill-rule="nonzero" x="0" y="0" width="64" height="64" rx="8"></rect>
+                <g id="Group" transform="translate(32.000000, 32.138442) rotate(-45.000000) translate(-32.000000, -32.138442) translate(12.000000, 28.000000)" fill="#FBFBFB">
+                    <circle id="Oval" cx="4" cy="4.27688384" r="4"></circle>
+                    <circle id="Oval-Copy" cx="20" cy="4.13844192" r="4"></circle>
+                    <circle id="Oval-Copy-2" cx="36" cy="4" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

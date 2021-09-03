@@ -85,7 +85,7 @@
                         "admin",
                         "mdo_admin"
                     ]
-                },        
+                },    
                 {
                     "name": "Work allocation tool",
                     "key": "workallocation",

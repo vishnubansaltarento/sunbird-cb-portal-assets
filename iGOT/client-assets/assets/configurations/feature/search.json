@@ -71,20 +71,33 @@
       {
         "values": [
           {
-            "name": "learning resource",
+            "name": "program",
             "count": 0
           },
           {
             "name": "course",
             "count": 0
+          },
+          {
+            "name": "learning resource",
+            "count": 0
           }
         ],
-        "name": "primaryCategory"
+        "name": "primaryCategory",
+        "displayname": "Content type"
       },
       {
         "values": [
           {
             "name": "application/vnd.ekstep.html-archive",
+            "count": 0
+          },
+          {
+            "name": "image/png",
+            "count": 0
+          },
+          {
+            "name": "text/x-url",
             "count": 0
           },
           {
@@ -96,15 +109,37 @@
             "count": 0
           },
           {
+            "name": "image/jpeg",
+            "count": 0
+          },
+          {
             "name": "application/vnd.ekstep.content-collection",
+            "count": 0
+          },
+          {
+            "name": "application/vnd.ekstep.ecml-archive",
+            "count": 0
+          },
+          {
+            "name": "video/x-youtube",
             "count": 0
           },
           {
             "name": "video/mp4",
             "count": 0
+          },
+          {
+            "name": "audio/mpeg",
+            "count": 0
           }
         ],
-        "name": "mimeType"
+        "name": "mimeType",
+        "displayname": "Resource type"
+      },
+      {
+        "values": [],
+        "name": "source",
+        "displayname": "Providers"
       }
     ]
   }

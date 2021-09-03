@@ -176,8 +176,8 @@
     "id": "course",
     "isCollection": true,
     "name": "Course",
-    "description": "Create a collection of Modules",
-    "icon": "call_to_action",
+    "description": "Create a collection of module and resources.",
+    "icon": "video_library",
     "contentType": "Course",
     "available": true,
     "enabled": true,
@@ -193,13 +193,42 @@
     "id": "learningPath",
     "isCollection": true,
     "name": "Program",
-    "description": "Create a collection of Courses",
-    "icon": "call_to_action",
+    "description": "Create a collection of Courses.",
+    "icon": "library_books",
     "contentType": "Learning Path",
     "available": true,
     "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-    ]
+    ],
+    "primaryCategory": "Learning Path"
+  },
+  {
+    "id": "trainingPath",
+    "isCollection": true,
+    "name": "Training",
+    "description": "Create workshops and trainings.",
+    "icon": "local_library",
+    "contentType": "Training Path",
+    "available": true,
+    "enabled": false,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+    ],
+    "primaryCategory": "Training Path"
+  },
+  {
+    "id": "bitesPath",
+    "isCollection": true,
+    "name": "Bites",
+    "description": "Create quick micro content.",
+    "icon": "view_carousel",
+    "contentType": "Bites Path",
+    "available": true,
+    "enabled": false,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+    ],
+    "primaryCategory": "Bites Path"
   }
 ]

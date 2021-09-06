@@ -242,7 +242,7 @@
       "show": true,
       "status": "live",
       "toolTip": "Explore",
-      "url": "/page/explore",
+      "url": "/page/learn",
       "shortName": "Explore"
     },
     "feature_authoring": {

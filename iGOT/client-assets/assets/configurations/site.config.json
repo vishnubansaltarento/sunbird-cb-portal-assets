@@ -394,14 +394,7 @@
       "accessKey": "E"
     }
   ],
-  "featuredApps": [
-    "feature_playlist",
-    "feature_goals",
-    "feature_blogs",
-    "feature_Q&A",
-    "feature_create_konnect",
-    "feature_konnect"
-  ],
+  "featuredApps": [],
   "intranetIframeUrls": [],
   "introVideo": {
     "en": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4"

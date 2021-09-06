@@ -269,9 +269,9 @@
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
             "widgetData": {
-              "disableViewProfile" : true,
-              "disableAllFeatures" : true,
-              "disableSettings" : true
+              "disableViewProfile": true,
+              "disableAllFeatures": true,
+              "disableSettings": true
             },
             "hideTitle": true
           }
@@ -407,15 +407,14 @@
     "en": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4"
   },
   "tourVideo": {
-    "en": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4"
+    "en": "/assets/common/user-manual/video-guide.mp4"
   },
-  "portalUrls":{
-    "igot":"https://igot-dev.in/",
-    "spv":"https://spv.igot-dev.in/",
-    "mdo":"https://mdo.igot-dev.in/",
-    "cbc":"https://cbc.igot-dev.in/",
-    "cbp":"https://cbp.igot-dev.in/",
-    "frac":"https://frac-dictionary.igot-dev.in/"
-    
+  "portalUrls": {
+    "igot": "https://igot-dev.in/",
+    "spv": "https://spv.igot-dev.in/",
+    "mdo": "https://mdo.igot-dev.in/",
+    "cbc": "https://cbc.igot-dev.in/",
+    "cbp": "https://cbp.igot-dev.in/",
+    "frac": "https://frac-dictionary.igot-dev.in/"
   }
 }

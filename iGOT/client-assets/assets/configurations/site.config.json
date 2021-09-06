@@ -408,5 +408,14 @@
   },
   "tourVideo": {
     "en": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4"
+  },
+  "portalUrls":{
+    "igot":"https://igot-dev.in/",
+    "spv":"https://spv.igot-dev.in/",
+    "mdo":"https://mdo.igot-dev.in/",
+    "cbc":"https://cbc.igot-dev.in/",
+    "cbp":"https://cbp.igot-dev.in/",
+    "frac":"https://frac-dictionary.igot-dev.in/"
+    
   }
 }

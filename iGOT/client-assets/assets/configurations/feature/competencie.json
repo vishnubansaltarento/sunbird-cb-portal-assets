@@ -1,28 +1,40 @@
 {
     "tabs": [
         {
-            "name": "Tab 1",
-            "key": "tab1",
+            "name": "Your competencies",
+            "key": "YourCompetencies",
             "dataKey": "",
             "render": true,
             "badges": {
-                "enabled": false,
+                "enabled": true,
                 "uri": ""
             },
             "enabled": true,
-            "routerLink": "."
+            "routerLink": "/app/competencies/home"
         },
         {
-            "name": "Tab 2",
-            "key": "tab2",
+            "name": "All competencies",
+            "key": "AllCompetencies",
             "dataKey": "",
             "render": true,
             "badges": {
-                "enabled": false,
+                "enabled": true,
                 "uri": ""
             },
             "enabled": true,
-            "routerLink": "."
+            "routerLink": "/app/competencies/all"
+        },
+        {
+            "name": "Desired competencies",
+            "key": "DesiredCompetencies",
+            "dataKey": "",
+            "render": true,
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": false,
+            "routerLink": "/app/competencies/desired"
         }
     ],
     "banner": {

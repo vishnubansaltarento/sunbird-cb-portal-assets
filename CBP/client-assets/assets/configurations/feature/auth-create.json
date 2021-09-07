@@ -195,13 +195,16 @@
     "name": "Program",
     "description": "Create a collection of Courses.",
     "icon": "library_books",
-    "contentType": "Learning Path",
+    "contentType": "Course",
     "available": true,
-    "enabled": false,
+    "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
+      "content_creator",
+      "editor",
+      "admin"
     ],
-    "primaryCategory": "Learning Path"
+    "primaryCategory": "Program"
   },
   {
     "id": "trainingPath",

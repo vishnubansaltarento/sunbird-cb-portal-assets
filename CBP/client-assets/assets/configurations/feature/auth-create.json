@@ -197,7 +197,7 @@
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
-    "enabled": true,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",

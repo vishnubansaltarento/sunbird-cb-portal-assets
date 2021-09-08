@@ -483,7 +483,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},

@@ -483,6 +483,108 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
+    "notShowFor": {
+      "Course": [],
+      "Resource": [],
+      "Channel": [],
+      "CourseUnit": [],
+      "Knowledge Artifact": [],
+      "Knowledge Board": [],
+      "Learning Path": []
+    },
+    "showFor": {
+      "Course": []
+    },
+    "type": "array"
+  },
+  "competencies_v3": {
+    "defaultValue": {
+      "Channel": [
+        {
+          "condition": {
+            "contentType": [
+              "Channel"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Collection": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "CourseUnit": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseUnit"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Knowledge Artifact": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Artifact"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Knowledge Board": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Board"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Learning Path": [
+        {
+          "condition": {
+            "contentType": [
+              "Learning Path"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ]
+          },
+          "value": []
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {
       "Course": []
     },
     "notDisabledFor": {},

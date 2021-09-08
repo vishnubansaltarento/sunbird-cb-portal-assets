@@ -213,7 +213,7 @@
         ]
       }
     },
-    "Learning Path": {
+    "Program": {
       "minChildren": 1,
       "maxChildren": 0,
       "childTypes": [
@@ -232,7 +232,7 @@
           "maximum": 0
         }
       ],
-      "allowCreation": false,
+      "allowCreation": true,
       "allowedCreationType": [
         "course"
       ],

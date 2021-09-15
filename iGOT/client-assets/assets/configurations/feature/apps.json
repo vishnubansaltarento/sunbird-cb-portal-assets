@@ -203,6 +203,24 @@
       "url": "/page/home/",
       "shortName": "Home"
     },
+    "feature_mydashboard": {
+      "accessKey": "",
+      "icon": "bar_chart",
+      "iconType": "mat-icon",
+      "id": "feature_mydashboard",
+      "keywords": [
+        "dashboard"
+      ],
+      "name": "My Dashboard",
+      "permission": [
+        "ABOUT_US"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "My Dashboard",
+      "url": "/app/my-dashboard",
+      "shortName": "MyDashboard"
+    },
     "feature_badges": {
       "accessKey": "",
       "icon": "stars",

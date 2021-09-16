@@ -264,6 +264,19 @@
           }
         },
         {
+          "type": "featureButton",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "My Dashboard",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_mydashboard",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "widgetButton",
           "config": {
             "widgetType": "actionButton",

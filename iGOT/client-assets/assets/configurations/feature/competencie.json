@@ -62,9 +62,9 @@
       "widgetData": {
         "strips": [
           {
-            "key": "continueLearning",
-            "title": "Continue Learning",
-            "titleDescription": "Continue Learning",
+            "key": "relatedCBP",
+            "title": "Related CBP's",
+            "titleDescription": "Related CBPs",
             "info": {
               "mode": "below",
               "visibilityMode": "hidden",
@@ -94,7 +94,6 @@
             },
             "filters": [],
             "request": {
-
               "comprelatedCbp": {
                 "path": "/apis/proxies/v8/sunbirdigot/search",
                 "queryParams": {

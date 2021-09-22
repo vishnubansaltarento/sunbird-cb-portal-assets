@@ -88,9 +88,7 @@
     "enabled": false,
     "contentType": "Resource",
     "mimeType": "application/web-module",
-    "additionalMeta": {
-
-    },
+    "additionalMeta": {},
     "hasRole": [
       "content_creator",
       "editor",
@@ -107,8 +105,7 @@
     "enabled": false,
     "contentType": "Resource",
     "mimeType": "application/html",
-    "hasRole": [
-    ]
+    "hasRole": []
   },
   {
     "id": "channel",
@@ -188,7 +185,26 @@
       "editor",
       "admin"
     ],
-    "primaryCategory": "Course"
+    "primaryCategory": "Course",
+    "details": {
+      "title": "Welcome to content curation.",
+      "createTitle": "Course information",
+      "subTitle": "A few key suggestions for creating a robust course for your learners,",
+      "points": [
+        {
+          "icon": "error_outline",
+          "text": "Whenever possible try to create a module, which is a collection of resources, this helps to streamline the learning process."
+        },
+        {
+          "icon": "error_outline",
+          "text": "Please provide hi-res images whenever possible."
+        },
+        {
+          "icon": "error_outline",
+          "text": "Whenever possible please provide an introduction and conclusion for the course."
+        }
+      ]
+    }
   },
   {
     "id": "learningPath",
@@ -198,14 +214,20 @@
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
-    "enabled": true,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",
       "editor",
       "admin"
     ],
-    "primaryCategory": "Program"
+    "primaryCategory": "Program",
+    "details": {
+      "title": "",
+      "createTitle": "Program",
+      "subTitle": "",
+      "points": []
+    }
   },
   {
     "id": "trainingPath",
@@ -217,8 +239,7 @@
     "available": true,
     "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
-    "hasRole": [
-    ],
+    "hasRole": [],
     "primaryCategory": "Training Path"
   },
   {
@@ -231,8 +252,7 @@
     "available": true,
     "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
-    "hasRole": [
-    ],
+    "hasRole": [],
     "primaryCategory": "Bites Path"
   }
 ]

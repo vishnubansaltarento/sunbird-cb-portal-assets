@@ -1,0 +1,49 @@
+{
+    "search": {
+        "searchReq" : {
+            "request": {
+                "filters": {
+                    "primaryCategory": [
+                        "Course",
+                        "Program"
+                    ],
+                    "status": [
+                        "Live"
+                    ],
+                    "competencies_v3.name": [""]
+                },
+                "query": "",
+                "sort_by": {
+                    "lastUpdatedOn": ""
+                },
+                "fields": [],
+                "facets": [
+                    "primaryCategory",
+                    "mimeType",
+                    "source"
+                ]
+            }
+        },
+        "defaultsearch": [
+            {
+              "values": [
+                {
+                  "name": "program",
+                  "count": 0
+                },
+                {
+                  "name": "course",
+                  "count": 0
+                }
+              ],
+              "name": "primaryCategory",
+              "displayname": "Content type"
+            },
+            {
+              "values": [],
+              "name": "source",
+              "displayname": "Providers"
+            }
+          ]
+    }
+}

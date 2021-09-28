@@ -91,22 +91,11 @@
             "fit": [
               {
                 "contentType": [
-                  "Collection"
-                ]
-              }
-            ]
-          },
-          "position": "",
-          "minimum": 0,
-          "maximum": 0
-        },
-        {
-          "conditions": {
-            "fit": [
-              {
-                "contentType": [
                   "CourseUnit"
-                ]
+                ],
+                "primaryCategory": ["Course Unit"],
+                "description": "Create a collection of resource to your course.",
+                "icon": "insert_drive_file"
               }
             ]
           },
@@ -120,7 +109,10 @@
               {
                 "contentType": [
                   "Resource"
-                ]
+                ],
+                "primaryCategory": ["Learning Resource"],
+                "description": "Add new files or links to your course.",
+                "icon": "insert_drive_file"
               }
             ]
           },
@@ -142,6 +134,10 @@
         "contentType": [
           "Collection",
           "Resource"
+        ],
+        "primaryCategory": [
+          "Course Unit",
+          "Learning Resource"
         ]
       }
     },
@@ -155,6 +151,9 @@
               {
                 "contentType": [
                   "Resource"
+                ],
+                "primaryCategory": [
+                  "Learning Resource"
                 ]
               }
             ]
@@ -176,6 +175,10 @@
         "contentType": [
           "Collection",
           "Resource"
+        ],
+        "primaryCategory": [
+          "Course Unit",
+          "Learning Resource"
         ]
       }
     },
@@ -189,6 +192,9 @@
               {
                 "contentType": [
                   "Resource"
+                ],
+                "primaryCategory": [
+                  "Learning Resource"
                 ]
               }
             ]
@@ -210,6 +216,10 @@
         "contentType": [
           "CourseUnit",
           "Resource"
+        ],
+        "primaryCategory": [
+          "Course Unit",
+          "Learning Resource"
         ]
       }
     },
@@ -223,6 +233,9 @@
               {
                 "contentType": [
                   "Course"
+                ],
+                "primaryCategory": [
+                  "Learning Resource"
                 ]
               }
             ]
@@ -242,6 +255,9 @@
         ],
         "status": [
           "Live"
+        ],
+        "primaryCategory": [
+          "Course"
         ]
       }
     }

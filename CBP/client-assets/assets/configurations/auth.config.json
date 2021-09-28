@@ -6,6 +6,7 @@
       "icon": "insert_drive_file",
       "additionalMessage": "Create smallest learning entity",
       "contentType": "",
+      "primaryCategory": "",
       "mimeType": "",
       "resourceType": "",
       "hasEnabled": true,
@@ -111,6 +112,7 @@
       "icon": "insert_drive_file",
       "additionalMessage": "Create a Resource by uploading PDF file",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "application/pdf",
       "resourceType": "",
       "hasEnabled": true,
@@ -152,6 +154,7 @@
       "icon": "insert_drive_file",
       "additionalMessage": "Create a Resource by uploading video (.mp4) file",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "application/x-mpegURL",
       "resourceType": "",
       "hasEnabled": true,
@@ -193,6 +196,7 @@
       "icon": "insert_drive_file",
       "additionalMessage": "Create a Resource by uploading audio (.mp3) file",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "audio/mpeg",
       "resourceType": "",
       "hasEnabled": true,
@@ -234,6 +238,7 @@
       "icon": "insert_drive_file",
       "additionalMessage": "Create a Resource by providing an external link (URL)",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "application/html",
       "resourceType": "",
       "hasEnabled": true,
@@ -274,6 +279,7 @@
       "icon": "check_circle",
       "additionalMessage": "Create an Assessment by providing minimum 10 question",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "application/quiz",
       "resourceType": "Assessment",
       "hasEnabled": true,
@@ -314,6 +320,7 @@
       "icon": "check_circle",
       "additionalMessage": "Create a quiz",
       "contentType": "Resource",
+      "primaryCategory": "Learning Resource",
       "mimeType": "application/quiz",
       "resourceType": "Quiz",
       "hasEnabled": true,
@@ -437,6 +444,7 @@
       "icon": "folder",
       "additionalMessage": "Create a collection of Resources",
       "contentType": "Collection",
+      "primaryCategory": "Course Unit",
       "mimeType": "application/vnd.ekstep.content-collection",
       "resourceType": "",
       "hasEnabled": true,
@@ -482,6 +490,7 @@
       "icon": "folder",
       "additionalMessage": "Create a collection of Modules",
       "contentType": "Course",
+      "primaryCategory": "Course",
       "mimeType": "application/vnd.ekstep.content-collection",
       "resourceType": "",
       "hasEnabled": true,
@@ -551,6 +560,7 @@
       "icon": "folder",
       "additionalMessage": "Create a collection of Modules",
       "contentType": "Course",
+      "primaryCategory": "Course",
       "mimeType": "application/vnd.ekstep.content-collection",
       "resourceType": "",
       "hasEnabled": true,
@@ -593,6 +603,7 @@
       "icon": "folder",
       "additionalMessage": "Create an external course by providing link",
       "contentType": "Course",
+      "primaryCategory": "Course",
       "mimeType": "application/vnd.ekstep.content-collection",
       "resourceType": "",
       "hasEnabled": true,
@@ -746,7 +757,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -756,7 +768,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -795,7 +808,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -805,7 +819,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -844,7 +859,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -854,7 +870,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -914,7 +931,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -943,7 +961,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -953,7 +972,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1008,7 +1028,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1018,7 +1039,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1057,7 +1079,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1067,7 +1090,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1098,7 +1122,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1108,7 +1133,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1139,7 +1165,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1149,7 +1176,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1180,7 +1208,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1190,7 +1219,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1221,7 +1251,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1231,7 +1262,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1262,7 +1294,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1272,7 +1305,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1307,7 +1341,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1317,7 +1352,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1348,7 +1384,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1358,7 +1395,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1389,7 +1427,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1399,7 +1438,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1449,7 +1489,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1459,7 +1500,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1494,7 +1536,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1504,7 +1547,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1539,7 +1583,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1549,7 +1594,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1580,7 +1626,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1590,7 +1637,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1629,7 +1677,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1639,7 +1688,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1670,7 +1720,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1680,7 +1731,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1719,7 +1771,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": 0
           }
@@ -1729,7 +1782,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": 0
           }
@@ -1760,7 +1814,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1770,7 +1825,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1801,7 +1857,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -1811,7 +1868,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -1850,7 +1908,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1860,7 +1919,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1895,7 +1955,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -1905,7 +1966,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -1943,7 +2005,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -1953,7 +2016,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -1999,7 +2063,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2009,7 +2074,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2048,7 +2114,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": true
           }
@@ -2058,7 +2125,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": false
           },
@@ -2100,7 +2168,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2110,7 +2179,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2149,7 +2219,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": false
           }
@@ -2159,7 +2230,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": false
           },
@@ -2206,7 +2278,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -2216,7 +2289,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -2251,7 +2325,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -2261,7 +2336,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -2295,7 +2371,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2305,7 +2382,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2347,7 +2425,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2357,7 +2436,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2399,7 +2479,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2409,7 +2490,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2451,7 +2533,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2461,7 +2544,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2500,7 +2584,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2510,7 +2595,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -2549,7 +2635,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2559,7 +2646,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -2593,7 +2681,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "No"
           }
@@ -2603,7 +2692,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Yes"
           },
@@ -2650,7 +2740,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -2660,7 +2751,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -2691,7 +2783,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": 0
           }
@@ -2701,7 +2794,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": 0
           }
@@ -2735,7 +2829,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2745,7 +2840,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -2779,7 +2875,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2789,7 +2886,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -2828,7 +2926,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -2838,7 +2937,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -2869,7 +2969,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2879,7 +2980,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -2918,7 +3020,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -2928,7 +3031,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -2967,7 +3071,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -2977,7 +3082,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3016,7 +3122,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3026,7 +3133,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3065,7 +3173,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3075,7 +3184,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3114,7 +3224,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3124,7 +3235,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3166,7 +3278,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3176,7 +3289,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3215,7 +3329,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3225,7 +3340,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3260,7 +3376,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3270,7 +3387,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3301,7 +3419,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3311,7 +3430,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3342,7 +3462,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3352,7 +3473,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3392,7 +3514,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3402,7 +3525,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3433,7 +3557,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3443,7 +3568,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3484,7 +3610,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": 0
           }
@@ -3494,7 +3621,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": 0
           }
@@ -3533,7 +3661,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3543,7 +3672,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3578,7 +3708,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": "Learning World"
           }
@@ -3588,7 +3719,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": "Learning World"
           }
@@ -3619,7 +3751,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3629,7 +3762,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3660,7 +3794,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": 0
           }
@@ -3670,7 +3805,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": 0
           }
@@ -3701,7 +3837,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3711,7 +3848,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3749,7 +3887,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3759,7 +3898,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3790,7 +3930,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3800,7 +3941,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3839,7 +3981,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3849,7 +3992,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3880,7 +4024,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -3890,7 +4035,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }
@@ -3921,7 +4067,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3931,7 +4078,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -3973,7 +4121,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": []
           }
@@ -3983,7 +4132,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": []
           }
@@ -4022,7 +4172,8 @@
             "condition": {
               "contentType": [
                 "Course"
-              ]
+              ],
+              "primaryCategory": ["Course"]
             },
             "value": ""
           }
@@ -4032,7 +4183,8 @@
             "condition": {
               "contentType": [
                 "Resource"
-              ]
+              ],
+              "primaryCategory": ["Learning Resource"]
             },
             "value": ""
           }

@@ -16,8 +16,78 @@
                     },
                     "enabled": true,
                     "customRouting": true,
-                    "paramaterName":"contentId",
+                    "paramaterName": "contentId",
                     "routerLink": "/author/content-detail/<param>/overview"
+                },
+                {
+                    "name": "Content",
+                    "key": "content",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "customRouting": true,
+                    "paramaterName": "contentId",
+                    "routerLink": "/author/content-detail/<param>/content"
+                },
+                {
+                    "name": "Compentencies",
+                    "key": "compentencies",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "customRouting": true,
+                    "paramaterName": "contentId",
+                    "routerLink": "/author/content-detail/<param>/compentencies"
+                },
+                {
+                    "name": "Batches",
+                    "key": "batches",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "customRouting": true,
+                    "paramaterName": "contentId",
+                    "routerLink": "/author/content-detail/<param>/batches"
+                },
+                {
+                    "name": "Ratings & Reviews",
+                    "key": "ratingsandreview",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "customRouting": true,
+                    "paramaterName": "contentId",
+                    "routerLink": "/author/content-detail/<param>/ratings"
+                },
+                {
+                    "name": "Insights",
+                    "key": "insights",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "customRouting": true,
+                    "paramaterName": "contentId",
+                    "routerLink": "/author/content-detail/<param>/insights"
                 }
             ]
         }

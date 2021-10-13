@@ -5,6 +5,7 @@
     "description": "Smallest learning entity",
     "icon": "call_to_action",
     "contentType": "Resource",
+    "primaryCategory": "Learning Resource",
     "mimeType": "application/html",
     "hasRole": [
       "content_creator",
@@ -213,7 +214,7 @@
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
-    "enabled": false,
+    "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",
@@ -222,9 +223,9 @@
     ],
     "primaryCategory": "Program",
     "details": {
-      "title": "",
+      "title": "Welcome to program curation",
       "createTitle": "Program",
-      "subTitle": "",
+      "subTitle": "Create a collection of Courses.",
       "points": []
     }
   },

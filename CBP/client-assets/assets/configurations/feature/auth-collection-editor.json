@@ -98,6 +98,7 @@
             ]
           },
           "name": "Module",
+          "primaryCategory": "Course Unit",
           "description": "Create a collection of resource to your course.",
           "icon": "insert_drive_file",
           "position": "",
@@ -116,6 +117,7 @@
             ]
           },
           "name": "Resource",
+          "primaryCategory": "Learning Resource",
           "position": "n",
           "description": "Add new files or links to your course.",
           "icon": "insert_drive_file",
@@ -184,7 +186,7 @@
         ]
       }
     },
-    "CourseUnit": {
+    "Course Unit": {
       "minChildren": 1,
       "maxChildren": 0,
       "childTypes": [
@@ -237,7 +239,7 @@
                   "Course"
                 ],
                 "primaryCategory": [
-                  "Learning Resource"
+                  "Course"
                 ]
               }
             ]
@@ -245,9 +247,47 @@
           "position": "",
           "minimum": 2,
           "maximum": 0
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "contentType": [
+                  "CourseUnit"
+                ],
+                "primaryCategory": ["Course Unit"]
+              }
+            ]
+          },
+          "name": "Module",
+          "primaryCategory": "Course Unit",
+          "description": "Create a collection of resource to your course.",
+          "icon": "insert_drive_file",
+          "position": "",
+          "minimum": 0,
+          "maximum": 0
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "contentType": [
+                  "Resource"
+                ],
+                "primaryCategory": ["Learning Resource"]
+              }
+            ]
+          },
+          "name": "Resource",
+          "primaryCategory": "Learning Resource",
+          "position": "n",
+          "description": "Add new files or links to your course.",
+          "icon": "insert_drive_file",
+          "minimum": 0,
+          "maximum": 0
         }
       ],
-      "allowCreation": true,
+      "allowCreation": false,
       "allowedCreationType": [
         "course"
       ],

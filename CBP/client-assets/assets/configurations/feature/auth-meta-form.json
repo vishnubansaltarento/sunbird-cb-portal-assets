@@ -10583,7 +10583,7 @@
               "Channel"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ],
       "Collection": [
@@ -10593,7 +10593,20 @@
               "Collection"
             ]
           },
-          "value": "Private"
+          "value": "Default"
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": "Default"
         }
       ],
       "CourseUnit": [
@@ -10606,7 +10619,7 @@
               "Course Unit"
             ]
           },
-          "value": ""
+          "value": "Default"
         }
       ],
       "Course": [
@@ -10619,7 +10632,7 @@
               "Course"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ],
       "Knowledge Artifact": [
@@ -10629,7 +10642,7 @@
               "Knowledge Artifact"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ],
       "Knowledge Board": [
@@ -10639,7 +10652,7 @@
               "Knowledge Board"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ],
       "Learning Path": [
@@ -10649,7 +10662,7 @@
               "Learning Path"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ],
       "Resource": [
@@ -10662,7 +10675,7 @@
               "Learning Resource"
             ]
           },
-          "value": "Private"
+          "value": "Default"
         }
       ]
     },

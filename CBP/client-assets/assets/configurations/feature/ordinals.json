@@ -907,6 +907,12 @@
     "Program",
     "Resource"
   ],
+  "primaryCategory": [
+    "Course",
+    "Course Unit",
+    "Program",
+    "Learning Resource"
+  ],
   "learningMode": [
     "Self-Paced",
     "Instructor-Led"

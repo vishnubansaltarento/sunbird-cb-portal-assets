@@ -10,6 +10,9 @@
         "contentType": {
           "displayName": "Content Type"
         },
+        "primaryCategory": {
+          "displayName": "Primary Category"
+        },
         "exclusiveContent": {
           "displayName": "Costs"
         },

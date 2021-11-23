@@ -5,6 +5,7 @@
     "description": "Smallest learning entity",
     "icon": "call_to_action",
     "contentType": "Resource",
+    "primaryCategory": "Learning Resource",
     "mimeType": "application/html",
     "hasRole": [
       "content_creator",
@@ -18,13 +19,13 @@
       "assessment",
       "activities"
     ],
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "upload",
     "parent": "resource",
     "name": "Upload file",
-    "icon": "file_upload",
+    "icon": "insert_drive_file",
     "available": true,
     "enabled": true,
     "contentType": "Resource",
@@ -43,7 +44,7 @@
     "id": "link",
     "parent": "resource",
     "name": "Attach link",
-    "icon": "link",
+    "icon": "insert_link",
     "available": true,
     "enabled": true,
     "contentType": "Resource",
@@ -61,8 +62,8 @@
   {
     "id": "assessment",
     "parent": "resource",
-    "name": "Assessment",
-    "icon": "devices",
+    "name": "Create an assessment",
+    "icon": "playlist_add_check",
     "available": true,
     "enabled": true,
     "contentType": "Resource",
@@ -213,7 +214,7 @@
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
-    "enabled": false,
+    "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",
@@ -222,9 +223,9 @@
     ],
     "primaryCategory": "Program",
     "details": {
-      "title": "",
+      "title": "Welcome to program curation",
       "createTitle": "Program",
-      "subTitle": "",
+      "subTitle": "Create a collection of Courses.",
       "points": []
     }
   },

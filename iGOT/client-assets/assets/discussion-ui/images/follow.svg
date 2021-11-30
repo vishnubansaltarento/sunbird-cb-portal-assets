@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/content/follow</title>
+    <defs>
+        <polygon id="path-1" points="6 5 4 5 9 12 4 19 6 18.99 10.8980867 12"></polygon>
+    </defs>
+    <g id="Icons/content/follow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M16.7647059,18.99 C17.2376471,18.99 17.6611765,18.67 17.9152941,18.16 L21,12 L17.9152941,5.84 C17.6611765,5.33 17.2376471,5 16.7647059,5 L7.7354355,5 L12.6105166,12 L7.7354355,18.99 L16.7647059,18.99 Z" id="Path" fill-opacity="0.6" fill="#000000"></path>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Path" fill-opacity="0.6" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

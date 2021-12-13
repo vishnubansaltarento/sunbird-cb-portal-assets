@@ -197,9 +197,9 @@
   },
   "telemetryConfig": {
     "pdata": {
-      "id": "lex-web-ui",
+      "id": "sunbird-cb-orgportal",
       "ver": "1.0.0",
-      "pid": ""
+      "pid": "sunbird-cb-orgportal"
     },
     "env": "prod",
     "channel": "igot",

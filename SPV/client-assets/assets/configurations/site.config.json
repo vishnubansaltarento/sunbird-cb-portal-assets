@@ -209,7 +209,7 @@
   },
   "telemetryConfig": {
     "pdata": {
-      "id": "lex-web-ui",
+      "id": "sunbird-cb-adminportal",
       "ver": "1.0.0",
       "pid": ""
     },

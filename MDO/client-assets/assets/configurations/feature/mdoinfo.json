@@ -1,0 +1,34 @@
+{
+    "tabs": [
+        {
+            "name": "Leadership details",
+            "key": "leadership",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/mdoinfo/leadership"
+        },
+        {
+            "name": "Staff details",
+            "key": "staff",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/mdoinfo/staff"
+        },
+        {
+            "name": "Budget declaration details",
+            "key": "budget",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/mdoinfo/budget"
+        }
+    ]
+}

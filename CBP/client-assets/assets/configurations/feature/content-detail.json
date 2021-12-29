@@ -70,7 +70,7 @@
                         "enabled": false,
                         "uri": ""
                     },
-                    "enabled": true,
+                    "enabled": false,
                     "customRouting": true,
                     "paramaterName": "contentId",
                     "routerLink": "/author/content-detail/<param>/ratings"
@@ -84,12 +84,64 @@
                         "enabled": false,
                         "uri": ""
                     },
-                    "enabled": true,
+                    "enabled": false,
                     "customRouting": true,
                     "paramaterName": "contentId",
                     "routerLink": "/author/content-detail/<param>/insights"
                 }
             ]
         }
+    },
+    "batch": {
+        "tabs": [
+            {
+                "name": "Learners",
+                "key": "learners",
+                "type":"learners",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Certificates",
+                "key": "certificates",
+                "type":"certificates",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Discussions",
+                "key": "discuss",
+                "type":"discuss",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Assessments",
+                "key": "assessments",
+                "type":"assessments",
+                "enabled": false,
+                "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Notifications",
+                "key": "notifications",
+                "type":"notifications",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Batch settings",
+                "key": "batch-settings",
+                "type":"batch-settings",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
+            }
+        ]
     }
 }

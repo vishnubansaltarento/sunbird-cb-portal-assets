@@ -11,7 +11,7 @@
       {
         "allowReplace": false,
         "source": "youtube",
-        "pattern": "^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\\.com)?\/.+",
+        "pattern": "^(http(s)?://)?((w){3}.)?youtu(be|.be)?(\\.com)?/.+",
         "allowIframe": true
       }
     ]
@@ -19,10 +19,7 @@
   "defaultFeatureConfigs": {
     "error": "/assets/configurations/common/feature/error.json"
   },
-  "org": [
-    "dopt",
-    "istm"
-  ],
+  "org": ["dopt", "istm"],
   "rootOrg": "igot",
   "defaultFontSize": "theme-igot",
   "defaultLocale": "",
@@ -68,82 +65,63 @@
     {
       "isAvailable": true,
       "isEnabled": true,
-      "locals": [
-        "en",
-        "en-US"
-      ],
+      "locals": ["en", "en-US"],
       "path": "",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "de"
-      ],
+      "locals": ["de"],
       "path": "de",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "zh-CN"
-      ],
+      "locals": ["zh-CN"],
       "path": "zh-CN",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "fr"
-      ],
+      "locals": ["fr"],
       "path": "fr",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "fr-ca"
-      ],
+      "locals": ["fr-ca"],
       "path": "fr-ca",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "es"
-      ],
+      "locals": ["es"],
       "path": "es",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "ar"
-      ],
+      "locals": ["ar"],
       "path": "ar",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "nl"
-      ],
+      "locals": ["nl"],
       "path": "nl",
       "isRTL": false
     },
     {
       "isAvailable": false,
       "isEnabled": false,
-      "locals": [
-        "ja"
-      ],
+      "locals": ["ja"],
       "path": "ja",
       "isRTL": false
     }
@@ -191,15 +169,13 @@
     "defaultEmailId": "support@tarento.com",
     "isConfigured": true,
     "tenant": "tarentotechnologies",
-    "validEmailExtensions": [
-      "@tarento.tarento.com"
-    ]
+    "validEmailExtensions": ["@tarento.tarento.com"]
   },
   "telemetryConfig": {
     "pdata": {
-      "id": "lex-web-ui",
-      "ver": "1.0.0",
-      "pid": ""
+      "id": "sunbird-cb-orgportal",
+      "ver": "3.0.1",
+      "pid": "sunbird-cb-orgportal"
     },
     "env": "prod",
     "channel": "igot",
@@ -207,9 +183,7 @@
     "host": "",
     "endpoint": "/apis/protected/v8/user/telemetry",
     "apislug": "",
-    "object": {
-      "ver": "1.0.0"
-    }
+    "object": {}
   },
   "themes": [
     {
@@ -223,9 +197,7 @@
       "themeName": "iGOT Theme"
     }
   ],
-  "validMailIdExtensionsForMailMe": [
-    "tarento.com"
-  ],
+  "validMailIdExtensionsForMailMe": ["tarento.com"],
   "backgrounds": {
     "primaryNavBar": {
       "color": "primary"
@@ -283,9 +255,9 @@
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
             "widgetData": {
-              "disableViewProfile" : true,
-              "disableAllFeatures" : true,
-              "disableSettings" : true
+              "disableViewProfile": true,
+              "disableAllFeatures": true,
+              "disableSettings": true
             },
             "hideTitle": true
           }

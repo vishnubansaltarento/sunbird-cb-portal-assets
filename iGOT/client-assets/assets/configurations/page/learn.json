@@ -153,7 +153,7 @@
                         "queryParams": {
                           "orgdetails": "orgName,email",
                           "licenseDetails": "name,description,url",
-                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license",
                           "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
                         }
                       }
@@ -231,6 +231,7 @@
                             "identifier",
                             "medium",
                             "pkgVersion",
+                            "version",
                             "board",
                             "subject",
                             "resourceType",
@@ -299,14 +300,16 @@
                     "request": {
                       "searchV6": {
                         "request": {
-                          "filters": [{
-                            "primaryCategory": [
-                              "Course"
-                            ],
-                            "contentType": [
-                              "Course"
-                            ]
-                          }],
+                          "filters": [
+                            {
+                              "primaryCategory": [
+                                "Course"
+                              ],
+                              "contentType": [
+                                "Course"
+                              ]
+                            }
+                          ],
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"

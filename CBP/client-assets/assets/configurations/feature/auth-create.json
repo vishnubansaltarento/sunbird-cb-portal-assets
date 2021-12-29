@@ -213,8 +213,8 @@
     "description": "Create a collection of Courses.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",

@@ -210,7 +210,7 @@
   "telemetryConfig": {
     "pdata": {
       "id": "sunbird-cb-adminportal",
-      "ver": "1.0.0",
+      "ver": "3.0.1",
       "pid": ""
     },
     "env": "prod",
@@ -219,9 +219,7 @@
     "host": "",
     "endpoint": "/apis/protected/v8/user/telemetry",
     "apislug": "",
-    "object": {
-      "ver": "1.0.0"
-    }
+    "object": {}
   },
   "themes": [
     {

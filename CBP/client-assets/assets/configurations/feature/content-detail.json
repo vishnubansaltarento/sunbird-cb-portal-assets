@@ -97,7 +97,7 @@
             {
                 "name": "Learners",
                 "key": "learners",
-                "type":"learners",
+                "type": "learners",
                 "enabled": true,
                 "rolesRequired": [],
                 "data": {}
@@ -105,15 +105,18 @@
             {
                 "name": "Certificates",
                 "key": "certificates",
-                "type":"certificates",
+                "type": "certificates",
                 "enabled": true,
                 "rolesRequired": [],
+                "settings": {
+                    "maxCertificates": 1
+                },
                 "data": {}
             },
             {
                 "name": "Discussions",
                 "key": "discuss",
-                "type":"discuss",
+                "type": "discuss",
                 "enabled": true,
                 "rolesRequired": [],
                 "data": {}
@@ -121,7 +124,7 @@
             {
                 "name": "Assessments",
                 "key": "assessments",
-                "type":"assessments",
+                "type": "assessments",
                 "enabled": false,
                 "rolesRequired": [],
                 "data": {}
@@ -129,7 +132,7 @@
             {
                 "name": "Notifications",
                 "key": "notifications",
-                "type":"notifications",
+                "type": "notifications",
                 "enabled": true,
                 "rolesRequired": [],
                 "data": {}
@@ -137,7 +140,7 @@
             {
                 "name": "Batch settings",
                 "key": "batch-settings",
-                "type":"batch-settings",
+                "type": "batch-settings",
                 "enabled": true,
                 "rolesRequired": [],
                 "data": {}

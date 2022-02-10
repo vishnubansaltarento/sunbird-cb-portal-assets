@@ -242,6 +242,21 @@
           ]
         },
         {
+          "name": "Users",
+          "key": "user",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/users",
+          "requiredRoles": [
+            "cbp-admin"
+          ]
+        },
+        {
           "name": "Competencies",
           "key": "competencies",
           "fragment": false,

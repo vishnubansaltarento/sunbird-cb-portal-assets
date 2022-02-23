@@ -1,0 +1,43 @@
+{
+    "tabs": [
+        {
+            "name": "Knowledge resource all",
+            "key": "KnowledgeResourceAll",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/knowledge-resource/all"
+        },
+        {
+            "name": "Knowledge resource saved",
+            "key": "KnowledgeResourceSaved",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/knowledge-resource/saved"
+        }
+    ],
+    "banner": {
+        "widgetType": "slider",
+        "widgetSubType": "sliderBanners",
+        "style": {
+            "border-radius": "12px"
+        },
+        "widgetData": [
+            {
+                "banners": {
+                    "l": "assets/instances/eagle/banners/hubs/network/l.jpg",
+                    "m": "assets/instances/eagle/banners/hubs/network/m.jpg",
+                    "s": "assets/instances/eagle/banners/hubs/network/s.jpg",
+                    "xl": "assets/instances/eagle/banners/hubs/network/xl.jpg",
+                    "xs": "assets/instances/eagle/banners/hubs/network/xs.jpg",
+                    "xxl": "assets/instances/eagle/banners/hubs/network/xxl.jpg"
+                }
+            }
+        ]
+    }
+}

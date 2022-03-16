@@ -203,6 +203,10 @@
               }
             ]
           },
+          "name": "Resource",
+          "primaryCategory": "Learning Resource",
+          "description": "Add new files or links to your course.",
+          "icon": "insert_drive_file",
           "position": "",
           "minimum": 0,
           "maximum": 0
@@ -244,7 +248,11 @@
               }
             ]
           },
+          "name": "Course",
+          "primaryCategory": "Course",
+          "description": "Add a collection of course to your program.",
           "position": "",
+          "icon": "library_add",
           "minimum": 2,
           "maximum": 0
         },

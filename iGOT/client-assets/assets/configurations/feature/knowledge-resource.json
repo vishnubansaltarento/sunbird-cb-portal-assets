@@ -1,7 +1,7 @@
 {
     "tabs": [
         {
-            "name": "Knowledge resource all",
+            "name": "All Knowledge resources",
             "key": "KnowledgeResourceAll",
             "badges": {
                 "enabled": true,
@@ -11,7 +11,7 @@
             "routerLink": "/app/knowledge-resource/all"
         },
         {
-            "name": "Knowledge resource saved",
+            "name": "Saved Knowledge resource",
             "key": "KnowledgeResourceSaved",
             "badges": {
                 "enabled": true,
@@ -30,12 +30,12 @@
         "widgetData": [
             {
                 "banners": {
-                    "l": "assets/instances/eagle/banners/hubs/network/l.jpg",
-                    "m": "assets/instances/eagle/banners/hubs/network/m.jpg",
-                    "s": "assets/instances/eagle/banners/hubs/network/s.jpg",
-                    "xl": "assets/instances/eagle/banners/hubs/network/xl.jpg",
-                    "xs": "assets/instances/eagle/banners/hubs/network/xs.jpg",
-                    "xxl": "assets/instances/eagle/banners/hubs/network/xxl.jpg"
+                    "l": "assets/instances/eagle/banners/hubs/knowledgeresource/l.png",
+                    "m": "assets/instances/eagle/banners/hubs/knowledgeresource/m.png",
+                    "s": "assets/instances/eagle/banners/hubs/knowledgeresource/s.png",
+                    "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/xl.png",
+                    "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/xs.png",
+                    "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/Events.png"
                 }
             }
         ]

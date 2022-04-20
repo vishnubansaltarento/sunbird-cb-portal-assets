@@ -266,7 +266,7 @@
     "icon": "playlist_add_check",
     "contentType": "PracticeQuestionSet",
     "available": true,
-    "enabled": false,
+    "enabled": true,
     "mimeType": "application/vnd.sunbird.questionset",
     "hasRole": [
       "content_creator"

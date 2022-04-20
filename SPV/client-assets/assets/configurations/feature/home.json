@@ -40,6 +40,18 @@
                 },
                 "enabled": true,
                 "routerLink": "/app/home/roles-access"
+            },
+            {
+                "name": "Moderation",
+                "key": "moderation",
+                "fragment": false,
+                "render": true,
+                "badges": {
+                    "enabled": false,
+                    "uri": ""
+                },
+                "enabled": true,
+                "routerLink": "/app/home/moderation"
             }
         ]
     }

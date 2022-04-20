@@ -1,0 +1,502 @@
+[
+    {
+        "type": "COMPETENCY",
+        "id": "CID02099",
+        "name": "Parliamentary Work",
+        "description": "Oversee and Monitor preparation, maintenance and management of systems and processes to assist in effective information dissemination toward the smooth conduct of the parliamentary affairs",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "Office Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-01 12:58:29",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02755",
+        "name": "Noting and Drafting",
+        "description": "Draft and analyse a note, in order to move a proposal for decision making based on the availability of evidence and existing rules and precedents",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Office Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:09:18",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID036",
+        "name": "Record management",
+        "description": "Maintain, classify, review, and dispose records to judiciously manage information - with conviction, justification and righteousness across an organization's life-cycle, while supporting the documentation of organizational history",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "office management",
+            "cod": " Department of Water Resources River Development and Ganga Rejuvenation",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-05 15:49:37",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02754",
+        "name": "Office Procedures ",
+        "description": "Monitor and Encourage procedural compliance for secretarial work in accordance with the latest manual on office procedure (CSMOP) towards productive and responsive administration",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "Office Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:08:07",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02756",
+        "name": "Procedural Compliance - RTI Matters",
+        "description": "Demonstrates knowledge, applies, and guides others on RTI matters to maintain procedural compliance, provide reasonable assistance to persons seeking information, and situate the act within a larger good governance framework",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Office Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:10:22",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02757",
+        "name": "Grievance Handling",
+        "description": "Practices, establishes, and modifies grievance redressal procedures specific to a ministry/department/organization (MDO), while generating awareness about their importance to the public",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "Office Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:11:29",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID0187",
+        "name": "Policy Analysis",
+        "description": "Understand, gather, and evaluate qualitative and quantitative evidence to conduct relevant policy analyses, to support public policy processes",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-06 05:23:48",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02763",
+        "name": "Policy and Research Communication ",
+        "description": "Communicate research findings or policy recommendations, guidelines, summary, etc. to the relevant stakeholders (ministers, public officials, corporate partners, citizens, etc.)",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:22:27",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02762",
+        "name": "Policy Advising",
+        "description": "Apply evidence-based analyses to advise and guide the ministry/ department/ organisation (MDO) on key policy choices and implementation strategies, while ensuring they align with long-term objectives",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:21:22",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02761",
+        "name": "Policy Development ",
+        "description": "Gather and generate evidence and apply frameworks and methods for policy formulation and analysis to ensure alignment with government priorities",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-06 05:24:36",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02760",
+        "name": "Regulatory Policy Development ",
+        "description": "Able to understand, define, and support the development of sector-specific regulatory strategies to contribute to public policies, with a focus on evolving trends in India’s regulatory environment",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyArea": "Public Policy",
+            "competencyType": "Domain",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:18:55",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02759",
+        "name": "Monitoring and Evaluation",
+        "description": "Identify, develop and manage monitoring and evaluation designs and methods to deliver evidence-based data and information towards effective programme and policy decision-making",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:17:41",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02758",
+        "name": "Policy Design",
+        "description": "Design policy responses using a range of tools, behaviors, and mechanisms, to solve policy problems",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-06 05:14:45",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02753",
+        "name": "Government Scheme Design ",
+        "description": "Understand, support, develop, and guide the design of Government Schemes for socio-economic development",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "Public Policy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 16:09:03",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02752",
+        "name": "Financial Planning and Budget Management",
+        "description": "Support, coordinate and monitor creation of expenditure plans of the ministry/department in accordance with its objectives and in adherence to the budget allocation and rules laid down by the Ministry of Finance",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Financial Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 16:07:08",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02751",
+        "name": "Public Financial Management (PFM)",
+        "description": "Understand, recognize, and evaluate the set of laws, rules, systems, and processes used by the central government to mobilize revenue, allocate public funds, undertake public spending, account for funds and audit results",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Public Financial Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 16:05:09",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02750",
+        "name": "Project Administration",
+        "description": "Understand, maintain, and handle the administrative and monitoring functions of a project to ensure timely implementation of project deliverables while minimizing potential project risks (such as project cost overruns, changing administrative priorities etc.)",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "Project Management\t\t\t\t",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 16:03:01",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02749",
+        "name": "Programme Design",
+        "description": "Understand, support, develop, sustain, and promote evidence-based programme design using logical frameworks and theory of change concepts",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "Project Management\t\t\t\t",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 16:01:01",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02748",
+        "name": "Vigilance",
+        "description": "Demonstrate and apply knowledge, and guide others on vigilance matters to maintain procedural compliance, identify malpractice/corruption prone spots, and develop systems and procedures to strengthen vigilance",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "Vigilance Management\t\t\t\t",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 15:58:00",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02747",
+        "name": "Budget preparation for Ministry/ Department",
+        "description": "Creation of a consolidated plan which details out the expected revenue and expenditure of a specific Ministry/Department for a given period of time (generally one financial year) with the objective of efficient use of public resources while effectively achieving the department's objectives",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 15:55:14",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02030",
+        "name": "Stakeholder Management and Engagement",
+        "description": "Manage stakeholder expectations and relationships to ensure continuous levels of engagement through communication, negotiation and alignment of their needs with the ministry/department/organisation's short-term and long-term objectives/policy goal",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Stakeholder Engagement Strategy",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-05 10:59:47",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02746",
+        "name": "Public Procurement",
+        "description": "Plan and support the purchase of goods, services and works by the government in accordance with established rules and procedures as well as in adherence to the goals and objectives of the project/ministry/department",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Domain",
+            "competencyArea": "Procurement",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 10:55:41",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02745",
+        "name": "Scenario Planning and Analysis",
+        "description": "Understand and develop scenario plans to anticipate and solve for risks and uncertainties the Indian government might face while managing social interests and government priorities",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "Risk management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "createdDate": "2022-04-05 10:53:40",
+        "createdBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02573",
+        "name": "Data Collection and Analysis",
+        "description": "Proactively collect, clean, analyse and communicate data from a range of stakeholders and sources to reach a conclusion and support decision making",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Functional",
+            "competencyArea": "",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-01 12:56:29",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    },
+    {
+        "type": "COMPETENCY",
+        "id": "CID02741",
+        "name": "Establishment Matters ",
+        "description": "Oversee recruitment, placement and training of public and cadre officials/staffs towards high quality and effective administration",
+        "status": "VERIFIED",
+        "secondaryStatus": "VERIFIED",
+        "source": "FRAC",
+        "reviewComments": "",
+        "secondaryReviewComments": "",
+        "additionalProperties": {
+            "competencyType": "Behavioural",
+            "competencyArea": "Personnel Management",
+            "cod": "",
+            "competencySector": ""
+        },
+        "children": [],
+        "updatedDate": "2022-04-01 12:59:36",
+        "updatedBy": "f:923bdc18-520d-48d4-a84e-3cde1e655ebd:f1cbd741-47ac-4b33-b4c4-fe0aeb861819"
+    }
+]

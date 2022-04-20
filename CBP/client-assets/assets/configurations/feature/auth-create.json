@@ -257,5 +257,26 @@
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [],
     "primaryCategory": "Bites Path"
+  },
+  {
+    "id": "practiceQuestionSet",
+    "isCollection": true,
+    "name": "Final Assessment",
+    "description": "Create a final assesment content",
+    "icon": "playlist_add_check",
+    "contentType": "PracticeQuestionSet",
+    "available": true,
+    "enabled": false,
+    "mimeType": "application/vnd.sunbird.questionset",
+    "hasRole": [
+      "content_creator"
+    ],
+    "primaryCategory": "Practice Question Set",
+    "details": {
+      "title": "Welcome to practice question set",
+      "createTitle": "Final Assessment",
+      "subTitle": "Create a final assesment content",
+      "points": []
+    }
   }
 ]

@@ -265,8 +265,8 @@
     "description": "Create a final assesment content",
     "icon": "playlist_add_check",
     "contentType": "PracticeQuestionSet",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.sunbird.questionset",
     "hasRole": [
       "content_creator"

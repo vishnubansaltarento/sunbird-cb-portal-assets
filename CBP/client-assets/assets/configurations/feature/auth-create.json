@@ -43,7 +43,7 @@
   {
     "id": "link",
     "parent": "resource",
-    "name": "Attach link",
+    "name": "Youtube link",
     "icon": "insert_link",
     "available": true,
     "enabled": true,

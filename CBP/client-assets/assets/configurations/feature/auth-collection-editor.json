@@ -124,7 +124,7 @@
           "icon": "insert_drive_file",
           "minimum": 0,
           "maximum": 0,
-          "enabled": true
+          "enabled": false
         },
         {
           "conditions": {
@@ -141,7 +141,7 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 0,
-          "enabled": true
+          "enabled": false
         }
       ],
       "allowCreation": true,

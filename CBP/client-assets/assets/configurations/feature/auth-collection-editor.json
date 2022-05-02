@@ -130,9 +130,6 @@
           "conditions": {
             "fit": [
               {
-                "contentType": [
-                  "PracticeQuestionSet"
-                ],
                 "primaryCategory": ["Practice Question Set"]
               }
             ]

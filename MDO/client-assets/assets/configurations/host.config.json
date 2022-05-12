@@ -4,13 +4,15 @@
   },
   "defaultFontSize": "normal-typography",
   "defaultLocale": "en",
-  "defaultThemeClass": "theme-igot",
+  "defaultThemeClass": "theme-org",
   "details": {
     "appName": "MDO-iGOT"
   },
   "disablePidCheck": false,
   "isContentDownloadAvailable": false,
-  "org": ["dopt"],
+  "org": [
+    "dopt"
+  ],
   "rootOrg": "igot",
   "fontSizes": [
     {
@@ -67,7 +69,10 @@
     {
       "isAvailable": true,
       "isEnabled": true,
-      "locals": ["en", "en-US"],
+      "locals": [
+        "en",
+        "en-US"
+      ],
       "path": "",
       "isRTL": false
     }
@@ -126,9 +131,9 @@
         "primary": "#ffffff",
         "warn": "#f44336"
       },
-      "themeFile": "theme-igot",
-      "themeClass": "theme-igot",
-      "themeName": "Theme iGOT"
+      "themeFile": "theme-org",
+      "themeClass": "theme-org",
+      "themeName": "Theme Org"
     }
   ],
   "microsoft": {
@@ -136,7 +141,9 @@
     "defaultEmailId": "eagle-support@eagle.com",
     "isConfigured": true,
     "tenant": "eagle",
-    "validEmailExtensions": ["@eagle.eagle.com"]
+    "validEmailExtensions": [
+      "@eagle.eagle.com"
+    ]
   },
   "validMailIdExtensionsForMailMe": [],
   "backgrounds": {

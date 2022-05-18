@@ -259,10 +259,31 @@
     "primaryCategory": "Bites Path"
   },
   {
-    "id": "practiceQuestionSet",
+    "id": "finalAssessment",
     "isCollection": true,
     "name": "Final Assessment",
     "description": "Create a final assesment content",
+    "icon": "playlist_add_check",
+    "contentType": "CourseAssessment",
+    "available": false,
+    "enabled": false,
+    "mimeType": "application/vnd.sunbird.questionset",
+    "hasRole": [
+      "content_creator"
+    ],
+    "primaryCategory": "Course Assessment",
+    "details": {
+      "title": "Welcome to final assessment",
+      "createTitle": "Final Assessment",
+      "subTitle": "Create a final assesment content",
+      "points": []
+    }
+  },
+  {
+    "id": "practiceQuestionSet",
+    "isCollection": true,
+    "name": "Pratice Assessment",
+    "description": "Create a pratice assesment content",
     "icon": "playlist_add_check",
     "contentType": "PracticeQuestionSet",
     "available": false,
@@ -274,8 +295,8 @@
     "primaryCategory": "Practice Question Set",
     "details": {
       "title": "Welcome to practice question set",
-      "createTitle": "Final Assessment",
-      "subTitle": "Create a final assesment content",
+      "createTitle": "Pratice Assessment",
+      "subTitle": "Create a pratice assesment content",
       "points": []
     }
   }

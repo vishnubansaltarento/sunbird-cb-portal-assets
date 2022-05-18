@@ -130,18 +130,18 @@
           "conditions": {
             "fit": [
               {
-                "primaryCategory": ["Practice Question Set"]
+                "primaryCategory": ["Course Assessment"]
               }
             ]
           },
-          "name": "Practice Assessment",
-          "primaryCategory": "Practice Question Set",
+          "name": "Final Assessment",
+          "primaryCategory": "Course Assessment",
           "position": "",
-          "description": "Create a practice assesment content",
+          "description": "Create a final assesment content",
           "icon": "playlist_add_check",
           "minimum": 0,
-          "maximum": 0,
-          "enabled": false
+          "maximum": 1,
+          "enabled": true
         }
       ],
       "allowCreation": true,
@@ -227,6 +227,23 @@
           "description": "Add new files or links to your course.",
           "icon": "insert_drive_file",
           "position": "",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 0,
           "enabled": true

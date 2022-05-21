@@ -141,7 +141,7 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 1,
-          "enabled": true
+          "enabled": false
         }
       ],
       "allowCreation": true,
@@ -246,7 +246,7 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 0,
-          "enabled": true
+          "enabled": false
         }
       ],
       "allowCreation": true,

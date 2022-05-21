@@ -148,6 +148,101 @@
               "widgetData": {
                 "strips": [
                   {
+                    "key": "mandatoryCourses",
+                    "title": "Mandatory courses for you",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">Mandatory courses for you.</p>"
+                        }
+                      }
+                    },
+                    "viewMoreUrl": {
+                      "path": "/app/learn/mandatory-course",
+                      "viewMoreText": "See all",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "",
+                        "f": ""
+                      }
+                    },
+                    "stripConfig": {
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
+                    },
+                    "filters": [],
+                    "request": {
+                      "mandatoryCourses": {
+                        "request": {
+                          "filters": {
+                            "primaryCategory": [
+                              "Goal"
+                            ],
+                            "contentType": [
+                              "Goal"
+                            ]
+                          },
+                          "offset": 0,
+                          "limit": 10,
+                          "query": "",
+                          "sort_by": {
+                            "lastUpdatedOn": "desc"
+                          },
+                          "fields": [
+                            "name",
+                            "appIcon",
+                            "instructions",
+                            "description",
+                            "purpose",
+                            "mimeType",
+                            "gradeLevel",
+                            "identifier",
+                            "medium",
+                            "pkgVersion",
+                            "board",
+                            "subject",
+                            "resourceType",
+                            "primaryCategory",
+                            "contentType",
+                            "channel",
+                            "organisation",
+                            "trackable",
+                            "license",
+                            "posterImage",
+                            "idealScreenSize",
+                            "learningMode",
+                            "creatorLogo",
+                            "duration",
+                            "version"
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        [
+          {
+            "dimensions": {},
+            "className": "new-box",
+            "widget": {
+              "widgetType": "contentStrip",
+              "widgetSubType": "contentStripMultiple",
+              "widgetData": {
+                "strips": [
+                  {
                     "key": "recommendedCourses",
                     "title": "Recommended for you",
                     "info": {

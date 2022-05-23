@@ -176,7 +176,7 @@
       "keywords": [
         "frac"
       ],
-      "name": "Frac",
+      "name": "Frac dictionary",
       "permission": [
       ],
       "show": true,
@@ -296,7 +296,7 @@
         "authoring tool"
       ],
       "isExternal": "true",
-      "name": "CBP",
+      "name": "CBP portal",
       "permission": [
         "editor",
         "admin",
@@ -320,7 +320,7 @@
         "cbc"
       ],
       "isExternal": "true",
-      "name": "CBC",
+      "name": "CBC portal",
       "permission": [
         "cbc_admin",
         "CBC_MEMBER"
@@ -340,7 +340,7 @@
         "mdo"
       ],
       "isExternal": "true",
-      "name": "MDO",
+      "name": "MDO portal",
       "permission": [
         "admin",
         "mdo_admin",
@@ -362,7 +362,7 @@
         "spv"
       ],
       "isExternal": "true",
-      "name": "SPV",
+      "name": "SPV portal",
       "permission": [
         "superAdmin",
         "spv_admin"
@@ -372,7 +372,8 @@
       "toolTip": "SPV",
       "shortName": "SPV",
       "url": "https://spv.igot-dev.in/"
-    }, "feature_igot": {
+    }, 
+    "feature_igot": {
       "accessKey": "",
       "icon": "/assets/icons/Karmayogi_portal.svg",
       "iconType": "mat-icon",
@@ -381,7 +382,7 @@
         "igot"
       ],
       "isExternal": "true",
-      "name": "Karmayogi user",
+      "name": "Karmayogi user portal",
       "permission": [
         "public"
       ],
@@ -437,7 +438,7 @@
         "admin",
         "publisher"
       ],
-      "show": true,
+      "show": false,
       "status": "live",
       "toolTip": "Feedback",
       "url": "/app/feedback",
@@ -556,7 +557,7 @@
       ],
       "name": "Update Profile",
       "permission": [],
-      "show": true,
+      "show": false,
       "status": "live",
       "toolTip": "Profile Update",
       "url": "/app/user-profile/details",
@@ -732,7 +733,8 @@
         "feature_mdo",
         "feature_cbp",
         "feature_spv",
-        "feature_igot"
+        "feature_igot",
+        "feature_frac"
       ],
       "icon": "",
       "iconType": "none",
@@ -757,20 +759,6 @@
         "wat_member",
         "public"
       ]
-    },
-    {
-      "featureIds": [
-        "feature_frac"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac Tool",
-      "toolTip": "Frac",
-      "hasRole": []
     },
     {
       "featureIds": [
@@ -803,52 +791,6 @@
       "name": "Settings",
       "toolTip": "Settings",
       "hasRole": []
-    },
-    {
-      "featureIds": [
-        "feature_frac"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac Tool",
-      "toolTip": "Frac",
-      "hasRole": []
-    },
-    {
-      "featureIds": [
-        "feature_mdo",
-        "feature_cbp",
-        "feature_spv",
-        "feature_igot"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_admin",
-      "keywords": [
-        "admin"
-      ],
-      "name": "Portals",
-      "toolTip": "Portals",
-      "hasRole": [
-        "admin",
-        "editor",
-        "content_publisher",
-        "content_creator",
-        "content_reviewer",
-        "mdo_admin",
-        "cbp_admin",
-        "spv_admin",
-        "cbc_admin",
-        "cbc_member",
-        "wat_user",
-        "wat_member",
-        "public"
-      ]
-    }
-    
+    }    
   ]
 }

@@ -309,7 +309,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbp.igot-dev.in/"
+      "url": "https://cbp.igot-dev.in/author/cbp"
     },
     "feature_cbc": {
       "accessKey": "",
@@ -329,7 +329,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbc.igot-dev.in/"
+      "url": "https://cbc.igot-dev.in/app/home"
     },
     "feature_mdo": {
       "accessKey": "",
@@ -351,7 +351,7 @@
       "status": "live",
       "toolTip": "MDO",
       "shortName": "MDP",
-      "url": "https://mdo.igot-dev.in/"
+      "url": "https://mdo.igot-dev.in/app/home"
     },
     "feature_spv": {
       "accessKey": "",
@@ -371,7 +371,7 @@
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://spv.igot-dev.in/"
+      "url": "https://spv.igot-dev.in/app/home"
     }, 
     "feature_igot": {
       "accessKey": "",
@@ -390,7 +390,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://igot-dev.in/"
+      "url": "https://igot-dev.in/page/home"
     },
     "feature_create": {
       "accessKey": "",

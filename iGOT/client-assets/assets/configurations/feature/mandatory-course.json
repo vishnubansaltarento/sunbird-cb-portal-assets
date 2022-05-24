@@ -1,0 +1,16 @@
+{
+    "mandatoryCourseReq" : {
+        "filters": [],
+        "request": {
+            "enrollmentList": {
+                "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+                "queryParams": {
+                    "orgdetails": "orgName,email",
+                    "licenseDetails": "name,description,url",
+                    "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license",
+                    "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                }
+            }
+        }
+    }
+}

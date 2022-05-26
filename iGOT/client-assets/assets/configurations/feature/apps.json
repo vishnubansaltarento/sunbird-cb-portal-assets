@@ -289,7 +289,7 @@
         "frac"
       ],
       "isExternal": "true",
-      "name": "Frac",
+      "name": "FRAC dictionary",
       "permission": [],
       "show": true,
       "status": "live",
@@ -307,7 +307,7 @@
         "authoring tool"
       ],
       "isExternal": "true",
-      "name": "CBP",
+      "name": "CBP Portal",
       "permission": [
         "editor",
         "admin",
@@ -320,7 +320,7 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbp.igot-dev.in/"
+      "url": "https://cbp.igot-dev.in/author/cbp"
     },
     "feature_cbc": {
       "accessKey": "",
@@ -331,7 +331,7 @@
         "cbc"
       ],
       "isExternal": "true",
-      "name": "CBC",
+      "name": "CBC Portal",
       "permission": [
         "cbc_admin",
         "CBC_MEMBER"
@@ -340,9 +340,8 @@
       "status": "live",
       "toolTip": "Author",
       "shortName": "Author",
-      "url": "https://cbc.igot-dev.in/"
+      "url": "https://cbc.igot-dev.in/app/home"
     },
-   
     "feature_mdo": {
       "accessKey": "",
       "icon": "/assets/icons/MDO_portal.svg",
@@ -352,7 +351,7 @@
         "mdo"
       ],
       "isExternal": "true",
-      "name": "MDO",
+      "name": "MDO Portal",
       "permission": [
         "admin",
         "mdo_admin",
@@ -363,7 +362,7 @@
       "status": "live",
       "toolTip": "MDO",
       "shortName": "MDP",
-      "url": "https://mdo.igot-dev.in/"
+      "url": "https://mdo.igot-dev.in/app/home"
     },
     "feature_spv": {
       "accessKey": "",
@@ -374,7 +373,7 @@
         "spv"
       ],
       "isExternal": "true",
-      "name": "SPV",
+      "name": "SPV Portal",
       "permission": [
         "superAdmin",
         "spv_admin"
@@ -383,7 +382,7 @@
       "status": "live",
       "toolTip": "SPV",
       "shortName": "SPV",
-      "url": "https://spv.igot-dev.in/"
+      "url": "https://spv.igot-dev.in/app/home"
     },
     "feature_create": {
       "accessKey": "",
@@ -723,7 +722,8 @@
         "feature_cbp",
         "feature_spv",
         "feature_cbc",
-        "feature_igot"
+        "feature_igot",
+        "feature_frac"
       ],
       "icon": "",
       "iconType": "none",
@@ -747,20 +747,6 @@
         "wat_user",
         "wat_member"
       ]
-    },
-    {
-      "featureIds": [
-        "feature_frac"
-      ],
-      "icon": "",
-      "iconType": "none",
-      "id": "portal_frac",
-      "keywords": [
-        "frac"
-      ],
-      "name": "Frac Tool",
-      "toolTip": "Frac",
-      "hasRole": []
     },
     {
       "featureIds": [

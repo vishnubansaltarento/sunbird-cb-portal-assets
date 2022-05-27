@@ -736,6 +736,7 @@
       "name": "Portals",
       "toolTip": "Portals",
       "hasRole": [
+        "public",
         "admin",
         "editor",
         "content_publisher",

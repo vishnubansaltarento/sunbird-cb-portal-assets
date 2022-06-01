@@ -3,24 +3,21 @@
         {
             "name": "Topics",
             "key": "topics",
-            "badges": {
-                "enabled": true,
-                "uri": ""
-            },
             "enabled": true,
-            "routerLink": "/app/registration"
+            "routerLink": "/app/setup/topics"
         },
         {
             "name": "Current competencies",
-            "key": "CurrentCompetencies",
-            "badges": {
-                "enabled": true,
-                "uri": ""
-            },
+            "key": "currentcompetencies",
             "enabled": true,
-            "routerLink": "/app/registration/current-competencies"
+            "routerLink": "/app/setup/current-competencies"
+        },
+        {
+            "name": "Desired competencies",
+            "key": "desiredcompetencies",
+            "enabled": true,
+            "routerLink": "/app/setup/desired-competencies"
         }
     ],
     "banner": {}
-   
 }

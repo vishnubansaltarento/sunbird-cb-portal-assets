@@ -1,0 +1,26 @@
+{
+    "tabs": [
+        {
+            "name": "Topics",
+            "key": "topics",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/registration"
+        },
+        {
+            "name": "Current competencies",
+            "key": "CurrentCompetencies",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/registration/current-competencies"
+        }
+    ],
+    "banner": {}
+   
+}

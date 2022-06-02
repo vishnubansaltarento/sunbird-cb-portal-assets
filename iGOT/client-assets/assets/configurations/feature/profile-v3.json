@@ -8,7 +8,7 @@
                 "uri": ""
             },
             "enabled": true,
-            "routerLink": "/app/registration"
+            "routerLink": "/app/setup"
         },
         {
             "name": "Current competencies",
@@ -18,7 +18,17 @@
                 "uri": ""
             },
             "enabled": true,
-            "routerLink": "/app/registration/current-competencies"
+            "routerLink": "/app/setup/current-competencies"
+        },
+        {
+            "name": "Desired competencies",
+            "key": "DesiredCompetencies",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/setup/desired-competencies"
         }
     ],
     "banner": {}

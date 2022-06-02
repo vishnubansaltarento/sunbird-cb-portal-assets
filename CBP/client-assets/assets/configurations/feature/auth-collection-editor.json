@@ -290,7 +290,7 @@
           "description": "Add a collection of course to your program.",
           "position": "",
           "icon": "library_add",
-          "minimum": 2,
+          "minimum": 1,
           "maximum": 0,
           "enabled": true
         },

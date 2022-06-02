@@ -289,7 +289,7 @@
         "frac"
       ],
       "isExternal": "true",
-      "name": "Frac dictionary",
+      "name": "FRAC dictionary",
       "permission": [],
       "show": true,
       "status": "live",
@@ -307,7 +307,7 @@
         "authoring tool"
       ],
       "isExternal": "true",
-      "name": "CBP portal",
+      "name": "CBP Portal",
       "permission": [
         "editor",
         "admin",
@@ -331,10 +331,12 @@
         "cbc"
       ],
       "isExternal": "true",
-      "name": "CBC portal",
+      "name": "CBC Portal",
       "permission": [
         "cbc_admin",
-        "CBC_MEMBER"
+        "CBC_ADMIN",
+        "CBC_MEMBER",
+        "cbc_member"
       ],
       "show": true,
       "status": "live",
@@ -351,7 +353,7 @@
         "mdo"
       ],
       "isExternal": "true",
-      "name": "MDO portal",
+      "name": "MDO Portal",
       "permission": [
         "admin",
         "mdo_admin",
@@ -373,7 +375,7 @@
         "spv"
       ],
       "isExternal": "true",
-      "name": "SPV portal",
+      "name": "SPV Portal",
       "permission": [
         "superAdmin",
         "spv_admin"
@@ -734,6 +736,7 @@
       "name": "Portals",
       "toolTip": "Portals",
       "hasRole": [
+        "public",
         "admin",
         "editor",
         "content_publisher",

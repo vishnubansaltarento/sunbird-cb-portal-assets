@@ -50,24 +50,6 @@
             }
         },
         {
-            "name": "Certifications and Skills",
-            "key": "cAnds",
-            "dataKey": "skills",
-            "render": true,
-            "badges": {
-                "enabled": false,
-                "uri": ""
-            },
-            "enabled": true,
-            "routerLink": ".",
-            "widget": {
-                "widgetType": "profilev2",
-                "widgetSubType": "certifications",
-                "widgetHostClass": "margin-bottom-l",
-                "widgetData": {}
-            }
-        },
-        {
             "name": "Academics",
             "key": "academics",
             "dataKey": "academics",

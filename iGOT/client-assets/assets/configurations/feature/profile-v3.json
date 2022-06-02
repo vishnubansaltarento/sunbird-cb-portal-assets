@@ -4,19 +4,25 @@
             "name": "Topics",
             "key": "topics",
             "enabled": true,
-            "routerLink": "/app/setup/topics"
+            "routerLink": "/app/setup/topics",
+            "description": "Choose the 'Topics' of your interest",
+            "step": 1
         },
         {
             "name": "Current competencies",
             "key": "currentcompetencies",
             "enabled": true,
-            "routerLink": "/app/setup/current-competencies"
+            "routerLink": "/app/setup/current-competencies",
+            "description": "Choose your 'Current Competencies' you're skilled with",
+            "step": 2
         },
         {
             "name": "Desired competencies",
             "key": "desiredcompetencies",
             "enabled": true,
-            "routerLink": "/app/setup/desired-competencies"
+            "routerLink": "/app/setup/desired-competencies",
+            "description": "Choose the competencies you 'Dezire' to posess",
+            "step": 3
         }
     ],
     "banner": {}

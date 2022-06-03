@@ -29,7 +29,7 @@
             "key": "platformWalkthrough ",
             "enabled": true,
             "routerLink": "/app/setup/platform-walkthrough",
-            "description": "",
+            "description": "Watch the iGOT platform walkthrough",
             "step": 4
         }
     ],

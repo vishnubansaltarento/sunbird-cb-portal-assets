@@ -1,0 +1,37 @@
+{
+    "tabs": [
+        {
+            "name": "Topics",
+            "key": "topics",
+            "enabled": true,
+            "routerLink": "/app/setup/topics",
+            "description": "Choose the 'Topics' of your interest",
+            "step": 1
+        },
+        {
+            "name": "Current competencies",
+            "key": "currentcompetencies",
+            "enabled": true,
+            "routerLink": "/app/setup/current-competencies",
+            "description": "Choose your 'Current Competencies' you're skilled with",
+            "step": 2
+        },
+        {
+            "name": "Desired competencies",
+            "key": "desiredcompetencies",
+            "enabled": true,
+            "routerLink": "/app/setup/desired-competencies",
+            "description": "Choose the competencies you 'Dezire' to posess",
+            "step": 3
+        },
+        {
+            "name": "Platform walkthrough",
+            "key": "platformWalkthrough ",
+            "enabled": true,
+            "routerLink": "/app/setup/platform-walkthrough",
+            "description": "Watch the iGOT platform walkthrough",
+            "step": 4
+        }
+    ],
+    "banner": {}
+}

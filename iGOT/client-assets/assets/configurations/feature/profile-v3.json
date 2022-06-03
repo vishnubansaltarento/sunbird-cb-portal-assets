@@ -23,6 +23,14 @@
             "routerLink": "/app/setup/desired-competencies",
             "description": "Choose the competencies you 'Dezire' to posess",
             "step": 3
+        },
+        {
+            "name": "Platform walkthrough",
+            "key": "platformWalkthrough ",
+            "enabled": true,
+            "routerLink": "/app/setup/platform-walkthrough",
+            "description": "",
+            "step": 4
         }
     ],
     "banner": {}

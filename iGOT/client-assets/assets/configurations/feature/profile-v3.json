@@ -1,11 +1,11 @@
 {
     "tabs": [
         {
-            "name": "Roles",
-            "key": "roles",
+            "name": "Role & Activities",
+            "key": "rolesandactivities",
             "enabled": true,
             "routerLink": "/app/setup/roles",
-            "description": "Enter all your ‘Role & Activities’ to complete your profile",
+            "description": "Enter all your 'Role & Activities' to complete your profile",
             "step": 1
         },
         {

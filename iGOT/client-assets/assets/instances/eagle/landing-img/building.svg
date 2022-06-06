@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 28</title>
+    <defs>
+        <linearGradient x1="94.0742121%" y1="61.7045066%" x2="3.45760171%" y2="61.7045066%" id="linearGradient-1">
+            <stop stop-color="#D95181" offset="0%"></stop>
+            <stop stop-color="#A63446" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Option----2.3-reduced-white-bg" transform="translate(-584.000000, -808.000000)">
+            <g id="Group-41" transform="translate(120.000000, 676.000000)">
+                <g id="Group-40" transform="translate(101.000000, 132.000000)">
+                    <g id="Group-35" transform="translate(278.000000, 0.000000)">
+                        <g id="Group-28" transform="translate(85.000000, 0.000000)">
+                            <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+                            <path d="M30,22 L30,10 L24,4 L18,10 L18,14 L6,14 L6,42 L42,42 L42,22 L30,22 Z M14,38 L10,38 L10,34 L14,34 L14,38 Z M14,30 L10,30 L10,26 L14,26 L14,30 Z M14,22 L10,22 L10,18 L14,18 L14,22 Z M26,38 L22,38 L22,34 L26,34 L26,38 Z M26,30 L22,30 L22,26 L26,26 L26,30 Z M26,22 L22,22 L22,18 L26,18 L26,22 Z M26,14 L22,14 L22,10 L26,10 L26,14 Z M38,38 L34,38 L34,34 L38,34 L38,38 Z M38,30 L34,30 L34,26 L38,26 L38,30 Z" id="Shape" fill="#A63446" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

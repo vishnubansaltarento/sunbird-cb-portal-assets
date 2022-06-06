@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 32</title>
+    <defs>
+        <linearGradient x1="94.0742121%" y1="61.7045066%" x2="3.45760171%" y2="61.7045066%" id="linearGradient-1">
+            <stop stop-color="#D95181" offset="0%"></stop>
+            <stop stop-color="#A63446" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Option----2.3-reduced-white-bg" transform="translate(-1160.000000, -808.000000)">
+            <g id="Group-41" transform="translate(120.000000, 676.000000)">
+                <g id="Group-40" transform="translate(101.000000, 132.000000)">
+                    <g id="Group-37" transform="translate(927.000000, 0.000000)">
+                        <g id="Group-32" transform="translate(12.000000, 0.000000)">
+                            <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+                            <path d="M38,28 L38,12 C38,9.8 36.2,8 34,8 L6,8 C3.8,8 2,9.8 2,12 L2,28 C2,30.2 3.8,32 6,32 L34,32 C36.2,32 38,30.2 38,28 Z M20,26 C16.68,26 14,23.32 14,20 C14,16.68 16.68,14 20,14 C23.32,14 26,16.68 26,20 C26,23.32 23.32,26 20,26 Z M46,14 L46,36 C46,38.2 44.2,40 42,40 L8,40 L8,36 L42,36 L42,14 L46,14 Z" id="Shape" fill="#A63446" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

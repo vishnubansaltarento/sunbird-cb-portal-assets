@@ -29,7 +29,7 @@
             "key": "desiredcompetencies",
             "enabled": true,
             "routerLink": "/app/setup/desired-competencies",
-            "description": "Choose the competencies you 'Dezire' to posess",
+            "description": "Choose the competencies you desire to possess",
             "step": 4
         },
         {

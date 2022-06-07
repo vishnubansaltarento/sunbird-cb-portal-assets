@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="35px" viewBox="0 0 38 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Hubs/Learn</title>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Option----2-P" transform="translate(-703.000000, -3102.000000)">
+            <g id="Group-65" transform="translate(120.000000, 2554.000000)">
+                <g id="Group-64" transform="translate(0.000000, 68.000000)">
+                    <g id="Group-63" transform="translate(0.000000, 386.337110)">
+                        <g id="Group-60" transform="translate(413.000000, 0.000000)">
+                            <g id="Group-22" transform="translate(41.000000, 66.000000)">
+                                <g id="Group-18" transform="translate(92.000000, 0.000000)">
+                                    <g id="Icons/Hubs/Learn" transform="translate(34.000000, 24.000000)">
+                                        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="44" height="44"></rect>
+                                        <path d="M3.68161236,20.1643079 L3.66666667,34.8333333 C3.66666667,36.8683333 5.29833333,38.5 7.33333333,38.5 L36.6666667,38.5 C38.7016667,38.5 40.3333333,36.8683333 40.3333333,34.8333333 L40.3333333,20.1666667 L3.68161236,20.1643079 Z" id="Shape" fill="#0074B6"></path>
+                                        <path d="M36.6483333,11 L29.315,11 L29.315,7.33333333 C29.315,5.29833333 27.6833333,3.66666667 25.6483333,3.66666667 L18.315,3.66666667 C16.28,3.66666667 14.6483333,5.29833333 14.6483333,7.33333333 L14.6483333,11 L7.315,11 C5.28,11 3.66666667,12.6316667 3.66666667,14.6666667 L3.66666667,16.5183157 L40.315,16.5183157 C40.315,15.4504541 40.315,14.8332378 40.315,14.6666667 C40.315,12.6316667 38.6833333,11 36.6483333,11 Z M25.6483333,11 L18.315,11 L18.315,7.33333333 L25.6483333,7.33333333 L25.6483333,11 Z" id="Shape" fill="#0074B6" opacity="0.5"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,12 +1,20 @@
 {
     "tabs": [
         {
+            "name": "Role & Activities",
+            "key": "rolesandactivities",
+            "enabled": true,
+            "routerLink": "/app/setup/roles",
+            "description": "Enter all your 'Role & Activities' to complete your profile",
+            "step": 1
+        },
+        {
             "name": "Topics",
             "key": "topics",
             "enabled": true,
             "routerLink": "/app/setup/topics",
             "description": "Choose the 'Topics' of your interest",
-            "step": 1
+            "step": 2
         },
         {
             "name": "Current competencies",
@@ -14,15 +22,15 @@
             "enabled": true,
             "routerLink": "/app/setup/current-competencies",
             "description": "Choose your 'Current Competencies' you're skilled with",
-            "step": 2
+            "step": 3
         },
         {
             "name": "Desired competencies",
             "key": "desiredcompetencies",
             "enabled": true,
             "routerLink": "/app/setup/desired-competencies",
-            "description": "Choose the competencies you 'Dezire' to posess",
-            "step": 3
+            "description": "Choose the competencies you 'Desire' to possess",
+            "step": 4
         },
         {
             "name": "Platform walkthrough",
@@ -30,7 +38,7 @@
             "enabled": true,
             "routerLink": "/app/setup/platform-walkthrough",
             "description": "Watch the iGOT platform walkthrough",
-            "step": 4
+            "step": 5
         }
     ],
     "banner": {}

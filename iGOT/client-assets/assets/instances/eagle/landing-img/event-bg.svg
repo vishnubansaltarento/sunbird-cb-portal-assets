@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="378px" height="354px" viewBox="0 0 378 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 16</title>
+    <defs>
+        <linearGradient x1="94.0742121%" y1="61.7045066%" x2="3.45760171%" y2="61.7045066%" id="linearGradient-1">
+            <stop stop-color="#8B51D9" offset="0%"></stop>
+            <stop stop-color="#361B94" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Option----2-P" transform="translate(-941.000000, -3008.000000)">
+            <g id="Group-65" transform="translate(120.000000, 2554.000000)">
+                <g id="Group-64" transform="translate(0.000000, 68.000000)">
+                    <g id="Group-63" transform="translate(0.000000, 386.337110)">
+                        <g id="Group-16" transform="translate(821.000000, 0.000000)">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="378" height="352"></rect>
+                            <g id="Group-2" opacity="0.329999983" transform="translate(205.028986, 8.472000)">
+                                <polygon id="Path-5" fill="#8047CD" points="0 56.48 86.6667911 56.48 101.565217 0 15.654848 0"></polygon>
+                                <polygon id="Path-6" fill="#642DB0" points="101.333379 0 112.850242 42.36 90.2801932 42.36"></polygon>
+                            </g>
+                            <g id="Group-2-Copy-3" opacity="0.329999983" transform="translate(265.638411, 90.278913)">
+                                <polygon id="Path-5" fill="#8B5BCD" points="0 49.42 75.8334422 49.42 88.8695652 0 13.697992 0"></polygon>
+                                <polygon id="Path-6" fill="#532492" points="88.7142859 0.0890865416 98.7915403 36.8010865 79.042748 36.8010865"></polygon>
+                            </g>
+                            <path d="M38.0869565,353 C99.4108775,312.477651 145.936419,289.267584 177.663581,283.3698 C212.641075,276.867808 270.207811,284.997261 315.874855,268.843565 C337.679379,261.130702 358.16752,242.849513 377.339277,214 L377.339277,345 C377.339277,349.418278 373.757555,353 369.339277,353 L38.0869565,353 L38.0869565,353 Z" id="Path-2" fill="#7C00FF" opacity="0.200000003"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

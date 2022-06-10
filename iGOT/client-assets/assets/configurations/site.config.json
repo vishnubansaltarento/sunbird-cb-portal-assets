@@ -363,7 +363,8 @@
       "hubname": "Learn",
       "desc": "Shape your Skills with hunderds-of online course",
       "icon": "school",
-      "accessKey": "L"
+      "accessKey": "L",
+      "permission":["Admin"]
     },
     {
       "path": "/app/discuss/home",
@@ -371,7 +372,8 @@
       "hubname": "Discuss",
       "desc": "Have a question? Have an Idea? discuss with your peers",
       "icon": "forum",
-      "accessKey": "D"
+      "accessKey": "D",
+      "permission":[]
     },
     {
       "path": "/app/network-v2",
@@ -379,7 +381,8 @@
       "hubname": "Network",
       "desc": "Connect with Interesting people, see what they are upto.",
       "icon": "group",
-      "accessKey": "N"
+      "accessKey": "N",
+      "permission":[]
     },
     {
       "path": "/app/careers/home",
@@ -387,7 +390,8 @@
       "hubname": "Career",
       "desc": "Explore the carrier option grow into the path you are",
       "icon": "work",
-      "accessKey": "C"
+      "accessKey": "C",
+      "permission":[]
     },
     {
       "path": "/app/competencies",
@@ -395,7 +399,8 @@
       "hubname": "Competencies",
       "desc": "Add your competencies, see what others are adding",
       "icon": "extension",
-      "accessKey": "O"
+      "accessKey": "O",
+      "permission":[]
     },
     {
       "path": "/app/event-hub",
@@ -403,7 +408,8 @@
       "hubname": "Events",
       "desc": "Add your events",
       "icon": "event",
-      "accessKey": "E"
+      "accessKey": "E",
+      "permission":[]
     }
   ],
   "featuredApps": [],

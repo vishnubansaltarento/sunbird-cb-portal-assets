@@ -15,11 +15,7 @@
             "key": "rolesandactivities",
             "enabled": true,
             "routerLink": "/app/setup/roles",
-<<<<<<< HEAD
             "description": "Enter all your roles and activities to complete your profile",
-=======
-            "description": "Enter all your 'Role & Activities' to complete your profile",
->>>>>>> df8b4b707861d36527da5cd629834eedc9b60359
             "step": 2,
             "allowSkip": false
         },
@@ -28,11 +24,7 @@
             "key": "topics",
             "enabled": true,
             "routerLink": "/app/setup/topics",
-<<<<<<< HEAD
             "description": "Choose the topics of your interest",
-=======
-            "description": "Choose the 'Topics' of your interest",
->>>>>>> df8b4b707861d36527da5cd629834eedc9b60359
             "step": 3,
             "allowSkip": false
         },
@@ -41,11 +33,7 @@
             "key": "currentcompetencies",
             "enabled": true,
             "routerLink": "/app/setup/current-competencies",
-<<<<<<< HEAD
             "description": "Choose the 'current competencies' you are skilled with",
-=======
-            "description": "Choose your 'Current Competencies' you're skilled with",
->>>>>>> df8b4b707861d36527da5cd629834eedc9b60359
             "step": 4,
             "allowSkip": true
         },

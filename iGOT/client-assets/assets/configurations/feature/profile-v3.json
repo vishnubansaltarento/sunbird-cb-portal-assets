@@ -1,12 +1,23 @@
 {
     "tabs": [
         {
+            "name": "Welcome",
+            "key": "welcome",
+            "enabled": true,
+            "routerLink": "/app/setup/welcome",
+            "description": "Welcome to the Portal",
+            "largeDesc": [],
+            "step": 1,
+            "allowSkip": true
+        },
+        {
             "name": "Role & Activities",
             "key": "rolesandactivities",
             "enabled": true,
             "routerLink": "/app/setup/roles",
             "description": "Enter all your 'Role & Activities' to complete your profile",
-            "step": 1
+            "step": 2,
+            "allowSkip": false
         },
         {
             "name": "Topics",
@@ -14,7 +25,8 @@
             "enabled": true,
             "routerLink": "/app/setup/topics",
             "description": "Choose the 'Topics' of your interest",
-            "step": 2
+            "step": 3,
+            "allowSkip": false
         },
         {
             "name": "Current competencies",
@@ -22,7 +34,8 @@
             "enabled": true,
             "routerLink": "/app/setup/current-competencies",
             "description": "Choose your 'Current Competencies' you're skilled with",
-            "step": 3
+            "step": 4,
+            "allowSkip": true
         },
         {
             "name": "Desired competencies",
@@ -30,7 +43,8 @@
             "enabled": true,
             "routerLink": "/app/setup/desired-competencies",
             "description": "Choose the competencies you desire to possess",
-            "step": 4
+            "step": 5,
+            "allowSkip": true
         },
         {
             "name": "Platform walkthrough",
@@ -38,7 +52,8 @@
             "enabled": true,
             "routerLink": "/app/setup/platform-walkthrough",
             "description": "Watch the iGOT platform walkthrough",
-            "step": 5
+            "step": 6,
+            "allowSkip": true
         }
     ],
     "banner": {}

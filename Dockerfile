@@ -1,5 +1,5 @@
 ARG build_tag=latest
-FROM ui-static:$build_tag
+FROM igotregistry.azurecr.io/ui-static:$build_tag
 
 WORKDIR /app/dist
 COPY iGOT/client-assets/dist www/en/assets

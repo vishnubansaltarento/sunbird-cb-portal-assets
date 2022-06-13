@@ -17,18 +17,33 @@ node() {
             checkout scm
         }
 
-        stage('deploy') {
-            values = docker_params()
-            jobName = sh(returnStdout: true, script: "echo $JOB_NAME").split('/')[-1].trim().toLowerCase()
-            currentWs = sh(returnStdout: true, script: 'pwd').trim()
-            values.put('currentWs', currentWs)
-            values.put('ansiblePlaybook', ansiblePlaybook)
-            values.put('ansibleExtraArgs', ansibleExtraArgs)
-            archiveArtifacts 'metadata.json'
-            currentBuild.description = "Image: ${values.image_tag}, Private: ${params.private_branch}, Public: ${params.branch_or_tag}"
+        stage('build assets') {
+            sh('cd iGOT/client-assets && docker build -t assets . && docker run --name assets assets && docker cp assets:/usr/src/app/dist.zip . && docker rm -f assets && docker rmi -f assets && unzip dist.zip')
         }
-         summary()
-     }
+        
+        stage('tag-creation') {
+copyArtifacts projectName: params.absolute_job_path, flatten: true
+sh 'cat build_tag.txt'
+image_tag = sh(script: "cat build_tag.txt",returnStdout: true).trim()
+new_image_tag = sh(script: "echo " + image_tag + "_" + env.BUILD_NUMBER, returnStdout: true).trim()
+echo "build_tag: " + new_image_tag
+        }
+
+		stage('Build') {
+		// Docker build
+                env.NODE_ENV = "build"
+                print "Environment will be : ${env.NODE_ENV}"
+                sh('chmod 777 build.sh')
+                sh("bash -x build.sh ${build_tag} ${env.NODE_NAME} ${hub_org}")
+            }
+		  
+	      
+               stage('ArchiveArtifacts') {
+	       	   sh ("echo ${build_tag} > build_tag.txt")
+                   archiveArtifacts "metadata.json"		     
+                   currentBuild.description = "${build_tag}"
+                }
+    }
     catch (err) {
         currentBuild.result = "FAILURE"
         throw err

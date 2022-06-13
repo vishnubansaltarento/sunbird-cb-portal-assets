@@ -39,9 +39,8 @@ echo "build_tag: " + new_image_tag
 		  
 	      
                stage('ArchiveArtifacts') {
-	       	   sh ("echo ${build_tag} > build_tag.txt")
                    archiveArtifacts "metadata.json"		     
-                   currentBuild.description = "${build_tag}"
+                   currentBuild.description = "${new_image_tag}"
                 }
     }
     catch (err) {

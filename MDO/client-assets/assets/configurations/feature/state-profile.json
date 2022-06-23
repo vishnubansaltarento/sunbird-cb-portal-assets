@@ -12,7 +12,7 @@
         },
         {
             "name": "Institute profile",
-            "key": "instituteprofile",
+            "key": "instituteProfile",
             "enabled": true,
             "routerLink": "/app/setup/institute-profile",
             "description": "Enter all your roles and activities to complete your profile",
@@ -21,7 +21,7 @@
         },
         {
             "name": "Roles and functions",
-            "key": "rolesandfunctions",
+            "key": "rolesAndFunctions",
             "enabled": true,
             "routerLink": "/app/setup/roles-and-functions",
             "description": "Choose the topics of your interest",
@@ -39,7 +39,7 @@
         },
         {
             "name": "Training Programs",
-            "key": "trainingprograms",
+            "key": "trainingPrograms",
             "enabled": true,
             "routerLink": "/app/setup/training-programs",
             "description": "Choose the competencies you desire to possess",

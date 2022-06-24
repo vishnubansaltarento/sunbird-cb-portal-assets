@@ -23,7 +23,7 @@
             "name": "Roles and functions",
             "key": "rolesAndFunctions",
             "enabled": true,
-            "routerLink": "/app/setup/roles-and-functions",
+            "routerLink": "/app/setup/roles",
             "description": "Choose the topics of your interest",
             "step": 3,
             "allowSkip": true

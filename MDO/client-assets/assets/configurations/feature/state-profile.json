@@ -72,16 +72,8 @@
             "description": "Choose the competencies you desire to possess",
             "step": 8,
             "allowSkip": true
-        },
-        {
-            "name": "Platform walkthrough",
-            "key": "platformWalkthrough ",
-            "enabled": true,
-            "routerLink": "/app/setup/platform-walkthrough",
-            "description": "Watch the iGOT platform walkthrough",
-            "step": 9,
-            "allowSkip": true
         }
+      
     ],
     "banner": {}
 }

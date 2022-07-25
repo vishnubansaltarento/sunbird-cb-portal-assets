@@ -102,6 +102,21 @@
                         "mdo_admin",
                         "wat_member"
                     ]
+                },
+                {
+                    "name": "Organisation profile",
+                    "key": "orgProfile",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/setup",
+                    "requiredRoles": [
+                        "isInstuteOrg"
+                    ]
                 }
             ]
         }

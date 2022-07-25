@@ -334,7 +334,9 @@
       "name": "CBC Portal",
       "permission": [
         "cbc_admin",
-        "CBC_MEMBER"
+        "CBC_ADMIN",
+        "CBC_MEMBER",
+        "cbc_member"
       ],
       "show": true,
       "status": "live",
@@ -376,7 +378,8 @@
       "name": "SPV Portal",
       "permission": [
         "superAdmin",
-        "spv_admin"
+        "spv_admin",
+        "state_admin"
       ],
       "show": true,
       "status": "live",
@@ -734,6 +737,7 @@
       "name": "Portals",
       "toolTip": "Portals",
       "hasRole": [
+        "public",
         "admin",
         "editor",
         "content_publisher",

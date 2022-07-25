@@ -14,24 +14,6 @@
             "widget": {}
         },
         {
-            "name": "Career history",
-            "key": "CareerHistory",
-            "dataKey": "professionalDetails",
-            "render": true,
-            "badges": {
-                "enabled": false,
-                "uri": ""
-            },
-            "enabled": true,
-            "routerLink": ".",
-            "widget": {
-                "widgetType": "profilev2",
-                "widgetSubType": "career",
-                "widgetHostClass": "margin-bottom-l",
-                "widgetData": {}
-            }
-        },
-        {
             "name": "Certifications",
             "key": "certifications",
             "dataKey": "",
@@ -50,9 +32,9 @@
             }
         },
         {
-            "name": "Certifications and Skills",
-            "key": "cAnds",
-            "dataKey": "skills",
+            "name": "Career history",
+            "key": "CareerHistory",
+            "dataKey": "professionalDetails",
             "render": true,
             "badges": {
                 "enabled": false,
@@ -62,7 +44,7 @@
             "routerLink": ".",
             "widget": {
                 "widgetType": "profilev2",
-                "widgetSubType": "certifications",
+                "widgetSubType": "career",
                 "widgetHostClass": "margin-bottom-l",
                 "widgetData": {}
             }

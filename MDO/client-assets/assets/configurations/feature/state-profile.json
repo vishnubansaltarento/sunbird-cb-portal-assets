@@ -1,0 +1,79 @@
+{
+    "tabs": [
+        {
+            "name": "Welcome",
+            "key": "welcome",
+            "enabled": true,
+            "routerLink": "/app/setup/welcome",
+            "description": "Welcome to the Portal",
+            "largeDesc": [],
+            "step": 1,
+            "allowSkip": true
+        },
+        {
+            "name": "Institute profile",
+            "key": "instituteProfile",
+            "enabled": true,
+            "routerLink": "/app/setup/institute-profile",
+            "description": "Enter all your roles and activities to complete your profile",
+            "step": 2,
+            "allowSkip": true
+        },
+        {
+            "name": "Roles and functions",
+            "key": "rolesAndFunctions",
+            "enabled": true,
+            "routerLink": "/app/setup/roles",
+            "description": "Choose the topics of your interest",
+            "step": 3,
+            "allowSkip": true
+        },
+        {
+            "name": "Infrastructure",
+            "key": "infrastructure",
+            "enabled": true,
+            "routerLink": "/app/setup/infra",
+            "description": "Choose the 'current competencies' you are skilled with",
+            "step": 4,
+            "allowSkip": true
+        },
+        {
+            "name": "Training Programs",
+            "key": "trainingPrograms",
+            "enabled": true,
+            "routerLink": "/app/setup/training-programs",
+            "description": "Choose the competencies you desire to possess",
+            "step": 5,
+            "allowSkip": true
+        },
+        {
+            "name": "Research",
+            "key": "research",
+            "enabled": true,
+            "routerLink": "/app/setup/research",
+            "description": "Choose the competencies you desire to possess",
+            "step": 6,
+            "allowSkip": true
+        },
+        {
+            "name": "Consultancy",
+            "key": "consultancy",
+            "enabled": true,
+            "routerLink": "/app/setup/consultancy",
+            "description": "Choose the competencies you desire to possess",
+            "step": 7,
+            "allowSkip": true
+        },
+        {
+            "name": "Faculty",
+            "key": "faculty",
+            "enabled": true,
+            "routerLink": "/app/setup/faculty",
+            "description": "Choose the competencies you desire to possess",
+            "step": 8,
+            "allowSkip": true
+        }
+      
+    ],
+    "banner": {}
+}

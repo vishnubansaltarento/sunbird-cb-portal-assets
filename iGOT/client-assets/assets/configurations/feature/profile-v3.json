@@ -29,30 +29,12 @@
             "allowSkip": true
         },
         {
-            "name": "Current competencies",
-            "key": "currentcompetencies",
-            "enabled": true,
-            "routerLink": "/app/setup/current-competencies",
-            "description": "Choose the 'current competencies' you are skilled with",
-            "step": 4,
-            "allowSkip": true
-        },
-        {
-            "name": "Desired competencies",
-            "key": "desiredcompetencies",
-            "enabled": true,
-            "routerLink": "/app/setup/desired-competencies",
-            "description": "Choose the competencies you desire to possess",
-            "step": 5,
-            "allowSkip": true
-        },
-        {
             "name": "Platform walkthrough",
             "key": "platformWalkthrough ",
             "enabled": true,
             "routerLink": "/app/setup/platform-walkthrough",
             "description": "Watch the iGOT platform walkthrough",
-            "step": 6,
+            "step": 4,
             "allowSkip": true
         }
     ],

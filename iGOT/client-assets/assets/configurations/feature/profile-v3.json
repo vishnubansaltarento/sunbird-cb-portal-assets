@@ -4,6 +4,7 @@
             "name": "Welcome",
             "key": "welcome",
             "enabled": true,
+            "check": false,
             "routerLink": "/app/setup/welcome",
             "description": "Welcome to the Portal",
             "largeDesc": [],
@@ -12,8 +13,9 @@
         },
         {
             "name": "Role & Activities",
-            "key": "rolesandactivities",
+            "key": "userRoles",
             "enabled": true,
+            "check": false,
             "routerLink": "/app/setup/roles",
             "description": "Enter all your roles and activities to complete your profile",
             "step": 2,
@@ -21,20 +23,42 @@
         },
         {
             "name": "Topics",
-            "key": "topics",
+            "key": "desiredTopics",
             "enabled": true,
+            "check": false,
             "routerLink": "/app/setup/topics",
             "description": "Choose the topics of your interest",
             "step": 3,
             "allowSkip": true
         },
         {
+            "name": "Current competencies",
+            "key": "currentcompetencies",
+            "enabled": false,
+            "check": false,
+            "routerLink": "/app/setup/current-competencies",
+            "description": "Choose the 'current competencies' you are skilled with",
+            "step": 4,
+            "allowSkip": true
+        },
+        {
+            "name": "Desired competencies",
+            "key": "desiredcompetencies",
+            "enabled": false,
+            "check": true,
+            "routerLink": "/app/setup/desired-competencies",
+            "description": "Choose the competencies you desire to possess",
+            "step": 5,
+            "allowSkip": true
+        },
+        {
             "name": "Platform walkthrough",
             "key": "platformWalkthrough ",
             "enabled": true,
+            "check": false,
             "routerLink": "/app/setup/platform-walkthrough",
             "description": "Watch the iGOT platform walkthrough",
-            "step": 4,
+            "step": 6,
             "allowSkip": true
         }
     ],

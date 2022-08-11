@@ -80,6 +80,25 @@
     "primaryCategory": "Learning Resource"
   },
   {
+    "id": "Survery_link",
+    "parent": "resource",
+    "name": "Survey link",
+    "icon": "insert_link",
+    "available": true,
+    "enabled": true,
+    "contentType": "Resource",
+    "mimeType": "application/survey",
+    "additionalMeta": {
+      "isExternal": true
+    },
+    "hasRole": [
+      "content_creator",
+      "editor",
+      "admin"
+    ],
+    "primaryCategory": "Learning Resource"
+  },
+  {
     "id": "webModule",
     "parent": "resource",
     "name": "Webpage",

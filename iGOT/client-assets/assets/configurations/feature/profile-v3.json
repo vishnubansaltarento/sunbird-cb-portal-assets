@@ -17,7 +17,7 @@
             "routerLink": "/app/setup/roles",
             "description": "Enter all your roles and activities to complete your profile",
             "step": 2,
-            "allowSkip": false
+            "allowSkip": true
         },
         {
             "name": "Topics",
@@ -26,7 +26,7 @@
             "routerLink": "/app/setup/topics",
             "description": "Choose the topics of your interest",
             "step": 3,
-            "allowSkip": false
+            "allowSkip": true
         },
         {
             "name": "Current competencies",

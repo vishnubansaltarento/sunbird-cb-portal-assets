@@ -23,7 +23,7 @@
         },
         {
             "name": "Topics",
-            "key": "desiredTopics",
+            "key": "systemTopics",
             "enabled": true,
             "check": true,
             "routerLink": "/app/setup/topics",

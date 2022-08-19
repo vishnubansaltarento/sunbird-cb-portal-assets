@@ -15,21 +15,21 @@
             "name": "Role & Activities",
             "key": "userRoles",
             "enabled": true,
-            "check": false,
+            "check": true,
             "routerLink": "/app/setup/roles",
             "description": "Enter all your roles and activities to complete your profile",
             "step": 2,
-            "allowSkip": true
+            "allowSkip": false
         },
         {
             "name": "Topics",
-            "key": "desiredTopics",
+            "key": "systemTopics",
             "enabled": true,
-            "check": false,
+            "check": true,
             "routerLink": "/app/setup/topics",
             "description": "Choose the topics of your interest",
             "step": 3,
-            "allowSkip": true
+            "allowSkip": false
         },
         {
             "name": "Current competencies",

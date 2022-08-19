@@ -89,6 +89,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -185,6 +211,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -297,6 +349,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -403,6 +481,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -524,6 +628,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -631,6 +761,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -746,6 +902,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -850,6 +1032,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -962,6 +1170,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -1066,6 +1300,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -1210,6 +1470,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -1315,6 +1601,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -1459,6 +1771,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -1566,6 +1904,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -1721,6 +2085,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -1822,6 +2212,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -1934,6 +2350,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -2030,6 +2472,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -2134,6 +2602,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -2230,6 +2724,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -2334,6 +2854,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -2434,6 +2980,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -2530,6 +3102,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -2644,6 +3242,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -2754,6 +3378,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -2850,6 +3500,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -2954,6 +3630,32 @@
           },
           "value": null
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": null
+        }
       ]
     },
     "disabledFor": {},
@@ -3050,6 +3752,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -3175,6 +3903,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -3291,6 +4045,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -3398,6 +4178,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -3494,6 +4300,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -3616,6 +4448,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -3712,6 +4570,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -3816,6 +4700,32 @@
           },
           "value": "0"
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": "0"
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": "0"
+        }
       ]
     },
     "disabledFor": {},
@@ -3833,7 +4743,9 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "SelfAssess": [],
+      "PracticeResource": []
     },
     "type": "number"
   },
@@ -3923,6 +4835,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -4023,6 +4961,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -4343,6 +5307,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -4449,6 +5439,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -4563,6 +5579,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -4667,6 +5709,32 @@
           "condition": {
             "mimeType": [
               "application/html"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -4788,6 +5856,32 @@
           "condition": {
             "mimeType": [
               "application/html"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -5342,6 +6436,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -5446,6 +6566,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -5562,6 +6708,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -5684,6 +6856,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -5793,6 +6991,32 @@
           "condition": {
             "mimeType": [
               "application/html"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -5910,6 +7134,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6011,6 +7261,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -6141,6 +7417,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6246,6 +7548,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6342,6 +7670,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -6472,6 +7826,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6573,6 +7953,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -6772,6 +8178,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6877,6 +8309,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6978,6 +8436,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -7098,6 +8582,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -7214,6 +8724,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -7319,6 +8855,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -7440,6 +9002,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -7552,6 +9140,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -7672,6 +9286,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -7788,6 +9428,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -7900,6 +9566,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -8021,6 +9713,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -8137,6 +9855,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -8247,6 +9991,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -8347,6 +10117,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -8443,6 +10239,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -8566,6 +10388,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -8662,6 +10510,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -8878,6 +10752,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -8994,6 +10894,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -9106,6 +11032,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -9354,6 +11306,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -9450,6 +11428,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -9694,6 +11698,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -9790,6 +11820,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -9908,6 +11964,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -10019,6 +12101,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -10139,6 +12247,32 @@
           },
           "value": []
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -10255,6 +12389,32 @@
           },
           "value": ""
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -10351,6 +12511,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []
@@ -10473,6 +12659,32 @@
           },
           "value": null
         }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": null
+        }
       ]
     },
     "disabledFor": {},
@@ -10569,6 +12781,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": ""
@@ -10685,6 +12923,32 @@
             ],
             "primaryCategory": [
               "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "PracticeResource": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "SelfAssess": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
             ]
           },
           "value": []

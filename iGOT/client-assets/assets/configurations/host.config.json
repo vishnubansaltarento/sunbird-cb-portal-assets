@@ -121,9 +121,11 @@
         "channel": "",
         "batchsize": 10,
         "host": "",
-        "endpoint": "/apis/protected/v8/user/telemetry",
+        "endpoint": "/api/data/v1/public/telemetry",
         "apislug": "",
-        "object": {}
+        "object": {},
+        "publicEndpoint": "/api/data/v1/public/telemetry",
+        "protectedEndpoint": "/apis/protected/v8/user/telemetry"
     },
     "themes": [
         {

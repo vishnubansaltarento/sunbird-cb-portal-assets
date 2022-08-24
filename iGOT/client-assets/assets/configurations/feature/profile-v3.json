@@ -34,7 +34,7 @@
         {
             "name": "Current competencies",
             "key": "currentcompetencies",
-            "enabled": false,
+            "enabled": true,
             "check": false,
             "routerLink": "/app/setup/current-competencies",
             "description": "Choose the 'current competencies' you are skilled with",
@@ -44,7 +44,7 @@
         {
             "name": "Desired competencies",
             "key": "desiredcompetencies",
-            "enabled": false,
+            "enabled": true,
             "check": true,
             "routerLink": "/app/setup/desired-competencies",
             "description": "Choose the competencies you desire to possess",

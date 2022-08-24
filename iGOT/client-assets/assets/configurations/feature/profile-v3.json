@@ -45,7 +45,7 @@
             "name": "Desired competencies",
             "key": "desiredCompetencies",
             "enabled": true,
-            "check": true,
+            "check": false,
             "routerLink": "/app/setup/desired-competencies",
             "description": "Choose the competencies you desire to possess",
             "step": 5,

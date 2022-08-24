@@ -33,7 +33,7 @@
         },
         {
             "name": "Current competencies",
-            "key": "currentcompetencies",
+            "key": "competencies",
             "enabled": true,
             "check": false,
             "routerLink": "/app/setup/current-competencies",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Desired competencies",
-            "key": "desiredcompetencies",
+            "key": "desiredCompetencies",
             "enabled": true,
             "check": true,
             "routerLink": "/app/setup/desired-competencies",

@@ -34,7 +34,7 @@
             "strips": [
               {
                 "key": "latest",
-                "title": "Featured Courses",
+                "title": "Featured courses",
                 "info": {
                   "mode": "below",
                   "visibilityMode": "hidden",

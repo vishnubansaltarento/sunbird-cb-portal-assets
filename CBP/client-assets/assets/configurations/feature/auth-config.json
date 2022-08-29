@@ -278,6 +278,23 @@
           ]
         },
         {
+          "name": "Surveys",
+          "key": "Surveys",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": false,
+          "routerLink": "/author/surveys",
+          "requiredRoles": [
+            "content_creator",
+            "content_reviewer",
+            "content_publisher"
+          ]
+        },
+        {
           "name": "Policies",
           "key": "policies",
           "fragment": false,

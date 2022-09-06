@@ -63,12 +63,12 @@
                 "name": "Moderation",
                 "key": "moderation",
                 "fragment": false,
-                "render": true,
+                "render": false,
                 "badges": {
                     "enabled": false,
                     "uri": ""
                 },
-                "enabled": true,
+                "enabled": false,
                 "routerLink": "/app/home/moderation",
                 "requiredRoles": [
                     "SPV_ADMIN",

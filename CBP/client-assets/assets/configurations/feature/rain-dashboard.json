@@ -16,5 +16,6 @@
     "dashboardForKarmayogi": "/apis/proxies/v8/dashboard/analytics/getDashboardConfig/Karmayogi",
     "dashboardForProfile": "/apis/proxies/v8/dashboard/analytics/getDashboardsForProfile/Karmayogi",
     "chartForKarmayogi": "/apis/proxies/v8/dashboard/analytics/getChartV2/Karmayogi",
-    "portal": "cbp"
+    "portal": "cbp",
+    "realm": "ca"
 }

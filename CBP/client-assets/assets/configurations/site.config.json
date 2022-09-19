@@ -264,6 +264,19 @@
           }
         },
         {
+          "type": "featureButton",
+          "config": {
+            "actionBtnId": "feature_rainDashboard",
+            "toolTip": "Rain Dashboard",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_rainDashboard",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "widgetButton",
           "config": {
             "widgetType": "actionButton",

@@ -184,6 +184,25 @@
       "url": "/app/home/directory",
       "shortName": "Home"
     },
+    "feature_rainDashboard": {
+      "accessKey": "",
+      "icon": "bar_chart",
+      "iconType": "mat-icon",
+      "id": "feature_rainDashboard",
+      "keywords": [
+        "rain",
+        "dashboard"
+      ],
+      "name": "Rain Dashboard",
+      "permission": [
+        "ABOUT_US"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Rain Dashboard",
+      "url": "/app/my-dashboard",
+      "shortName": "RD"
+    },
     "feature_badges": {
       "accessKey": "",
       "icon": "stars",
@@ -258,7 +277,7 @@
       "status": "live",
       "toolTip": "Frac",
       "shortName": "Frac",
-      "url": "https://frac-dictionary.igot-dev.in/"      
+      "url": "https://frac-dictionary.igot-dev.in/"
     },
     "feature_cbp": {
       "accessKey": "",
@@ -630,9 +649,10 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": ["none"]
+      "hasRole": [
+        "none"
+      ]
     },
-
     {
       "featureIds": [
         "feature_admin"

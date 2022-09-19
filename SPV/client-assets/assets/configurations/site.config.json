@@ -324,11 +324,11 @@
         {
           "type": "featureButton",
           "config": {
-            "actionBtnId": "feature_notification",
-            "toolTip": "Notification",
+            "actionBtnId": "feature_rainDashboard",
+            "toolTip": "Rain Dashboard",
             "className": "fixtopMargin",
             "config": {
-              "actionBtnId": "feature_notification",
+              "actionBtnId": "feature_rainDashboard",
               "type": "card-mini",
               "hideTitle": true
             }
@@ -340,9 +340,9 @@
             "widgetType": "actionButton",
             "widgetSubType": "actionButtonProfile",
             "widgetData": {
-              "disableViewProfile" : true,
-              "disableAllFeatures" : true,
-              "disableSettings" : true
+              "disableViewProfile": true,
+              "disableAllFeatures": true,
+              "disableSettings": true
             },
             "hideTitle": true
           }

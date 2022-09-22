@@ -21,7 +21,8 @@
                     "primaryCategory",
                     "mimeType",
                     "source"
-                ]
+                ],
+                "fuzzy": true
             }
         },
         "defaultsearch": [

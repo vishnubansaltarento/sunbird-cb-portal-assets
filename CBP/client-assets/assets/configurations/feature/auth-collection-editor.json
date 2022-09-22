@@ -130,21 +130,18 @@
           "conditions": {
             "fit": [
               {
-                "contentType": [
-                  "PracticeQuestionSet"
-                ],
-                "primaryCategory": ["Practice Question Set"]
+                "primaryCategory": ["Course Assessment"]
               }
             ]
           },
-          "name": "Practice Assessment",
-          "primaryCategory": "Practice Question Set",
+          "name": "Final Assessment",
+          "primaryCategory": "Course Assessment",
           "position": "",
-          "description": "Create a practice assesment content",
+          "description": "Create a final assesment content",
           "icon": "playlist_add_check",
           "minimum": 0,
-          "maximum": 0,
-          "enabled": true
+          "maximum": 1,
+          "enabled": false
         }
       ],
       "allowCreation": true,
@@ -233,6 +230,23 @@
           "minimum": 0,
           "maximum": 0,
           "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": false
         }
       ],
       "allowCreation": true,
@@ -276,7 +290,7 @@
           "description": "Add a collection of course to your program.",
           "position": "",
           "icon": "library_add",
-          "minimum": 2,
+          "minimum": 1,
           "maximum": 0,
           "enabled": true
         },

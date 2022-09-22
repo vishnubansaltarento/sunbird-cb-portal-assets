@@ -15,7 +15,13 @@
                     "uri": ""
                 },
                 "enabled": true,
-                "routerLink": "/app/home/directory"
+                "routerLink": "/app/home/directory",
+                "requiredRoles": [
+                    "SPV_ADMIN",
+                    "STATE_ADMIN",
+                    "spv_admin",
+                    "state_admin"
+                ]
             },
             {
                 "name": "Users",
@@ -27,7 +33,13 @@
                     "uri": ""
                 },
                 "enabled": true,
-                "routerLink": "/app/home/users"
+                "routerLink": "/app/home/users",
+                "requiredRoles": [
+                    "SPV_ADMIN",
+                    "STATE_ADMIN",
+                    "spv_admin",
+                    "state_admin"
+                ]
             },
             {
                 "name": "Roles and access",
@@ -39,19 +51,29 @@
                     "uri": ""
                 },
                 "enabled": true,
-                "routerLink": "/app/home/roles-access"
+                "routerLink": "/app/home/roles-access",
+                "requiredRoles": [
+                    "SPV_ADMIN",
+                    "STATE_ADMIN",
+                    "spv_admin",
+                    "state_admin"
+                ]
             },
             {
                 "name": "Moderation",
                 "key": "moderation",
                 "fragment": false,
-                "render": true,
+                "render": false,
                 "badges": {
                     "enabled": false,
                     "uri": ""
                 },
-                "enabled": true,
-                "routerLink": "/app/home/moderation"
+                "enabled": false,
+                "routerLink": "/app/home/moderation",
+                "requiredRoles": [
+                    "SPV_ADMIN",
+                    "spv_admin"
+                ]
             }
         ]
     }

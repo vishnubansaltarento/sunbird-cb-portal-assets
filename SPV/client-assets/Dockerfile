@@ -13,7 +13,9 @@ RUN apk add --update --no-cache \
   nasm \
   libjpeg-turbo-dev \
   zip
+RUN npm install 
 RUN npm install jpegtran-bin
-RUN npm install && npm run build
+RUN npm rebuild jpegtran-bin
+RUN npm run build
 
 RUN zip -r dist.zip dist

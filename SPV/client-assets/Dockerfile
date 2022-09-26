@@ -3,7 +3,7 @@ FROM node:alpine
 WORKDIR /usr/src/app
 
 COPY . .
-RUN apt update && apt install -y zip
+#RUN apt update && apt install -y zip
 RUN apk add --update --no-cache \
   make \
   g++ \
@@ -11,7 +11,8 @@ RUN apk add --update --no-cache \
   autoconf \
   libtool \
   nasm \
-  libjpeg-turbo-dev
+  libjpeg-turbo-dev \
+  zip
 RUN npm install jpegtran-bin
 RUN npm install && npm run build
 

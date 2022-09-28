@@ -141,6 +141,23 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
           "enabled": false
         }
       ],
@@ -246,7 +263,7 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 0,
-          "enabled": false
+          "enabled": true
         }
       ],
       "allowCreation": true,

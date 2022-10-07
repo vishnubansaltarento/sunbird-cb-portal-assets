@@ -60,7 +60,8 @@
         "learning": "What do you want to learn?"
       },
       "languageSearch": [
-        "EN"
+        "EN",
+        "HI"
       ],
       "missalaneous": {
         "tabsToAdd": {}

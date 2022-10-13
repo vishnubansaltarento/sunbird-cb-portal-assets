@@ -286,12 +286,13 @@
             "enabled": false,
             "uri": ""
           },
-          "enabled": false,
+          "enabled": true,
           "routerLink": "/author/surveys",
           "requiredRoles": [
-            "content_creator",
-            "content_reviewer",
-            "content_publisher"
+            "admin",
+            "super-admin",
+            "content-admin",
+            "content_creator"
           ]
         },
         {

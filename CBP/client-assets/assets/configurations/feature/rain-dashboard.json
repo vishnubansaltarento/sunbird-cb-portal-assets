@@ -1,0 +1,21 @@
+{
+    "mapFilePath": "/assets/configurations/feature/IndiaDistrict_Updated_21_05_2020.json",
+    "dashboardEmptyData": {
+        "showFilters": "false",
+        "showWidgets": "false",
+        "widgetTitle": "Under construction!",
+        "showWidgetTitle": "true",
+        "showMessage": "true",
+        "messageType": "warning",
+        "message": "Please note that the data shown here is not actual and is only intended to showcase the capability of the platform until the actual usage begins.",
+        "filtersDetails": [],
+        "visualizationDetails": [],
+        "chartDetails": [],
+        "widgetData": []
+    },
+    "dashboardForKarmayogi": "/apis/proxies/v8/dashboard/analytics/getDashboardConfig/Karmayogi",
+    "dashboardForProfile": "/apis/proxies/v8/dashboard/analytics/getDashboardsForProfile/Karmayogi",
+    "chartForKarmayogi": "/apis/proxies/v8/dashboard/analytics/getChartV2/Karmayogi",
+    "portal": "cbp",
+    "realmCa": "ca"
+}

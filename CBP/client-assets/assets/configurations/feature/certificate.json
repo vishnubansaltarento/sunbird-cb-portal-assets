@@ -1,5 +1,15 @@
 {
     "addCertificate": {
+        "issuer": {
+            "name": "in",
+            "url": "https://diksha.gov.in/gj/"
+        },
+        "signatoryList": {
+            "image": "https://diksha.gov.in/gj/header-logo.png",
+            "name": "Govt Of India",
+            "id": "in",
+            "designation": "Home Minister",
+        },
         "notifyTemplate": {
             "emailTemplateType": "defaultCertTemp",
             "subject": "Completion certificate",

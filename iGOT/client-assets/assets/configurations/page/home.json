@@ -243,8 +243,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "recommendedCourses",
-                    "title": "Recommended for you",
+                    "key": "microsoftCourses",
+                    "title": "Microsoft Courses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -256,18 +256,8 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your competencies.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Microsoft Courses.</p>"
                         }
-                      }
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "{\"filterPanel\": [\"hide\"]}",
-                        "p": "Trending",
-                        "f": ""
                       }
                     },
                     "stripConfig": {
@@ -276,7 +266,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "recommendedCourses": {
+                      "microsoftCourses": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -285,7 +275,19 @@
                             "contentType": [
                               "Course"
                             ],
-                            "competencies_v3.name": []
+                            "topics": [],
+                            "identifier": [
+                              "do_11363681506771763211021",
+                              "do_1136364937253437441916",
+                              "do_11363713310963302411102",
+                              "do_11363681497528729611020",
+                              "do_11363681532438937611023",
+                              "do_11363681521371545611022",
+                              "do_11363681486120550411019",
+                              "do_1136364244148060161889",
+                              "do_11363718571504435211132",
+                              "do_11363716750940569611119"
+                            ]
                           },
                           "offset": 0,
                           "limit": 10,
@@ -321,12 +323,6 @@
                             "version"
                           ]
                         }
-                      },
-                      "masterCompetency": {
-                        "request": {
-                          "url": "/assets/common",
-                          "filename": "master-competencies.json"
-                        }
                       }
                     }
                   }
@@ -345,8 +341,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "basedOnInterest",
-                    "title": "Based on your interests",
+                    "key": "DAKSHTACourses",
+                    "title": "DAKSHTA Courses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -358,18 +354,8 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your interests.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">DAKSHTA Courses.</p>"
                         }
-                      }
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "{\"filterPanel\": [\"hide\"]}",
-                        "p": "Trending",
-                        "f": ""
                       }
                     },
                     "stripConfig": {
@@ -378,7 +364,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "basedOnInterest": {
+                      "DAKSHTACourses": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -387,7 +373,20 @@
                             "contentType": [
                               "Course"
                             ],
-                            "topics": []
+                            "topics": [],
+                            "identifier": [
+                              "do_1135948071783301121144",
+                              "do_1135948534007070721153",
+                              "do_113570024197103616141",
+                              "do_113467516368257024123",
+                              "do_1134693696236748801441",
+                              "do_11359618144357580811",
+                              "do_1134970386480578561102",
+                              "do_1135947505370890241121",
+                              "do_113555025323122688119",
+                              "do_113555072212344832131",
+                              "do_1134655011921100801100"
+                            ]
                           },
                           "offset": 0,
                           "limit": 10,

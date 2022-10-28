@@ -1,0 +1,111 @@
+{
+    "tabs": [
+        {
+            "name": "Your competencies",
+            "key": "YourCompetencies",
+            "dataKey": "",
+            "render": true,
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/competencies/home"
+        },
+        {
+            "name": "All competencies",
+            "key": "AllCompetencies",
+            "dataKey": "",
+            "render": true,
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/competencies/all"
+        },
+        {
+            "name": "Desired competencies",
+            "key": "DesiredCompetencies",
+            "dataKey": "",
+            "render": true,
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": false,
+            "routerLink": "/app/competencies/desired"
+        }
+    ],
+    "banner": {
+        "widgetType": "slider",
+        "widgetSubType": "sliderBanners",
+        "style": {
+            "border-radius": "12px"
+        },
+        "widgetData": [
+            {
+                "banners": {
+                    "l": "assets/instances/eagle/banners/hubs/competencies/l.jpg",
+                    "m": "assets/instances/eagle/banners/hubs/competencies/m.jpg",
+                    "s": "assets/instances/eagle/banners/hubs/competencies/s.jpg",
+                    "xl": "assets/instances/eagle/banners/hubs/competencies/xl.jpg",
+                    "xs": "assets/instances/eagle/banners/hubs/competencies/xs.jpg",
+                    "xxl": "assets/instances/eagle/banners/hubs/competencies/xxl.jpg"
+                }
+            }
+        ]
+    },
+    "relatedCBP": {
+        "widgetType": "contentStrip",
+        "widgetSubType": "contentStripMultiple",
+        "widgetData": {
+            "strips": [
+                {
+                    "key": "relatedCBP",
+                    "title": "Related CBP's",
+                    "titleDescription": "Related CBPs",
+                    "info": {
+                        "mode": "below",
+                        "visibilityMode": "hidden",
+                        "icon": {
+                            "icon": "info",
+                            "scale": 0.8
+                        },
+                        "widget": {
+                            "widgetType": "element",
+                            "widgetSubType": "elementHtml",
+                            "widgetData": {
+                                "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                            }
+                        }
+                    },
+                    "stripConfig": {
+                        "cardSubType": "standard",
+                        "postCardForSearch": true
+                    },
+                    "viewMoreUrl": {
+                        "path": "/app/globalsearch",
+                        "queryParams": {
+                            "tab": "Learn",
+                            "q": "",
+                            "p": "Trending"
+                        }
+                    },
+                    "filters": [],
+                    "request": {
+                        "comprelatedCbp": {
+                            "path": "/apis/proxies/v8/sunbirdigot/search",
+                            "queryParams": {
+                                "orgdetails": "orgName,email",
+                                "licenseDetails": "name,description,url",
+                                "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,primaryCategory,trackable",
+                                "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

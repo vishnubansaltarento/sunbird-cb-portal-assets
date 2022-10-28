@@ -14,7 +14,10 @@
                     "clickUrl": "/page/home",
                     "text": "Home"
                   },
-{"text": "Channels","clickUrl": "/page/lex_auth_0128445903107194886"},
+                  {
+                    "text": "Channels",
+                    "clickUrl": "/page/lex_auth_0128445903107194886"
+                  },
                   {
                     "text": "IT going forward"
                   }

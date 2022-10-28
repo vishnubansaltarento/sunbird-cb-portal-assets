@@ -1,0 +1,146 @@
+{
+    "search": {
+        "visibleFilters": {
+            "learningMode": {
+                "displayName": "Mode"
+            },
+            "duration": {
+                "displayName": "Duration"
+            },
+            "contentType": {
+                "displayName": "Content Type"
+            },
+            "exclusiveContent": {
+                "displayName": "Costs"
+            },
+            "complexityLevel": {
+                "displayName": "Level"
+            },
+            "catalogPaths": {
+                "displayName": "Catalog",
+                "order": [
+                    {
+                        "_key": "asc"
+                    }
+                ]
+            },
+            "sourceShortName": {
+                "displayName": "Source"
+            },
+            "resourceType": {
+                "displayName": "Format"
+            },
+            "region": {
+                "displayName": "Region"
+            },
+            "concepts": {
+                "displayName": "Concepts"
+            },
+            "lastUpdatedOn": {
+                "displayName": "Published Date"
+            }
+        },
+        "tabs": [
+            {
+                "searchQuery": {
+                    "filters": {},
+                    "advancedFilters": []
+                },
+                "phraseSearch": false,
+                "acrossPreferredLang": true,
+                "isStandAlone": false,
+                "title": "Learning",
+                "titleKey": "learning"
+            }
+        ],
+        "routeValue": [
+            "learning"
+        ],
+        "placeHolder": {
+            "learning": "What do you want to learn?"
+        },
+        "languageSearch": [
+            "EN",
+            "HI"
+        ],
+        "missalaneous": {
+            "tabsToAdd": {}
+        },
+        "suggestedFilters": []
+    },
+    "defaultsearch": [
+        {
+            "values": [
+                {
+                    "name": "program",
+                    "count": 0
+                },
+                {
+                    "name": "course",
+                    "count": 0
+                },
+                {
+                    "name": "learning resource",
+                    "count": 0
+                }
+            ],
+            "name": "primaryCategory",
+            "displayname": "Content type"
+        },
+        {
+            "values": [
+                {
+                    "name": "application/vnd.ekstep.html-archive",
+                    "count": 0
+                },
+                {
+                    "name": "image/png",
+                    "count": 0
+                },
+                {
+                    "name": "text/x-url",
+                    "count": 0
+                },
+                {
+                    "name": "application/json",
+                    "count": 0
+                },
+                {
+                    "name": "application/pdf",
+                    "count": 0
+                },
+                {
+                    "name": "image/jpeg",
+                    "count": 0
+                },
+                {
+                    "name": "application/vnd.ekstep.content-collection",
+                    "count": 0
+                },
+                {
+                    "name": "application/vnd.ekstep.ecml-archive",
+                    "count": 0
+                },
+                {
+                    "name": "video/x-youtube",
+                    "count": 0
+                },
+                {
+                    "name": "video/mp4",
+                    "count": 0
+                },
+                {
+                    "name": "audio/mpeg",
+                    "count": 0
+                }
+            ],
+            "name": "mimeType",
+            "displayname": "Resource type"
+        },
+        {
+            "values": [],
+            "name": "source",
+            "displayname": "Providers"
+        }
+    ]
+}

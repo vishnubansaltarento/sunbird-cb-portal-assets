@@ -1,0 +1,15 @@
+{
+    "contentType": "Page",
+    "navigationBar": {
+        "pageBackLink": "/app/features",
+        "pageTitle": "Project Stack"
+    },
+    "pageLayout": {
+        "widgetData": {
+            "iframeSrc": "https://lab42.idemo-ppc.com/projectstack",
+            "Title": "Project Stack"
+        },
+        "widgetSubType": "pageEmbedded",
+        "widgetType": "page"
+    }
+}

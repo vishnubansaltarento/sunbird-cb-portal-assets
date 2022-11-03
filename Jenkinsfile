@@ -18,7 +18,7 @@ node() {
         }
 
         stage('build assets') {
-            sh('cd iGOT/client-assets && docker build -t assets . && docker run --name assets assets && docker cp assets:/usr/src/app/dist.zip . && docker rm -f assets && docker rmi -f assets && unzip dist.zip')
+            sh('cd $portal_dir/client-assets && docker build -t assets . && docker run --name assets assets && docker cp assets:/usr/src/app/dist.zip . && docker rm -f assets && docker rmi -f assets && unzip dist.zip')
         }
         
         stage('tag-creation') {

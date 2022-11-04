@@ -34,7 +34,7 @@ echo "build_tag: " + new_image_tag
                 env.NODE_ENV = "build"
                 print "Environment will be : ${env.NODE_ENV}"
                 sh('chmod 777 build.sh')
-			sh("bash -x build.sh ${new_image_tag} ${env.NODE_NAME} ${hub_org} ${image_tag}")
+			sh("bash -x build.sh ${new_image_tag} ${image_name} ${env.NODE_NAME} ${hub_org} ${image_tag}")
             }
 		  
 	      

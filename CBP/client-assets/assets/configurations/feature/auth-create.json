@@ -65,7 +65,7 @@
     "name": "Create an assessment",
     "icon": "playlist_add_check",
     "available": true,
-    "enabled": false,
+    "enabled": true,
     "contentType": "Resource",
     "mimeType": "application/json",
     "additionalMeta": {

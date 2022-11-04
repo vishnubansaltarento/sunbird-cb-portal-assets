@@ -13,8 +13,7 @@
         "notifyTemplate": {
             "emailTemplateType": "defaultCertTemp",
             "subject": "Completion certificate",
-            "regards": "Minister of Gujarat",
-            "regardsperson": "Chairperson"
+            "regards": "iGOT Support Team"
         }
     }
 }

@@ -75,7 +75,7 @@ const build = gulp.series(
     uglifyScripts,
     minimizeJSON,
     minimizeCss,
-    // minimizeImages,
+    minimizeImages,
 );
 
 exports.default = build;

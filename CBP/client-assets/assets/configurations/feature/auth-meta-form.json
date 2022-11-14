@@ -47,6 +47,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -168,6 +181,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -307,6 +333,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -438,6 +477,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -586,6 +638,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -718,6 +783,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -860,6 +938,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -989,6 +1080,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -1128,6 +1232,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1257,6 +1374,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -1428,6 +1558,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1558,6 +1701,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -1729,6 +1885,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1861,6 +2030,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -2043,6 +2225,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2169,6 +2364,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -2308,6 +2516,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2429,6 +2650,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -2560,6 +2794,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2681,6 +2928,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -2812,6 +3072,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2938,6 +3211,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3059,6 +3345,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -3200,6 +3499,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3336,6 +3648,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3457,6 +3782,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -3588,6 +3926,19 @@
           "value": null
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": null
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3709,6 +4060,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -3861,6 +4225,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4003,6 +4380,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4136,6 +4526,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4257,6 +4660,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -4406,6 +4822,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4532,6 +4961,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4645,7 +5087,7 @@
           "value": "0"
         }
       ],
-      "Course": [
+            "Course": [
         {
           "condition": {
             "contentType": [
@@ -4653,6 +5095,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": "0"
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": "0"
@@ -4797,6 +5252,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4923,6 +5391,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5044,6 +5525,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": false
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": false
@@ -5265,6 +5759,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5396,6 +5903,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -5537,6 +6057,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5658,6 +6191,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -5810,6 +6356,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5952,6 +6511,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": true
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": true
@@ -6178,6 +6750,19 @@
           "value": false
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": false
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6286,6 +6871,19 @@
           "value": true
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": true
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6389,6 +6987,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -6523,6 +7134,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -6670,6 +7294,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6801,6 +7438,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -6945,6 +7595,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -7084,6 +7747,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -7218,6 +7894,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -7367,6 +8056,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -7506,6 +8208,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -7627,6 +8342,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -7776,6 +8504,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -7915,6 +8656,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -8036,6 +8790,19 @@
           "value": 0
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
       "Knowledge Artifact": [
         {
           "con": {
@@ -8131,6 +8898,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -8267,6 +9047,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -8393,6 +9186,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -8540,6 +9346,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -8682,6 +9501,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -8812,6 +9644,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -8960,6 +9805,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -9097,6 +9955,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -9244,6 +10115,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -9386,6 +10270,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -9523,6 +10420,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -9671,6 +10581,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -9813,6 +10736,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -9949,6 +10885,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -10075,6 +11024,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -10196,6 +11158,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -10346,6 +11321,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -10467,6 +11455,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -10598,6 +11599,19 @@
           "value": 0
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -10705,6 +11719,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -10852,6 +11879,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -10989,6 +12029,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -11264,6 +12317,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -11385,6 +12451,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -11556,6 +12635,19 @@
           "value": 0
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -11651,6 +12743,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -11777,6 +12882,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -11922,6 +13040,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -12058,6 +13189,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -12205,6 +13349,19 @@
           "value": []
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -12347,6 +13504,19 @@
           "value": ""
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -12468,6 +13638,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []
@@ -12617,6 +13800,19 @@
           "value": null
         }
       ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": null
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -12738,6 +13934,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": ""
@@ -12880,6 +14089,19 @@
             ],
             "primaryCategory": [
               "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
             ]
           },
           "value": []

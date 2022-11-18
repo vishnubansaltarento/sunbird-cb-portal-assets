@@ -453,7 +453,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Newly added courses.</p>"
                         }
                       }
                     },

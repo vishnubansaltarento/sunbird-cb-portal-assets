@@ -192,7 +192,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -289,7 +289,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -483,7 +483,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"

@@ -1,7 +1,7 @@
-ARG build_image=igot_reg
+ARG build_image=igot-rog
 ARG build_tag=latest
 
-FROM $build_image/ui-spv-igot:$build_tag
+FROM $org/ui-spv-igot:$build_tag
 
 WORKDIR /app/dist
 COPY SPV/client-assets/dist www/en/assets

@@ -1,5 +1,6 @@
+ARG org=igot-rog
 ARG build_tag=latest
-FROM igotregistry.azurecr.io/ui-cbp-igot:$build_tag
+FROM $org/ui-cbp-igot:$build_tag
 
 WORKDIR /app/dist
 COPY CBP/client-assets/dist www/en/assets

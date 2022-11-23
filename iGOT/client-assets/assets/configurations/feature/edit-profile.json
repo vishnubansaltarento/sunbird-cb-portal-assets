@@ -26,5 +26,6 @@
         "organisationType",
         "responsibilities"
       ]
-    }
+    },
+    "resendOTPTime": 180
   }

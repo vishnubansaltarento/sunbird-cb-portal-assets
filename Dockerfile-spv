@@ -1,5 +1,7 @@
+ARG build_image=igot_reg
 ARG build_tag=latest
-FROM igotregistry.azurecr.io/ui-spv-igot:$build_tag
+
+FROM $build_image/ui-spv-igot:$build_tag
 
 WORKDIR /app/dist
 COPY SPV/client-assets/dist www/en/assets

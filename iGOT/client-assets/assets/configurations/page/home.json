@@ -192,7 +192,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -243,8 +243,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "microsoftCourses",
-                    "title": "Microsoft Courses",
+                    "key": "prarambhCourseDetails",
+                    "title": "Karmayogi Prarambh Module",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -256,7 +256,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Microsoft Courses.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">This is a program specially designed for new entrants in government to. prepare them for fulfilling their responsibilities and make them aware of the existing policies and rules in the government sector. The program can be accessed through India’s first competency-based online learning platform - iGOT Karmayogi. The program comprises of courses on Code of Conduct for Government Employees, Prevention of Sexual Harassment of Women at Workplace, Understanding Motivation, Self Leadership, Stress Management, Effective Communication, Microsoft Word Beginners and Microsoft Excel for Beginners.</p>"
                         }
                       }
                     },
@@ -266,7 +266,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "microsoftCourses": {
+                      "prarambhCourse": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -277,20 +277,19 @@
                             ],
                             "topics": [],
                             "identifier": [
-                              "do_11363681506771763211021",
-                              "do_1136364937253437441916",
-                              "do_11363713310963302411102",
-                              "do_11363681497528729611020",
-                              "do_11363681532438937611023",
-                              "do_11363681521371545611022",
-                              "do_11363681486120550411019",
+                              "do_11359618144357580811",
+                              "do_113569878939262976132",
+                              "do_113474579909279744117",
+                              "do_113651330692145152128",
+                              "do_1134122937914327041177",
+                              "do_113473120005832704152",
                               "do_1136364244148060161889",
-                              "do_11363718571504435211132",
-                              "do_11363716750940569611119"
+                              "do_1136364937253437441916"
+                            
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -354,7 +353,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">DAKSHTA Courses.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">The DAKSHTA Programmes are unique in nature as though the participants are predominantly from CSS/CSSS, they belong to a same/similar Ministry/Department. The salient features of DAKSHTA Programmes are Focus to target organization, Learning Methodology and Doubt-clearing sessions, peer learning, and interactive discussions with Blended Program. An integral component of all DAKSHTA programs are impact assessment for which the Course Directors are required to liaison with the Nodal Officer of the concerned Ministry/Department and conduct a Post Training Seminar after 45 days of the Program. </p>"
                         }
                       }
                     },
@@ -430,6 +429,7 @@
             }
           }
         ],
+    
         [
           {
             "dimensions": {},
@@ -483,7 +483,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"

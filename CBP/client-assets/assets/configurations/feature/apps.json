@@ -207,6 +207,25 @@
       "url": "/author/cbp/me",
       "shortName": "Home"
     },
+    "feature_rainDashboard": {
+      "accessKey": "",
+      "icon": "bar_chart",
+      "iconType": "mat-icon",
+      "id": "feature_rainDashboard",
+      "keywords": [
+        "rain",
+        "dashboard"
+      ],
+      "name": "Rain Dashboard",
+      "permission": [
+        "ABOUT_US"
+      ],
+      "show": true,
+      "status": "live",
+      "toolTip": "Rain Dashboard",
+      "url": "/app/rainDashboard",
+      "shortName": "RD"
+    },
     "feature_badges": {
       "accessKey": "",
       "icon": "stars",

@@ -1,0 +1,68 @@
+{
+    "title": "PublicHome",
+    "learnNetwork": [
+        {
+            "title": "Million Indian civil servants",
+            "count": "20",
+            "image": "/assets/instances/eagle/landing-img/user.svg"
+        },
+        {
+            "title": "Ministries, Departments & Organizations",
+            "count": "100+",
+            "image": "/assets/instances/eagle/landing-img/building.svg"
+        },
+        {
+            "title": "Competencies",
+            "count": "600+",
+            "image": "/assets/instances/eagle/landing-img/wellness.svg"
+        },
+        {
+            "title": "Courses",
+            "count": "100+",
+            "image": "/assets/instances/eagle/landing-img/course.svg"
+        }
+    ],
+    "featuredCourses":[
+      {
+        "dimensions": {},
+        "className": "new-box",
+        "widget": {
+          "widgetType": "contentStrip",
+          "widgetSubType": "contentStripMultiple",
+          "widgetData": {
+            "isChannelStrip":true,
+            "strips": [
+              {
+                "key": "latest",
+                "title": "Featured courses",
+                "info": {
+                  "mode": "below",
+                  "visibilityMode": "hidden",
+                  "icon": {
+                    "icon": "info",
+                    "scale": 0.8
+                  },
+                  "widget": {
+                    "widgetType": "element",
+                    "widgetSubType": "elementHtml",
+                    "widgetData": {
+                      "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                    }
+                  }
+                },
+                "loader":true,
+                "stripConfig": {},
+                "filters": [],
+                "request": {
+                  "api": {
+                    "path": "/api/course/v1/explore",
+                    "queryParams": {}
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+}

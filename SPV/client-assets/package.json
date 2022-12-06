@@ -15,17 +15,17 @@
   "author": "Shubham Dhingra",
   "license": "ISC",
   "dependencies": {
-    "jslint": "^0.12.1",
-    "moment": "^2.29.1",
-    "vis-util": "^5.0.2"
+    "jslint": "0.12.1",
+    "moment": "2.29.1",
+    "vis-util": "5.0.2"
   },
   "devDependencies": {
-    "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-cssnano": "^2.1.3",
-    "gulp-if": "^3.0.0",
-    "gulp-imagemin": "^6.2.0",
-    "gulp-jsonminify": "^1.1.0",
-    "gulp-uglify": "^3.0.2"
+    "del": "5.1.0",
+    "gulp": "4.0.2",
+    "gulp-cssnano": "2.1.3",
+    "gulp-if": "3.0.0",
+    "gulp-imagemin": "6.2.0",
+    "gulp-jsonminify": "1.1.0",
+    "gulp-uglify": "3.0.2"
   }
 }

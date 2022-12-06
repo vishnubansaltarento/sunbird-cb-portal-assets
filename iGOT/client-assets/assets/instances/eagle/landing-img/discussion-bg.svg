@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="378px" height="352px" viewBox="0 0 378 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 50</title>
+    <defs>
+        <linearGradient x1="94.0742121%" y1="61.7045066%" x2="3.45760171%" y2="61.7045066%" id="linearGradient-1">
+            <stop stop-color="#D95181" offset="0%"></stop>
+            <stop stop-color="#A63446" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="366.627787" height="194"></rect>
+        <linearGradient x1="35.5586014%" y1="50.7942696%" x2="94.3536938%" y2="51.4894376%" id="linearGradient-4">
+            <stop stop-color="#911F31" offset="0.0437062937%"></stop>
+            <stop stop-color="#830B1E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Option----2-P" transform="translate(-532.000000, -2622.000000)">
+            <g id="Group-65" transform="translate(120.000000, 2554.000000)">
+                <g id="Group-64" transform="translate(0.000000, 68.000000)">
+                    <g id="Group-50" transform="translate(412.000000, 0.000000)">
+                        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="378" height="352"></rect>
+                        <g id="Rectangle" transform="translate(0.000000, 0.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <path d="M-17.3819237,-43.5797101 L240.17881,-43.5797101 C244.597088,-43.5797101 248.17881,-39.9979881 248.17881,-35.5797101 L248.17881,135.910798 C248.17881,140.329076 244.597088,143.910798 240.17881,143.910798 L196.111247,143.910798 L196.111247,143.910798 L144.643062,188.376812 L144.643062,143.910798 L-17.3819237,143.910798 C-21.8002017,143.910798 -25.3819237,140.329076 -25.3819237,135.910798 L-25.3819237,-35.5797101 C-25.3819237,-39.9979881 -21.8002017,-43.5797101 -17.3819237,-43.5797101 Z" fill="#A73447" opacity="0.413760231" mask="url(#mask-3)"></path>
+                        </g>
+                        <path d="M96.161235,352 C147.074164,331.884589 185.701042,320.363045 212.041868,317.435368 C241.081216,314.207761 288.87482,318.243245 326.788947,310.224503 C344.891707,306.395816 361.901566,297.320981 377.818525,283 L377.818525,352 L96.161235,352 Z" id="Path-2" fill="url(#linearGradient-4)" opacity="0.297665551"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

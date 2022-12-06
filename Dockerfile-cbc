@@ -1,0 +1,10 @@
+ARG org=igot-rog
+ARG build_tag=latest
+FROM $org/ui-cbc-igot:$build_tag
+
+WORKDIR /app/dist
+COPY CBC/client-assets/dist www/en/assets
+RUN npm install --production
+EXPOSE 3004
+
+CMD [ "npm", "run", "serve:prod" ]

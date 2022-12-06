@@ -28,7 +28,7 @@
   "defaultLocale": "",
   "defaultThemeClass": "theme-igot",
   "details": {
-    "appName": "CBP-iGOT"
+    "appName": "CBP-Karmayogi Bharat"
   },
   "disablePidCheck": true,
   "isContentDownloadAvailable": false,
@@ -258,6 +258,19 @@
             "className": "fixtopMargin",
             "config": {
               "actionBtnId": "feature_home",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
+          "type": "featureButton",
+          "config": {
+            "actionBtnId": "feature_rainDashboard",
+            "toolTip": "Rain Dashboard",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_rainDashboard",
               "type": "card-mini",
               "hideTitle": true
             }

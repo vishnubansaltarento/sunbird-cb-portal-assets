@@ -177,8 +177,7 @@
         "frac"
       ],
       "name": "Frac",
-      "permission": [
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Frac",
@@ -394,7 +393,7 @@
     },
     "feature_igot": {
       "accessKey": "",
-      "icon": "/assets/icons/Karmayogi_portal.svg",
+      "icon": "/assets/icons/favicon.ico",
       "iconType": "mat-icon",
       "id": "feature_igot",
       "keywords": [
@@ -708,9 +707,10 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": ["none"]
+      "hasRole": [
+        "none"
+      ]
     },
-
     {
       "featureIds": [
         "feature_admin"

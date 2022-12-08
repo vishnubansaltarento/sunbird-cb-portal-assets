@@ -15,11 +15,11 @@
             "name": "Role & Activities",
             "key": "userRoles",
             "enabled": true,
-            "check": true,
+            "check": false,
             "routerLink": "/app/setup/roles",
             "description": "Enter all your roles and activities to complete your profile",
             "step": 2,
-            "allowSkip": false
+            "allowSkip": true
         },
         {
             "name": "Topics",

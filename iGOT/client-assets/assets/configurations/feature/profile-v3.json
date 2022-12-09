@@ -25,11 +25,11 @@
             "name": "Topics",
             "key": "systemTopics",
             "enabled": true,
-            "check": true,
+            "check": false,
             "routerLink": "/app/setup/topics",
             "description": "Choose the topics of your interest",
             "step": 3,
-            "allowSkip": false
+            "allowSkip": true
         },
         {
             "name": "Current competencies",

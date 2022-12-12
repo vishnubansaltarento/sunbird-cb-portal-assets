@@ -28,7 +28,7 @@
   "defaultLocale": "",
   "defaultThemeClass": "theme-igot",
   "details": {
-    "appName": "iGOT"
+    "appName": "Karmayogi Bharat"
   },
   "disablePidCheck": true,
   "isContentDownloadAvailable": false,
@@ -74,7 +74,8 @@
     "clientId": "portal",
     "key": "ws-kc-token-storage",
     "realm": "sunbird",
-    "url": "https://igot-dev.in/auth"
+    "url2": "https://igot-dev.in/auth",
+    "url": "https://portal.igot-dev.in/protected/v8/resource/"
   },
   "locals": [
     {
@@ -366,7 +367,9 @@
       "desc": "Shape your Skills with hunderds-of online course",
       "icon": "school",
       "accessKey": "L",
-      "permission":["Admin"]
+      "permission": [
+        "Admin"
+      ]
     },
     {
       "path": "/app/discuss/home",
@@ -375,7 +378,7 @@
       "desc": "Have a question? Have an Idea? discuss with your peers",
       "icon": "forum",
       "accessKey": "D",
-      "permission":[]
+      "permission": []
     },
     {
       "path": "/app/network-v2",
@@ -384,7 +387,7 @@
       "desc": "Connect with Interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
-      "permission":[]
+      "permission": []
     },
     {
       "path": "/app/careers/home",
@@ -393,7 +396,7 @@
       "desc": "Explore the carrier option grow into the path you are",
       "icon": "work",
       "accessKey": "C",
-      "permission":[]
+      "permission": []
     },
     {
       "path": "/app/competencies",
@@ -402,7 +405,7 @@
       "desc": "Add your competencies, see what others are adding",
       "icon": "extension",
       "accessKey": "O",
-      "permission":[]
+      "permission": []
     },
     {
       "path": "/app/event-hub",
@@ -411,7 +414,7 @@
       "desc": "Add your events",
       "icon": "event",
       "accessKey": "E",
-      "permission":[]
+      "permission": []
     }
   ],
   "featuredApps": [],

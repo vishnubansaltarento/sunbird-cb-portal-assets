@@ -192,7 +192,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -243,8 +243,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "recommendedCourses",
-                    "title": "Recommended for you",
+                    "key": "prarambhCourseDetails",
+                    "title": "Karmayogi Prarambh Module",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -256,18 +256,8 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your competencies.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">This is a program specially designed for new entrants in government to. prepare them for fulfilling their responsibilities and make them aware of the existing policies and rules in the government sector. The program can be accessed through India’s first competency-based online learning platform - iGOT Karmayogi. The program comprises of courses on Code of Conduct for Government Employees, Prevention of Sexual Harassment of Women at Workplace, Understanding Motivation, Self Leadership, Stress Management, Effective Communication, Microsoft Word Beginners and Microsoft Excel for Beginners.</p>"
                         }
-                      }
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "{\"filterPanel\": [\"hide\"]}",
-                        "p": "Trending",
-                        "f": ""
                       }
                     },
                     "stripConfig": {
@@ -276,7 +266,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "recommendedCourses": {
+                      "prarambhCourse": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -285,10 +275,21 @@
                             "contentType": [
                               "Course"
                             ],
-                            "competencies_v3.name": []
+                            "topics": [],
+                            "identifier": [
+                              "do_11359618144357580811",
+                              "do_113569878939262976132",
+                              "do_113474579909279744117",
+                              "do_113651330692145152128",
+                              "do_1134122937914327041177",
+                              "do_113473120005832704152",
+                              "do_1136364244148060161889",
+                              "do_1136364937253437441916"
+                            
+                            ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -320,12 +321,6 @@
                             "duration",
                             "version"
                           ]
-                        }
-                      },
-                      "masterCompetency": {
-                        "request": {
-                          "url": "/assets/common",
-                          "filename": "master-competencies.json"
                         }
                       }
                     }
@@ -345,8 +340,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "basedOnInterest",
-                    "title": "Based on your interests",
+                    "key": "DAKSHTACourses",
+                    "title": "DAKSHTA Courses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -358,18 +353,8 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your interests.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">The DAKSHTA Programmes are unique in nature as though the participants are predominantly from CSS/CSSS, they belong to a same/similar Ministry/Department. The salient features of DAKSHTA Programmes are Focus to target organization, Learning Methodology and Doubt-clearing sessions, peer learning, and interactive discussions with Blended Program. An integral component of all DAKSHTA programs are impact assessment for which the Course Directors are required to liaison with the Nodal Officer of the concerned Ministry/Department and conduct a Post Training Seminar after 45 days of the Program. </p>"
                         }
-                      }
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "{\"filterPanel\": [\"hide\"]}",
-                        "p": "Trending",
-                        "f": ""
                       }
                     },
                     "stripConfig": {
@@ -378,7 +363,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "basedOnInterest": {
+                      "DAKSHTACourses": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -387,10 +372,23 @@
                             "contentType": [
                               "Course"
                             ],
-                            "topics": []
+                            "topics": [],
+                            "identifier": [
+                              "do_1135948071783301121144",
+                              "do_1135948534007070721153",
+                              "do_113570024197103616141",
+                              "do_113467516368257024123",
+                              "do_1134693696236748801441",
+                              "do_11359618144357580811",
+                              "do_1134970386480578561102",
+                              "do_1135947505370890241121",
+                              "do_113555025323122688119",
+                              "do_113555072212344832131",
+                              "do_1134655011921100801100"
+                            ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -431,6 +429,7 @@
             }
           }
         ],
+    
         [
           {
             "dimensions": {},
@@ -454,7 +453,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Newly added courses.</p>"
                         }
                       }
                     },
@@ -484,7 +483,7 @@
                             ]
                           },
                           "offset": 0,
-                          "limit": 10,
+                          "limit": 20,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"

@@ -13,7 +13,7 @@
         "notifyTemplate": {
             "emailTemplateType": "certNotifTemplate",
             "subject": "Completion certificate",
-            "regards": "iGOT Support Team"
+            "regards": "Karmayogi Bharat"
         }
     }
 }

@@ -1,0 +1,22 @@
+{
+    "folder": {
+        "contentType": "Course",
+        "mimeType": "application/vnd.ekstep.content-collection",
+        "primaryCategory": "Mandatory Course Goal", 
+        "license": "CC BY 4.0",
+        "ownershipType": [
+            "createdFor"
+        ],
+        "visibility": "Default",
+        "purpose": "user mandatory course",
+        "isExternal":false
+    },
+    "image":{
+        "contentType":"Assets",
+        "mimeType":"image/png",
+        "mediaType":"image",
+        "primaryCategory":"Asset",
+        "language": ["English"],
+        "license": "CC BY 4.0"
+    }
+}

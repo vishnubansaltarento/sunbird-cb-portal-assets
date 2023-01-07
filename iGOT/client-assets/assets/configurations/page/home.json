@@ -412,42 +412,7 @@
             }
           }
         ],
-        [
-          {
-            "dimensions": {},
-            "className": "",
-            "widget": {
-              "widgetType": "networkStrip",
-              "widgetSubType": "NetworkStripMultiple",
-              "widgetData": {
-                "strips": [
-                  {
-                    "key": "network",
-                    "logo": "group",
-                    "title": "network",
-                    "stripBackground": "assets/instances/eagle/background/network.svg",
-                    "titleDescription": "Connect with people you may know",
-                    "stripConfig": {
-                      "cardSubType": "cardHomeNetwork"
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/network-v2",
-                      "viewMoreText": "Network",
-                      "queryParams": {}
-                    },
-                    "filters": [],
-                    "request": {
-                      "api": {
-                        "path": "/apis/protected/v8/connections/v2/connections/recommended/userDepartment",
-                        "queryParams": ""
-                      }
-                    }
-                  }
-                ]
-              }
-            }
-          }
-        ],
+       
         [
           {
             "dimensions": {},

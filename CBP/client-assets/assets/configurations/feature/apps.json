@@ -288,7 +288,8 @@
       "toolTip": "Author",
       "shortName": "Author",
       "url": "/author/cbp/all"
-    }, "feature_cbp": {
+    },
+    "feature_cbp": {
       "accessKey": "",
       "icon": "/assets/icons/CBP_portal.svg",
       "iconType": "mat-icon",
@@ -377,7 +378,7 @@
     },
     "feature_igot": {
       "accessKey": "",
-      "icon": "/assets/icons/Karmayogi_portal.svg",
+      "icon": "/assets/icons/favicon.ico",
       "iconType": "mat-icon",
       "id": "feature_igot",
       "keywords": [
@@ -403,8 +404,7 @@
         "frac"
       ],
       "name": "Frac",
-      "permission": [
-      ],
+      "permission": [],
       "show": true,
       "status": "live",
       "toolTip": "Frac",
@@ -728,9 +728,10 @@
       ],
       "name": "Contribution",
       "toolTip": "Contribution",
-      "hasRole": ["none"]
+      "hasRole": [
+        "none"
+      ]
     },
-
     {
       "featureIds": [
         "feature_admin"

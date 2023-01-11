@@ -11,9 +11,9 @@
             "designation": "Home Minister"
         },
         "notifyTemplate": {
-            "emailTemplateType": "defaultCertTemp",
+            "emailTemplateType": "certNotifTemplate",
             "subject": "Completion certificate",
-            "regards": "iGOT Support Team"
+            "regards": "Karmayogi Bharat"
         }
     }
 }

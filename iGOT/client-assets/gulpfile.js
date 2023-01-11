@@ -47,11 +47,11 @@ function minimizeImages() {
                 }),
                 imagemin.svgo({
                     plugins: [{
-                            removeViewBox: true
-                        },
-                        {
-                            cleanupIDs: false
-                        }
+                        removeViewBox: true
+                    },
+                    {
+                        cleanupIDs: false
+                    }
                     ]
                 })
             ])
@@ -72,9 +72,9 @@ const clean = () => del(["dist/**"]);
 const build = gulp.series(
     clean,
     transfer,
-    uglifyScripts,
+    // uglifyScripts,
     minimizeJSON,
-    minimizeCss,
+    // minimizeCss,
     minimizeImages,
 );
 

@@ -1,0 +1,24 @@
+{
+    "tabs": [
+        {
+            "name": "Competency",
+            "key": "competencyDetails",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/competencyHome/competencyDetails"
+        },
+        {
+            "name": "Manage assessment",
+            "key": "manageAssessment",
+            "badges": {
+                "enabled": true,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": "/app/home/competencyHome/manageAssessment"
+        }
+    ]
+}

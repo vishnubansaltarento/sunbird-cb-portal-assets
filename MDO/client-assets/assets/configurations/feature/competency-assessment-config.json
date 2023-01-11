@@ -1,0 +1,34 @@
+{
+    "primaryCategory" : {
+        "competencyAssessment": {
+            "name": "Competency Assessment",
+            "mimeType": "application/vnd.sunbird.questionset"
+        }
+    },
+    "questionsConfig":{
+        "mcq-sca" : {
+            "code": "question",
+            "mimeType": "application/vnd.sunbird.question",
+            "objectType": "Question",
+            "primaryCategory": "Multiple Choice Question"
+        },
+        "mcq-mca" : {
+            "code": "question",
+            "mimeType": "application/vnd.sunbird.question",
+            "objectType": "Question",
+            "primaryCategory": "Multiple Choice Question"
+        },
+        "fitb" : {
+            "code": "question",
+            "mimeType": "application/vnd.sunbird.question",
+            "objectType": "Question",
+            "primaryCategory": "FTB Question"
+        },
+        "mtf" : {
+            "code": "question",
+            "mimeType": "application/vnd.sunbird.question",
+            "objectType": "Question",
+            "primaryCategory": "MTF Question"
+        }
+    }
+}

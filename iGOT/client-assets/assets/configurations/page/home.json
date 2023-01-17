@@ -185,7 +185,8 @@
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Goal"
+                              "Goal",
+                              "Mandatory Course Goal"
                             ],
                             "contentType": [
                               "Goal"

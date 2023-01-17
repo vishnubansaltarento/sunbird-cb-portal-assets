@@ -1,18 +1,51 @@
 {
     "folder": {
+        "title":"Folders",
+        "searchBoxPlaceHolder":"Search by folder name",
         "contentType": "Course",
         "mimeType": "application/vnd.ekstep.content-collection",
         "primaryCategory": "Mandatory Course Goal", 
         "license": "CC BY 4.0",
         "ownershipType": [
             "createdFor"
-        ],
+        ],  
         "visibility": "Default",
         "purpose": "user mandatory course",
-        "isExternal":false
+        "isExternal":false,
+        "table":{
+            "name":"Folder Name",
+            "courses": "Courses",
+            "batch": "Batch"
+        },
+        "createFolderBtn":"Create a folder",
+        "folderInfo": {
+           "tabs":{
+            "metaData":"Meta Data",
+            "courses": "Courses",
+            "batches": "Batches"
+           }
+        }
+    },
+    "mandatoryCourses":{
+        "noDataConfig":{
+            "image": "assets/images/banners/no_data.svg",
+            "heading": "No course collections",
+            "description": "Create an outstanding collection of courses by adding courses.",
+            "btnRequired": true,
+            "btnLink": "course-list",
+            "btnText": "Add Courses"
+        },
+        "noBatchDataConfig": {
+            "image": "assets/images/banners/no_data.svg",
+            "heading": "No batche's created yet",
+            "description": "Create a batch to distribute courses.",
+            "btnRequired": true,
+            "btnLink": "none",
+            "btnText": "Create a batch"
+        }
     },
     "image":{
-        "contentType":"Assets",
+        "contentType":"Asset",
         "mimeType":"image/png",
         "mediaType":"image",
         "primaryCategory":"Asset",

@@ -23,7 +23,18 @@
             "metaData":"Meta Data",
             "courses": "Courses",
             "batches": "Batches"
-           }
+           },
+           "publishBtn":"Publish and goto Batch",
+            "info":""
+        },
+        "folderEditTab":{
+            "heading":"Basic information",
+            "title":"Title",
+            "subTitle": "SubTitle",
+            "description": "Description",
+            "save":"Save",
+            "thumbnail": "Thumbnail",
+            "successMessage":"Saved Successfully"
         }
     },
     "mandatoryCourses":{

@@ -130,7 +130,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Continue learning.</p>"
                         }
                       }
                     },
@@ -282,7 +282,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your competencies.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Recommended for you.</p>"
                         }
                       }
                     },
@@ -480,7 +480,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Programs for you.</p>"
                         }
                       }
                     },
@@ -572,7 +572,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is where you’ll see which topics are in news right now.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Recently added for you.</p>"
                         }
                       }
                     },

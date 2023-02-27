@@ -647,11 +647,6 @@
   },
   "ExploreButtons": [
     {
-      "icon": "school",
-      "name": "Explore by topic",
-      "route": "/app/taxonomy/home"
-    },
-    {
       "icon": "extension",
       "name": "Explore by competency",
       "route": "/app/learn/browse-by/competency/all-competencies"

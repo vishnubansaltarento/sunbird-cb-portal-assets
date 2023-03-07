@@ -32,7 +32,7 @@
             "title":"Title",
             "subTitle": "SubTitle",
             "description": "Description",
-            "save":"Save and goto Course",
+            "save":"Save and go to Course",
             "thumbnail": "Thumbnail",
             "successMessage":"Saved Successfully"
         }

@@ -128,13 +128,28 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {},
     "type": "array"
   },
@@ -267,13 +282,28 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -414,6 +444,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -422,7 +465,9 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -563,11 +608,25 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
+      "Course": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -586,159 +645,10 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
-  },
-  "competencies": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
-      "Course": [],
-      "Resource": [],
-      "Channel": [],
-      "CourseUnit": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": []
-    },
-    "showFor": {
-      "Course": []
-    },
-    "type": "array"
   },
   "competencies_v3": {
     "defaultValue": {
@@ -869,6 +779,19 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -878,6 +801,7 @@
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
+      "Standalone Assessment": [],
       "Resource": [],
       "Channel": [],
       "CourseUnit": [],
@@ -1019,13 +943,28 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -1166,149 +1105,15 @@
           },
           "value": ""
         }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "creatorThumbnail": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
       ],
-      "Collection": [
+      "Standalone Assessment": [
         {
           "condition": {
             "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
+              "StandaloneAssessment"
             ],
             "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -1319,7 +1124,9 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -1460,12 +1267,23 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
       "Resource": [],
@@ -1477,13 +1295,6 @@
         }
       ],
       "CourseUnit": [
-        {
-          "body": [
-            true
-          ]
-        }
-      ],
-      "Course": [
         {
           "body": [
             true
@@ -1639,6 +1450,19 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
@@ -1647,7 +1471,8 @@
     "notMandatoryFor": {},
     "notShowFor": {
       "Resource": [],
-      "CourseUnit": []
+      "CourseUnit": [],
+      "Standalone Assessment": []
     },
     "showFor": {
       "Channel": [],
@@ -1657,185 +1482,6 @@
       "Learning Path": []
     },
     "type": "array"
-  },
-  "initFile": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
-      "Resource": [],
-      "Collection": [
-        {
-          "body": [
-            true
-          ]
-        }
-      ],
-      "CourseUnit": [
-        {
-          "body": [
-            true
-          ]
-        }
-      ],
-      "Course": [
-        {
-          "body": [
-            true
-          ]
-        }
-      ],
-      "Learning Path": [
-        {
-          "body": [
-            true
-          ]
-        }
-      ]
-    },
-    "notShowFor": {},
-    "showFor": {
-      "Resource": [
-        {
-          "mimeType": [
-            "application/html"
-          ]
-        }
-      ]
-    },
-    "type": "string"
   },
   "instructions": {
     "defaultValue": {
@@ -1966,13 +1612,27 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -1983,341 +1643,8 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "body": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {
-     
-    },
-    "notDisabledFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "notMandatoryFor": {
-      "Collection": [
-        {
-          "artifactUrl": [
-            true
-          ]
-        }
-      ],
-      "CourseUnit": [
-        {
-          "artifactUrl": [
-            true
-          ]
-        }
-      ],
-      "Course": [
-        {
-          "artifactUrl": [
-            true
-          ]
-        }
-      ],
-      "Learning Path": [
-        {
-          "artifactUrl": [
-            true
-          ]
-        }
-      ],
-      "Resource": [
-        {
-          "artifactUrl": [
-            true
-          ],
-          "mimeType": [
-            "application/html"
-          ]
-        }
-      ]
-    },
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "bannerColor": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
       "Resource": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": []
+      "Standalone Assessment": []
     },
     "type": "string"
   },
@@ -2450,13 +1777,28 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -2466,840 +1808,6 @@
       "Learning Path": [],
       "Resource": []
     },
-    "type": "array"
-  },
-  "category": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "string"
-  },
-  "categoryType": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "string"
-  },
-  "certificationList": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "certificationUrl": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "string"
-  },
-  "clients": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "comments": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
     "type": "array"
   },
   "difficultyLevel": {
@@ -3431,151 +1939,15 @@
           },
           "value": ""
         }
-      ]
-    },
-    "disabledFor": {
-      "Knowledge Artifact": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "complexityLevel": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
       ],
-      "Collection": [
+      "Standalone Assessment": [
         {
           "condition": {
             "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
+              "StandaloneAssessment"
             ],
             "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -3588,7 +1960,8 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -3599,423 +1972,6 @@
       "Resource": []
     },
     "type": "string"
-  },
-  "concepts": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "contentIdAtSource": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "string"
-  },
-  "contentLanguage": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": null
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
   },
   "contentType": {
     "defaultValue": {
@@ -4146,6 +2102,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -4172,7 +2141,8 @@
       "Knowledge Board": [],
       "Resource": [],
       "CourseUnit": [],
-      "Learning Path": []
+      "Learning Path": [],
+      "Standalone Assessment": []
     },
     "showFor": {},
     "type": "string"
@@ -4306,6 +2276,19 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -4315,7 +2298,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "mandatoryFor": {},
     "notDisabledFor": {},
@@ -4328,7 +2312,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "array"
   },
@@ -4461,13 +2446,28 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -4476,145 +2476,6 @@
       "Learning Path": [],
       "Resource": []
     },
-    "type": "array"
-  },
-  "customClassifiers": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
     "type": "array"
   },
   "description": {
@@ -4746,6 +2607,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -4756,7 +2630,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -4770,147 +2645,9 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
-    "type": "string"
-  },
-  "dimension": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
     "type": "string"
   },
   "downloadUrl": {
@@ -5038,6 +2775,19 @@
             ],
             "primaryCategory": [
               "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -5181,13 +2931,27 @@
           },
           "value": "0"
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": "0"
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -5200,516 +2964,10 @@
       "Learning Path": [],
       "Resource": [],
       "SelfAssess": [],
-      "PracticeResource": []
+      "PracticeResource": [],
+      "Standalone Assessment": []
     },
     "type": "number"
-  },
-  "editors": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "equivalentCertifications": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "exclusiveContent": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": false
-        }
-      ]
-    },
-    "disabledFor": {
-      "Knowledge Artifact": [],
-      "Knowledge Board": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "boolean"
-  },
-  "expiryDate": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "CourseUnit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": "2020-07-23T09:52:36.487Z"
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "showFor": {},
-    "type": "string"
   },
   "fileType": {
     "defaultValue": {
@@ -5840,6 +3098,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -5855,7 +3126,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "showFor": {},
     "type": "string"
@@ -5989,6 +3261,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -5997,7 +3282,9 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -6138,6 +3425,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -6146,326 +3446,6 @@
     "notMandatoryFor": {},
     "notShowFor": {},
     "showFor": {},
-    "type": "string"
-  },
-  "introductoryVideo": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "introductoryVideoIcon": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
     "type": "string"
   },
   "isExternal": {
@@ -6579,357 +3559,15 @@
           },
           "value": true
         }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "boolean"
-  },
-  "isIframeSupported": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": "Yes"
-        }
       ],
-      "Collection": [
+      "Standalone Assessment": [
         {
           "condition": {
             "contentType": [
-              "Collection"
-            ]
-          },
-          "value": "Yes"
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
+              "StandaloneAssessment"
             ],
             "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": "Yes"
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": "Yes"
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": "Yes"
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": "Yes"
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": "Yes"
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": "No"
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "isInIntranet": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "ontentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": false
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": false
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "boolean"
-  },
-  "isRejected": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": true
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": true
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": true
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": false
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": true
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": false
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
+              "Standalone Assessment"
             ]
           },
           "value": true
@@ -7073,6 +3711,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -7086,165 +3737,11 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "showFor": {},
     "type": "string"
-  },
-  "kArtifacts": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
   },
   "keywords": {
     "defaultValue": {
@@ -7371,6 +3868,19 @@
             ],
             "primaryCategory": [
               "Course Assessment"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
             ]
           },
           "value": []
@@ -7532,154 +4042,15 @@
           },
           "value": ""
         }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "learningObjective": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
       ],
-      "Collection": [
+      "Standalone Assessment": [
         {
           "condition": {
             "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
+              "StandaloneAssessment"
             ],
             "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -7690,159 +4061,9 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
+    "notShowFor": {
+      "Standalone Assessment": []
     },
-    "type": "string"
-  },
-  "learningTrack": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
     "showFor": {
       "CourseUnit": [],
       "Course": [],
@@ -7980,6 +4201,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -7990,7 +4224,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -8004,159 +4239,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "locale": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
   },
@@ -8285,6 +4369,19 @@
             ],
             "primaryCategory": [
               "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -8428,6 +4525,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -8438,7 +4548,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -8452,1006 +4563,10 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
-  },
-  "nodeType": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        },
-        {
-          "condition": {
-            "mimeType": [
-              "application/html"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "org": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
-  },
-  "passPercentage": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "con": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": 0
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "number"
-  },
-  "plagScan": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "playgroundInstructions": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "playgroundResources": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
-  },
-  "postContents": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
   },
   "posterImage": {
     "defaultValue": {
@@ -9582,6 +4697,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -9597,7 +4725,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
   },
@@ -9730,6 +4859,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -9745,627 +4887,9 @@
       "Learning Path": [],
       "Resource": []
     },
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
+    "notShowFor": {
+      "Standalone Assessment": []
     },
-    "type": "string"
-  },
-  "preContents": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
-  },
-  "preRequisites": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "projectCode": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "publicationId": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -10506,11 +5030,25 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
+      "Course": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},
@@ -10529,590 +5067,9 @@
       "Learning Path": []
     },
     "showFor": {
-      "Course": []
-    },
-    "type": "array"
-  },
-  "references": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
       "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
+      "Standalone Assessment": []
     },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
-  },
-  "region": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Knowledge Artifact": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "showFor": {},
-    "type": "array"
-  },
-  "registrationInstructions": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "resourceCategory": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
     "type": "array"
   },
   "resourceType": {
@@ -11244,6 +5201,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -11259,7 +5229,8 @@
       "Course": [],
       "Knowledge Artifact": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notShowFor": {},
     "showFor": {
@@ -11269,722 +5240,10 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
-  },
-  "sampleCertificates": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
-  },
-  "scoreType": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "string"
-  },
-  "size": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "dge Board"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": 0
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
-      "Resource": [
-        {
-          "mimeType": [
-            "application/pdf",
-            "application/x-mpegURL",
-            "audio/mpeg"
-          ]
-        }
-      ]
-    },
-    "notShowFor": {},
-    "showFor": {},
-    "type": "number"
-  },
-  "skills": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "showFor": {},
-    "type": "array"
-  },
-  "softwareRequirements": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "array"
   },
   "source": {
     "defaultValue": {
@@ -12115,6 +5374,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -12124,14 +5396,16 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "mandatoryFor": {
       "Channel": [],
       "Course": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -12145,127 +5419,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "sourceName": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": "My Learning World"
-        }
-      ]
-    },
-    "disabledFor": {
-      "Knowledge Artifact": [],
-      "Knowledge Board": []
-    },
-    "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
   },
@@ -12394,6 +5549,19 @@
             ],
             "primaryCategory": [
               "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -12537,6 +5705,19 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -12575,7 +5756,9 @@
         }
       ]
     },
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Resource": [
         {
@@ -12586,258 +5769,6 @@
       ]
     },
     "type": "string"
-  },
-  "studyDuration": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": 0
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": 0
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "number"
-  },
-  "studyMaterials": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "array"
   },
   "purpose": {
     "defaultValue": {
@@ -12968,13 +5899,27 @@
           },
           "value": ""
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -12988,161 +5933,8 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "subTitle": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
-      "CourseUnit": [],
-      "Course": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
+      "Resource": [],
+      "Standalone Assessment": []
     },
     "type": "string"
   },
@@ -13275,6 +6067,19 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {
@@ -13283,12 +6088,15 @@
       "Course": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
-      "Learning Path": []
+      "Learning Path": [],
+      "Standalone Assessment": []
     },
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Resource": [
         {
@@ -13298,161 +6106,6 @@
           ]
         }
       ]
-    },
-    "type": "array"
-  },
-  "systemRequirements": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
     },
     "type": "array"
   },
@@ -13581,6 +6234,19 @@
             ],
             "primaryCategory": [
               "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
             ]
           },
           "value": ""
@@ -13724,11 +6390,25 @@
           },
           "value": []
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
+      "Course": [],
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -13748,453 +6428,8 @@
       "Resource": []
     },
     "showFor": {
-      "Course": []
-    },
-    "type": "array"
-  },
-  "transcoding": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": null
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": null
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {},
-    "type": "object"
-  },
-  "unit": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ]
-    },
-    "disabledFor": {
-      "Channel": [],
-      "CourseUnit": [],
       "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {},
-    "showFor": {
-      "Channel": [],
-      "CourseUnit": [],
-      "Course": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Learning Path": [],
-      "Resource": []
-    },
-    "type": "string"
-  },
-  "verifiers": {
-    "defaultValue": {
-      "Channel": [
-        {
-          "condition": {
-            "contentType": [
-              "Channel"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Collection": [
-        {
-          "condition": {
-            "contentType": [
-              "Collection"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Unit": [
-        {
-          "condition": {
-            "contentType": [
-              "CourseUnit"
-            ],
-            "primaryCategory": [
-              "Course Unit"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Course"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Artifact": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Artifact"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Knowledge Board": [
-        {
-          "condition": {
-            "contentType": [
-              "Knowledge Board"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Path": [
-        {
-          "condition": {
-            "contentType": [
-              "Learning Path"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Learning Resource": [
-        {
-          "condition": {
-            "contentType": [
-              "Resource"
-            ],
-            "primaryCategory": [
-              "Learning Resource"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": []
-        }
-      ]
-    },
-    "disabledFor": {},
-    "mandatoryFor": {},
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
-      "Resource": [
-        {
-          "mimeType": [
-            "application/html"
-          ]
-        }
-      ]
-    },
-    "showFor": {
-      "Channel": [],
-      "Knowledge Artifact": [],
-      "Knowledge Board": [],
-      "Resource": []
+      "Standalone Assessment": []
     },
     "type": "array"
   },
@@ -14301,6 +6536,19 @@
           },
           "value": "Default"
         }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": "Default"
+        }
       ]
     },
     "disabledFor": {
@@ -14309,7 +6557,9 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {},
+    "notShowFor": {
+      "Standalone Assessment": []
+    },
     "showFor": {
       "Channel": [],
       "CourseUnit": [],

@@ -92,6 +92,22 @@
                         "spv_admin",
                         "state_admin"
                     ]
+                },
+                {
+                    "name": "Reports",
+                    "key": "reports",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/reports",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
         }

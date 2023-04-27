@@ -180,47 +180,13 @@
                     },
                     "filters": [],
                     "request": {
-                      "searchV6": {
-                        "request": {
-                          "filters": {
-                            "primaryCategory": [
-                              "Program"
-                            ],
-                            "contentType": [
-                              "Course"
-                            ]
-                          },
-                          "query": "",
-                          "sort_by": {
-                            "lastUpdatedOn": "desc"
-                          },
-                          "fields": [
-                            "name",
-                            "appIcon",
-                            "instructions",
-                            "description",
-                            "purpose",
-                            "mimeType",
-                            "gradeLevel",
-                            "identifier",
-                            "medium",
-                            "pkgVersion",
-                            "version",
-                            "board",
-                            "subject",
-                            "resourceType",
-                            "primaryCategory",
-                            "contentType",
-                            "channel",
-                            "organisation",
-                            "trackable",
-                            "license",
-                            "posterImage",
-                            "idealScreenSize",
-                            "learningMode",
-                            "creatorLogo",
-                            "duration"
-                          ]
+                      "enrollmentList": {
+                        "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+                        "queryParams": {
+                          "orgdetails": "orgName,email",
+                          "licenseDetails": "name,description,url",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license",
+                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
                         }
                       }
                     }
@@ -364,7 +330,25 @@
                     "filters": [],
                     "request": {
                       "curatedCollections": {
-                        "request":{"filters":{"primaryCategory":["CuratedCollections"]},"query":"","sort_by":{"name":"asc"},"limit":50,"offset":0,"fields":[],"facets":["primaryCategory","mimeType"],"fuzzy":false}
+                        "request": {
+                          "filters": {
+                            "primaryCategory": [
+                              "CuratedCollections"
+                            ]
+                          },
+                          "query": "",
+                          "sort_by": {
+                            "name": "asc"
+                          },
+                          "limit": 50,
+                          "offset": 0,
+                          "fields": [],
+                          "facets": [
+                            "primaryCategory",
+                            "mimeType"
+                          ],
+                          "fuzzy": false
+                        }
                       }
                     }
                   }
@@ -400,9 +384,7 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {
-    
-                    },
+                    "viewMoreUrl": {},
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -452,15 +434,12 @@
                             "duration",
                             "version"
                           ]
-                         
                         },
                         "api": {
                           "path": "/api/course/v1/explore",
                           "queryParams": {}
                         }
-                        
                       }
-                     
                     }
                   }
                 ]
@@ -468,8 +447,6 @@
             }
           }
         ],
-
-    
         [
           {
             "dimensions": {},
@@ -636,7 +613,6 @@
             }
           }
         ],
-       
         [
           {
             "dimensions": {},

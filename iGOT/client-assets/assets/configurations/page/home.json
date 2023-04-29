@@ -148,7 +148,7 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "latest",
+                    "key": "programs",
                     "title": "Programs",
                     "info": {
                       "mode": "below",
@@ -166,13 +166,7 @@
                       }
                     },
                     "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "",
-                        "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
-                      }
+                     
                     },
                     "stripConfig": {
                       "cardSubType": "standard",

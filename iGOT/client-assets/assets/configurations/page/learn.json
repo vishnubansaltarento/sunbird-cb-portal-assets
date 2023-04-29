@@ -559,7 +559,7 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "latest",
+                    "key": "programs",
                     "title": "Programs",
                     "info": {
                       "mode": "below",

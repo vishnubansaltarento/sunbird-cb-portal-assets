@@ -577,13 +577,7 @@
                       }
                     },
                     "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "",
-                        "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
-                      }
+                     
                     },
                     "stripConfig": {
                       "cardSubType": "standard",

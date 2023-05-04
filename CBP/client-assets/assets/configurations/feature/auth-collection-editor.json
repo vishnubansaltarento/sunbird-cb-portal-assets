@@ -367,6 +367,56 @@
           "Course"
         ]
       }
+    },
+    "Standalone Assessment": {
+      "minChildren": 2,
+      "maxChildren": 0,
+      "childTypes": [
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "position": "",
+          "description": "Create a final assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": true
+        }
+      ],
+      "allowCreation": true,
+      "allowedCreationType": [
+        "assessment"
+      ],
+      "searchFilter": {
+        "primaryCategory": [
+          "Practice Question Set",
+          "Course Assessment"
+        ]
+      }
     }
   },
   "enabledRole": [

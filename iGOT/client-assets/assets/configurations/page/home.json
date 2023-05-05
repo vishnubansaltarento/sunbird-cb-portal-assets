@@ -538,7 +538,7 @@
         [
           {
             "dimensions": {},
-            "className": "standalone-assessment-container",
+            "className": "new-box",
             "widget": {
               "widgetType": "contentStrip",
               "widgetSubType": "contentStripMultiple",
@@ -584,7 +584,7 @@
                               "Standalone Assessment"
                             ],
                             "contentType": [
-                              "Collection"
+                              "Course"
                             ]
                           },
                           "offset": 0,

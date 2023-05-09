@@ -318,5 +318,26 @@
       "subTitle": "Create a pratice assesment content",
       "points": []
     }
+  },
+  {
+    "id": "standaloneAssessment",
+    "isCollection": true,
+    "name": "Standalone Assessment",
+    "description": "Create a standalone Assessment.",
+    "icon": "playlist_add_check",
+    "contentType": "Collection",
+    "available": true,
+    "enabled": true,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+      "content_creator"
+    ],
+    "primaryCategory": "Standalone Assessment",
+    "details": {
+      "title": "Welcome to standalone assessment curation",
+      "createTitle": "Standalone Assessment",
+      "subTitle": "Create a standalone Assessment.",
+      "points": []
+    }
   }
 ]

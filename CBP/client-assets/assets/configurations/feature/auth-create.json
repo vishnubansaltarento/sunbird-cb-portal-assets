@@ -208,10 +208,13 @@
       "admin"
     ],
     "primaryCategory": "Course",
+    "targettedCourse": true,
     "details": {
       "title": "Welcome to content curation.",
       "createTitle": "Course information",
       "subTitle": "A few key suggestions for creating a robust course for your learners,",
+      "targetCourseTitle": "Target course access",
+      "targetCourseSubtitle": "Select the organisations who should be able to view course",
       "points": [
         {
           "icon": "error_outline",
@@ -244,6 +247,7 @@
       "admin"
     ],
     "primaryCategory": "Program",
+    "targettedCourse": true,
     "details": {
       "title": "Welcome to program curation",
       "createTitle": "Program",

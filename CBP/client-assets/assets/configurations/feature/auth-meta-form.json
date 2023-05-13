@@ -491,7 +491,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -648,7 +648,7 @@
     "notMandatoryFor": {},
     "notShowFor": {
       "Standalone Assessment": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Channel": [],
       "CourseUnit": [],
       "Knowledge Artifact": [],
@@ -1132,7 +1132,7 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
-      "Resource": [],
+      "Learning Resource": [],
       "Collection": [
         {
           "body": [
@@ -1316,7 +1316,7 @@
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
-      "Resource": [],
+      "Learning Resource": [],
       "CourseUnit": [],
       "Standalone Assessment": []
     },
@@ -1328,6 +1328,185 @@
       "Learning Path": []
     },
     "type": "array"
+  },
+  "initFile": {
+    "defaultValue": {
+      "Channel": [
+        {
+          "condition": {
+            "contentType": [
+              "Channel"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Collection": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course Unit": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseUnit"
+            ],
+            "primaryCategory": [
+              "Course Unit"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Knowledge Artifact": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Artifact"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Knowledge Board": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Board"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Learning Path": [
+        {
+          "condition": {
+            "contentType": [
+              "Learning Path"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Practice Question Set": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {
+      
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      "Resource": [],
+      "Collection": [
+        {
+          "body": [
+            true
+          ]
+        }
+      ],
+      "CourseUnit": [
+        {
+          "body": [
+            true
+          ]
+        }
+      ],
+      "Course": [
+        {
+          "body": [
+            true
+          ]
+        }
+      ],
+      "Learning Path": [
+        {
+          "body": [
+            true
+          ]
+        }
+      ]
+    },
+    "notShowFor": {},
+    "showFor": {
+      "Resource": [
+        {
+          "mimeType": [
+            "application/html"
+          ]
+        }
+      ]
+    },
+    "type": "string"
   },
   "instructions": {
     "defaultValue": {
@@ -1477,7 +1656,7 @@
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -1489,7 +1668,7 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -1985,7 +2164,7 @@
       "Course": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
-      "Resource": [],
+      "Learning Resource": [],
       "CourseUnit": [],
       "Learning Path": [],
       "Standalone Assessment": []
@@ -2144,7 +2323,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "mandatoryFor": {},
@@ -2158,7 +2337,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "array"
@@ -2476,7 +2655,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -2491,7 +2670,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -2796,7 +2975,7 @@
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -2808,7 +2987,7 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "SelfAssess": [],
       "PracticeResource": [],
       "Standalone Assessment": []
@@ -2972,7 +3151,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "showFor": {},
@@ -3583,7 +3762,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "showFor": {},
@@ -4070,7 +4249,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -4085,7 +4264,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -4394,7 +4573,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -4409,7 +4588,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -4571,7 +4750,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -5075,7 +5254,7 @@
       "Course": [],
       "Knowledge Artifact": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notShowFor": {},
@@ -5086,7 +5265,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -5242,7 +5421,7 @@
       "CourseUnit": [],
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "mandatoryFor": {
@@ -5250,7 +5429,7 @@
       "Course": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -5265,10 +5444,135 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
+  },
+  "size": {
+    "defaultValue": {
+      "Channel": [
+        {
+          "condition": {
+            "contentType": [
+              "Channel"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Collection": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Course Unit": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseUnit"
+            ],
+            "primaryCategory": [
+              "Course Unit"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Knowledge Artifact": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Artifact"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Knowledge Board": [
+        {
+          "condition": {
+            "contentType": [
+              "dge Board"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Learning Path": [
+        {
+          "condition": {
+            "contentType": [
+              "Learning Path"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": 0
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {
+      
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+      "Resource": [
+        {
+          "mimeType": [
+            "application/pdf",
+            "application/x-mpegURL",
+            "audio/mpeg"
+          ]
+        }
+      ]
+    },
+    "notShowFor": {},
+    "showFor": {},
+    "type": "number"
   },
   "status": {
     "defaultValue": {
@@ -5572,7 +5876,7 @@
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
-      "Resource": [],
+      "Learning Resource": [],
       "Collection": [
         {
           "body": [
@@ -5764,7 +6068,7 @@
     "mandatoryFor": {
       "Course": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -5779,7 +6083,7 @@
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
-      "Resource": [],
+      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "type": "string"
@@ -6278,6 +6582,145 @@
       "Standalone Assessment": []
     },
     "type": "array"
+  },
+  "transcoding": {
+    "defaultValue": {
+      "Channel": [
+        {
+          "condition": {
+            "contentType": [
+              "Channel"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Collection": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Course Unit": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseUnit"
+            ],
+            "primaryCategory": [
+              "Course Unit"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Knowledge Artifact": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Artifact"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Knowledge Board": [
+        {
+          "condition": {
+            "contentType": [
+              "Knowledge Board"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Learning Path": [
+        {
+          "condition": {
+            "contentType": [
+              "Learning Path"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Practice Question Set": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": null
+        }
+      ],
+      "Course Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": null
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {},
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
+    "notShowFor": {},
+    "showFor": {},
+    "type": "object"
   },
   "visibility": {
     "defaultValue": {

@@ -65,7 +65,7 @@
     "name": "Create an assessment",
     "icon": "playlist_add_check",
     "available": true,
-    "enabled": true,
+    "enabled": false,
     "contentType": "Resource",
     "mimeType": "application/json",
     "additionalMeta": {
@@ -84,8 +84,8 @@
     "parent": "resource",
     "name": "Survey link",
     "icon": "insert_link",
-    "available": false,
-    "enabled": false,
+    "available": true,
+    "enabled": true,
     "contentType": "Resource",
     "mimeType": "application/survey",
     "additionalMeta": {
@@ -316,6 +316,27 @@
       "title": "Welcome to practice question set",
       "createTitle": "Pratice Assessment",
       "subTitle": "Create a pratice assesment content",
+      "points": []
+    }
+  },
+  {
+    "id": "standaloneAssessment",
+    "isCollection": true,
+    "name": "Standalone Assessment",
+    "description": "Create a standalone Assessment.",
+    "icon": "playlist_add_check",
+    "contentType": "Collection",
+    "available": true,
+    "enabled": true,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+      "content_creator"
+    ],
+    "primaryCategory": "Standalone Assessment",
+    "details": {
+      "title": "Welcome to standalone assessment curation",
+      "createTitle": "Standalone Assessment",
+      "subTitle": "Create a standalone Assessment.",
       "points": []
     }
   }

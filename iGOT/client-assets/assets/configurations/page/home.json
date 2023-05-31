@@ -148,6 +148,56 @@
               "widgetData": {
                 "strips": [
                   {
+                    "key": "programs",
+                    "title": "Programs",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">Programs for you.</p>"
+                        }
+                      }
+                    },
+                    "viewMoreUrl": {},
+                    "stripConfig": {
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
+                    },
+                    "filters": [],
+                    "request": {
+                      "enrollmentList": {
+                        "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+                        "queryParams": {
+                          "orgdetails": "orgName,email",
+                          "licenseDetails": "name,description,url",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license",
+                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        [
+          {
+            "dimensions": {},
+            "className": "new-box",
+            "widget": {
+              "widgetType": "contentStrip",
+              "widgetSubType": "contentStripMultiple",
+              "widgetData": {
+                "strips": [
+                  {
                     "key": "mandatoryCourses",
                     "title": "Mandatory courses for you",
                     "info": {
@@ -243,8 +293,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "prarambhCourseDetails",
-                    "title": "Karmayogi Prarambh Module",
+                    "key": "curatedCollections",
+                    "title": "Curated collections",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -256,71 +306,40 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">This is a program specially designed for new entrants in government to. prepare them for fulfilling their responsibilities and make them aware of the existing policies and rules in the government sector. The program can be accessed through India’s first competency-based online learning platform - iGOT Karmayogi. The program comprises of courses on Code of Conduct for Government Employees, Prevention of Sexual Harassment of Women at Workplace, Understanding Motivation, Self Leadership, Stress Management, Effective Communication, Microsoft Word Beginners and Microsoft Excel for Beginners.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Curated collections for you.</p>"
                         }
                       }
                     },
+                    "viewMoreUrl": {
+                      "path": "/app/curatedCollections/home",
+                      "viewMoreText": "See all",
+                      "queryParams": {}
+                    },
                     "stripConfig": {
-                      "cardSubType": "standard",
+                      "cardSubType": "cardCurated",
                       "postCardForSearch": true
                     },
                     "filters": [],
                     "request": {
-                      "prarambhCourse": {
+                      "curatedCollections": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Course"
-                            ],
-                            "contentType": [
-                              "Course"
-                            ],
-                            "topics": [],
-                            "identifier": [
-                              "do_11359618144357580811",
-                              "do_113569878939262976132",
-                              "do_113474579909279744117",
-                              "do_113651330692145152128",
-                              "do_1134122937914327041177",
-                              "do_113473120005832704152",
-                              "do_1136364244148060161889",
-                              "do_1136364937253437441916"
-                            
+                              "CuratedCollections"
                             ]
                           },
-                          "offset": 0,
-                          "limit": 20,
                           "query": "",
                           "sort_by": {
-                            "lastUpdatedOn": "desc"
+                            "name": "asc"
                           },
-                          "fields": [
-                            "name",
-                            "appIcon",
-                            "instructions",
-                            "description",
-                            "purpose",
-                            "mimeType",
-                            "gradeLevel",
-                            "identifier",
-                            "medium",
-                            "pkgVersion",
-                            "board",
-                            "subject",
-                            "resourceType",
+                          "limit": 50,
+                          "offset": 0,
+                          "fields": [],
+                          "facets": [
                             "primaryCategory",
-                            "contentType",
-                            "channel",
-                            "organisation",
-                            "trackable",
-                            "license",
-                            "posterImage",
-                            "idealScreenSize",
-                            "learningMode",
-                            "creatorLogo",
-                            "duration",
-                            "version"
-                          ]
+                            "mimeType"
+                          ],
+                          "fuzzy": false
                         }
                       }
                     }
@@ -340,8 +359,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "DAKSHTACourses",
-                    "title": "DAKSHTA Courses",
+                    "key": "featuredCourses",
+                    "title": "Featured courses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -353,17 +372,18 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">The DAKSHTA Programmes are unique in nature as though the participants are predominantly from CSS/CSSS, they belong to a same/similar Ministry/Department. The salient features of DAKSHTA Programmes are Focus to target organization, Learning Methodology and Doubt-clearing sessions, peer learning, and interactive discussions with Blended Program. An integral component of all DAKSHTA programs are impact assessment for which the Course Directors are required to liaison with the Nodal Officer of the concerned Ministry/Department and conduct a Post Training Seminar after 45 days of the Program. </p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Featured courses</p>"
                         }
                       }
                     },
+                    "viewMoreUrl": {},
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
                     },
                     "filters": [],
                     "request": {
-                      "DAKSHTACourses": {
+                      "searchV6": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -371,20 +391,6 @@
                             ],
                             "contentType": [
                               "Course"
-                            ],
-                            "topics": [],
-                            "identifier": [
-                              "do_1135948071783301121144",
-                              "do_1135948534007070721153",
-                              "do_113570024197103616141",
-                              "do_113467516368257024123",
-                              "do_1134693696236748801441",
-                              "do_11359618144357580811",
-                              "do_1134970386480578561102",
-                              "do_1135947505370890241121",
-                              "do_113555025323122688119",
-                              "do_113555072212344832131",
-                              "do_1134655011921100801100"
                             ]
                           },
                           "offset": 0,
@@ -420,6 +426,10 @@
                             "duration",
                             "version"
                           ]
+                        },
+                        "api": {
+                          "path": "/api/course/v1/explore",
+                          "queryParams": {}
                         }
                       }
                     }
@@ -429,7 +439,6 @@
             }
           }
         ],
-    
         [
           {
             "dimensions": {},
@@ -480,6 +489,100 @@
                             ],
                             "contentType": [
                               "Course"
+                            ]
+                          },
+                          "offset": 0,
+                          "limit": 20,
+                          "query": "",
+                          "sort_by": {
+                            "lastUpdatedOn": "desc"
+                          },
+                          "fields": [
+                            "name",
+                            "appIcon",
+                            "instructions",
+                            "description",
+                            "purpose",
+                            "mimeType",
+                            "gradeLevel",
+                            "identifier",
+                            "medium",
+                            "pkgVersion",
+                            "board",
+                            "subject",
+                            "resourceType",
+                            "primaryCategory",
+                            "contentType",
+                            "channel",
+                            "organisation",
+                            "trackable",
+                            "license",
+                            "posterImage",
+                            "idealScreenSize",
+                            "learningMode",
+                            "creatorLogo",
+                            "duration",
+                            "version"
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        [
+          {
+            "dimensions": {},
+            "className": "standalone-assessment-container",
+            "widget": {
+              "widgetType": "contentStrip",
+              "widgetSubType": "contentStripMultiple",
+              "widgetData": {
+                "strips": [
+                  {
+                    "key": "standalone-assessment",
+                    "title": "Standalone Assessments",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">Standalone Assessment.</p>"
+                        }
+                      }
+                    },
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Standalone Assessment\"], \"contentType\": [\"Collection\"]}"
+                      }
+                    },
+                    "stripConfig": {
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
+                    },
+                    "filters": [],
+                    "request": {
+                      "searchV6": {
+                        "request": {
+                          "filters": {
+                            "primaryCategory": [
+                              "Standalone Assessment"
+                            ],
+                            "contentType": [
+                              "Collection"
                             ]
                           },
                           "offset": 0,

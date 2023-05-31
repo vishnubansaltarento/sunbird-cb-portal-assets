@@ -286,7 +286,7 @@
             "enabled": false,
             "uri": ""
           },
-          "enabled": false,
+          "enabled": true,
           "routerLink": "/author/surveys",
           "requiredRoles": [
             "admin",

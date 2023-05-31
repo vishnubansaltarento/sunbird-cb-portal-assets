@@ -364,7 +364,7 @@
       "path": "/page/learn",
       "active": true,
       "hubname": "Learn",
-      "desc": "Shape your Skills with hunderds-of online course",
+      "desc": "Sharpen your skills with hundreds-of online courses.",
       "icon": "school",
       "accessKey": "L",
       "permission": [
@@ -375,7 +375,7 @@
       "path": "/app/discuss/home",
       "active": true,
       "hubname": "Discuss",
-      "desc": "Have a question? Have an Idea? discuss with your peers",
+      "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
       "permission": []
@@ -384,7 +384,7 @@
       "path": "/app/network-v2",
       "active": true,
       "hubname": "Network",
-      "desc": "Connect with Interesting people, see what they are upto.",
+      "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
       "permission": []
@@ -393,7 +393,7 @@
       "path": "/app/careers/home",
       "active": true,
       "hubname": "Career",
-      "desc": "Explore the carrier option grow into the path you are",
+      "desc": "Explore career options, grow in the path of your choice.",
       "icon": "work",
       "accessKey": "C",
       "permission": []
@@ -402,7 +402,7 @@
       "path": "/app/competencies",
       "active": true,
       "hubname": "Competencies",
-      "desc": "Add your competencies, see what others are adding",
+      "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
       "permission": []
@@ -411,7 +411,7 @@
       "path": "/app/event-hub",
       "active": true,
       "hubname": "Events",
-      "desc": "Add your events",
+      "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",
       "permission": []

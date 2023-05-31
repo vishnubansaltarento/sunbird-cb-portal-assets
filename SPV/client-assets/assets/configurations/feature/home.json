@@ -85,7 +85,43 @@
             "uri": ""
           },
           "enabled": true,
-          "routerLink": "/app/home/positions",
+          "routerLink": "/app/home/requests/position",
+          "requiredRoles": [
+            "SPV_ADMIN",
+            "STATE_ADMIN",
+            "spv_admin",
+            "state_admin"
+          ]
+        },
+        {
+          "name": "Organisations",
+          "key": "sign-up-organisations",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/requests/organisation",
+          "requiredRoles": [
+            "SPV_ADMIN",
+            "STATE_ADMIN",
+            "spv_admin",
+            "state_admin"
+          ]
+        },
+        {
+          "name": "Domain",
+          "key": "sign-up-emails",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/requests/domain",
           "requiredRoles": [
             "SPV_ADMIN",
             "STATE_ADMIN",
@@ -111,5 +147,7 @@
         }
       ]
     }
-  }
+  ]
+}
+}
 }

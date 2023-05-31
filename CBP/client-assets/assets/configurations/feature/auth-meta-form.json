@@ -964,6 +964,32 @@
           },
           "value": ""
         }
+      ],
+      "Practice Question Set": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -1461,9 +1487,7 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
       "Resource": [],
@@ -1985,8 +2009,7 @@
     "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {
-    },
+    "notShowFor": {},
     "showFor": {
       "Channel": [],
       "CourseUnit": [],
@@ -2659,9 +2682,7 @@
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
-    "notMandatoryFor": {
-      
-    },
+    "notMandatoryFor": {},
     "notShowFor": {},
     "showFor": {
       "Channel": [],
@@ -2862,7 +2883,7 @@
           "value": "0"
         }
       ],
-            "Course": [
+      "Course": [
         {
           "condition": {
             "contentType": [
@@ -4080,6 +4101,32 @@
           },
           "value": ""
         }
+      ],
+      "Practice Question Set": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "SelfAssess"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -4253,9 +4300,7 @@
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
-    "notMandatoryFor": {
-      
-    },
+    "notMandatoryFor": {},
     "notShowFor": {},
     "showFor": {
       "Channel": [],
@@ -4577,9 +4622,7 @@
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
-    "notMandatoryFor": {
-      
-    },
+    "notMandatoryFor": {},
     "notShowFor": {},
     "showFor": {
       "Channel": [],
@@ -4738,8 +4781,7 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {},
@@ -5245,9 +5287,7 @@
       "Channel": [],
       "Knowledge Board": []
     },
-    "mandatoryFor": {
-      
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
       "CourseUnit": [],
@@ -5555,9 +5595,7 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
       "Resource": [
@@ -5871,9 +5909,7 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
       "Learning Resource": [],

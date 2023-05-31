@@ -165,9 +165,7 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {
-                     
-                    },
+                    "viewMoreUrl": {},
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true

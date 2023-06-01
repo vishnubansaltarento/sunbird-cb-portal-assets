@@ -81,6 +81,10 @@
           {
             "name": "learning resource",
             "count": 0
+          },
+          {
+            "name": "standalone assessment",
+            "count": 0
           }
         ],
         "name": "primaryCategory",
@@ -130,6 +134,10 @@
           },
           {
             "name": "audio/mpeg",
+            "count": 0
+          },
+          {
+            "name": "application/vnd.sunbird.questionset",
             "count": 0
           }
         ],

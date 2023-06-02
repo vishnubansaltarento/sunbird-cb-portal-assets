@@ -286,9 +286,7 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {
-                    
-                    },
+                    "viewMoreUrl": {},
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -576,9 +574,7 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {
-                     
-                    },
+                    "viewMoreUrl": {},
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -601,7 +597,6 @@
             }
           }
         ],
-      
         [
           {
             "dimensions": {},

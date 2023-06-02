@@ -1,22 +1,25 @@
 {
-    "search": {
-        "searchReq": {
-            "request": {
-              "filters": {
-                "primaryCategory": [
-                    "CuratedCollections"
-                ]
-               },
-              "query": "",
-              "sort_by": {
-                "name": "asc"
-               },
-              "limit": 50,
-              "offset": 0,
-              "fields": [],
-              "facets": ["primaryCategory", "mimeType"],
-              "fuzzy": false
-            }
-        }
+  "search": {
+    "searchReq": {
+      "request": {
+        "filters": {
+          "primaryCategory": [
+            "CuratedCollections"
+          ]
+        },
+        "query": "",
+        "sort_by": {
+          "name": "asc"
+        },
+        "limit": 50,
+        "offset": 0,
+        "fields": [],
+        "facets": [
+          "primaryCategory",
+          "mimeType"
+        ],
+        "fuzzy": false
+      }
     }
+  }
 }

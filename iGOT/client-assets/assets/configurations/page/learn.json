@@ -206,21 +206,15 @@
                     },
                     "filters": [],
                     "request": {
-                      "enrollmentList": {
+                      "moderatedCourses": {
                         "path": "/apis/proxies/v8/sunbirdigot/read",
                         "queryParams": {
                           "filters": {
                             "primaryCategory": [
                               "Course"
                             ],
-                            "contentType": [
-                              "Collection"
-                            ]
-                          },
-                          "orgdetails": "orgName,email",
-                          "licenseDetails": "name,description,url",
-                          "fields": "name,appIcon,instructions,description,purpose,mimeType,gradeLevel,identifier,medium,pkgVersion,board,subject,resourceType,primaryCategory,contentType,channel,organisation,trackable,license,posterImage,idealScreenSize,learningMode,creatorLogo,duratio,version,secureSettings",
-                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                            "secureSettings": true
+                          }
                         }
                       }
                     }
@@ -663,7 +657,6 @@
             }
           }
         ],
-      
         [
           {
             "dimensions": {},
@@ -779,7 +772,7 @@
     {
       "icon": "video_library",
       "name": "Moderated courses",
-      "route": "/app/learn/browse-by/provider/moderated-courses"
+      "route": "/app/globalsearch"
     }
   ]
 }

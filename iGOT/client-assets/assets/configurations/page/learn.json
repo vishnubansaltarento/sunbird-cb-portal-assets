@@ -207,7 +207,7 @@
                     "filters": [],
                     "request": {
                       "moderatedCourses": {
-                        "path": "/apis/proxies/v8/sunbirdigot/read",
+                        "path": "/apis/proxies/v8/sunbirdigot/search",
                         "queryParams": {
                           "filters": {
                             "primaryCategory": [

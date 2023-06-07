@@ -154,6 +154,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -318,6 +319,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -472,6 +474,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -488,6 +491,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -642,7 +646,8 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
+      "Course": [],
+      "Program": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},
@@ -656,7 +661,8 @@
       "Learning Path": []
     },
     "showFor": {
-      "Course": []
+      "Course": [],
+      "Program": []
     },
     "type": "array"
   },
@@ -815,6 +821,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -977,6 +984,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -1323,6 +1331,7 @@
     "showFor": {
       "Channel": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": []
@@ -1655,6 +1664,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -1667,6 +1677,7 @@
     "showFor": {
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -1828,6 +1839,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -1991,6 +2003,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2162,6 +2175,7 @@
     "notShowFor": {
       "Channel": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Resource": [],
@@ -2320,6 +2334,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2334,6 +2349,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2497,6 +2513,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
@@ -2652,6 +2669,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2667,6 +2685,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2974,6 +2993,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2986,6 +3006,7 @@
     "showFor": {
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "SelfAssess": [],
@@ -3148,6 +3169,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3314,6 +3336,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3759,6 +3782,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3923,6 +3947,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4092,6 +4117,7 @@
     "showFor": {
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Resource": []
     },
@@ -4246,6 +4272,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4261,6 +4288,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4570,6 +4598,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4585,6 +4614,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4747,6 +4777,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4901,7 +4932,8 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": []
+      "Course": [],
+      "Program": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -4919,6 +4951,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -5073,6 +5106,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -5093,6 +5127,7 @@
     },
     "showFor": {
       "Course": [],
+      "Program": [],
       "Standalone Assessment": []
     },
     "type": "array"
@@ -5252,6 +5287,7 @@
     "notMandatoryFor": {
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Learning Path": [],
       "Learning Resource": [],
@@ -5262,6 +5298,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -5420,6 +5457,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5427,6 +5465,7 @@
     "mandatoryFor": {
       "Channel": [],
       "Course": [],
+      "Program": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Learning Resource": [],
@@ -5441,6 +5480,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -6067,6 +6107,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -6080,6 +6121,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -6236,6 +6278,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -6558,6 +6601,7 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
+      "Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -6579,6 +6623,7 @@
     },
     "showFor": {
       "Course": [],
+      "Program": [],
       "Standalone Assessment": []
     },
     "type": "array"
@@ -6853,6 +6898,7 @@
       "Channel": [],
       "CourseUnit": [],
       "Course": [],
+      "Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],

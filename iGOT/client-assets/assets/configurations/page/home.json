@@ -351,104 +351,6 @@
         ],
         [
           {
-              "dimensions": {},
-              "className": "new-box",
-              "widget": {
-                  "widgetType": "contentStrip",
-                  "widgetSubType": "contentStripMultiple",
-                  "widgetData": {
-                      "strips": [
-                          {
-                              "key": "blendedLearning",
-                              "title": "Blended Learning",
-                              "info": {
-                                  "mode": "below",
-                                  "visibilityMode": "hidden",
-                                  "icon": {
-                                      "icon": "info",
-                                      "scale": 0.8
-                                  },
-                                  "widget": {
-                                      "widgetType": "element",
-                                      "widgetSubType": "elementHtml",
-                                      "widgetData": {
-                                          "html": "<p class=\"ws-mat-primary-text\">Blended Learning.</p>"
-                                      }
-                                  }
-                              },
-                              "stripConfig": {
-                                  "cardSubType": "standard",
-                                  "postCardForSearch": true
-                              },
-                              "filters": [],
-                              "request": {
-                                  "blendedLearning": {
-                                      "request": {
-                                          "filters": {
-                                              "primaryCategory": [
-                                                  "Course"
-                                              ],
-                                              "contentType": [
-                                                  "Course"
-                                              ],
-                                              "topics": [],
-                                              "identifier": [
-                                                  "do_113516400138084352130",
-                                                  "do_113545241679831040148",
-                                                  "do_1137137038639185921764",
-                                                  "do_1138042404253040641247",
-                                                  "do_1135410735926558721143",
-                                                  "do_113684649654050816110",
-                                                  "do_113797970728058880116",
-                                                  "do_113799318327042048176"
-                                                 
-                                              ]
-                                          },
-                                          "offset": 0,
-                                          "limit": 10,
-                                          "query": "",
-                                          "sort_by": {
-                                              "lastUpdatedOn": "desc"
-                                          },
-                                          "fields": [
-                                              "name",
-                                              "appIcon",
-                                              "instructions",
-                                              "description",
-                                              "purpose",
-                                              "mimeType",
-                                              "gradeLevel",
-                                              "identifier",
-                                              "medium",
-                                              "pkgVersion",
-                                              "board",
-                                              "subject",
-                                              "resourceType",
-                                              "primaryCategory",
-                                              "contentType",
-                                              "channel",
-                                              "organisation",
-                                              "trackable",
-                                              "license",
-                                              "posterImage",
-                                              "idealScreenSize",
-                                              "learningMode",
-                                              "creatorLogo",
-                                              "duration",
-                                              "version"
-                                          ]
-                                      }
-                                  }
-                              }
-                          }
-                      ]
-                  }
-              }
-          }
-      ],
-       
-        [
-          {
             "dimensions": {},
             "className": "new-box",
             "widget": {
@@ -457,8 +359,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "latest",
-                    "title": "Newly added courses",
+                    "key": "blendedLearning",
+                    "title": "Blended Learning",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -470,17 +372,8 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Newly added courses.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Blended Learning.</p>"
                         }
-                      }
-                    },
-                    "viewMoreUrl": {
-                      "path": "/app/globalsearch",
-                      "queryParams": {
-                        "tab": "Learn",
-                        "q": "",
-                        "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
                       }
                     },
                     "stripConfig": {
@@ -489,7 +382,7 @@
                     },
                     "filters": [],
                     "request": {
-                      "searchV6": {
+                      "blendedLearning": {
                         "request": {
                           "filters": {
                             "primaryCategory": [
@@ -497,10 +390,21 @@
                             ],
                             "contentType": [
                               "Course"
+                            ],
+                            "topics": [],
+                            "identifier": [
+                              "do_113516400138084352130",
+                              "do_113545241679831040148",
+                              "do_1137137038639185921764",
+                              "do_1138042404253040641247",
+                              "do_1135410735926558721143",
+                              "do_113684649654050816110",
+                              "do_113797970728058880116",
+                              "do_113799318327042048176"
                             ]
                           },
                           "offset": 0,
-                          "limit": 20,
+                          "limit": 10,
                           "query": "",
                           "sort_by": {
                             "lastUpdatedOn": "desc"
@@ -551,8 +455,8 @@
               "widgetData": {
                 "strips": [
                   {
-                    "key": "standalone-assessment",
-                    "title": "Standalone Assessments",
+                    "key": "latest",
+                    "title": "Newly added courses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -564,7 +468,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Standalone Assessment.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Newly added courses.</p>"
                         }
                       }
                     },
@@ -574,7 +478,7 @@
                         "tab": "Learn",
                         "q": "",
                         "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Standalone Assessment\"], \"contentType\": [\"Collection\"]}"
+                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
                       }
                     },
                     "stripConfig": {
@@ -587,7 +491,7 @@
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Standalone Assessment"
+                              "Course"
                             ],
                             "contentType": [
                               "Course"

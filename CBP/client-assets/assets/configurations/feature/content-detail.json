@@ -103,6 +103,22 @@
                 "data": {}
             },
             {
+                "name": "New requests",
+                "key": "newrequests",
+                "type": "newrequests",
+                "enabled": true,
+                "rolesRequired": ["PROGRAM_COORDINATOR"],
+                "data": {}
+            },
+            {
+                "name": "Rejected requests",
+                "key": "rejectedrequests",
+                "type": "rejectedrequests",
+                "enabled": true,
+                "rolesRequired": ["PROGRAM_COORDINATOR"],
+                "data": {}
+            },
+            {
                 "name": "Certificates",
                 "key": "certificates",
                 "type": "certificates",

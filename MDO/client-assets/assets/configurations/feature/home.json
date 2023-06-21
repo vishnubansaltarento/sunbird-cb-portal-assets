@@ -71,22 +71,6 @@
                     ]
                 },
                 {
-                    "name": "Competency",
-                    "key": "competency",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/competencyList",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin"
-                    ]
-                },
-                {
                     "name": "Events",
                     "key": "events",
                     "fragment": false,

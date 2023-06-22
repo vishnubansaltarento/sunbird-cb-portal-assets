@@ -115,5 +115,11 @@
     "available": true,
     "courseAnalyticsClient": true,
     "courseAnalytics": false
-  }
+  },
+  "BatchEnrollL1Msg": "Your enrollment request is being reviewed. You will be notified when it is approved.",
+  "BatchEnrollL2Msg": "We are now reviewing your request. You will be notified when it is approved.",
+  "BatchEnrollDelayMsg": "Are you still waiting for the approval?",
+  "BatchEnrollApprovedMsg":"Your enrollment is now approved.",
+  "BatchEnrollSupportMsg": "For help, write to us at ",
+  "BatchEnrollSupportEmail": "name@email.com"
 }

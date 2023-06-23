@@ -382,5 +382,56 @@
       "subTitle": "Create a standalone Assessment.",
       "points": []
     }
+  },
+  {
+    "id": "blendedProgram",
+    "isCollection": true,
+    "name": "Blended Program",
+    "description": "Create collection of online and offline resources.",
+    "icon": "library_books",
+    "contentType": "Course",
+    "available": true,
+    "enabled": true,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+      "content_creator",
+      "editor",
+      "admin"
+    ],
+    "primaryCategory": "Blended Program",
+    "possion": 5,
+    "details": {
+      "title": "Welcome to blended program curation",
+      "createTitle": "Blended program",
+      "subTitle": "Create collection of resources.",
+      "points": []
+    },
+    "programDuration":{
+      "max": 20,
+      "min": 1
+    },
+    "batchSize": {
+      "max": 200,
+      "min": 1
+    } 
+  },
+  {
+    "id": "offlineSession",
+    "parent": "resource",
+    "name": "Offline Session",
+    "icon": "insert_drive_file",
+    "available": true,
+    "enabled": true,
+    "contentType": "Resource",
+    "mimeType": "application/offline",
+    "additionalMeta": {
+      "isExternal": false
+    },
+    "hasRole": [
+      "content_creator",
+      "editor",
+      "admin"
+    ],
+    "primaryCategory": "Offline Session"
   }
 ]

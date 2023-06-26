@@ -397,8 +397,7 @@
       "content_creator",
       "editor",
       "admin",
-      "CBP_ADMIN",
-      "PROGRAM_COORDINATOR"
+      "program_coordinator"
     ],
     "primaryCategory": "Blended Program",
     "possion": 5,

@@ -273,8 +273,7 @@
             "content_reviewer",
             "content_creator",
             "content_publisher",
-            "CBP_ADMIN",
-            "PROGRAM_COORDINATOR"
+            "program_coordinator"
           ]
         },
         {

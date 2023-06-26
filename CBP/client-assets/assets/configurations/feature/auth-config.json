@@ -278,6 +278,21 @@
           ]
         },
         {
+          "name": "Blended Program",
+          "key": "blendedProgramAll",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/blended-program-all",
+          "requiredRoles": [
+            "program_coordinator"
+          ]
+        },
+        {
           "name": "Users",
           "key": "user",
           "fragment": false,

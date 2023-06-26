@@ -95,11 +95,27 @@
     "batch": {
         "tabs": [
             {
+                "name": "New requests",
+                "key": "newrequests",
+                "type": "newrequests",
+                "enabled": true,
+                "rolesRequired": ["content_creator", "program_coordinator"],
+                "data": {}
+            },
+            {
                 "name": "Learners",
                 "key": "learners",
                 "type": "learners",
                 "enabled": true,
                 "rolesRequired": [],
+                "data": {}
+            },
+            {
+                "name": "Rejected requests",
+                "key": "rejectedrequests",
+                "type": "rejectedrequests",
+                "enabled": true,
+                "rolesRequired": ["content_creator", "program_coordinator"],
                 "data": {}
             },
             {

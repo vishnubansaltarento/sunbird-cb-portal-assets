@@ -272,7 +272,9 @@
           "requiredRoles": [
             "content_reviewer",
             "content_creator",
-            "content_publisher"
+            "content_publisher",
+            "CBP_ADMIN",
+            "PROGRAM_COORDINATOR"
           ]
         },
         {

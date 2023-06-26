@@ -396,7 +396,9 @@
     "hasRole": [
       "content_creator",
       "editor",
-      "admin"
+      "admin",
+      "CBP_ADMIN",
+      "PROGRAM_COORDINATOR"
     ],
     "primaryCategory": "Blended Program",
     "possion": 5,

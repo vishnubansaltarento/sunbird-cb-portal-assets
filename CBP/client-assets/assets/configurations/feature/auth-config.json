@@ -270,7 +270,24 @@
           "enabled": true,
           "routerLink": "/author/cbp/blended-program-home",
           "requiredRoles": [
+            "content_reviewer",
             "content_creator",
+            "content_publisher",
+            "program_coordinator"
+          ]
+        },
+        {
+          "name": "Blended Program All",
+          "key": "blendedProgramAll",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/blended-program-all",
+          "requiredRoles": [
             "program_coordinator"
           ]
         },

@@ -409,7 +409,7 @@
           "icon": "library_add",
           "minimum": 0,
           "maximum": 0,
-          "enabled": false
+          "enabled": true
         },
         {
           "conditions": {

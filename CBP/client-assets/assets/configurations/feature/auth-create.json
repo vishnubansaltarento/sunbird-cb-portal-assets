@@ -387,7 +387,7 @@
     "id": "blendedProgram",
     "isCollection": true,
     "name": "Blended Program",
-    "description": "Create collection of online and offline resources.",
+    "description": "Create a collection of online and offline resources.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,

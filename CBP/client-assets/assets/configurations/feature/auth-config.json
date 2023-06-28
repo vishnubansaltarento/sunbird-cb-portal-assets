@@ -276,7 +276,7 @@
           ]
         },
         {
-          "name": "Blended Program",
+          "name": "Blended Program All",
           "key": "blendedProgramAll",
           "fragment": false,
           "render": true,

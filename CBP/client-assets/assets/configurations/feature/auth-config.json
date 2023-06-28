@@ -272,8 +272,7 @@
           "requiredRoles": [
             "content_reviewer",
             "content_creator",
-            "content_publisher",
-            "program_coordinator"
+            "content_publisher"
           ]
         },
         {

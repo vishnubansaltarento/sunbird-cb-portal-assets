@@ -420,7 +420,7 @@
     "id": "offlineSession",
     "parent": "resource",
     "name": "Offline Session",
-    "icon": "insert_drive_file",
+    "icon": "meeting_room",
     "available": true,
     "enabled": true,
     "contentType": "Resource",

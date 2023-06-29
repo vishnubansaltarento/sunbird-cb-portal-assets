@@ -387,7 +387,7 @@
     "id": "blendedProgram",
     "isCollection": true,
     "name": "Blended Program",
-    "description": "Create collection of online and offline resources.",
+    "description": "Create a collection of online and offline resources.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
@@ -396,7 +396,8 @@
     "hasRole": [
       "content_creator",
       "editor",
-      "admin"
+      "admin",
+      "program_coordinator"
     ],
     "primaryCategory": "Blended Program",
     "possion": 5,
@@ -419,7 +420,7 @@
     "id": "offlineSession",
     "parent": "resource",
     "name": "Offline Session",
-    "icon": "insert_drive_file",
+    "icon": "meeting_room",
     "available": true,
     "enabled": true,
     "contentType": "Resource",

@@ -703,11 +703,12 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
-      "Program": [],
-      "Blended Program":[]
+      "Program": []
     },
     "notDisabledFor": {},
-    "notMandatoryFor": {},
+    "notMandatoryFor": {
+      "Blended Program":[]
+    },
     "notShowFor": {
       "Standalone Assessment": [],
       "Learning Resource": [],

@@ -277,7 +277,7 @@
           "primaryCategory": "Offline Session",
           "position": "",
           "description": "Add an instructor-led offline session",
-          "icon": "playlist_add_check",
+          "icon": "meeting_room",
           "minimum": 0,
           "maximum": 0,
           "enabled": true
@@ -409,7 +409,7 @@
           "icon": "library_add",
           "minimum": 0,
           "maximum": 0,
-          "enabled": false
+          "enabled": true
         },
         {
           "conditions": {
@@ -500,7 +500,7 @@
           "primaryCategory": "Offline Session",
           "position": "",
           "description": "Add an instructor-led offline session.",
-          "icon": "insert_drive_file",
+          "icon": "meeting_room",
           "minimum": 0,
           "maximum": 0,
           "enabled": false

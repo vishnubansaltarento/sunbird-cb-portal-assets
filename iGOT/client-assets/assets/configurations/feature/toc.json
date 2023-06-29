@@ -120,6 +120,6 @@
   "BatchEnrollL2Msg": "We are now reviewing your request. You will be notified when it is approved.",
   "BatchEnrollDelayMsg": "Are you still waiting for the approval?",
   "BatchEnrollApprovedMsg":"Your enrollment is now approved.",
-  "BatchEnrollRejectedMsg": "As per the department’s order, your enrollment request for the selected batch has been rejected. Please consider enrolling in other available batches.",
+  "BatchEnrollRejectedMsg": "As per the department’s order, your enrollment request for the selected batch has been rejected.",
   "BatchEnrollSupportMsg": "For help, write to us at "
 }

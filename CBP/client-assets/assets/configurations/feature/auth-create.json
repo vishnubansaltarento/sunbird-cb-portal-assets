@@ -38,7 +38,11 @@
       "editor",
       "admin"
     ],
-    "primaryCategory": "Learning Resource"
+    "primaryCategory": "Learning Resource",
+    "showFor": [
+      "Course",
+      "Blended Program"
+    ]
   },
   {
     "id": "link",
@@ -57,7 +61,11 @@
       "editor",
       "admin"
     ],
-    "primaryCategory": "Learning Resource"
+    "primaryCategory": "Learning Resource",
+    "showFor": [
+      "Course",
+      "Blended Program"
+    ]
   },
   {
     "id": "assessment",
@@ -96,7 +104,10 @@
       "editor",
       "admin"
     ],
-    "primaryCategory": "Learning Resource"
+    "primaryCategory": "Learning Resource",
+    "showFor": [
+      "Course"
+    ]
   },
   {
     "id": "webModule",

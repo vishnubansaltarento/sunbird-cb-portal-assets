@@ -66,7 +66,7 @@
                     "routerLink": "/app/events"
                 },
                 {
-                    "name": "Work Allocation",
+                    "name": "Work Allocation tool",
                     "key": "workallocation",
                     "fragment": false,
                     "render": true,

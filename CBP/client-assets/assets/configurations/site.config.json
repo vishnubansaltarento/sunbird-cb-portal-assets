@@ -209,9 +209,9 @@
   },
   "telemetryConfig": {
     "pdata": {
-      "id": "sunbird-cpb-portal",
+      "id": "sunbird-cp-creationportal",
       "ver": "3.0.1",
-      "pid": "sunbird-cpb-portal"
+      "pid": "sunbird-cp-creationportal"
     },
     "env": "prod",
     "channel": "igot",

@@ -60,6 +60,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -120,7 +133,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -155,6 +168,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -223,6 +237,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -283,7 +310,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -320,6 +347,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -388,6 +416,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -448,7 +489,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -475,6 +516,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -492,6 +534,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -561,6 +604,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -621,7 +677,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -650,7 +706,9 @@
       "Program": []
     },
     "notDisabledFor": {},
-    "notMandatoryFor": {},
+    "notMandatoryFor": {
+      "Blended Program":[]
+    },
     "notShowFor": {
       "Standalone Assessment": [],
       "Learning Resource": [],
@@ -662,7 +720,8 @@
     },
     "showFor": {
       "Course": [],
-      "Program": []
+      "Program": [],
+      "Blended Program":[]
     },
     "type": "array"
   },
@@ -727,6 +786,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -787,7 +859,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -822,6 +894,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -890,6 +963,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -933,32 +1019,6 @@
           "value": ""
         }
       ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ],
       "Standalone Assessment": [
         {
           "condition": {
@@ -989,7 +1049,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1011,6 +1071,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -1079,6 +1140,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1139,7 +1213,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1262,6 +1336,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1322,7 +1409,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1358,6 +1445,7 @@
       "Channel": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": []
@@ -1425,6 +1513,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1485,7 +1586,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1602,6 +1703,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1662,7 +1776,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1683,15 +1797,30 @@
           },
           "value": ""
         }
+      ],
+      "Offline Session": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Offline Session"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -1702,9 +1831,11 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "type": "string"
   },
@@ -1769,6 +1900,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1829,7 +1973,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -1864,6 +2008,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -1932,6 +2077,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -1992,7 +2150,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2027,6 +2185,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2095,6 +2254,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2155,7 +2327,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2199,6 +2371,7 @@
       "Channel": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Resource": [],
@@ -2270,6 +2443,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2330,7 +2516,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2358,6 +2544,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2373,6 +2560,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2442,6 +2630,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2502,7 +2703,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2537,6 +2738,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
@@ -2604,6 +2806,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2664,7 +2879,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2693,6 +2908,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2707,6 +2923,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -2776,6 +2993,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2836,7 +3066,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -2928,6 +3158,19 @@
           "value": "0"
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": "0"
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -2988,7 +3231,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3009,6 +3252,19 @@
           },
           "value": "0"
         }
+      ],
+      "Offline Session": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Offline Session"
+            ]
+          },
+          "value": "0"
+        }
       ]
     },
     "disabledFor": {},
@@ -3017,22 +3273,27 @@
       "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
-      "CourseUnit": []
+      "CourseUnit": [],
+      "Blended Program": []
     },
-    "notShowFor": {},
+    "notShowFor": {
+      "Blended Program": []
+    },
     "showFor": {
       "CourseUnit": [],
       "Course": [],
       "Program": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "SelfAssess": [],
+      "CourseAssessment": [],
       "PracticeResource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "type": "number"
   },
@@ -3097,6 +3358,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3157,7 +3431,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3191,6 +3465,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3261,6 +3536,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3321,7 +3609,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3358,6 +3646,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3426,6 +3715,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3486,7 +3788,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3573,6 +3875,19 @@
             ],
             "primaryCategory": [
               "Program"
+            ]
+          },
+          "value": true
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
             ]
           },
           "value": true
@@ -3712,6 +4027,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3772,7 +4100,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3804,6 +4132,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -3874,6 +4203,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -3934,7 +4276,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -3969,6 +4311,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4037,6 +4380,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4088,32 +4444,6 @@
           "value": ""
         }
       ],
-      "Practice Question Set": [
-        {
-          "condition": {
-            "contentType": [
-              "PracticeResource"
-            ],
-            "primaryCategory": [
-              "Practice Question Set"
-            ]
-          },
-          "value": ""
-        }
-      ],
-      "Course Assessment": [
-        {
-          "condition": {
-            "contentType": [
-              "SelfAssess"
-            ],
-            "primaryCategory": [
-              "Course Assessment"
-            ]
-          },
-          "value": ""
-        }
-      ],
       "Standalone Assessment": [
         {
           "condition": {
@@ -4144,7 +4474,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4165,6 +4495,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Learning Path": [],
       "Resource": []
     },
@@ -4231,6 +4562,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4291,7 +4635,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4320,6 +4664,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4334,6 +4679,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4341,6 +4687,78 @@
       "Standalone Assessment": []
     },
     "type": "string"
+  },
+  "maxUserInBatch": {
+    "defaultValue": {
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": 0
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {
+      "Blended Program": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "Course":[],
+      "Program":[],
+      "Standalone Assessment":[]
+    },
+    "showFor": {
+      "Blended Program": []
+    },
+    "type": "number"
   },
   "mimeType": {
     "defaultValue": {
@@ -4403,6 +4821,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4463,7 +4894,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4555,6 +4986,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4615,7 +5059,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4636,6 +5080,19 @@
           },
           "value": ""
         }
+      ],
+      "Offline Session": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Offline Session"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {},
@@ -4644,11 +5101,13 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},
@@ -4658,11 +5117,13 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Learning Resource": [],
-      "Standalone Assessment": []
+      "Standalone Assessment": [],
+      "Offline Session": []
     },
     "type": "string"
   },
@@ -4727,6 +5188,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4787,7 +5261,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4820,6 +5294,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -4889,6 +5364,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -4949,7 +5437,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -4975,7 +5463,8 @@
     "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
-      "Program": []
+      "Program": [],
+      "Blended Program":[]
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -4994,12 +5483,85 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Resource": []
     },
     "type": "string"
+  },
+  "programDuration": {
+    "defaultValue": {
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": 0
+        }
+      ]
+    },
+    "disabledFor": {},
+    "mandatoryFor": {
+      "Blended Program": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "Course":[],
+      "Program":[],
+      "Standalone Assessment":[]
+    },
+    "showFor": {
+      "Blended Program": []
+    },
+    "type": "number"
   },
   "publisherDetails": {
     "defaultValue": {
@@ -5062,6 +5624,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5122,7 +5697,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -5149,6 +5724,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -5170,6 +5746,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Standalone Assessment": []
     },
     "type": "array"
@@ -5235,6 +5812,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5295,7 +5885,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -5328,6 +5918,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Learning Path": [],
       "Learning Resource": [],
@@ -5339,6 +5930,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -5408,6 +6000,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5468,7 +6073,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -5498,6 +6103,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5506,6 +6112,7 @@
       "Channel": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Board": [],
       "Learning Path": [],
       "Learning Resource": [],
@@ -5521,6 +6128,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -5585,6 +6193,19 @@
             ],
             "primaryCategory": [
               "Program"
+            ]
+          },
+          "value": 0
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
             ]
           },
           "value": 0
@@ -5713,6 +6334,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5773,7 +6407,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -5865,6 +6499,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -5925,7 +6572,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6057,6 +6704,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6117,7 +6777,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6144,6 +6804,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Learning Path": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -6158,6 +6819,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -6227,6 +6889,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6287,7 +6962,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6315,6 +6990,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],
@@ -6399,6 +7075,19 @@
           "value": ""
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6459,7 +7148,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6551,6 +7240,19 @@
           "value": []
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6611,7 +7313,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6638,6 +7340,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -6660,6 +7363,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Standalone Assessment": []
     },
     "type": "array"
@@ -6725,6 +7429,19 @@
           "value": null
         }
       ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": null
+        }
+      ],
       "Knowledge Artifact": [
         {
           "condition": {
@@ -6785,7 +7502,7 @@
         {
           "condition": {
             "contentType": [
-              "SelfAssess"
+              "CourseAssessment"
             ],
             "primaryCategory": [
               "Course Assessment"
@@ -6935,6 +7652,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
+      "Blended Program": [],
       "Knowledge Artifact": [],
       "Knowledge Board": [],
       "Learning Path": [],

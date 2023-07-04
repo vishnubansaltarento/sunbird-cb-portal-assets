@@ -76,6 +76,22 @@
                 },
                 "enabled": true,
                 "routerLink": "/app/home/workallocation"
+            },
+            {
+                "name": "Blended program approvals",
+                "key": "blended-approvals",
+                "fragment": false,
+                "render": true,
+                "badges": {
+                    "enabled": false,
+                    "uri": ""
+                },
+                "enabled": true,
+                "routerLink": "/app/home/blended-approvals",
+                "requiredRoles": [
+                    "admin",
+                    "mdo_admin"
+                ]
             }
         ]
       }

@@ -103,6 +103,22 @@
                       "mdo_admin",
                       "wat_member"
                   ]
+              },
+              {
+                  "name": "Blended program approvals",
+                  "key": "blended-approvals",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                      "enabled": false,
+                      "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/blended-approvals",
+                  "requiredRoles": [
+                      "admin",
+                      "mdo_admin"
+                  ]
               }
           ]
       }

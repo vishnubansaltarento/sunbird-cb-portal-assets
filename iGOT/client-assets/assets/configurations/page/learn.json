@@ -634,11 +634,10 @@
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Course"
+                              "Course", 
+                              "Program"
                             ],
-                            "contentType": [
-                              "Course"
-                            ],
+             
                             "topics": [],
                             "identifier": [
                               "do_1138141812623769601113",

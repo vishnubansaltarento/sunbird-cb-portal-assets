@@ -386,10 +386,8 @@
                         "request": {
                           "filters": {
                             "primaryCategory": [
-                              "Course"
-                            ],
-                            "contentType": [
-                              "Course"
+                              "Course",
+                              "Program"
                             ],
                             "topics": [],
                             "identifier": [

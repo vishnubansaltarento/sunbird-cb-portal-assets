@@ -19,7 +19,8 @@
                     "requiredRoles": [
                         "admin",
                         "mdo_admin",
-                        "wat_member"
+                        "wat_member",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -36,7 +37,8 @@
                     "routerLink": "/app/home/users",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -52,7 +54,8 @@
                     "routerLink": "/app/home/roles-access",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -68,7 +71,8 @@
                     "routerLink": "/app/home/approvals",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -84,7 +88,8 @@
                     "routerLink": "/app/home/competencyList",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -100,7 +105,9 @@
                   "routerLink": "/app/events",
                   "requiredRoles": [
                       "admin",
-                      "mdo_admin"
+                      "mdo_admin",
+                      "mdo_leader"
+                      
                   ]
                 },     
                 {
@@ -117,7 +124,8 @@
                     "requiredRoles": [
                         "admin",
                         "mdo_admin",
-                        "wat_member"
+                        "wat_member",
+                        "mdo_leader"
                     ]
                 },
                 {
@@ -133,7 +141,8 @@
                     "routerLink": "/app/home/blended-approvals",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 }
             ]

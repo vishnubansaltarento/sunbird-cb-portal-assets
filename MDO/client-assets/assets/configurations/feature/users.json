@@ -90,7 +90,8 @@
                 "routerLink": "/app/home/blended-approvals",
                 "requiredRoles": [
                     "admin",
-                    "mdo_admin"
+                    "mdo_admin",
+                    "mdo_leader"          
                 ]
             }
         ]

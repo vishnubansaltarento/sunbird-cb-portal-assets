@@ -133,6 +133,22 @@
                         "admin",
                         "mdo_admin"
                     ]
+                },
+                {
+                    "name": "Reports section",
+                    "key": "reports-section",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/reports-section",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo_admin"
+                    ]
                 }
             ]
         }

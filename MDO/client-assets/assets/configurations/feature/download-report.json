@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Users Report",
+        "type": "downloadUserReport",
+        "enabled": true
+    },
+    {
+        "name": "Consumption Report",
+        "type": "consumptionReport",
+        "enabled": true
+    },
+    {
+        "name": "Assessment Report",
+        "type": "assessmentReport",
+        "enabled": true
+    }
+]

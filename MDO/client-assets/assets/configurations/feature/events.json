@@ -62,7 +62,7 @@
                         "enabled": false,
                         "uri": ""
                     },
-                    "enabled": true,
+                    "enabled": false,
                     "routerLink": "/app/home/competencyList"
                 },
                 {
@@ -100,6 +100,18 @@
                     },
                     "enabled": true,
                     "routerLink": "/app/home/blended-approvals"
+                },
+                {
+                    "name": "Reports section",
+                    "key": "reports-section",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/reports-section"
                 }
             ]
         }

@@ -54,18 +54,6 @@
                     "routerLink": "/app/home/approvals"
                 },
                 {
-                    "name": "Competency",
-                    "key": "competency",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/competencyList"
-                },
-                {
                     "name": "Events",
                     "key": "events",
                     "fragment": false,

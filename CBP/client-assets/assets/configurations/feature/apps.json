@@ -220,7 +220,7 @@
       "permission": [
         "ABOUT_US"
       ],
-      "show": true,
+      "show": false,
       "status": "live",
       "toolTip": "Rain Dashboard",
       "url": "/app/rainDashboard",

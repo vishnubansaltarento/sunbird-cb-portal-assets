@@ -261,7 +261,8 @@
               "type": "card-mini",
               "hideTitle": true
             }
-          }
+          },
+          "enabled" : true 
         },
         {
           "type": "featureButton",
@@ -274,7 +275,8 @@
               "type": "card-mini",
               "hideTitle": true
             }
-          }
+          },
+          "enabled" : false 
         },
         {
           "type": "widgetButton",
@@ -283,7 +285,8 @@
             "widgetSubType": "actionButtonProfile",
             "widgetData": {},
             "hideTitle": true
-          }
+          },
+          "enabled" : true 
         }
       ]
     },

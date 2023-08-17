@@ -160,6 +160,14 @@
                 "enabled": true,
                 "rolesRequired": [],
                 "data": {}
+            },
+            {
+                "name": "Session details",
+                "key": "session-details",
+                "type": "session-details",
+                "enabled": true,
+                "rolesRequired": [],
+                "data": {}
             }
         ]
     }

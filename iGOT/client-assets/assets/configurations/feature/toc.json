@@ -121,5 +121,35 @@
   "BatchEnrollDelayMsg": "Are you still waiting for the approval?",
   "BatchEnrollApprovedMsg":"Your enrollment is now approved.",
   "BatchEnrollRejectedMsg": "As per the department’s order, your enrollment request for the selected batch has been rejected.",
-  "BatchEnrollSupportMsg": "For help, write to us at "
+  "BatchEnrollSupportMsg": "For help, write to us at ",
+  "attendenceHelp": {
+    "title": "Follow these 4 simple steps to successfully mark your attendance.",
+    "steps": [
+      {
+        "step": "STEP 1",
+        "img": "/assets/icons/attendance_step1.svg",
+        "title": "Download iGOT app",
+        "description": "Download the app from the apple app store or google playstore"
+      },
+      {
+        "step": "STEP 2",
+        "img": "/assets/icons/attendance_step2.svg",
+        "title": "Login to the app",
+        "description": "Login using your registered email/phone number"
+      },
+      {
+        "step": "STEP 3",
+        "img": "/assets/icons/attendance_step3.svg",
+        "title": "Open the registered blended program",
+        "description": "For example: Search for ‘Creating and Running and Online Course’"
+      },
+      {
+        "step": "STEP 4",
+        "img": "/assets/icons/attendance_step4.svg",
+        "title": "Tap the button “Scan to mark attendance” ",
+        "description": "Follow the steps as it guides."
+      }
+    ],
+    "helpText": "If you’re facing the problem in marking the attendance, please contact your program coordinator"
+  }
 }

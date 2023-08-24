@@ -274,7 +274,8 @@
                             ],
                             "contentType": [
                               "Course"
-                            ]
+                            ],
+                            "batches.enrollmentEndDate": { ">": "new Date().toISOString().substring(0,10)" }
                           },
                           "offset": 0,
                           "limit": 20,

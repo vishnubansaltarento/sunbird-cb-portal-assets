@@ -4758,7 +4758,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Blended Program": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -4766,10 +4765,11 @@
     "notShowFor": {
       "Course":[],
       "Program":[],
-      "Standalone Assessment":[]
+      "Standalone Assessment":[],
+      "Blended Program": []
     },
     "showFor": {
-      "Blended Program": []
+      
     },
     "type": "number"
   },

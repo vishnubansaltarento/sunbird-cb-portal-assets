@@ -1,0 +1,179 @@
+{
+    "banner": {
+        "widgetType": "slider",
+        "widgetSubType": "sliderBanners",
+        "style": {
+            "border-radius": "12px"
+        },
+        "widgetData": [
+            {
+                "banners": {
+                    "l": "assets/instances/eagle/banners/orgs/landing/l.png",
+                    "m": "assets/instances/eagle/banners/orgs/landing/l.png",
+                    "s": "assets/instances/eagle/banners/orgs/landing/l.png",
+                    "xl": "assets/instances/eagle/banners/orgs/landing/xl.png",
+                    "xs": "assets/instances/eagle/banners/orgs/landing/l.png",
+                    "xxl": "assets/instances/eagle/banners/orgs/landing/xxl.png"
+                }
+            }
+        ]
+      
+
+    },
+    "course": [
+        {
+            "id":1,
+            "name": "Human Values in Governance and Public policy",
+            "institute": "Sri Sathya Sai Centre for Human Values",
+            "date": "January 8, 2024",
+            "duration": "5 days",
+            "vanue": "Prasanthi Nilayam, Puttaparthi, Andhra Pradesh",
+            "image": "assets/instances/eagle/banners/orgs/courses/01.jpg"
+        },
+        {
+            "id":2,
+            "name": "Fiscal Policy: Management and Emerging Issues",
+            "institute": "National Institute of Public Finance and Policy (NIPFP)",
+            "date": "December 04, 2023",
+            "duration": "5 days",
+            "vanue": "Conference Room, R&T Building, NIPFP, Delhi",
+            "image": "assets/instances/eagle/banners/orgs/courses/02.png"
+        },
+        {
+            "id":3,
+            "name": "Environment Impact Assessment: Development Projects",
+            "institute": "Environment Protection Training and Research Institute (EPTRI), Hyderabad",
+            "date": "February 05, 2024",
+            "duration": "5 days",
+            "vanue": "Environment Protection Training and Research Institute (EPTRI), Hyderabad",
+            "image": "assets/instances/eagle/banners/orgs/courses/03.jpg"
+        },
+        {
+            "id":4,
+            "name": "Program on Farmers Collectives and linking them to Market",
+            "institute": "Bankers Institute of Rural Development (BIRD), Lucknow",
+            "date": "November 06, 2023",
+            "duration": "5 days",
+            "vanue": "Bankers Institute of Rural Development (BIRD), LDA colony, Sector- H, Kanpur Road, Lucknow- 226012",
+            "image": "assets/instances/eagle/banners/orgs/courses/04.jpg"
+        },
+        
+         {
+            "id":5,
+            "name": "Kaushalam – Excellence in action ONLINE",
+            "institute": "Heartfulness Institute",
+            "date": "January 15, 2024 ",
+            "duration": "3 days",
+            "vanue": "Online",
+            "image": "assets/instances/eagle/banners/orgs/courses/05.jpg"
+        },
+         {
+            "id":6,
+            "name": "Building Competencies for Personal Excellence",
+            "institute": "The Art of Living",
+            "date": "January 08, 2024",
+            "duration": "5 days",
+            "vanue": "The Art of Living Int. Centre, Bengaluru",
+            "image": "assets/instances/eagle/banners/orgs/courses/06.jpg"
+        },
+         {
+            "id":7,
+            "name": "Ethics in Public Service",
+            "institute": "IC Centre for Governance",
+            "date": "February 26, 2024",
+            "duration": "5 days",
+            "vanue": "Asia Plateau, Panchgani",
+            "image": "assets/instances/eagle/banners/orgs/courses/07.jpg"
+        },
+         {
+            "id":8,
+            "name": "The Theory and Practice of Dispute Resolution",
+            "institute": "Nani Palkhivala Arbitration Centre, New No 22, Karpagambal Nagar, Mylapore, Chennai",
+            "date": "December 11, 2023",
+            "duration": "5 days",
+            "vanue": "Chennai",
+            "image": "assets/instances/eagle/banners/orgs/courses/08.jpg"
+        },
+         {
+            "id":9,
+            "name": "Sustainable Urbanization Solution in Mountainous Regions: The Way Forward",
+            "institute": "Dr. R. S. Tolia Uttarakhand Academy of Administration Nainital",
+            "date": "October 09, 2023",
+            "duration": "5 days",
+            "vanue": "Dr. R. S. Tolia Uttarakhand Academy of Administration Nainital",
+            "image": "assets/instances/eagle/banners/orgs/courses/09.jpg"
+        },
+         {
+            "id":10,
+            "name": "Social Policy and Governance",
+            "institute": "Tata Institute of Social Sciences",
+            "date": " March 18, 2024",
+            "duration": "5 days",
+            "vanue": "Tata Institute of Social Sciences, Library Conference Hall",
+            "image": "assets/instances/eagle/banners/orgs/courses/10.jpg"
+        },
+         {
+            "id":11,
+            "name": "Inner Engineering Leadership Program",
+            "institute": "Isha Foundation",
+            "date": "January 29, 2024 ",
+            "duration": "5 days",
+            "vanue": "Isha Yoga Center, Coimbatore",
+            "image": "assets/instances/eagle/banners/orgs/courses/11.jpg"
+        },
+         {
+            "id":12,
+            "name": "Infrastructure Finance",
+            "institute": "Arun Jaitley National Institute of Financial Management",
+            "date": "December 04, 2023",
+            "duration": "5 days",
+            "vanue": "Arun Jaitley National Institute of Financial Management, Delhi",
+            "image": "assets/instances/eagle/banners/orgs/courses/12.jpg"
+        },
+        {
+            "id":13,
+            "name": "Digital Governance in Urban Infrastructure Projects Delivery Systems (Evidence based)",
+            "institute": "Indian Institute for Human Settlements",
+            "date": "November 06, 2023",
+            "duration": "5 days",
+            "vanue": "IIHS Bengaluru City Campus, Bengaluru, Karnataka",
+            "image": "assets/instances/eagle/banners/orgs/courses/13.jpg"
+        },
+         {
+            "id":14,
+            "name": "Training Programme on “Procurement and Allied Laws”",
+            "institute": "National Law School of India University (NLSIU), Bengaluru",
+            "date": "December 11, 2023 ",
+            "duration": "5 days",
+            "vanue": "International Training Centre, National Law School of India University, Bengaluru",
+            "image": "assets/instances/eagle/banners/orgs/courses/14.jpg"
+        },
+         {
+            "id":15,
+            "name": "Digital Governance and Management",
+            "institute": "Indian Institute of Management, Visakhapatnam",
+            "date": "February 12, 2024",
+            "duration": "5 days",
+            "vanue": "IIM Visakhapatnam Campus ",
+            "image": "assets/instances/eagle/banners/orgs/courses/15.jpg"
+        },
+        {
+            "id":16,
+            "name": "Specialized Course on Law",
+            "institute": "Jindal Global Law School, Sonipat, Haryana",
+            "date": "November 13, 2023",
+            "duration": "5 days",
+            "vanue": "OP Jindal Global University, Sonipat Narela Road, Sonipat, Haryana - 131001",
+            "image": "assets/instances/eagle/banners/orgs/courses/16.jpg"
+        },
+         {
+            "id":17,
+            "name": "Participatory Management (Community Mobilization)",
+            "institute": "Institute of Management in Government, Thiruvnanathapuram",
+            "date": "December 04, 2023 ",
+            "duration": "5 days",
+            "vanue": "IMG Thiruvnanathapuram Campus",
+            "image": "assets/instances/eagle/banners/orgs/courses/17.jpg"
+        }
+    ]
+}

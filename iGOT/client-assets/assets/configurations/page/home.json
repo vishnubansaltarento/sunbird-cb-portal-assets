@@ -92,6 +92,24 @@
                     "f": "{}"
                   },
                   "title": ""
+                },
+                {
+                  "banners": {
+                    "l": "assets/instances/eagle/banners/orgs/l.png",
+                    "m": "assets/instances/eagle/banners/orgs/l.png",
+                    "s": "assets/instances/eagle/banners/orgs/l.png",
+                    "xl": "assets/instances/eagle/banners/orgs/xl.png",
+                    "xs": "assets/instances/eagle/banners/orgs/l.png",
+                    "xxl": "assets/instances/eagle/banners/orgs/xxl.png"
+                  },
+                  "redirectUrl": "/app/organisation/dopt",
+                  "queryParams": {
+                    "tab": "Learn",
+                    "q": "Salesforce",
+                    "lang": "en",
+                    "f": "{}"
+                  },
+                  "title": ""
                 }
               ]
             }

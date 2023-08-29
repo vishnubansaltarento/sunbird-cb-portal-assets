@@ -50,14 +50,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -140,7 +140,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "array"
@@ -196,14 +196,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -287,7 +287,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -343,14 +343,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -426,7 +426,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -439,7 +439,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -497,14 +497,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -580,7 +580,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": []
+      "Curated Program": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
@@ -595,7 +595,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program":[]
     },
     "type": "array"
@@ -651,14 +651,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -741,7 +741,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -797,14 +797,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -887,7 +887,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -943,14 +943,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -1105,14 +1105,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -1196,7 +1196,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Path": []
     },
@@ -1253,14 +1253,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -1408,14 +1408,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -1504,7 +1504,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": [],
@@ -1519,7 +1519,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": [],
@@ -1578,14 +1578,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -1668,7 +1668,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "array"
@@ -1724,14 +1724,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -1813,7 +1813,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -1869,14 +1869,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -1965,7 +1965,7 @@
     "notShowFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "CourseUnit": [],
@@ -2025,14 +2025,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -2121,7 +2121,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2134,7 +2134,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2192,14 +2192,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -2282,7 +2282,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "array"
@@ -2338,14 +2338,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -2422,7 +2422,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2434,7 +2434,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2492,14 +2492,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -2630,14 +2630,14 @@
           "value": "0"
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": "0"
@@ -2726,7 +2726,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Learning Resource": [],
       "Standalone Assessment": [],
       "Offline Session": []
@@ -2743,7 +2743,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Learning Resource": [],
       "CourseAssessment": [],
       "PracticeResource": [],
@@ -2803,14 +2803,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -2891,7 +2891,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -2950,14 +2950,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -3041,7 +3041,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -3097,14 +3097,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -3235,14 +3235,14 @@
           "value": true
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": true
@@ -3355,14 +3355,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -3442,7 +3442,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -3501,14 +3501,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -3590,7 +3590,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "array"
@@ -3646,14 +3646,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -3744,7 +3744,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -3800,14 +3800,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -3884,7 +3884,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -3896,7 +3896,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -3931,14 +3931,14 @@
           "value": 0
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": 0
@@ -4039,14 +4039,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -4177,14 +4177,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -4274,7 +4274,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": [],
@@ -4287,7 +4287,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": [],
@@ -4346,14 +4346,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -4434,7 +4434,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -4492,14 +4492,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -4575,7 +4575,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program":[]
     },
     "notDisabledFor": {},
@@ -4589,7 +4589,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"
@@ -4622,14 +4622,14 @@
           "value": 0
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": 0
@@ -4730,14 +4730,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -4813,7 +4813,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -4833,7 +4833,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -4890,14 +4890,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -4977,7 +4977,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -4987,7 +4987,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5045,14 +5045,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -5128,7 +5128,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5136,7 +5136,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5150,7 +5150,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5208,14 +5208,14 @@
           "value": 0
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": 0
@@ -5317,14 +5317,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -5455,14 +5455,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -5626,14 +5626,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -5709,7 +5709,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5723,7 +5723,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Learning Resource": [],
       "Standalone Assessment": []
@@ -5781,14 +5781,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -5864,7 +5864,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -5937,14 +5937,14 @@
           "value": ""
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": ""
@@ -6075,27 +6075,14 @@
           "value": []
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
-            ]
-          },
-          "value": []
-        }
-      ],
-      "Open Program": [
-        {
-          "condition": {
-            "contentType": [
-              "Course"
-            ],
-            "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": []
@@ -6171,7 +6158,7 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -6185,7 +6172,7 @@
     "showFor": {
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
@@ -6242,14 +6229,14 @@
           "value": null
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": null
@@ -6341,14 +6328,14 @@
           "value": "Default"
         }
       ],
-      "Open Program": [
+      "Curated Program": [
         {
           "condition": {
             "contentType": [
               "Course"
             ],
             "primaryCategory": [
-              "Open Program"
+              "Curated Program"
             ]
           },
           "value": "Default"
@@ -6432,7 +6419,7 @@
       "CourseUnit": [],
       "Course": [],
       "Program": [],
-      "Open Program": [],
+      "Curated Program": [],
       "Blended Program": []
     },
     "type": "string"

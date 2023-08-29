@@ -305,9 +305,9 @@
     }
   },
   {
-    "id": "openProgram",
+    "id": "curatedProgram",
     "isCollection": true,
-    "name": "Open program",
+    "name": "Curated program",
     "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
     "icon": "library_books",
     "contentType": "Course",
@@ -317,11 +317,11 @@
     "hasRole": [
       "content_creator"
     ],
-    "primaryCategory": "Open Program",
+    "primaryCategory": "Curated Program",
     "possion": 2,
     "details": {
-      "title": "Welcome to Open program curation.",
-      "createTitle": "Open Program details",
+      "title": "Welcome to curated program curation.",
+      "createTitle": "Curated program details",
       "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
       "points": []
     }

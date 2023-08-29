@@ -385,7 +385,7 @@
         ]
       }
     },
-    "Open Program": {
+    "Curated Program": {
       "minChildren": 1,
       "maxChildren": 0,
       "childTypes": [

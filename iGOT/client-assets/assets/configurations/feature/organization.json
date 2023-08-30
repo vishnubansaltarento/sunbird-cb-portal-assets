@@ -185,8 +185,8 @@
             "image": "assets/instances/eagle/banners/orgs/courses/01.png",
             "summary": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
             "description": {
-                    "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
-                    "desc2": "In this programme, organised exclusively for the serving AIS & other Central   Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                    "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy. In this programme, organised exclusively for the serving AIS & other Central   Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                    "desc2": "The participants will be exposed to concepts and inputs through presentations and discussions with experts from our own institutions and invited      eminent guest speakers. Further to these interactive sessions, Experiential based field visits to School, University, Super and Mobile Hospitals (serving in a village) are organised for the participants to observe how the service delivery happens. During these visits, the participants would get an opportunity to interact with the service delivery personnel in their locations of work. Based on these inputs, the participants would gain insights into the practice of Human Values. In turn, the participants could introspect how the insight gained from the above would help them perform their functions differently.",
                     "list": 
                         {
                             "listSubject": "Proposed objectives of this program are:",
@@ -217,8 +217,8 @@
                         }
                     ],
                     "topicDescription":  {
-                        "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
-                        "desc2": "In this programme, organised exclusively for the serving AIS & other Central Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                        "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy. In this programme, organised exclusively for the serving AIS & other Central Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                        "desc2": "The participants will be exposed to concepts and inputs through presentations and discussions with experts from our own institutions and invited      eminent guest speakers. Further to these interactive sessions, Experiential based field visits to School, University, Super and Mobile Hospitals (serving in a village) are organised for the participants to observe how the service delivery happens. During these visits, the participants would get an opportunity to interact with the service delivery personnel in their locations of work. Based on these inputs, the participants would gain insights into the practice of Human Values. In turn, the participants could introspect how the insight gained from the above would help them perform their functions differently.",
                         "list": 
                             {
                                 "listSubject": "Proposed objectives of this program are:",
@@ -318,7 +318,7 @@
             "content": {
                 "topic": [
                     {
-                        "topicTitle": "Human Values in Governance and Public policy in Health care Education and Social sector"
+                        "topicTitle": "Fiscal policy in India and the linkages in inter-governmental finances"
                     },
                     {
                         "topicTitle": "Revenue and expenditure management"
@@ -534,6 +534,9 @@
                         {
                             "topicTitle": "Value Chain Mapping and Business Planning"
                         },
+                        {
+                            "topicTitle" : "Market plan and value chain integrations"
+                        },
 						{
                             "topicTitle": "Financial planning and its management"
                         },
@@ -577,17 +580,9 @@
 
             "description": {
 
-                    "desc1": "The current times call for a new collective leadership capacity to meet challenges in a more conscious, intentional, and strategic way.",
-
-                    "desc2": "Heartfulness invites the Officers to Kaushalam, a course that has been successfully running for past 6 years and allows one to access & operate from the innermost quality of our being, and through meditation, reach new realms of awareness and consciousness.",
+                    "desc1": "The current times call for a new collective leadership capacity to meet challenges in a more conscious, intentional, and strategic way. Heartfulness invites the Officers to Kaushalam, a course that has been successfully running for past 6 years and allows one to access & operate from the innermost quality of our being, and through meditation, reach new realms of awareness and consciousness. It will ensure officers manage their stress better and well nuanced in policy-making at all levels of nation building as it leverages on the officer’s inherent ideals and strengths, breaks silo-mindsets and delves deep into their core values as the beacon for decision making.",
 					
-					"desc3": "It will ensure officers manage their stress better and well nuanced in policy-making at all levels of nation building as it leverages on the officer’s inherent ideals and strengths, breaks silo-mindsets and delves deep into their core values as the beacon for decision making.",
-					
-					"desc4": "Highly interactive and practical sessions with a rich and diverse global faculty of accomplished suited for todays busy lifestyle.",
-					
-					"desc5": "It’s a set of Daily self practice tools and its significant positive impact on daily work and personal life.",
-					
-					"desc6": "This will allow optimal decisions, poise and peace of mind, joyful living making its positive impact on work, family, social and personal life."
+					"desc2": "Highly interactive and practical sessions with a rich and diverse global faculty of accomplished suited for todays busy lifestyle. It’s a set of Daily self practice tools and its significant positive impact on daily work and personal life. This will allow optimal decisions, poise and peace of mind, joyful living making its positive impact on work, family, social and personal life."
 
                 },
 
@@ -683,9 +678,7 @@
 
                     "desc1": "This program has been tailor-made to build and upgrade certain competencies identified under NTP-2012 which are mostly personal or intrinsic in nature (as opposed to professional competencies), which are central to good governance.",
 
-                    "desc2": "These competencies are clubbed together under the umbrella of 'Personal Excellence'.",
-					
-					"desc3": "The course is specifically designed for introspection and gaining tools that enhance Leadership qualities and soft skills in the participants."
+                    "desc2": "These competencies are clubbed together under the umbrella of 'Personal Excellence'.The course is specifically designed for introspection and gaining tools that enhance Leadership qualities and soft skills in the participants."
 
                 },
 
@@ -771,6 +764,32 @@
 								{
 
                                     "listdesc": "Explore the balance of life"
+
+                                },
+
+                                {
+
+                                    "listdesc": " Efficient delivery of services"
+
+                                },
+								{
+
+                                    "listdesc": "Reduce the dichotomy between the political and administrative wings of the executive"
+
+                                },
+								{
+
+                                    "listdesc": "Strengthen existing institutions and Institutional Ethics"
+
+                                },
+								{
+
+                                    "listdesc": "Reduce corruption in the polity and economy"
+
+                                },
+                                {
+
+                                    "listdesc": "Encourage societal involvement in governance"
 
                                 }
 
@@ -943,13 +962,9 @@
 
             "description": {
 
-                    "desc1": "We will incorporate relevant case studies and real-life scenarios to ensure practical applicability.",
-
-                    "desc2": "The course is structured to provide the participants with a strong understanding of the basics and nuances of administrative law, law of contracts, and law of arbitration, which are key to a good foundational understanding of the theory and practice of dispute resolution.",
+                    "desc1": "We will incorporate relevant case studies and real-life scenarios to ensure practical applicability. The course is structured to provide the participants with a strong understanding of the basics and nuances of administrative law, law of contracts, and law of arbitration, which are key to a good foundational understanding of the theory and practice of dispute resolution.",
 					
-					"desc3": "The training will be delivered by seasoned experts in the field of dispute resolution who possess extensive experience in both theory and practice. Participants will benefit from their expertise and gain valuable insights",
-					
-					"desc4": "In addition to the above, keeping in mind the target audience and the purpose of the training, the programme has sessions for analyzing and discussing case studies, field visits to witness arbitration proceedings, and other practical legal matters pertinent to the participants. This provides a unique opportunity for the participants to get a much deeper understanding that combines theoretical knowledge and practical application"
+					"desc2": "The training will be delivered by seasoned experts in the field of dispute resolution who possess extensive experience in both theory and practice. Participants will benefit from their expertise and gain valuable insights. addition to the above, keeping in mind the target audience and the purpose of the training, the programme has sessions for analyzing and discussing case studies, field visits to witness arbitration proceedings, and other practical legal matters pertinent to the participants. This provides a unique opportunity for the participants to get a much deeper understanding that combines theoretical knowledge and practical application"
 
                 },
 
@@ -1316,7 +1331,7 @@
                 {
                     "topic": [
                         {
-                             "topicTitle": "Social Policy and Governance"
+                             "topicTitle": "To social policy; the historical evolution, current focus and priorities of social policy, social auditing, data mapping in the social sector and leadership and governance"
                         }
                     ],
 
@@ -1629,30 +1644,8 @@
                     }
                 ],
                 "topicDescription":  {
-                    "list": 
-                        {
-                            "listSubject": "Specific skills proposed to be instilled in the participants with regard to governance and administrative/technical skills:",
-                            "listDescription": [
-                                {
-                                    "listdesc": "Understanding of Environmental Laws and their Implementation."
-                                },
-                                {
-                                    "listdesc": "To help policy makers executing integrate environmental concerns into other sectors and address inter-sectoral issues."
-                                },
-                                {
-                                    "listdesc": "To make environmental governance participatory and transparent."
-                                },
-                                {
-                                    "listdesc": "Competency to latest end to end online EIA evaluation process."
-                                },
-                                {
-                                    "listdesc": "To strengthen decision making through impact assessment perspective."
-                                }
-                              
-                            ]
-                  
-                        },
-                    "link" : "http://eptri.telangana.gov.in"
+                    
+                    "link" : "https://pace.nls.ac.in/"
                   
                 }
             }
@@ -1664,6 +1657,7 @@
             "image": "assets/instances/eagle/banners/orgs/courses/15.png",
             "summary": "This training program aims to instill necessary inputs about Digital Governance and Management to help the Central and State governments build their capacities to ably support the mission and vision of Digital India",
             "description": {
+                "desc1": "",
                 "list": 
                 {
                     "listSubject": "As identified in the “Guidelines for Capacity Building and Institutional Framework for e-Governance under National e-Governance Plan”, by MeitY-GOI, it is important to build internal capacities in the Government and organizations, so that the functionaries are equipped with the necessary expertise towards:",
@@ -1689,9 +1683,8 @@
                       
                     ]
                 },
-                "desc3": "Such capacity-building will lead to realizing the vision of: IT (Indian Talent) + IT (Information Technology) = IT (India Tomorrow).",
-                "desc4": "Digital India initiative is accelerating the progress and development of the country towards a Smart Nation, with people being able to gain access to guaranteed public services and participate more fully in the societal functioning.",
-                "desc5": "To build the capacity of government functionaries, the thematic focus of the proposed course is e-governance, i.e., governance through digital technologies and the course is titled as “Digital Governance & Management”"
+                "desc3": "Such capacity-building will lead to realizing the vision of: IT (Indian Talent) + IT (Information Technology) = IT (India Tomorrow). Digital India initiative is accelerating the progress and development of the country towards a Smart Nation, with people being able to gain access to guaranteed public services and participate more fully in the societal functioning.",
+                "desc4": "To build the capacity of government functionaries, the thematic focus of the proposed course is e-governance, i.e., governance through digital technologies and the course is titled as “Digital Governance & Management”"
                 },
             "authorAndCurator": [
                 {

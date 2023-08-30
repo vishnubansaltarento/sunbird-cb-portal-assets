@@ -175,6 +175,1617 @@
             "vanue": "IMG Thiruvnanathapuram Campus",
             "image": "assets/instances/eagle/banners/orgs/courses/17.png"
         }
-    ]
+    ], 
+    "courseDetail": [
+        
+        {
+            "id":1,
+            "name": "Human Values in Governance and Public policy",
+            "institute": "Sri Sathya Sai Centre for Human Values",
+            "image": "assets/instances/eagle/banners/orgs/courses/01.png",
+            "summary": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
+            "description": {
+                    "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
+                    "desc2": "In this programme, organised exclusively for the serving AIS & other Central   Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                    "list": 
+                        {
+                            "listSubject": "Proposed objectives of this program are:",
+                            "listDescription": [
+                                {
+                                    "listdesc": "The role Human Values play in personal and professional excellence"
+                                },
+                                {
+                                    "listdesc": "Examining a model"
+                                }
+                              
+                            ]
+                        }
+                    
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Prof A Sudhir Bhaskar",
+                    "curator":"Director, Sri Sathya Sai Centre for Human Values"
+                }
+            ],
+            "competency":"Behaviorial",
+            "content": 
+                {
+                    "topic": [
+                        {
+                            "topicTitle": "Human Values in Governance and Public policy in Health care Education and Social sector"
+                        }
+                    ],
+                    "topicDescription":  {
+                        "desc1": "Scientific and economic progress continues to be the two main pillars of measuring development of a society. However, any development bereft of Human Values can be a double-edged sword. Do Human Values play a role in development of a society? If so, how and what role can they play in governance and therefore in public policy.",
+                        "desc2": "In this programme, organised exclusively for the serving AIS & other Central Services officers, we intend to explore the above in HealthCare Education and Social Sectors.",
+                        "list": 
+                            {
+                                "listSubject": "Proposed objectives of this program are:",
+                                "listDescription": [
+                                    {
+                                        "listdesc": "The role Human Values play in personal and professional excellence"
+                                    },
+                                    {
+                                        "listdesc": "Examining a model developed and practiced by Sri Sathya Sai Central Trust through its service institutions."
+                                    }
+                                  
+                                ]
+                      
+                            },
+                        "desc3": "The participants will be exposed to concepts and inputs through presentations and discussions with experts from our own institutions and invited      eminent guest speakers. Further to these interactive sessions, Experiential based field visits to School, University, Super and Mobile Hospitals (serving in a village) are organised for the participants to observe how the service delivery happens. During these visits, the participants would get an opportunity to interact with the service delivery personnel in their locations of work. Based on these inputs, the participants would gain insights into the practice of Human Values. In turn, the participants could introspect how the insight gained from the above would help them perform   their functions differently. www.ssschv.org  ",
+                        "link" : "https://www.srisathyasai.org.in/"
+                    }
+                }
+            
+        },
+        {
+            "id":2,
+            "name": "Fiscal Policy: Management and Emerging Issues",
+            "institute": "National Institute of Public Finance and Policy (NIPFP)",
+            "image": "assets/instances/eagle/banners/orgs/courses/02.png",
+            "summary": "Fiscal policy in India , fiscal instruments, Project Management",
+            "description": 
+                {
+                    "desc1": "The course would begin with an overview of fiscal policy in India and the linkages in inter-governmental finances. The refresher module would cover fiscal instruments, understanding of the budgetary process, instruments of debt and overlap of fiscal and monetary policy. The module on revenue and expenditure management would deal with medium term revenue and expenditure strategies and cover empirical work on off-budget borrowings both at the national and sub-national levels, tax reforms, subsidies, pension, debt sustainability, macro-economic monitoring tools. Project management module could cover project appraisal techniques, internal audit, public-private partnerships in infrastructure projects. Module on emerging and growing concerns on climate change redress may cover issues in taxation, debt, national accounting."
+    
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Mukesh Kumar Anand",
+                    "curator":"Course coordinator"
+                },
+                {
+                    "author": "R. Kavita Rao"
+                  
+                },
+                {
+                    "author": "A.N. Jha"
+                },
+                {
+                    "author": "Lekha Chakraborty"
+                },
+                {
+                    "author": "Pratap Ranjan Jena"
+                },
+                {
+                    "author": "Mita Choudhury"
+                },
+                {
+                    "author": "Sacchidananda Mukherjee"
+                },
+                {
+                    "author": "H.K. Amarnath"
+                },
+                {
+                    "author": "Manish Gupta"
+                },
+                {
+                    "author": "Rudrani Bhattacharya"
+                },
+                {
+                    "author": "Amey Sapre"
+                },
+                {
+                    "author": "Radhika Pandey"
+                },
+                {
+                    "author": "Sukanya Bose"
+                },
+                {
+                    "author": "Suranjali Tandon"
+                },
+                {
+                    "author": "Mukesh Kumar Anand"
+                },
+                {
+                    "author": "Rolly Kukreja"
+                },
+                {
+                    "author": "Piyali Das"
+                },
+                {
+                    "author": "Malvika Mahesh"
+                },
+                {
+                    "author": "Aakansha Shrawan"
+                },
+                {
+                    "author": "Resham Nagpal"
+                }
+            ],
+            "competency":"Domain",
+            "content": {
+                "topic": [
+                    {
+                        "topicTitle": "Human Values in Governance and Public policy in Health care Education and Social sector"
+                    },
+                    {
+                        "topicTitle": "Revenue and expenditure management"
+                    },
+                    {
+                        "topicTitle":  "Project management"
+                    }
+                ],
+                "topicDescription":  {
+                  
+                    "desc1": "The course would begin with an overview of fiscal policy in India and the linkages in inter-governmental finances. The refresher module would cover fiscal instruments, understanding of the budgetary process, instruments of debt and overlap of fiscal and monetary policy. The module on revenue and expenditure management would deal with medium term revenue and expenditure strategies and cover empirical work on off-budget borrowings both at the national and sub-national levels, tax reforms, subsidies, pension, debt sustainability, macro-economic monitoring tools. Project management module could cover project appraisal techniques, internal audit, public-private partnerships in infrastructure projects. Module on emerging and growing concerns on climate change redress may cover issues in taxation, debt, national accounting.",
+                    "link": " https://nipfp.org.in"
+                }
+            }
+        },
+        {
+            "id":3,
+            "name": "Environment Impact Assessment: Development Projects",
+            "institute": "Environment Protection Training and Research Institute (EPTRI), Hyderabad",
+            "image": "assets/instances/eagle/banners/orgs/courses/03.png",
+            "summary": "The course on Environmental Impact Assessment (Development Projects) will strengthen the individual officials’ capacities in integrating environmental concerns into all sectors of development.",
+            "description": {
+                    "desc1": "The EIA training programme is designed to introduce the concept of EIA, its history, outlines and methodology adopted in India, placing it within the framework of sustainable development.",
+                    "desc2": "The course is different from those offered by other institutions as it places EIA within the framework of sustainable development and gives practical exposure to the participants on the ongoing EIA projects. It also gives examples and case studies illustrating key aspects of professional practice for environmental managers."
+                  
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Dr. Rajeswar Jonnalagadda",
+                    "curator":"Course Coordinator"
+                },
+                {
+                    "author": "Mr. Raveendra",
+                    "curator":"Chief Environmental Scientist EPTRI"
+                }
+            ],
+            "competency":"Domain",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "EIA, its history, outlines and methodology adopted in India, placing it within the framework of sustainable development"
+                    }
+                ],
+                "topicDescription":  {
+                    "list": 
+                        {
+                            "listSubject": "Specific skills proposed to be instilled in the participants with regard to governance and administrative/technical skills:",
+                            "listDescription": [
+                                {
+                                    "listdesc": "Understanding of Environmental Laws and their Implementation."
+                                },
+                                {
+                                    "listdesc": "To help policy makers executing integrate environmental concerns into other sectors and address inter-sectoral issues."
+                                },
+                                {
+                                    "listdesc": "To make environmental governance participatory and transparent."
+                                },
+                                {
+                                    "listdesc": "Competency to latest end to end online EIA evaluation process."
+                                },
+                                {
+                                    "listdesc": "To strengthen decision making through impact assessment perspective. "
+                                }
+                              
+                            ]
+                  
+                        },
+                        "link" : "http://eptri.telangana.gov.in"
+                  
+                }
+            }
+        },
+
+        {
+
+            "id":4,
+
+            "name": "Program on Farmers Collectives and linking them to Market",
+
+            "institute": "Bankers Institute of Rural Development (BIRD), Lucknow",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/04.png",
+
+            "summary": "Aggregation and Collectives models , Producer Company Act, 2003 & Ecosystem of the Farmer Producer Organizations (FPOs), • Governance and Management of FP",
+
+            "description": {
+
+                    "desc1": "The course content of the program",
+              
+                    "list":
+
+                        {
+
+                            "listSubject": "Proposed objectives of this program are:",
+
+                            "listDescription": [
+
+                                {
+
+                                    "listdesc": "Aggregation and Collectives models : Game changer for small holders"
+
+                                },
+
+                                {
+
+                                    "listdesc": "Essence of the Producer Company Act, 2003 & Ecosystem of the Farmer Producer Organizations (FPOs)"
+
+                                },
+                              {
+
+                                    "listdesc": "Role of the Government for creating enabling environment"
+
+                                },
+                              {
+
+                                    "listdesc": "Value Chain Mapping and Business Planning"
+
+                                },
+                              {
+
+                                    "listdesc": "Market plan and value chain integrations"
+
+                                },
+                              {
+
+                                    "listdesc": "Financial planning and its management"
+
+                                },
+                              {
+
+                                    "listdesc": "Convergence and networking of FPOs for risk mitigation"
+
+                                },
+                              {
+
+                                    "listdesc": "Governance and Management of FPOs : Role and responsibilities of main and supporting value chain actors"
+
+                                },
+                              {
+
+                                    "listdesc": "Digitalization of the FPO and Role of the Startups"
+
+                                },
+                              {
+
+                                    "listdesc": "Issues and constrains in Statuary Compliances and required policy changes"
+
+                                },
+                              {
+
+                                    "listdesc": "Creation of collective Infrastructure development models for market penetration of FPOs in Urban Center"
+
+                                }
+
+                            ]
+
+                        }
+
+                   
+
+                },
+
+            "authorAndCurator": [
+			{
+			"author": "Shri Prafulla Ranjan Jha"
+			},
+            {
+            "author": "Shri Rajesh Yadav"
+            },
+            {
+            "author": "Dr. S. Appulingam"
+            },
+            {
+            "author": "Shri Prashant Dubey"
+            },
+            {
+            "author": "Smt. Rajni Pandey"
+            },
+            {
+            "author": "Smt. Suman Shukla"
+            },
+            {
+            "author": "Shri Sanjeev Raman"
+            },
+            {
+            "author": "Shri Amit Lal"
+            },
+            {
+            "author": "Shri Nikhil Kumar"
+            }
+
+            ],
+
+            "competency":"Domain",
+
+            "content": 
+
+                {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "Aggregation and Collectives models : Game changer for small holders"
+
+                        },
+						{
+                            "topicTitle": "Essence of the Producer Company Act, 2003 & Ecosystem of the Farmer Producer Organizations (FPOs)"
+                        },
+						{
+                            "topicTitle": "Role of the Government for creating enabling environment"
+                        },
+                        {
+                            "topicTitle": "Value Chain Mapping and Business Planning"
+                        },
+						{
+                            "topicTitle": "Financial planning and its management"
+                        },
+						{
+                            "topicTitle": "Convergence and networking of FPOs for risk mitigation"
+                        },
+						{
+                            "topicTitle": " Governance and Management of FPOs : Role and responsibilities of main and supporting value chain actors"
+                        },
+						{
+                            "topicTitle": "Digitalization of the FPO and Role of the Startups"
+                        },
+						{
+                            "topicTitle": "Issues and constrains in Statuary Compliances and required policy changes"
+                        },
+						{
+                            "topicTitle": "Creation of collective Infrastructure development models for market penetration of FPOs in Urban Center"
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+
+                        "link": "https://www.birdlucknow.nabard.org"
+                    }
+
+                }
+        },
+
+        {
+
+            "id":5,
+
+            "name": "Kaushalam – Excellence in action ONLINE",
+
+            "institute": "Heartfulness Institute",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/05.png",
+
+            "summary": "Highly interactive and practical sessions with a rich and diverse global faculty of accomplished suited for todays busy lifestyle",
+
+            "description": {
+
+                    "desc1": "The current times call for a new collective leadership capacity to meet challenges in a more conscious, intentional, and strategic way.",
+
+                    "desc2": "Heartfulness invites the Officers to Kaushalam, a course that has been successfully running for past 6 years and allows one to access & operate from the innermost quality of our being, and through meditation, reach new realms of awareness and consciousness.",
+					
+					"desc3": "It will ensure officers manage their stress better and well nuanced in policy-making at all levels of nation building as it leverages on the officer’s inherent ideals and strengths, breaks silo-mindsets and delves deep into their core values as the beacon for decision making.",
+					
+					"desc4": "Highly interactive and practical sessions with a rich and diverse global faculty of accomplished suited for todays busy lifestyle.",
+					
+					"desc5": "It’s a set of Daily self practice tools and its significant positive impact on daily work and personal life.",
+					
+					"desc6": "This will allow optimal decisions, poise and peace of mind, joyful living making its positive impact on work, family, social and personal life."
+
+                },
+
+            "authorAndCurator": [
+                {
+                    "author": "Harpreet Bhan",
+                    "curator": "MD Adizes Institute"
+                },
+				{
+
+                    "author": "Tushar Pradhan",
+
+                    "curator":"ex CIO HSBC Sanjay Bhatia - Retd IAS"
+
+                },
+				{
+
+                    "author": "Pullela Gopichand",
+
+                    "curator":"National badminton coach and ex world champion Dr Jay Thimmapuram, York Hospital, USA"
+
+                },
+				{
+
+                    "author": "Dr Elizabeth Denley",
+
+                    "curator":"PhD, Editor"
+
+                },
+				{
+
+                    "author": "Punit Lalbhai",
+
+                    "curator":"Exec Director Arvind Ltd Alaine Desvigne – CEO, Amaranco , France Lauro Cortellaro – Civil Judge, Spain"
+
+                },
+				{
+
+                    "author": "Vasco Gaspar",
+
+                    "curator":"Trainer Facilitator, Portugal Stanislas Laguije – Consular officer French Embassy"
+
+                },
+				{
+
+                    "author": "Subramanian Sankaran",
+
+                    "curator":"Leadership Coach and Wellness mentor"
+
+                }
+
+            ],
+
+            "competency":"Behaviorial",
+
+            "content": {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "A course that has been successfully running for past 6 years and allows one to access & operate from the innermost quality of our being, and through meditation, reach new realms of awareness and consciousness."
+
+                        },
+						{
+
+                            "topicTitle": "It will ensure officers manage their stress better and well nuanced in policy-making at all levels of nation building as it leverages on the officer’s inherent ideals and strengths, breaks silo-mindsets and delves deep into their core values as the beacon for decision making."
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+
+                        "desc1": "The current times call for a new collective leadership capacity to meet challenges in a more conscious, intentional, and strategic way.",
+                        "link": "https://www.heartfulness.org/dopt"
+					}
+
+                }
+        },
+        {
+
+            "id":6,
+
+            "name": "Building Competencies for Personal Excellence",
+
+            "institute": "The Art of Living",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/06.png",
+
+            "summary": "Building Competencies for Personal Excellence is a unique offering of The Art of Living for senior Group A - IAS, IPS, IFoS officers etc.",
+
+            "description": {
+
+                    "desc1": "This program has been tailor-made to build and upgrade certain competencies identified under NTP-2012 which are mostly personal or intrinsic in nature (as opposed to professional competencies), which are central to good governance.",
+
+                    "desc2": "These competencies are clubbed together under the umbrella of 'Personal Excellence'.",
+					
+					"desc3": "The course is specifically designed for introspection and gaining tools that enhance Leadership qualities and soft skills in the participants."
+
+                },
+
+            "authorAndCurator": [
+
+                {
+
+                    "author": "Priyanka Kumar - 97170 32198",
+
+                    "curator":"Art of Livining Faculty"
+
+                }
+
+            ],
+
+            "competency":"Behaviorial",
+
+            "content": 
+
+                {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "Introspection and gaining tools that enhance Leadership qualities and soft skills in the participants"
+
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+                        "desc1": "Building Competencies for Personal Excellence is a unique offering of The Art of Living for senior Group A - IAS, IPS, IFoS officers etc.",
+						"desc2": "This program has been tailor-made to build and upgrade certain competencies identified under NTP-2012 which are mostly personal or intrinsic in nature (as opposed to professional competencies), which are central to good governance. These competencies are clubbed together under the umbrella of 'Personal Excellence'.",
+						"desc3": "The course is specifically designed for introspection and gaining tools that enhance Leadership qualities and soft skills in the participants.",
+                        "link": "https://www.artofliving.org/in-en"
+					}
+
+                }   
+
+        },
+        {
+
+            "id":7,
+
+            "name": "Ethics in Public Service",
+
+            "institute": "IC Centre for Governance",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/07.png",
+
+            "summary": "The objective of the programme is to catalyze and facilitate thinking and action for creative, effective and ethical governance and service.",
+
+            "description": {
+                    "list":
+                        {
+
+                            "listSubject": "The participants are able to:",
+
+                            "listDescription": [
+
+                                {
+
+                                    "listdesc": "Reflect on their original vision, the current reality and the gap"
+
+                                },
+
+                                {
+
+                                    "listdesc": "Tap their own and each other’s inner resources for inspiration and learning"
+
+                                },
+								{
+
+                                    "listdesc": "Evolve a paradigm of ethical leadership and governance themselves"
+
+                                },
+								{
+
+                                    "listdesc": "Discuss issues in governance or in the provision of services and other relationships"
+
+                                },
+								{
+
+                                    "listdesc": "Explore the balance of life"
+
+                                }
+
+                            ]
+
+                        }
+                },
+
+            "authorAndCurator": [
+
+                {
+
+                    "author": "Archana Dubey"
+
+                },
+				                {
+
+                    "author": "Prabhat Kumar"
+
+                }, {
+
+                    "author": "Dr Amit Mukherjee"
+
+                }, {
+
+                    "author": "Mukund B Kaushal"
+
+                } ,  {
+
+                    "author": "Shashi Bhushan Roy"
+
+                },  {
+
+                    "author": "Ameeta Patel"
+
+                },
+				{
+
+                    "author": "Sudhir Vasudeo Gogate"
+
+                },
+				{
+
+                    "author": "Ajay Patel"
+
+                },
+				{
+
+                    "author": "K N Malathi"
+
+                },
+				{
+
+                    "author": "Shanti Narain"
+
+                },
+				{
+
+                    "author": "Dilip Patel"
+
+                }
+
+            ],
+
+            "competency":"Behaviorial",
+
+            "content": 
+
+                {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "Efficient delivery of services"
+
+                        },
+						{
+
+                            "topicTitle": "Reduce the dichotomy between the political and administrative wings of the executive"
+
+                        },
+						{
+
+                            "topicTitle": "Strengthen existing institutions and Institutional Ethics;"
+
+                        },
+						{
+
+                            "topicTitle": "Reduce corruption in the polity and economy"
+
+                        },
+						{
+
+                            "topicTitle": "Encourage societal involvement in governance"
+
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+
+                        "desc1": "The objective of the programme is to catalyze and facilitate thinking and action for creative, effective and ethical governance and service.",
+						"list":
+
+                            {
+
+                                "listSubject": "The participants are able to:",
+                                "listDescription" :[
+                                    {
+                                        "listdesc": "Reflect on their original vision, the current reality and the gap"
+                                    },
+                                    {
+                                        "listdesc": "Tap their own and each other’s inner resources for inspiration and learning"
+                                    },
+                                    {
+                                        "listdesc": "Evolve a paradigm of ethical leadership and governance themselves"
+                                    },
+                                    {
+                                        "listdesc": "Discuss issues in governance or in the provision of services and other relationships"
+                                    },
+                                    {
+                                        "listdesc": "Explore the balance of life"
+                                    }
+                                ]
+                            },
+
+                        "list1":
+                         {
+                            "listSubject": "The larger and long-term goals that we hope to achieve through the skills imparted in our training programmes are:",
+                            "listDescription" :[
+                                {
+                                    "listdesc": "Efficient delivery of services"
+                                },
+                                {
+                                    "listdesc": "Efficient delivery of services"
+                                },
+                                {
+                                    "listdesc": "Reduce the dichotomy between the political and administrative wings of the executive"
+                                },
+                                {
+                                    "listdesc": "Strengthen existing institutions and Institutional Ethics"
+                                },
+                                {
+                                    "listdesc": "Reduce corruption in the polity and economy"
+                                },
+                                {
+                                    "listdesc": "Encourage societal involvement in governance, www.iccfg.net"
+                                }
+                            ]
+                         }
+                    }
+
+                }
+
+            
+
+        },
+        {
+
+            "id":8,
+
+            "name": "The Theory and Practice of Dispute Resolution",
+
+            "institute": "Nani Palkhivala Arbitration Centre, New No 22, Karpagambal Nagar, Mylapore, Chennai",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/08.png",
+
+            "summary": "Training program has been tailored specifically to the needs and challenges faced by government officials.",
+
+            "description": {
+
+                    "desc1": "We will incorporate relevant case studies and real-life scenarios to ensure practical applicability.",
+
+                    "desc2": "The course is structured to provide the participants with a strong understanding of the basics and nuances of administrative law, law of contracts, and law of arbitration, which are key to a good foundational understanding of the theory and practice of dispute resolution.",
+					
+					"desc3": "The training will be delivered by seasoned experts in the field of dispute resolution who possess extensive experience in both theory and practice. Participants will benefit from their expertise and gain valuable insights",
+					
+					"desc4": "In addition to the above, keeping in mind the target audience and the purpose of the training, the programme has sessions for analyzing and discussing case studies, field visits to witness arbitration proceedings, and other practical legal matters pertinent to the participants. This provides a unique opportunity for the participants to get a much deeper understanding that combines theoretical knowledge and practical application"
+
+                },
+
+            "authorAndCurator": [
+
+                {
+
+                    "author": "Dr.J.Durgalakshmi",
+
+                    "curator":"Registrar"
+
+                },
+				{
+
+                    "author": "Hon’ble Mr. Justice K. Kannan"
+                },
+				{
+
+                    "author": "Hon’ble. Mr. Justice G.M.Akbar Ali"
+                },
+				{
+
+                    "author": "Hon’ble Mr. Justice P.N. Prakash"
+                },
+				{
+
+                    "author": "Hon’ble Mr. Justice Chandru"
+                },
+				{
+
+                    "author": "Senior Advocates Mr. N.L. Rajah"
+                },
+				{
+
+                    "author": "Mr. V.S. Jayakumar"
+                },
+				{
+
+                    "author": "Mr. P. Arvind Pandian"
+                },
+				{
+
+                    "author": "Mr. R.Murari"
+                },
+				{
+
+                    "author": "Mr. Gaurav Pachnanda"
+                },
+				{
+
+                    "author": "Mr. A.J. Jawad"
+                },
+				{
+
+                    "author": "Mr. Anirudh Krishnan"
+                },
+				{
+
+                    "author": "Mr. Amit George"
+                },
+				{
+
+                    "author": "Ms. Renu Gupta"
+                },
+				{
+
+                    "author": "Ms. Payal Chawla"
+                },
+				{
+
+                    "author": "Mr. Shreyas Jaisimha"
+                },
+				{
+
+                    "author": "Mr. Ganesh Chandru"
+                }
+				
+
+            ],
+
+            "competency":"Functional",
+
+            "content": 
+
+                {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "Administrative law, law of contracts, and law of arbitration"
+
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+
+                        "desc1": "The course is structured to provide the participants with a strong understanding of the basics and nuances of administrative law, law of contracts, and law of arbitration, which are key to a good foundational understanding of the theory and practice of dispute resolution. ",
+                        "link": "https://www.nparbitration.net"
+						
+					}
+
+                }
+
+            
+
+        },
+        {
+
+            "id":9,
+
+            "name": "Sustainable Urbanization Solution in Mountainous Regions: The Way Forward",
+
+            "institute": "Dr. R. S. Tolia Uttarakhand Academy of Administration Nainital",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/09.png",
+
+            "summary": "SDG, Liquid and Solid Waste Management, Tourism, Green Energy",
+
+            "description": {
+
+                    "list":
+
+                        {
+
+                            "listSubject": "",
+
+                            "listDescription": [
+
+                                {"listdesc": "Problems and challenges of Urbanization in IHR"},
+								{"listdesc": "SDGs with a special focus on Clean Water and Sanitation and Building Sustainable Cities and Communities"},
+								{"listdesc": "SBM 2.0: Creating City wise sanitation Plans"},
+								{"listdesc": "Role of Faecal Sludge and Septage Management in achieving ODF++ status"},
+								{"listdesc": "SWM Rules and Sanitation policy"},
+								{"listdesc": "The challenges faced by IHR in L&SWM and the role Urban Missions can play to address the challenges"},
+								{"listdesc": "Role of communities in L&SWM"},
+								{"listdesc": "Initiatives for Community Based Eco tourism"},
+								{"listdesc": "Regulating Commercial Tourism and development of guidelines."},
+								{"listdesc": "Role of AMRUT 2.0 in providing Har Ghar Jal"},
+								{"listdesc": "Role of GIS Mapping"},
+								{"listdesc": "Water Shed Development Programmes: Case Studies"},
+								{"listdesc": "Role of Renewable energy in protecting environment in IHR"},
+								{"listdesc": "Measures by the state in support of Energy Generation and Conservation"},
+								{"listdesc": "Best Practices"},
+								{"listdesc": "Role of SCM and AMRUT in Infrastructure Development in IHR"},
+								{"listdesc": "Green Infrastructure Initiatives"},
+								{"listdesc": "Ecologically safe roads, availability of parking spaces and Green Roads"},
+								{"listdesc": "Role of National Urban Livelihood Mission ND SHGs in creating livelihood."},
+								{"listdesc": "State wise Initiatives in Livelihood generation"},
+								{"listdesc": "Digital Empowerment of the Communities"},
+								{"listdesc": "Role of Digital India Initiatives in Urban Development in IHR"},
+								{"listdesc": "DRR Governance Issues and Developments"},
+								{"listdesc": "Vulnerability Frameworks in Use"},
+								{"listdesc": "State Initiatives on DRR In IHR"},
+								{"listdesc": "Climate Change and its impact on the Indian Plains"}
+
+                            ]
+
+                        }
+
+            },
+
+            "authorAndCurator": [
+
+                {
+
+                    "author": "Manoj Pande",
+
+                    "curator":"Program Director ,State institute of Urban Development & Incharge Urban Development Cell."
+
+                }
+				
+
+            ],
+
+            "competency":"Domain",
+
+            "content": 
+
+                {
+
+                    "topic": [
+
+                        {
+
+                            "topicTitle": "Urban Agenda 2030 and SDGs"
+
+                        },{
+
+                            "topicTitle": "Liquid and Solid Waste Management (L&SWM) in the IHR"
+
+                        },
+						{
+
+                            "topicTitle": "Tourism and Eco Tourism"
+
+                        },
+						{
+
+                            "topicTitle": "Water Security through rejuvenation of Springs, River Basins and Lakes"
+
+                        },
+						{
+
+                            "topicTitle": "Green Energy Solutions"
+
+                        },
+						{
+
+                            "topicTitle": "Infrastructure Development: Integration of New approaches"
+
+                        },
+						{
+
+                            "topicTitle": "Sustainable Livelihood in Indian Himalayan Region"
+
+                        },
+						{
+
+                            "topicTitle": "E Governance  and Digital India Framework"
+
+                        },
+						{
+
+                            "topicTitle": "Disaster Risk reduction"
+
+                        },
+						{
+
+                            "topicTitle": "Climate Change"
+
+                        }
+
+                    ],
+
+                    "topicDescription":  {
+
+                         "list":
+
+                        {
+
+                            "listSubject": "",
+
+                            "listDescription": [
+
+                                {"listdesc": "Problems and challenges of Urbanization in IHR"},
+                                {"listdesc": "SDGs with a special focus on Clean Water and Sanitation and Building Sustainable Cities and Communities"},
+                                {"listdesc": "SBM 2.0: Creating City wise sanitation Plans"},
+                                {"listdesc": "Role of Faecal Sludge and Septage Management in achieving ODF++ status"},
+                                {"listdesc": "SWM Rules and Sanitation policy"},
+                                {"listdesc": "The challenges faced by IHR in L&SWM and the role Urban Missions can play to address the challenges"},
+                                {"listdesc": "Role of communities in L&SWM"},
+                                {"listdesc": "Initiatives for Community Based Eco tourism"},
+                                {"listdesc": "Regulating Commercial Tourism and development of guidelines."},
+                                {"listdesc": "Role of AMRUT 2.0 in providing Har Ghar Jal"},
+                                {"listdesc": "Role of GIS Mapping"},
+                                {"listdesc": "Water Shed Development Programmes: Case Studies"},
+                                {"listdesc": "Role of Renewable energy in protecting environment in IHR"},
+                                {"listdesc": "Measures by the state in support of Energy Generation and Conservation"},
+                                {"listdesc": "Best Practices"},
+                                {"listdesc": "Role of SCM and AMRUT in Infrastructure Development in IHR"},
+                                {"listdesc": "Green Infrastructure Initiatives"},
+                                {"listdesc": "Ecologically safe roads, availability of parking spaces and Green Roads"},
+                                {"listdesc": "Role of National Urban Livelihood Mission ND SHGs in creating livelihood."},
+                                {"listdesc": "State wise Initiatives in Livelihood generation"},
+                                {"listdesc": "Digital Empowerment of the Communities"},
+                                {"listdesc": "Role of Digital India Initiatives in Urban Development in IHR"},
+                                {"listdesc": "DRR Governance Issues and Developments"},
+                                {"listdesc": "Vulnerability Frameworks in Use"},
+                                {"listdesc": "State Initiatives on DRR In IHR"},
+                                {"listdesc": "Climate Change and its impact on the Indian Plains"}
+
+                            ]
+
+                        }
+						
+					}
+
+                }
+        },
+        {
+
+            "id":10,
+
+            "name": "Social Policy and Governance",
+
+            "institute": "Tata Institute of Social Sciences",
+
+            "image": "assets/instances/eagle/banners/orgs/courses/10.png",
+
+            "summary": "The course is meant to start a dialogue and create a more nuanced understanding of issues in the field of social policy, policy reforms and governance. ",
+
+            "description": {
+
+                    "desc1": "The overall objective of the course is to impart a cohesive understanding of issues in policy making and governance. The aim is also to share the experience of academics, researchers, practitioners, experts etc. from diverse fields.",
+
+                    "desc2": " The focus of this training programme will be on best practices related to social policy; the historical evolution, current focus and priorities of social policy, social auditing, data mapping in the social sector and leadership and governance."
+
+                   
+
+                },
+
+            "authorAndCurator": [
+
+                {
+
+                    "author": "Dr. Bino Paul",
+
+                    "curator":"Deputy Director / Pro-Vice Chancellor, Professor, Centre for Human Resources Management and Labour Relations, School of Management and Labour Studies"
+
+                },
+				{
+
+                    "author": "Dr. Mohua Nigudkar",
+					"curator":"she is a faculty member at the Centre for Equity and Justice for Children and Families, School of Social Work, Tata Institute of Social Sciences, Mumbai."
+
+                },
+				{
+
+                    "author": "Dr. P.K. Shajahan",
+					"curator":"is a Professor of Social Work and Dean, Academic Affairs at the Tata Institute of Social Sciences (TISS), Mumbai. "
+
+                },
+				{
+
+                    "author": "Dr. Satyajit Majumdar",
+					"curator":"is Professor, Dean, School of Management & Labour Studies, Tata Institute of Social Sciences Mumbai. "
+                },
+				{
+
+                    "author": "Dr. Sunil D. Santha",
+					"curator":"is Professor, and chairperson - Centre for Livelihoods and Social Innovation, School of Social Work, Tata Institute of Social Sciences, Mumbai Campus. "
+                },
+				{
+
+                    "author": "Prof. Y S Rajan",
+					"curator":"was Honorary Distinguished Professor ISRO / DOS, with an office at the ISRO Headquarters and also was Chairman, BOG of NIT Manipur. He is a member of Governing Board of Kautilya Entrepreneur and Management Institute (KEMI) of The Jain University Bangalore."
+                },
+				{
+
+                    "author": "Dr. Madhushree Sekher",
+					"curator":"Professor at Tata Institute of Social Sciences (TISS), Mumbai. Currently, she is the Dean of International Relations Office, and Dean, School of Vocational Education, TISS."
+                },
+				{
+
+                    "author": "Dr. Soumitra Pathare",
+					"curator":"is a consultant Psychiatrist, and the Director of the Centre for Mental Health Law & Policy, Indian Law Society (ILS) in Pune."
+
+                },
+				{
+
+                    "author": "Dr. Zubin Mulla",
+					"curator":"Professor at the School of Management and Labour Studies at the Tata Institute of Social Sciences (TISS). He has a degree in Mechanical Engineering from Savitribai Phule Pune University, a Post-Graduate Diploma in Business Management from XLRI Jamshedpur, and a Doctorate in Management from XLRI Jamshedpur."
+
+                }
+				
+
+            ],
+
+            "competency":"Functional",
+
+            "content": 
+                {
+                    "topic": [
+                        {
+                             "topicTitle": "Social Policy and Governance"
+                        }
+                    ],
+
+                    "topicDescription":  {
+                        "desc1": "The overall objective of the course is to impart a cohesive understanding of issues in policy making and governance. The aim is also to share the experience of academics, researchers, practitioners, experts etc.",
+                        "desc2": "The focus of this training programme will be on best practices related to social policy; the historical evolution, current focus and priorities of social policy, social auditing, data mapping in the social sector and leadership and governance. www.tiss.edu"
+
+                    }
+
+                }
+
+            
+
+        },
+        {
+            "id":11,
+            "name": "Inner Engineering Leadership Program",
+            "institute": "Isha Foundation",
+            "image": "assets/instances/eagle/banners/orgs/courses/11.png",
+            "summary": "Inner Engineering is a technology for wellbeing derived from the ancient science of yoga.",
+            "description": {
+                    "desc1": "For those seeking professional and personal excellence, this program offers keys for meaningful and fulfilling relationships at work, at home, in the community, and most importantly, within yourself. By fostering an understanding of your interiority, this program empowers you to handle the hectic pace of modern life with ease, experience life to the fullest and fulfill your potential – a potential modern physicists and psychologists say is almost unlimited."
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Swami Prabodha"
+                },
+                {
+                    "author": "Shri. Lokanetra"
+                }
+            ],
+            "competency":"Behaviorial",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Guided Meditations"
+                    },
+                    {
+                        "topicTitle": "Team building exercises"
+                    },
+                    {
+                        "topicTitle": "Upa-Yoga Practices"
+                    },
+                    {
+                        "topicTitle": "Engaging Discourses"
+                    },
+                    {
+                        "topicTitle": "Shambhavi Mahamudra Kriya"
+                    },
+                    {
+                        "topicTitle": "Insights on Leadership"
+                    }
+                ],
+                "topicDescription":  {
+                    "desc1": "Inner Engineering is a technology for wellbeing derived from the ancient science of yoga. For those seeking professional and personal excellence, this program offers keys for meaningful and fulfilling relationships at work, at home, in the community, and most importantly, within yourself. By fostering an understanding of your interiority, this program empowers you to handle the hectic pace of modern life with ease, experience life to the fullest and fulfill your potential – a potential modern physicists and psychologists say is almost unlimited.",
+                    "link": "https://isha.sadhguru.org/inner-engineering-leadership-program/"
+                                          
+                }
+            }
+        },
+        {
+            "id":12,
+            "name": "Infrastructure Finance",
+            "institute": "Arun Jaitley National Institute of Financial Management",
+            "image": "assets/instances/eagle/banners/orgs/courses/12.png",
+            "summary": "The course has been structured to holistically subserve the knowledge needs and objectives of bureaucrats, officers of All India Service. Officers working under the central staffing scheme, officers of central Secretariat Service (CSS) and Officers of Central Secretariat Stenographer Service (CSSS) (officers of the level of DS/Sr. ppS and above)",
+            "description": {
+                    "desc1": "Infrastructure financing is essential for promoting and sustaining rapid economic growth. India’s investments in infrastructure have been growing over the years. However, there are several challenges to achieving a successful infrastructure project.",
+                    "list":  {
+                        "listSubject": "Thus, an MDP on Infrastructure Finance was designed with the following objectives:",
+                        "listDescription": [
+                            {
+                                "listdesc": "To lay down a strong conceptual foundation of infrastructure finance among participants"
+                            },
+                            {
+                                "listdesc": "To provide participants with an exposure to the latest developments in the field of infrastructure finance"
+                            }
+                        
+                        ]
+                    }
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Dr. Ashima Arora",
+                    "curator":"Assistant Professor, AJNIFM"
+                }
+            ],
+            "competency":"Functional, Domain",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Understand the scope of infrastructure finance"
+                    },
+                    {
+                        "topicTitle": "Appreciate structures such as SPVs, JVs, PPP etc."
+                    },
+                    {
+                        "topicTitle": "Analyze critical aspects that determine the viability of projects using quantitative measures"
+                    },
+                    {
+                        "topicTitle": "Understand risk and suggest steps towards mitigation"
+                    },
+                    {
+                        "topicTitle": "Conceive and plan projects with improved design and viability"
+                    }
+                ],
+                "topicDescription":  {
+                    "desc1": "Infrastructure financing is essential for promoting and sustaining rapid economic growth. India’s investments in infrastructure have been growing over the years. However, there are several challenges to achieving a successful infrastructure project.",
+                    "list": 
+                        {
+                            "listSubject": "Thus, an MDP on Infrastructure Finance was designed with the following objectives:",
+                            "listDescription": [
+                                {
+                                    "listdesc": "To lay down a strong conceptual foundation of infrastructure finance among participants. "
+                                },
+                                {
+                                    "listdesc": "To provide participants with an exposure to the latest developments in the field of infrastructure finance."
+                                }
+                               
+                              
+                            ]
+                  
+                        },
+                    "link": "https://www.ajnifm.ac.in/"
+                                          
+                }
+            }
+        },
+        {
+            "id":13,
+            "name": "Digital Governance in Urban Infrastructure Projects Delivery Systems (Evidence based)",
+            "institute": "Indian Institute for Human Settlements",
+            "image": "assets/instances/eagle/banners/orgs/courses/13.png",
+            "summary": "To promote innovation and hasten the adoption of digital and smart solutions in urban planning and development, public-private partnerships, investments in research and development, and policy frameworks are being formed. The training course ‘Digital Governance in Urban Infrastructure Project Delivery Systems: Evidence Based’ is highly relevant in this aspect. ",
+            "description": {
+                "desc1": "Digital and smart urban infrastructure has become a key component of urban development in the context of India. Technology is transforming the way we interact with one another and go about our everyday lives. As a result, everything from business to markets to politics to social contact is changing.",
+                "desc2": "There is a growing emphasis on incorporating technology into urban infrastructure projects as the Indian government stresses the value of digitalization and smart cities. To promote innovation and hasten the adoption of digital and smart solutions in urban planning and development, public-private partnerships, investments in research and development, and policy frameworks are being formed.",
+                "desc3": "The training course ‘Digital Governance in Urban Infrastructure Project Delivery Systems: Evidence Based’ is highly relevant in this aspect. This five-day training course covers a wide variety of subjects, with a particular emphasis on current case studies including digital driven decision-making support systems that have been put into place in cities and towns for infrastructure projects."
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Dr Subha Muthukumar",
+                    "curator":"Lead – Urban Practitioners’ Programme, IIHS"
+                },
+                {
+                    "author": "Dr Subha Muthukumar ",
+                    "curator":"Lead, UPP-IIHS"
+                },
+
+                {
+                    "author": "Dr Pradeep Singh",
+                    "curator":"Director Jal Jeevan Mission, GoI"
+                },
+                {
+                    "author": "Dr Ramamurthy",
+                    "curator":"Advisor, Directorate of Urban Land Transport"
+                },
+                {
+                    "author": "Kalpana Kar",
+                    "curator":"Technical Guidance Committee Member, SWM, Government of Karnataka"
+                },
+                {
+                    "author": "Sooraj M Raveendran",
+                    "curator":"IIHS"
+                }
+            ],
+            "competency":"Functional",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Digital Governance in Urban Infrastructure"
+                    },
+                    {
+                        "topicTitle": "Digital Vision – Technology Initiative under the Jal Jeevan Mission"
+                    },
+                    {
+                        "topicTitle": "Smart Sanitation – Mechanising  Safai Karmachari’s Work"
+                    },
+                    {
+                        "topicTitle": "Intelligent transport systems _ Project interventions and best practices"
+                    },
+                    {
+                        "topicTitle": "Applications of digital technologies in waste management – Case Studies"
+                    },
+                    {
+                        "topicTitle": "Data Visualizations for decision support systems - Concept and Application "
+                    },
+                    {
+                        "topicTitle": "procurement – GEM Portal (Policy, standardisation, and Automation)"
+                    }
+                ],
+                "topicDescription":  {
+                    "desc1": "The training course ‘Digital Governance in Urban Infrastructure Project Delivery Systems: Evidence Based’ is highly relevant in this aspect. This five-day training course covers a wide variety of subjects, with a particular emphasis on current case studies including digital driven decision-making support systems that have been put into place in cities and towns for infrastructure projects."
+                      
+                  
+                }
+            }
+        },
+        {
+            "id":14,
+            "name": "Training Programme on “Procurement and Allied Laws",
+            "institute": "National Law School of India University (NLSIU), Bengaluru",
+            "image": "assets/instances/eagle/banners/orgs/courses/14.png",
+            "summary": "The Officers will have a broad understanding of the principles of the law pertaining to contracts, procurement process, administration, cyber law and negotiation and be able to demonstrate their understanding and application of the principles in diverse facts. They will also be able to demonstrate their application to the essentials of formation, performance and discharge of contractual obligations on behalf of the Government.",
+            "description": {
+                "list": 
+                {
+                    "listSubject": "TRAINING OBJECTIVES:",
+                    "listDescription": [
+                        {
+                            "listdesc": "To facilitate engagement in identifying, classifying, and evaluating contracts"
+                        },
+                        {
+                            "listdesc": "To engage in discussions on administration practices and Administrative Law"
+                        },
+                        {
+                            "listdesc": "To facilitate understanding of the methods of negotiation and effectively take part in negotiation"
+                        },
+                        {
+                            "listdesc": "To study various modes and types of contract and emerging principles in each of them"
+                        },
+                        {
+                            "listdesc": "To facilitate discussions on principles of cyber law in administration and contracts"
+                        },
+                        {
+                            "listdesc": "To facilitate understanding of the application of general principles of contract in procurement contracts"
+                        },
+
+                        {
+                            "listdesc": "To study various modes and types of contract and emerging principles in each of them"
+                        },
+                        {
+                            "listdesc": "To familiarise the officers with various legal development in focus area through recent landmark judicial decisions and technological advancements"
+                        },
+                        {
+                            "listdesc": "To familiarise the officers with the mechanism of transactions in contractual law"
+                        }
+                      
+                    ]
+                }
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Prof. Harsha N",
+                    "curator":"Asst. Director, Department of Professional and Continuing Education (PACE), NLSIU"
+                },
+                {
+                    "author": "DR. SANJAY JAIN ",
+                    "curator":"Professor of Law, NLSIU"
+                },
+
+                {
+                    "author": "DR. SAIRAM BHAT",
+                    "curator":"Professor of Law and Centre Coordinator, Centre for Environmental Law Education, Research and Advocacy (CEERA), NLSIU"
+                },
+                {
+                    "author": "Ms. SAHANA RAMESH ",
+                    "curator":"Assistant Professor of Law, NLSIU"
+                },
+                {
+                    "author": "DR. A. NAGARATHNA",
+                    "curator":"Associate Professor of Law and Coordinator, Advanced Centre on Research, Development & Training in Cyber Law and Forensics, NLSIU"
+                },
+                {
+                    "author": "DR. KAMALA SANKARAN",
+                    "curator":"Professor of Law, Ford Foundation Chair in Public Interest Law, NLSIU"
+                },
+
+                {
+                    "author": "Ms. JASMINE JOSEPH",
+                    "curator":"Assistant Professor of Law, NLSIU"
+                },
+                {
+                    "author": "MR. HARSHA N",
+                    "curator":"Acting Assistant Director, Department of Professional and Continuing Education, Assistant Professor of Law, NLSIU"
+                },
+                {
+                    "author": "Ms. Madhubanti Sadhya",
+                    "curator":"Assistant Professor of Law, NLSIU"
+                },
+                {
+                    "author": "DR. O.V. Nandimath",
+                    "curator":"Professor of Law, NLSIU"
+                },
+                {
+                    "author": "DR. SAURABH BHATTACHARJEE",
+                    "curator":"Associate Professor of Law AND HAL Defence Public Sector Chair in Business Laws; UG Council Chairperson, NLSIU"
+                }
+            ],
+            "competency":"Functional",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Introduction to Law and Legal Systems"
+                    },
+                    {
+                        "topicTitle": "Procurement"
+                    },
+                    {
+                        "topicTitle": " Contract Design"
+                    },
+                    {
+                        "topicTitle": "Administrative Law"
+                    },
+                    {
+                        "topicTitle": "Arbitration"
+                    },
+                    {
+                        "topicTitle": "Negotiation"
+                    }
+                ],
+                "topicDescription":  {
+                    "list": 
+                        {
+                            "listSubject": "Specific skills proposed to be instilled in the participants with regard to governance and administrative/technical skills:",
+                            "listDescription": [
+                                {
+                                    "listdesc": "Understanding of Environmental Laws and their Implementation."
+                                },
+                                {
+                                    "listdesc": "To help policy makers executing integrate environmental concerns into other sectors and address inter-sectoral issues."
+                                },
+                                {
+                                    "listdesc": "To make environmental governance participatory and transparent."
+                                },
+                                {
+                                    "listdesc": "Competency to latest end to end online EIA evaluation process."
+                                },
+                                {
+                                    "listdesc": "To strengthen decision making through impact assessment perspective."
+                                }
+                              
+                            ]
+                  
+                        },
+                    "link" : "http://eptri.telangana.gov.in"
+                  
+                }
+            }
+        },
+        {
+            "id":15,
+            "name": "Digital Governance and Management",
+            "institute": "Indian Institute of Management, Visakhapatnam",
+            "image": "assets/instances/eagle/banners/orgs/courses/15.png",
+            "summary": "This training program aims to instill necessary inputs about Digital Governance and Management to help the Central and State governments build their capacities to ably support the mission and vision of Digital India",
+            "description": {
+                "list": 
+                {
+                    "listSubject": "As identified in the “Guidelines for Capacity Building and Institutional Framework for e-Governance under National e-Governance Plan”, by MeitY-GOI, it is important to build internal capacities in the Government and organizations, so that the functionaries are equipped with the necessary expertise towards:",
+                    "listDescription": [
+                        {
+                            "listdesc": "Developing the big picture or vision"
+                        },
+                        {
+                            "listdesc": "Steering the program/project"
+                        },
+                        {
+                            "listdesc": "Making strategic decisions"
+                        },
+                        {
+                            "listdesc": "Choosing between competing options"
+                        },
+                        {
+                            "listdesc": "Monitoring"
+                        },
+                        {
+                            "listdesc": "Managing external capacity/agencies for professional handling of tasks and achieving commensurate performance against prescribed goals."
+                        }
+                      
+                    ]
+                },
+                "desc3": "Such capacity-building will lead to realizing the vision of: IT (Indian Talent) + IT (Information Technology) = IT (India Tomorrow).",
+                "desc4": "Digital India initiative is accelerating the progress and development of the country towards a Smart Nation, with people being able to gain access to guaranteed public services and participate more fully in the societal functioning.",
+                "desc5": "To build the capacity of government functionaries, the thematic focus of the proposed course is e-governance, i.e., governance through digital technologies and the course is titled as “Digital Governance & Management”"
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Prof. Bhavya P S"
+                },
+                {
+                    "author": "Prof. Abhishek Srivastava"
+                },
+                {
+                    "author": "Prof. Bhavya P S"
+                },
+                {
+                    "author": "Prof. Abhishek Srivastava"
+                }
+            ],
+            "competency":"Functional",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Digital Transformation, Government as a Platform , Management of Change and Business Process Reengineering ,Design Thinking for Innovation Workshop , Emerging Technologies, Decision Science and Data Science for Policy Design, Digital Product & Service Management , Generative AI and Society, Digital Marketing of Public Services, Information Security , Law & Ethics of digital technologies, Contract Management"
+                    }
+                ],
+                "topicDescription":  {
+                    "desc1": "This training program aims to instill necessary inputs about Digital Governance and Management to help the Central and State governments build their capacities to ably support the mission and vision of Digital India.",
+                    "link": "https://www.iimv.ac.in/"
+
+                }
+            }
+        },
+        {
+            "id":16,
+            "name": "Specialized Course on Law",
+            "institute": "Jindal Global Law School, Sonipat, Haryana",
+            "image": "assets/instances/eagle/banners/orgs/courses/16.png",
+            "summary": "This course is designed with an objective to train senior government officers in Laws pertaining to good governance.",
+            "description": {
+                    "desc1": "For any Organization to progress and excel it is imperative to have sound legal knowledge. The leaders of today require that edge to achieve excellence. This course is designed with an objective to train senior government officers in Laws pertaining to good governance. It aims at refreshing the existing knowledge of the leaders with recent inputs and introduction of the latest concepts in legal matters pertaining to Centre and State administration. The module will try and synergize the existing knowledge of the participants so as to rekindle their zeal to bring about a change in their respective organisations."
+                      
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Prof Aakriti Malhotra"
+                }
+            ],
+            "competency":"Functional",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Writ Jurisdiction of the High Court Public Laws in India: Creating a New Aadhar of Administrative Governance Judicial Review of Administrative Action Environment Litigation & Strategy Departmental Proceedings and Administrative Law Sexual Harassment at workplace"
+                    }
+                ],
+                "topicDescription":  {
+                    "desc1": "The module will try and synergize the existing knowledge of the participants so as to rekindle their zeal to bring about a change in their respective organisations. ",
+                    "link" :  "https://www.jgls.edu.in",
+                    "link1": "https://www.jgu.edu.in"
+
+                }
+            }
+        },
+        {
+            "id":17,
+            "name": "Participatory Management (Community Mobilization)",
+            "institute": "Institute of Management in Government, Thiruvnanathapuram",
+            "image": "assets/instances/eagle/banners/orgs/courses/17.png",
+            "summary": "The One Week In-Service Training Programme on 'Participatory Management (Community Mobilization)' is a specialized training designed to enhance the officers' skills in effectively engaging with communities and promoting participatory approaches in public administration.",
+            "description": {
+                    "desc1": "The program aims to equip officers with the tools and techniques needed to facilitate community involvement, collaboration, and decision-making in development projects.",
+                    "desc2": "Through interactive sessions, case studies, and practical exercises, participants will learn strategies to foster meaningful partnerships, empower local stakeholders, and implement sustainable solutions that address the needs and aspirations of the communities they serve."
+                  
+                },
+            "authorAndCurator": [
+                {
+                    "author": "Ms Ninumol"
+                },
+                {
+                    "author": "Mr Tony Jacob"
+                }
+            ],
+            "competency":"Functional",
+            "content":  {
+                "topic": [
+                    {
+                        "topicTitle": "Through interactive sessions, case studies, and practical exercises, participants will learn strategies to foster meaningful partnerships, empower local stakeholders, and implement sustainable solutions that address the needs and aspirations of the communities they serve."
+                    }
+                ],
+                "topicDescription":  {
+                    "link": "https://img.kerala.gov.in"
+
+                }
+            }
+        }
+    
+    
+
+]
     
 }

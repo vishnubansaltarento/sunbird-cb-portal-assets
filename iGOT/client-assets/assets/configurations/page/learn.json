@@ -329,6 +329,91 @@
               "widgetData": {
                 "strips": [
                   {
+                    "key": "curatedProgram",
+                    "title": "Curated Programs",
+                    "titleDescription": "Curated Programs",
+                    "info": {
+                      "mode": "below",
+                      "visibilityMode": "hidden",
+                      "icon": {
+                        "icon": "info",
+                        "scale": 0.8
+                      },
+                      "widget": {
+                        "widgetType": "element",
+                        "widgetSubType": "elementHtml",
+                        "widgetData": {
+                          "html": "<p class=\"ws-mat-primary-text\">Curated Programs.</p>"
+                        }
+                      }
+                    },
+                    "stripConfig": {
+                      "cardSubType": "standard",
+                      "postCardForSearch": true
+                    },
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "Trending"
+                      }
+                    },
+                    "filters": [],
+                    "request": {
+                      "searchV6": {
+                        "request": {
+                          "filters": {
+                            "primaryCategory": [
+                              "Curated Program"
+                            ],
+                            "contentType": [
+                                "Course"
+                            ]
+                          },
+                          "offset": 0,
+                          "limit": 20,
+                          "sort_by": {
+                            "lastUpdatedOn": "desc"
+                          },
+                          "fields": [
+                            "appIcon",
+                            "channel",
+                            "contentType",
+                            "description",
+                            "duration",
+                            "idealScreenSize",
+                            "identifier",
+                            "instructions",
+                            "license",
+                            "mimeType",
+                            "name",
+                            "objectType",
+                            "pkgVersion",
+                            "posterImage",
+                            "primaryCategory",
+                            "purpose",
+                            "version"
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        [
+          {
+            "dimensions": {},
+            "className": "new-box",
+            "widget": {
+              "widgetType": "contentStrip",
+              "widgetSubType": "contentStripMultiple",
+              "widgetData": {
+                "strips": [
+                  {
                     "key": "mandatoryCourses",
                     "title": "Mandatory courses for you",
                     "info": {

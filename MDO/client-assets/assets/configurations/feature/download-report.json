@@ -2,16 +2,19 @@
     {
         "name": "Users Report",
         "type": "downloadUserReport",
+        "reportType": "Detailed data report",
         "enabled": true
     },
     {
         "name": "Consumption Report",
         "type": "consumptionReport",
+        "reportType": "Detailed data report",
         "enabled": true
     },
     {
         "name": "Assessment Report",
         "type": "assessmentReport",
+        "reportType": "Detailed data report",
         "enabled": true
     }
 ]

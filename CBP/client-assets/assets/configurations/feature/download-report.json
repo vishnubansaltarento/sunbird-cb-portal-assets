@@ -3,13 +3,13 @@
         "name": "Users Report",
         "type": "user-report",
         "reportType": "Detailed data report",
-        "enabled": true
+        "enabled": false
     },
     {
         "name": "Consumption Report",
         "type": "user-enrollment-report",
         "reportType": "Detailed data report",
-        "enabled": true
+        "enabled": false
     },
     {
         "name": "Assessment Report",

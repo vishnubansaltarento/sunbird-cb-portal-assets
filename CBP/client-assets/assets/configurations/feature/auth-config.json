@@ -345,6 +345,21 @@
           ]
         },
         {
+          "name": "Report Section",
+          "key": "reportSection",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/reportSection",
+          "requiredRoles": [
+            "cbp_admin"
+          ]
+        },
+        {
           "name": "Policies",
           "key": "policies",
           "fragment": false,

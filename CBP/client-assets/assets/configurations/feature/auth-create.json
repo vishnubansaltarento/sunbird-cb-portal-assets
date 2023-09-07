@@ -449,7 +449,7 @@
   {
     "id": "offlineSession",
     "parent": "resource",
-    "name": "Offline Session",
+    "name": "Session template",
     "icon": "meeting_room",
     "available": true,
     "enabled": true,

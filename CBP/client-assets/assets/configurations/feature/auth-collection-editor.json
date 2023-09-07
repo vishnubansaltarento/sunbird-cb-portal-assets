@@ -273,10 +273,10 @@
               }
             ]
           },
-          "name": "Offline Session",
+          "name": "Session Template",
           "primaryCategory": "Offline Session",
           "position": "",
-          "description": "Add an instructor-led offline session",
+          "description": "Add an instructor-led session template",
           "icon": "meeting_room",
           "minimum": 0,
           "maximum": 0,
@@ -579,10 +579,10 @@
               }
             ]
           },
-          "name": "Offline Session",
+          "name": "Session Template",
           "primaryCategory": "Offline Session",
           "position": "",
-          "description": "Add an instructor-led offline session.",
+          "description": "Add an instructor-led session template",
           "icon": "meeting_room",
           "minimum": 0,
           "maximum": 0,

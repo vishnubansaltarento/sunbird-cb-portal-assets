@@ -256,7 +256,7 @@
       "admin"
     ],
     "primaryCategory": "Course",
-    "possion": 4,
+    "possion": 2,
     "targettedCourse": true,
     "details": {
       "title": "Welcome to content curation.",
@@ -283,8 +283,8 @@
   {
     "id": "learningPath",
     "isCollection": true,
-    "name": "Program",
-    "description": "Create a collection of Courses.",
+    "name": "Invite only program",
+    "description": "Create a collection of courses to invite specific users to enroll into a particular batch.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
@@ -296,11 +296,33 @@
       "admin"
     ],
     "primaryCategory": "Program",
-    "possion": 2,
+    "possion": 1,
     "details": {
       "title": "Welcome to program curation",
       "createTitle": "Program",
       "subTitle": "Create a collection of Courses.",
+      "points": []
+    }
+  },
+  {
+    "id": "curatedProgram",
+    "isCollection": true,
+    "name": "Curated program",
+    "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
+    "icon": "library_books",
+    "contentType": "Course",
+    "available": true,
+    "enabled": true,
+    "mimeType": "application/vnd.ekstep.content-collection",
+    "hasRole": [
+      "content_creator"
+    ],
+    "primaryCategory": "Curated Program",
+    "possion": 2,
+    "details": {
+      "title": "Welcome to curated program curation.",
+      "createTitle": "Curated program details",
+      "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
       "points": []
     }
   },
@@ -405,13 +427,10 @@
     "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
-      "content_creator",
-      "editor",
-      "admin",
-      "program_coordinator"
+      "content_creator"
     ],
     "primaryCategory": "Blended Program",
-    "possion": 5,
+    "possion": 3,
     "details": {
       "title": "Welcome to blended program curation",
       "createTitle": "Blended program",
@@ -430,7 +449,7 @@
   {
     "id": "offlineSession",
     "parent": "resource",
-    "name": "Offline Session",
+    "name": "Session template",
     "icon": "meeting_room",
     "available": true,
     "enabled": true,
@@ -440,9 +459,7 @@
       "isExternal": false
     },
     "hasRole": [
-      "content_creator",
-      "editor",
-      "admin"
+      "content_creator"
     ],
     "primaryCategory": "Offline Session"
   }

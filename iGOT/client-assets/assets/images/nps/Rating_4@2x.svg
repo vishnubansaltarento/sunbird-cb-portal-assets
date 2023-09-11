@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rating_4@2x</title>
+    <g id="NPS-Desktop-1-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8" transform="translate(-719, -559)" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(0, 535)">
+                <g id="Group-4" transform="translate(489, 24)">
+                    <g id="Group-2" transform="translate(62, 0)">
+                        <g id="Rating_4" transform="translate(168, 0)">
+                            <circle id="Oval" fill="#FCC418" cx="20" cy="20" r="20"></circle>
+                            <path d="M20,31.82 C16.72,31.82 14,29.4 13.52,26.25 C13.44,25.73 13.85,25.27 14.37,25.27 L14.37,25.27 C14.79,25.27 15.15,25.57 15.21,25.98 C15.56,28.31 17.57,30.11 20,30.11 C22.43,30.11 24.44,28.32 24.79,25.98 C24.85,25.57 25.22,25.27 25.63,25.27 L25.63,25.27 C26.15,25.27 26.56,25.73 26.48,26.25 C26.01,29.4 23.28,31.82 20,31.82 Z" id="Path" fill="#000000"></path>
+                            <ellipse id="Oval" fill="#000000" cx="11.86" cy="15.54" rx="2.34" ry="2.45"></ellipse>
+                            <ellipse id="Oval" fill="#000000" cx="28" cy="15.54" rx="2.34" ry="2.45"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

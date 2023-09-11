@@ -154,7 +154,8 @@
                     "routerLink": "/app/home/reports-section",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 }
             ]

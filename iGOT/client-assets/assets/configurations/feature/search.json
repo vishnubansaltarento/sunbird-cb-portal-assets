@@ -94,6 +94,11 @@
           "name": "moderated courses",
           "count": 0,
           "ischecked": false
+        },
+        {
+          "name": "Blended Program",
+          "count": 0,
+          "ischecked": false
         }
       ],
       "name": "primaryCategory",

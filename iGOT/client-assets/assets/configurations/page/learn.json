@@ -531,7 +531,16 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "viewMoreText": "Explore all",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Standalone Assessment\"], \"contentType\": [\"Course\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true

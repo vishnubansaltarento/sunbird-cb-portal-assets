@@ -21,7 +21,7 @@
     {
       "name": "Two Step Approval",
       "serviceName": "twoStepPCAndMDOApproval",
-      "description": "Approved by PC and then MDO ADMIN",
+      "description": "Approved by Program Coordinator and then MDO ADMIN",
       "wfConfig": ""
     }
   ]

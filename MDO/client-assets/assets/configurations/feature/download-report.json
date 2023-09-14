@@ -15,6 +15,12 @@
         "name": "Assessment Report",
         "type": "user-assessment-report-mdo",
         "reportType": "Detailed data report",
+        "enabled": false
+    },
+    {
+        "name": "CBP Report",
+        "type": "course-report",
+        "reportType": "Detailed data report",
         "enabled": true
     }
 ]

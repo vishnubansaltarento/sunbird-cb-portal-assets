@@ -1,0 +1,28 @@
+{
+  "batchApprovalWfConfig": [
+    {
+      "name": "Single Step Approval",
+      "serviceName": "oneStepMDOApproval",
+      "description": "Approved by MDO ADMIN",
+      "wfConfig": ""
+    },
+    {
+      "name": "Single Step Approval",
+      "serviceName": "oneStepPCApproval",
+      "description": "Approved by Program Coordinator",
+      "wfConfig": ""
+    },
+    {
+      "name": "Two Step Approval",
+      "serviceName": "twoStepMDOAndPCApproval",
+      "description": "Approved by MDO ADMIN and then Program Coordinator",
+      "wfConfig": ""
+    },
+    {
+      "name": "Two Step Approval",
+      "serviceName": "twoStepPCAndMDOApproval",
+      "description": "Approved by PC and then MDO ADMIN",
+      "wfConfig": ""
+    }
+  ]
+}

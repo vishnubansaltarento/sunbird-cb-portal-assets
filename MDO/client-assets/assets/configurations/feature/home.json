@@ -142,7 +142,7 @@
                     ]
                 },
                 {
-                    "name": "Reports section",
+                    "name": "Reports",
                     "key": "reports-section",
                     "fragment": false,
                     "render": true,
@@ -154,7 +154,8 @@
                     "routerLink": "/app/home/reports-section",
                     "requiredRoles": [
                         "admin",
-                        "mdo_admin"
+                        "mdo_admin",
+                        "mdo_leader"
                     ]
                 }
             ]

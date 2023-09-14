@@ -100,7 +100,8 @@
                 "type": "newrequests",
                 "enabled": true,
                 "rolesRequired": ["content_creator", "program_coordinator"],
-                "data": {}
+                "data": {},
+                "primaryCategory": ["Blended Program"]
             },
             {
                 "name": "Learners",
@@ -108,7 +109,8 @@
                 "type": "learners",
                 "enabled": true,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": ["Course","Program","Blended Program","Standalone Assessment"]
             },
             {
                 "name": "Rejected requests",
@@ -116,7 +118,8 @@
                 "type": "rejectedrequests",
                 "enabled": true,
                 "rolesRequired": ["content_creator", "program_coordinator"],
-                "data": {}
+                "data": {},
+                "primaryCategory": ["Blended Program"]
             },
             {
                 "name": "Certificates",
@@ -127,15 +130,17 @@
                 "settings": {
                     "maxCertificates": 1
                 },
-                "data": {}
+                "data": {},
+                "primaryCategory": ["Blended Program","Course", "Standalone Assessment", "Program"]
             },
             {
                 "name": "Discussions",
                 "key": "discuss",
                 "type": "discuss",
-                "enabled": true,
+                "enabled": false,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": []
             },
             {
                 "name": "Assessments",
@@ -143,23 +148,26 @@
                 "type": "assessments",
                 "enabled": false,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": []
             },
             {
                 "name": "Notifications",
                 "key": "notifications",
                 "type": "notifications",
-                "enabled": true,
+                "enabled": false,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": []
             },
             {
                 "name": "Batch settings",
                 "key": "batch-settings",
                 "type": "batch-settings",
-                "enabled": true,
+                "enabled": false,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": []
             },
             {
                 "name": "Session details",
@@ -167,7 +175,8 @@
                 "type": "session-details",
                 "enabled": true,
                 "rolesRequired": [],
-                "data": {}
+                "data": {},
+                "primaryCategory": ["Blended Program"]
             }
         ]
     }

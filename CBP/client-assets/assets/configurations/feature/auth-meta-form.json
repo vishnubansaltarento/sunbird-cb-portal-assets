@@ -3954,7 +3954,7 @@
               "Blended Program"
             ]
           },
-          "value": 0
+          "value": 200
         }
       ],
       "Standalone Assessment": [
@@ -3973,18 +3973,19 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Blended Program": []
+      
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
+      "Blended Program": []
     },
     "notShowFor": {
       "Course":[],
       "Program":[],
-      "Standalone Assessment":[]
+      "Standalone Assessment":[],
+      "Blended Program": []
     },
     "showFor": {
-      "Blended Program": []
     },
     "type": "number"
   },

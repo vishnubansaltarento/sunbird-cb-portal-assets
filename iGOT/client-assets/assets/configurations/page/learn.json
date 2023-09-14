@@ -538,7 +538,7 @@
                         "tab": "Learn",
                         "q": "",
                         "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Standalone Assessment\"], \"contentType\": [\"Course\"]}"
+                        "f": "{\"primaryCategory\": [\"Standalone Assessment\"], \"contentType\": [\"Standalone Assessment\"]}"
                       }
                     },
                     "stripConfig": {

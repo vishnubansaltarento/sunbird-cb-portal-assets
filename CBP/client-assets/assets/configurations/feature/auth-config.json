@@ -345,7 +345,7 @@
           ]
         },
         {
-          "name": "Report Section",
+          "name": "Reports",
           "key": "reportSection",
           "fragment": false,
           "render": true,

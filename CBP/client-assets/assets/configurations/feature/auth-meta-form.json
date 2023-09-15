@@ -4664,11 +4664,10 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      "Blended Program": []
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
+      "Blended Program": []
     },
     "notShowFor": {
       "Course":[],
@@ -4749,11 +4748,10 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      "Blended Program": []
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {
+      "Blended Program": []
     },
     "notShowFor": {
       "Course":[],

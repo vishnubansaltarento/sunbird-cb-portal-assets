@@ -4665,10 +4665,11 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Blended Program": []
+      
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
+      "Blended Program": []
     },
     "notShowFor": {
       "Course":[],
@@ -4750,10 +4751,11 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Blended Program": []
+      
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
+      "Blended Program": []
     },
     "notShowFor": {
       "Course":[],
@@ -4981,16 +4983,15 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
+    "mandatoryFor": {},
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
+    "notShowFor": {
       "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
-      "Standalone Assessment": []
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {},
-    "notShowFor": {
+      "Standalone Assessment": [],
       "Resource": [
         {
           "mimeType": [
@@ -5002,11 +5003,6 @@
       "Learning Path": []
     },
     "showFor": {
-      "Course": [],
-      "Program": [],
-      "Curated Program": [],
-      "Blended Program": [],
-      "Standalone Assessment": []
     },
     "type": "array"
   },

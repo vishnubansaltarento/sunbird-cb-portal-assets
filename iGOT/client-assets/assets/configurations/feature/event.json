@@ -18,5 +18,24 @@
                 }
             }
         ]
+    },
+    "pageLayout": {
+        "widgetSubType": "gridLayout",
+        "widgetType": "layout",
+        "widgetData": {
+          "widgets": [
+            [
+                {
+                  "dimensions": {},
+                  "className": "",
+                  "widget": {
+                    "widgetType": "card",
+                    "widgetSubType": "cardHomeNotify",
+                    "widgetData": {}
+                  }
+                }
+            ]
+          ]
+        }
     }
 }

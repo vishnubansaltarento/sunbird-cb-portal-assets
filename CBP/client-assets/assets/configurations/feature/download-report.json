@@ -13,7 +13,7 @@
     },
     {
         "name": "Assessment Report",
-        "type": "user-assessment-report-mdo",
+        "type": "user-assessment-report-cbp",
         "reportType": "Detailed data report",
         "enabled": true
     }

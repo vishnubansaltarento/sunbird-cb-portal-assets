@@ -979,7 +979,9 @@
                           "filters": [
                             {
                               "primaryCategory": [
-                                "Course"
+                                "Course",
+                                "Program",
+                                "Standalone Assessment"
                               ],
                               "contentType": [
                                 "Course"

@@ -230,7 +230,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Programs for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Blended programs for you.</p>"
                         }
                       }
                     },

@@ -90,7 +90,7 @@
   {
     "id": "Survery_link",
     "parent": "resource",
-    "name": "Survey link",
+    "name": "Form link",
     "icon": "insert_link",
     "available": true,
     "enabled": true,
@@ -311,8 +311,8 @@
     "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator"

@@ -327,8 +327,8 @@
           ]
         },
         {
-          "name": "Surveys",
-          "key": "Surveys",
+          "name": "Forms",
+          "key": "Forms",
           "fragment": false,
           "render": true,
           "badges": {
@@ -336,7 +336,7 @@
             "uri": ""
           },
           "enabled": true,
-          "routerLink": "/author/surveys",
+          "routerLink": "/author/forms",
           "requiredRoles": [
             "admin",
             "super-admin",
@@ -345,7 +345,7 @@
           ]
         },
         {
-          "name": "Report Section",
+          "name": "Reports",
           "key": "reportSection",
           "fragment": false,
           "render": true,

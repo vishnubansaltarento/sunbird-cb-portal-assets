@@ -248,7 +248,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Blended Programs.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Blended programs for you.</p>"
                         }
                       }
                     },

@@ -580,12 +580,11 @@
     "mandatoryFor": {
       "Course": [],
       "Program": [],
-      "Curated Program": []
-    },
-    "notDisabledFor": {},
-    "notMandatoryFor": {
+      "Curated Program": [],
       "Blended Program":[]
     },
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
     "notShowFor": {
       "Standalone Assessment": [],
       "Learning Resource": [],

@@ -74,6 +74,22 @@
     "competencies": {
       "displayName": "Competencies",
       "enabled": true
+    },
+    "batchDate": {
+      "displayName": "Batch date",
+      "enabled": true
+    },
+    "batchDuration": {
+      "displayName": "Batch duration",
+      "enabled": true
+    },
+    "contentType": {
+      "displayName": "Content type",
+      "enabled": true
+    },
+    "batchSize": {
+      "displayName": "Batch size",
+      "enabled": true
     }
   },
   "overview": {
@@ -120,8 +136,10 @@
   "BatchEnrollL2Msg": "We are now reviewing your request. You will be notified when it is approved.",
   "BatchEnrollDelayMsg": "Are you still waiting for the approval?",
   "BatchEnrollApprovedMsg":"Your enrollment is now approved.",
-  "BatchEnrollRejectedMsg": "As per the department’s order, your enrollment request for the selected batch has been rejected.",
+  "BatchEnrollRejectedMsg": "Your enrollment request for the selected batch has been rejected.",
+  "BatchEnrollRemoveMsg": "Your enrollment request for the selected batch has been removed.",
   "BatchEnrollSupportMsg": "For help, write to us at ",
+  "BatchEnrollWithdrawMsg": "Your request to withdraw from this blended program has been successfully processed.",
   "attendenceHelp": {
     "title": "Follow these 4 simple steps to successfully mark your attendance.",
     "steps": [
@@ -140,7 +158,7 @@
       {
         "step": "STEP 3",
         "img": "/assets/icons/attendance_step3.svg",
-        "title": "Open the registered blended program",
+        "title": "Open the blended program",
         "description": "For example: Search for ‘Creating and Running and Online Course’"
       },
       {

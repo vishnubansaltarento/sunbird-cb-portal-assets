@@ -276,7 +276,7 @@
           ]
         },
         {
-          "name": "Manage Program",
+          "name": "Manage Blended Program",
           "key": "blendedProgramAll",
           "fragment": false,
           "render": true,

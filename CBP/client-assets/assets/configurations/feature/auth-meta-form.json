@@ -2728,13 +2728,13 @@
       "Program": [],
       "Curated Program": [],
       "Learning Resource": [],
-      "Standalone Assessment": [],
-      "Offline Session": []
+      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
       "CourseUnit": [],
-      "Blended Program": []
+      "Blended Program": [],
+      "Offline Session": []
     },
     "notShowFor": {
       "Blended Program": []

@@ -108,7 +108,7 @@
                 "key": "learners",
                 "type": "learners",
                 "enabled": true,
-                "rolesRequired": [],
+                "rolesRequired": ["program_coordinator", "content_creator"],
                 "data": {},
                 "primaryCategory": ["Course","Program","Blended Program","Standalone Assessment"]
             },
@@ -126,7 +126,7 @@
                 "key": "certificates",
                 "type": "certificates",
                 "enabled": true,
-                "rolesRequired": [],
+                "rolesRequired": ["content_creator", "program_coordinator"],
                 "settings": {
                     "maxCertificates": 1
                 },
@@ -174,7 +174,7 @@
                 "key": "session-details",
                 "type": "session-details",
                 "enabled": true,
-                "rolesRequired": [],
+                "rolesRequired": ["program_coordinator"],
                 "data": {},
                 "primaryCategory": ["Blended Program"]
             }

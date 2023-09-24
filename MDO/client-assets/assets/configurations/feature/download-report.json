@@ -26,5 +26,12 @@
         "reportType": "Detailed data report",
         "downloadReportFileName":"CBPReport",
         "enabled": true
+    },
+    {
+        "name": "User Assessment Report",
+        "type": "cba-report",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"UserAssessmentReport",
+        "enabled": true
     }
 ]

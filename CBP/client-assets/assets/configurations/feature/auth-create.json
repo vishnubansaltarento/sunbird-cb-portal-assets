@@ -283,7 +283,7 @@
   {
     "id": "learningPath",
     "isCollection": true,
-    "name": "Invite only program",
+    "name": "Invite Only Program",
     "description": "Create a collection of courses to invite specific users to enroll into a particular batch.",
     "icon": "library_books",
     "contentType": "Course",
@@ -307,7 +307,7 @@
   {
     "id": "curatedProgram",
     "isCollection": true,
-    "name": "Curated program",
+    "name": "Curated Program",
     "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
     "icon": "library_books",
     "contentType": "Course",
@@ -398,7 +398,7 @@
     "id": "standaloneAssessment",
     "isCollection": true,
     "name": "Standalone Assessment",
-    "description": "Create a standalone Assessment.",
+    "description": "Create a standalone assessment.",
     "icon": "playlist_add_check",
     "contentType": "Collection",
     "available": true,
@@ -412,7 +412,7 @@
     "details": {
       "title": "Welcome to standalone assessment curation",
       "createTitle": "Standalone Assessment",
-      "subTitle": "Create a standalone Assessment.",
+      "subTitle": "Create a standalone assessment.",
       "points": []
     }
   },
@@ -433,8 +433,8 @@
     "possion": 3,
     "details": {
       "title": "Welcome to blended program curation",
-      "createTitle": "Blended program",
-      "subTitle": "Create collection of resources.",
+      "createTitle": "Blended Program",
+      "subTitle": "Create a collection of online and offline resources.",
       "points": []
     },
     "programDuration":{

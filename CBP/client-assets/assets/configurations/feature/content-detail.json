@@ -99,7 +99,7 @@
                 "key": "newrequests",
                 "type": "newrequests",
                 "enabled": true,
-                "rolesRequired": ["content_creator", "program_coordinator"],
+                "rolesRequired": ["program_coordinator"],
                 "data": {},
                 "primaryCategory": ["Blended Program"]
             },
@@ -117,7 +117,7 @@
                 "key": "rejectedrequests",
                 "type": "rejectedrequests",
                 "enabled": true,
-                "rolesRequired": ["content_creator", "program_coordinator"],
+                "rolesRequired": ["program_coordinator"],
                 "data": {},
                 "primaryCategory": ["Blended Program"]
             },

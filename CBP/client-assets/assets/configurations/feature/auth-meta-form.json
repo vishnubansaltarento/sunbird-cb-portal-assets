@@ -4979,15 +4979,15 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": [],
-      "Program": [],
-      "Curated Program": [],
-      "Blended Program": [],
-      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
+      "Course": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": [],
       "Resource": [
         {
           "mimeType": [

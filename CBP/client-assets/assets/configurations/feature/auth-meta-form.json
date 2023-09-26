@@ -5734,15 +5734,15 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      "Course": [],
-      "Program": [],
-      "Blended Program": [],
-      "Standalone Assessment": []
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
+      "Course": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": [],
       "Resource": [
         {
           "mimeType": [

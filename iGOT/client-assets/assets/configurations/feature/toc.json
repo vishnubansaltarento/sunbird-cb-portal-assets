@@ -90,6 +90,20 @@
     "batchSize": {
       "displayName": "Batch size",
       "enabled": true
+    },
+    "enrolled": {
+      "displayName": "Enrolled",
+      "enabled": true
+    }
+    ,
+    "rejected": {
+      "displayName": "Rejected",
+      "enabled": true
+    }
+    ,
+    "totalApplied": {
+      "displayName": "Total applied",
+      "enabled": true
     }
   },
   "overview": {

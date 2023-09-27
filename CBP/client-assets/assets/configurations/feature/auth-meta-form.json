@@ -5734,11 +5734,12 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {},
+    "mandatoryFor": {
+      "Course": []
+    },
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
-      "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],

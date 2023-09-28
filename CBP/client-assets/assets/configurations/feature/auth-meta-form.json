@@ -5734,7 +5734,9 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {},
+    "mandatoryFor": {
+      "Course": []
+    },
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {

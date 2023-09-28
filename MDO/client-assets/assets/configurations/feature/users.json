@@ -78,7 +78,7 @@
                 "routerLink": "/app/home/workallocation"
             },
             {
-                "name": "Blended program approvals",
+                "name": "Blended program",
                 "key": "blended-approvals",
                 "fragment": false,
                 "render": true,

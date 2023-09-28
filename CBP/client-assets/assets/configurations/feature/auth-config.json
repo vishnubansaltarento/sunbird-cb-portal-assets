@@ -255,8 +255,7 @@
           "requiredRoles": [
             "content_reviewer",
             "content_creator",
-            "content_publisher",
-            "spv_publisher"
+            "content_publisher"
           ]
         },
         {
@@ -322,9 +321,7 @@
             "super-admin",
             "content-admin",
             "editor",
-            "content_creator",
-            "content_reviewer",
-            "content_publisher"
+            "content_creator"
           ]
         },
         {

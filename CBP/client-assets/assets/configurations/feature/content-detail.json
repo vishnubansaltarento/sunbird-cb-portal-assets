@@ -122,6 +122,15 @@
                 "primaryCategory": ["Blended Program"]
             },
             {
+                "name": "Approval Status",
+                "key": "approvalstatus",
+                "type": "approvalstatus",
+                "enabled": false,
+                "rolesRequired": ["program_coordinator"],
+                "data": {},
+                "primaryCategory": ["Blended Program"]
+            },
+            {
                 "name": "Certificates",
                 "key": "certificates",
                 "type": "certificates",

@@ -423,8 +423,8 @@
     "description": "Create a collection of online and offline resources.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": false,
-    "enabled": false,
+    "available": true,
+    "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator"

@@ -190,20 +190,20 @@
   },
   "settingSideMenu": [
     {
-      "name": "General Settings", 
-      "key": "Network Home", 
+      "name": "General Settings",
+      "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
-      "enabled": true, 
+      "enabled": true,
       "routerLink": "/app/profile/settings"
     },
-    { 
+    {
       "name": "Notifications",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
-      "routerLink": "/app/profile/notification" 
+      "routerLink": "/app/profile/notification"
     },
-    { 
+    {
       "name": "Account and Password",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
@@ -212,10 +212,17 @@
     },
     {
       "name": "Privacy",
-      "key": "Network Home", 
+      "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
-      "routerLink": "/app/profile/privacy" 
+      "routerLink": "/app/profile/privacy"
+    },
+    {
+      "name": "iGOT Karmayogi Tour",
+      "key": "Network Home",
+      "badges": { "enabled": true, "uri": "" },
+      "enabled": true,
+      "icon": "fusion-assets/images/play_circle.svg"
     }
   ]
 }

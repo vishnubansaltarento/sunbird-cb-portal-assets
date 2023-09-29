@@ -125,7 +125,7 @@
                 "name": "Approval Status",
                 "key": "approvalstatus",
                 "type": "approvalstatus",
-                "enabled": false,
+                "enabled": true,
                 "rolesRequired": ["program_coordinator"],
                 "data": {},
                 "primaryCategory": ["Blended Program"]

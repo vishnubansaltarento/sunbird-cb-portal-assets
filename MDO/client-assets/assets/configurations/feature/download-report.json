@@ -3,18 +3,28 @@
         "name": "Users Report",
         "type": "user-report",
         "reportType": "Detailed data report",
+        "downloadReportFileName":"UserReport",
         "enabled": true
     },
     {
         "name": "Consumption Report",
         "type": "user-enrollment-report",
         "reportType": "Detailed data report",
+        "downloadReportFileName":"ConsumptionReport",
         "enabled": true
     },
     {
         "name": "Assessment Report",
         "type": "user-assessment-report-mdo",
         "reportType": "Detailed data report",
+        "downloadReportFileName":"StandaloneAssessmentReport",
+        "enabled": false
+    },
+    {
+        "name": "CBP Report",
+        "type": "course-report",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"CBPReport",
         "enabled": true
     }
 ]

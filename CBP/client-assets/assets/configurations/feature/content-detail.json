@@ -113,16 +113,7 @@
                 "primaryCategory": ["Course","Program","Blended Program","Standalone Assessment"]
             },
             {
-                "name": "Rejected requests",
-                "key": "rejectedrequests",
-                "type": "rejectedrequests",
-                "enabled": true,
-                "rolesRequired": ["program_coordinator"],
-                "data": {},
-                "primaryCategory": ["Blended Program"]
-            },
-            {
-                "name": "Approval Status",
+                "name": "Enroll Status",
                 "key": "approvalstatus",
                 "type": "approvalstatus",
                 "enabled": true,

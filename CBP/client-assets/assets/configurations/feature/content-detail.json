@@ -113,7 +113,7 @@
                 "primaryCategory": ["Course","Program","Blended Program","Standalone Assessment"]
             },
             {
-                "name": "Enroll Status",
+                "name": "Enroll status",
                 "key": "approvalstatus",
                 "type": "approvalstatus",
                 "enabled": true,

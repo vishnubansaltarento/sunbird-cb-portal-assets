@@ -152,5 +152,5 @@
     ],
     "helpText": "If you’re facing the problem in marking the attendance, please contact your program coordinator"
   },
-  "ScormProgressThreshold": 70
+  "ScormProgressThreshold": 20
 }

@@ -242,7 +242,7 @@
           ]
         },
         {
-          "name": "Moderated Courses",
+          "name": "Moderated course",
           "key": "moderatedCourse",
           "fragment": false,
           "render": true,
@@ -259,7 +259,7 @@
           ]
         },
         {
-          "name": "Blended Program",
+          "name": "Blended program",
           "key": "blendedProgram",
           "fragment": false,
           "render": true,
@@ -276,7 +276,7 @@
           ]
         },
         {
-          "name": "Manage Blended Program",
+          "name": "Manage blended program",
           "key": "blendedProgramAll",
           "fragment": false,
           "render": true,

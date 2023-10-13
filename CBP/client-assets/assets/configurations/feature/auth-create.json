@@ -243,7 +243,7 @@
   {
     "id": "moderatedCourse",
     "isCollection": true,
-    "name": "Moderated Course",
+    "name": "Moderated course",
     "description": "Create a collection of module and resources for moderated courses.",
     "icon": "video_library",
     "contentType": "Course",

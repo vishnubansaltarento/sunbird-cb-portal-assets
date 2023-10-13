@@ -76,7 +76,7 @@
                     ]
                 },
                 {
-                    "name": "Positions",
+                    "name": "Designations",
                     "key": "sign-up-positions",
                     "fragment": false,
                     "render": true,

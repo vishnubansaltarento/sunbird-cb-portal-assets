@@ -267,7 +267,7 @@
             "enabled": false,
             "uri": ""
           },
-          "enabled": true,
+          "enabled": false,
           "routerLink": "/author/cbp/blended-program-home",
           "requiredRoles": [
             "content_reviewer",
@@ -284,7 +284,7 @@
             "enabled": false,
             "uri": ""
           },
-          "enabled": true,
+          "enabled": false,
           "routerLink": "/author/cbp/blended-program-all",
           "requiredRoles": [
             "program_coordinator"

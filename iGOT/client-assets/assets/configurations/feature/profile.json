@@ -218,7 +218,7 @@
       "routerLink": "/app/profile/privacy"
     },
     {
-      "name": "iGOT Karmayogi Tour",
+      "name": "'Get Started' tour",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,

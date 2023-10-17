@@ -85,7 +85,7 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/requests/position",
+                    "routerLink": "/app/home/requests/designation",
                     "requiredRoles": [
                         "SPV_ADMIN",
                         "STATE_ADMIN",

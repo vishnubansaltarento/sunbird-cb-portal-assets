@@ -254,6 +254,11 @@
       "name": "Hobbies",
       "key": "hobbies",
       "enabled": true
+    },
+    {
+      "name": "Earn your Karmayogi Badge today",
+      "key": "verifiedKarmayogi",
+      "enabled": true
     }
   ],
   "profileDataKey": [

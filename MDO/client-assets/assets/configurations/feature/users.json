@@ -332,6 +332,11 @@
         "name": "Hobbies",
         "key": "hobbies",
         "enabled": true
+      },
+      {
+        "name": "Verified Karmayogi",
+        "key": "verifiedKarmayogi",
+        "enabled": true
       }
     ],
     "profileDataKey": [

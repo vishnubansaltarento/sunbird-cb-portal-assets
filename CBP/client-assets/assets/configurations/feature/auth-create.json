@@ -438,7 +438,7 @@
       "points": []
     },
     "programDuration":{
-      "max": 20,
+      "max": 999,
       "min": 1
     },
     "batchSize": {

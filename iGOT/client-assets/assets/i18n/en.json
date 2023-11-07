@@ -1,0 +1,51 @@
+{
+    "btn": {
+        "yes": "Yes",
+        "no": "No",
+        "start": "Start",
+        "resume": "Resume",
+        "enroll": "Enroll",
+        "update_now": "Udpate now",
+        "remind_later": "Remind later",
+        "edit": "Edit"
+    },
+    "msg": {
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful"
+    },
+    "common": {
+        "hubs": "Hubs",
+        "learn": "Learn",
+        "discuss": "Discuss",
+        "network": "Network",
+        "career": "Career",
+        "competencies": "Competencies",
+        "events": "Events",
+        "see_all": "See all"
+    },
+    "headerfooter": {
+        "search_for_learning_contents": "Search for learning contents",
+        "hubs": "Hubs",
+        "related_links": "Related links",
+        "frac_dictionary": "Frac Dictionary"
+    },
+    "homepage":{
+        "title": {
+            "continue_learning": "Continue learning",
+            "programs": "Programs",
+            "blended_programs": "Blended Programs"
+        },
+        "actions" : {}
+    },
+    "learnhub": {
+        "title": {},
+        "actions": {},
+        "tocpage": {}
+    },
+    "discussionhub": {
+        "title": {},
+        "actions": {},
+        "detailspage": {}
+    }
+}

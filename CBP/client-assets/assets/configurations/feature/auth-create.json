@@ -311,8 +311,8 @@
     "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": false,
-    "enabled": false,
+    "available": true,
+    "enabled": true,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator"
@@ -322,7 +322,7 @@
     "details": {
       "title": "Welcome to curated program curation.",
       "createTitle": "Curated program details",
-      "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
+      "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner. Users will earn certificates at both the individual course and program levels, with their progress continuously monitored throughout the system.",
       "points": []
     }
   },
@@ -438,7 +438,7 @@
       "points": []
     },
     "programDuration":{
-      "max": 20,
+      "max": 999,
       "min": 1
     },
     "batchSize": {

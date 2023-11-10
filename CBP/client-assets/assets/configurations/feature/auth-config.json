@@ -284,7 +284,7 @@
             "enabled": false,
             "uri": ""
           },
-          "enabled": false,
+          "enabled": true,
           "routerLink": "/author/cbp/blended-program-all",
           "requiredRoles": [
             "program_coordinator"

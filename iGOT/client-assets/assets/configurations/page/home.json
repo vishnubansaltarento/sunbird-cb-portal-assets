@@ -744,5 +744,36 @@
         ]
       ]
     }
-  }
+  },
+
+  "profileStats":[
+    {
+        "icon":"/assets/icons/home/inProgress.svg",
+        "label":"In progress",
+        "enable": true,
+        "key": "inProgress",
+        "value": 0 
+    },
+    {
+        "icon":"/assets/icons/home/certificate.svg",
+        "label":"Certificate",
+        "enable": true,
+        "key": "certificate",
+        "value": 0 
+    },
+    {
+        "icon":"/assets/icons/home/time.svg",
+        "label":"Learning hours",
+        "enable": true,
+        "key": "learningHours",
+        "value": 0 
+    },
+    {
+        "icon":"/assets/icons/home/inProgress.svg",
+        "label":"In progress",
+        "enable": true,
+        "key": "inProgress",
+        "value": 0 
+    }
+  ]
 }

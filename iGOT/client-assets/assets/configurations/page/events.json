@@ -40,27 +40,7 @@
     "widgetSubType": "gridLayout",
     "widgetType": "layout",
     "widgetData": {
-      "widgets": [
-        [
-          {
-            "dimensions": {},
-            "className": "",
-            "widget": {
-              "widgetType": "actionButton",
-              "widgetSubType": "actionButtonPageBack",
-              "widgetData": {
-                "url": "home",
-                "titles": [
-                  {
-                    "url": "/page/events",
-                    "title": "Events",
-                    "icon": "calendar"
-                  }
-                ]
-              }
-            }
-          }
-        ],
+      "widgets": [        
         [
           {
             "dimensions": {},

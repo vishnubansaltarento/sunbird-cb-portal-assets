@@ -127,9 +127,9 @@
                   {
                     "key": "continueLearning",
                     "logo": "school",
-                    "title": "Learn",
+                    "title": "Learn1",
                     "stripBackground": "assets/instances/eagle/background/learn.svg",
-                    "titleDescription": "Continue learning",
+                    "titleDescription": "Continue learning1",
                     "stripConfig": {
                       "cardSubType": "standard"
                     },

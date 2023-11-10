@@ -253,7 +253,7 @@
       "left": [],
       "right": [
         {
-          "type": "featureButton",
+          "type": "downloadButton",
           "config": {
             "actionBtnId": "feature_home",
             "toolTip": "Home",
@@ -266,7 +266,20 @@
           }
         },
         {
-          "type": "featureButton",
+          "type": "fontButton",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "My Dashboard",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_mydashboard",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
+          "type": "helpButton",
           "config": {
             "actionBtnId": "feature_mydashboard",
             "toolTip": "My Dashboard",
@@ -286,7 +299,8 @@
             "widgetData": {
               "disableViewProfile": true,
               "disableAllFeatures": true,
-              "disableSettings": true
+              "disableSettings": true,
+              "removeClass": true
             },
             "hideTitle": true
           }
@@ -369,7 +383,9 @@
       "accessKey": "L",
       "permission": [
         "Admin"
-      ]
+      ],
+      "primaryNavVisibilityFlag": true,
+      "order": 2
     },
     {
       "path": "/app/discuss/home",
@@ -378,7 +394,9 @@
       "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
-      "permission": []
+      "permission": [],
+      "primaryNavVisibilityFlag": false,
+      "order": 2
     },
     {
       "path": "/app/network-v2",
@@ -387,7 +405,10 @@
       "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
-      "permission": []
+      "permission": [],
+      "primaryNavVisibilityFlag": true,
+      "order": 1
+
     },
     {
       "path": "/app/careers/home",
@@ -396,7 +417,9 @@
       "desc": "Explore career options, grow in the path of your choice.",
       "icon": "work",
       "accessKey": "C",
-      "permission": []
+      "permission": [],
+      "primaryNavVisibilityFlag": true,
+      "order": 4
     },
     {
       "path": "/app/competencies",
@@ -405,7 +428,9 @@
       "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
-      "permission": []
+      "permission": [],
+      "primaryNavVisibilityFlag": true,
+      "order": 5
     },
     {
       "path": "/app/event-hub",
@@ -414,7 +439,9 @@
       "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",
-      "permission": []
+      "permission": [],
+      "primaryNavVisibilityFlag": true,
+      "order": 6
     }
   ],
   "featuredApps": [],

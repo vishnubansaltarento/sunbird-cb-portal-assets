@@ -771,7 +771,7 @@
     {
         "icon":"/assets/icons/home/inProgress.svg",
         "label":"In progress",
-        "enable": true,
+        "enable": false,
         "key": "inProgress",
         "value": 0 
     }

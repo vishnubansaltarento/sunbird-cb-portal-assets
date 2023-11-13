@@ -338,6 +338,41 @@
             }
           }
         }
+      ],
+      "all": [
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "home",
+            "path": "/page/home",
+            "label": "home"
+          }
+        },
+        {
+          "type": "explorerButton",
+          "config": {
+            "icon": "explorer",
+            "path": "/page/explore",
+            "label": "explorer"
+          }
+        },
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "search",
+            "path": "/app/globalsearch",
+            "label": "search"
+          }
+        },
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "learn",
+            "path": "/app/my-learning",
+            "label": "my learnings"
+          }
+        }
+
       ]
     },
     "secondary": {

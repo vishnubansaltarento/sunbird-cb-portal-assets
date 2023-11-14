@@ -419,8 +419,7 @@
       "permission": [
         "Admin"
       ],
-      "primaryNavVisibilityFlag": true,
-      "order": 2
+      "order": 1
     },
     {
       "path": "/app/discuss/home",
@@ -430,7 +429,6 @@
       "icon": "forum",
       "accessKey": "D",
       "permission": [],
-      "primaryNavVisibilityFlag": false,
       "order": 2
     },
     {
@@ -441,8 +439,7 @@
       "icon": "group",
       "accessKey": "N",
       "permission": [],
-      "primaryNavVisibilityFlag": true,
-      "order": 1
+      "order": 3
 
     },
     {
@@ -453,7 +450,6 @@
       "icon": "work",
       "accessKey": "C",
       "permission": [],
-      "primaryNavVisibilityFlag": true,
       "order": 4
     },
     {
@@ -464,7 +460,6 @@
       "icon": "extension",
       "accessKey": "O",
       "permission": [],
-      "primaryNavVisibilityFlag": true,
       "order": 5
     },
     {
@@ -475,7 +470,6 @@
       "icon": "event",
       "accessKey": "E",
       "permission": [],
-      "primaryNavVisibilityFlag": true,
       "order": 6
     }
   ],

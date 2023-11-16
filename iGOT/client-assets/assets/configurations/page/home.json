@@ -775,5 +775,101 @@
         "key": "inProgress",
         "value": 0 
     }
-  ]
+  ],
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/company/karmayogi-bharat/",
+      "alt": "Linkedin",
+      "icon" : "linkedin"
+    },
+    {
+      "url": "https://x.com/iGOTKarmayogi?t=OUEVuskmXbrTNdPuIBaHuw&s=09",
+      "alt": "Twitter",
+      "icon" : "Combined Shape"
+    },
+    {
+      "url": "https://instagram.com/karmayogibharat?igshid=MzRlODBiNWFlZA==",
+      "alt": "Instagram",
+      "icon" : "instagram"
+    },
+    {
+      "url": "https://www.facebook.com/profile.php?id=100089782863897&mibextid=ZbWKwL",
+      "alt": "Facebook",
+      "icon" : "facebook"
+    },
+    {
+      "url": "https://youtube.com/@karmayogibharat?feature=shared",
+      "alt": "Youtube",
+      "icon" : "youtube"
+    },
+    {
+      "url": "https://open.spotify.com/user/31cr3bizg7gpg5vytxl4bzyhw43a?si=5up31eyNSl-Y4Svr_Kfr7g&utm_source=copy-link&utm_medium=copy-link&nd=1&_branch_match_id=1242771130436995949&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1g%2BqyEsqywiKyHdJAgBCVoQFIAAAAA%3D%3D",
+      "alt": "Spotify",
+      "icon" : "spotify"
+    }
+  
+  ],
+  "footerSectionConfig": [
+    {
+      "id":1,
+      "order":1,
+      "sectionHeading": "Hubs",
+      "active": true,
+      "slug": "hub"
+    },
+    {
+      "id":2,
+      "order":2,
+      "sectionHeading": "Related Links",
+      "active": true,
+      "slug": "link"
+    },
+    {
+      "id":3,
+      "order":3,
+      "sectionHeading": "Support",
+      "active": true,
+      "slug": "support"
+    },
+    {
+      "id":4,
+      "order":4,
+      "sectionHeading": "About us",
+      "active": true,
+      "slug": "about"
+    }
+  ],
+  "topRightNavConfig": [
+    {
+      "id":1,
+      "section":"download",
+      "active": true
+    },
+    {
+      "id":2,
+      "section":"font-setting",
+      "active": true
+    },
+    {
+      "id":3,
+      "section":"help",
+      "active": true
+    },
+    {
+      "id":4,
+      "section":"profile",
+      "active": true
+    }
+  ],
+  "homeConfig": {
+    "insightOnRight": {
+      "active" : false
+    },
+    "leftSection" : {
+      "active":  true
+    },
+    "rightSection": {
+      "active":  true
+    }
+  }
 }

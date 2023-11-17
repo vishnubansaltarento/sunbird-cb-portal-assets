@@ -884,8 +884,8 @@
       "logo": "school",
       "title": "My Learning",
       "stripTitleLink": {
-        "link": "/page/learn",
-        "icon": "navigate_next"
+        "link": "",
+        "icon": ""
       },
       "loader": true,
       "loaderConfig": {
@@ -960,23 +960,9 @@
         "viewMoreText": "Show all",
         "queryParams": {}
       },
-      "noDataWidget": {
-        "widgetData": {
-          "errorType": "contentUnavailable"
-        },
-        "widgetSubType": "errorResolver",
-        "widgetType": "errorResolver"
-      },
       "loader": true,
       "loaderConfig": {
         "cardSubType": "card-standard-skeleton"
-      },
-      "errorWidget": {
-        "widgetData": {
-          "errorType": "contentUnavailable"
-        },
-        "widgetSubType": "errorResolver",
-        "widgetType": "errorResolver"
       },
       "tabs": [
         {
@@ -996,7 +982,7 @@
                     ],
                     "organisation": "<orgID>"
                   },
-                  "limit": 15
+                  "limit": 12
               }
             }
           }
@@ -1018,7 +1004,7 @@
                     ],
                     "organisation": "<orgID>"
                   },
-                  "limit": 15
+                  "limit": 12
               }
             }
           }
@@ -1035,7 +1021,7 @@
                   ],
                   "organisation": "across"
               },
-              "limit": 15
+              "limit": 12
           }
         }
       }
@@ -1082,7 +1068,7 @@
               "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
             },
             "offset": 0,
-            "limit": 20,
+            "limit": 12,
             "query": "",
             "sort_by": {
               "lastUpdatedOn": "desc"
@@ -1142,23 +1128,9 @@
         "viewMoreText": "Show all",
         "queryParams": {}
       },
-      "noDataWidget": {
-        "widgetData": {
-          "errorType": "contentUnavailable"
-        },
-        "widgetSubType": "errorResolver",
-        "widgetType": "errorResolver"
-      },
       "loader": true,
       "loaderConfig": {
         "cardSubType": "card-standard-skeleton"
-      },
-      "errorWidget": {
-        "widgetData": {
-          "errorType": "internalServer"
-        },
-        "widgetSubType": "errorResolver",
-        "widgetType": "errorResolver"
       },
       "tabs": [
         {
@@ -1178,7 +1150,7 @@
                     ],
                     "organisation": "across"
                   },
-                  "limit": 15
+                  "limit": 12
               }
             }
           }
@@ -1200,7 +1172,7 @@
                     ],
                     "organisation": "across"
                   },
-                  "limit": 15
+                  "limit": 12
               }
             }
           }
@@ -1217,7 +1189,7 @@
                   ],
                   "organisation": "across"
               },
-              "limit": 15
+              "limit": 12
           }
         }
       }
@@ -1262,7 +1234,7 @@
               "duration":{"<=":"1800000"}
             },
             "offset": 0,
-            "limit": 15,
+            "limit": 12,
             "query": "",
             "sort_by": {
               "lastUpdatedOn": "desc"
@@ -1337,7 +1309,7 @@
                   ],
                   "organisation": "across"
               },
-              "limit": 15
+              "limit": 12
           },
           "responseKey": "certifications"
         }

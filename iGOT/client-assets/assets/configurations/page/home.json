@@ -884,8 +884,8 @@
       "logo": "school",
       "title": "My Learning",
       "stripTitleLink": {
-        "link": "/page/learn",
-        "icon": "navigate_next"
+        "link": "",
+        "icon": ""
       },
       "loader": true,
       "loaderConfig": {

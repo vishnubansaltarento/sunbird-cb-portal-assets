@@ -10,57 +10,13 @@
         "color": "#333"
       }
     },
-    "xsmallNonMenuLinks": [
-      {
-        "widgetType": "actionButton",
-        "widgetSubType": "buttonFeature",
-        "widgetData": {
-          "toolTop": "Search",
-          "actionBtnId": "feature_search",
-          "config": {
-            "type": "mat-icon-button"
-          }
-        }
-      },
-      {
-        "widgetType": "actionButton",
-        "widgetSubType": "buttonFeature",
-        "widgetData": {
-          "toolTop": "feature_notification",
-          "actionBtnId": "feature_notification",
-          "config": {
-            "type": "mat-icon-button"
-          }
-        }
-      }
-    ],
     "links": []
   },
   "pageLayout": {
     "widgetSubType": "gridLayout",
     "widgetType": "layout",
     "widgetData": {
-      "widgets": [
-        [
-          {
-            "dimensions": {},
-            "className": "",
-            "widget": {
-              "widgetType": "actionButton",
-              "widgetSubType": "actionButtonPageBack",
-              "widgetData": {
-                "url": "home",
-                "titles": [
-                  {
-                    "url": "/page/learn",
-                    "title": "Learn",
-                    "icon": "school"
-                  }
-                ]
-              }
-            }
-          }
-        ],
+      "widgets": [        
         [
           {
             "dimensions": {},

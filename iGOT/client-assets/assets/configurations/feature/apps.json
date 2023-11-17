@@ -280,23 +280,7 @@
       "shortName": "Author",
       "url": "/author/home"
     },
-    "feature_frac": {
-      "accessKey": "A",
-      "icon": "/assets/icons/FRAC_dictionaries.svg",
-      "iconType": "mat-icon",
-      "id": "feature_frac",
-      "keywords": [
-        "frac"
-      ],
-      "isExternal": "true",
-      "name": "FRAC dictionary",
-      "permission": [],
-      "show": true,
-      "status": "live",
-      "toolTip": "Frac",
-      "shortName": "Frac",
-      "url": "https://frac-dictionary.igot-dev.in/"
-    },
+   
     "feature_cbp": {
       "accessKey": "",
       "icon": "/assets/icons/CBP_portal.svg",
@@ -308,6 +292,7 @@
       ],
       "isExternal": "true",
       "name": "CBP Portal",
+      "subtitle": "Create and manage CBPs here.",
       "permission": [
         "editor",
         "admin",
@@ -332,6 +317,7 @@
       ],
       "isExternal": "true",
       "name": "CBC Portal",
+      "subtitle": "",
       "permission": [
         "cbc_admin",
         "CBC_ADMIN",
@@ -354,6 +340,7 @@
       ],
       "isExternal": "true",
       "name": "MDO Portal",
+      "subtitle": "Manage MDO user access, work orders and events.",
       "permission": [
         "admin",
         "mdo_admin",
@@ -377,6 +364,7 @@
       ],
       "isExternal": "true",
       "name": "SPV Portal",
+      "subtitle": "",
       "permission": [
         "superAdmin",
         "spv_admin",

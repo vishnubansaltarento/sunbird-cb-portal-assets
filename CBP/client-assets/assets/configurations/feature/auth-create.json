@@ -221,7 +221,7 @@
     "possion": 1,
     "primaryCategory": "Course",
     "details": {
-      "title": "Welcome to content curation.",
+      "title": "Welcome to curation of content.",
       "createTitle": "Course information",
       "subTitle": "A few key suggestions for creating a robust course for your learners,",
       "points": [
@@ -259,7 +259,7 @@
     "possion": 2,
     "targettedCourse": true,
     "details": {
-      "title": "Welcome to content curation.",
+      "title": "Welcome to curation of content.",
       "createTitle": "Course information",
       "subTitle": "A few key suggestions for creating a robust course for your learners,",
       "moderatedCourseTitle": "Moderated course access",
@@ -298,7 +298,7 @@
     "primaryCategory": "Program",
     "possion": 1,
     "details": {
-      "title": "Welcome to program curation",
+      "title": "Welcome to curation of program.",
       "createTitle": "Program",
       "subTitle": "Create a collection of Courses.",
       "points": []
@@ -320,7 +320,7 @@
     "primaryCategory": "Curated Program",
     "possion": 2,
     "details": {
-      "title": "Welcome to curated program curation.",
+      "title": "Welcome to curation of curated program.",
       "createTitle": "Curated program details",
       "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner. Users will earn certificates at both the individual course and program levels, with their progress continuously monitored throughout the system.",
       "points": []
@@ -367,7 +367,7 @@
     ],
     "primaryCategory": "Course Assessment",
     "details": {
-      "title": "Welcome to final assessment",
+      "title": "Welcome to curation of final assessment",
       "createTitle": "Final Assessment",
       "subTitle": "Create a final assesment content",
       "points": []
@@ -388,7 +388,7 @@
     ],
     "primaryCategory": "Practice Question Set",
     "details": {
-      "title": "Welcome to practice question set",
+      "title": "Welcome to curation of practice question set",
       "createTitle": "Pratice Assessment",
       "subTitle": "Create a pratice assesment content",
       "points": []
@@ -410,7 +410,7 @@
     "primaryCategory": "Standalone Assessment",
     "possion": 3,
     "details": {
-      "title": "Welcome to standalone assessment curation",
+      "title": "Welcome to curation of standalone assessment.",
       "createTitle": "Standalone Assessment",
       "subTitle": "Create a standalone assessment.",
       "points": []
@@ -432,7 +432,7 @@
     "primaryCategory": "Blended Program",
     "possion": 3,
     "details": {
-      "title": "Welcome to blended program curation",
+      "title": "Welcome to curation of blended program.",
       "createTitle": "Blended Program",
       "subTitle": "Create a collection of online and offline resources.",
       "points": []

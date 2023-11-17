@@ -882,6 +882,9 @@
         "icon": "navigate_next"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-portrait-skeleton"
+      },
       "sliderConfig": {
         "showNavs" : false,
         "showDots": false,
@@ -890,7 +893,7 @@
       "stripBackground": "",
       "titleDescription": "My Learning",
       "stripConfig": {
-        "cardSubType": "standard"
+        "cardSubType": "card-portrait"
       },
       "viewMoreUrl": {
         "path": "/page/learn",
@@ -959,9 +962,12 @@
         "widgetType": "errorResolver"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "errorWidget": {
         "widgetData": {
-          "errorType": "internalServer"
+          "errorType": "contentUnavailable"
         },
         "widgetSubType": "errorResolver",
         "widgetType": "errorResolver"
@@ -1042,6 +1048,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Blended Program",
       "stripConfig": {
@@ -1135,6 +1144,9 @@
         "widgetType": "errorResolver"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "errorWidget": {
         "widgetData": {
           "errorType": "internalServer"
@@ -1218,6 +1230,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Learning under 30 min",
       "stripConfig": {
@@ -1292,6 +1307,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-portrait-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Certifications of the week",
       "stripConfig": {

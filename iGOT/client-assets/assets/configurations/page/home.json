@@ -1313,13 +1313,13 @@
         "maxWidgets": 12
       },
       "loader": true,
-      "loaderConfig": {
-        "cardSubType": "card-portrait-skeleton"
-      },
       "stripBackground": "",
       "titleDescription": "Certifications of the week",
       "stripConfig": {
         "cardSubType": "card-wide"
+      },
+      "loaderConfig": {
+        "cardSubType": "card-wide-skelton"
       },
       "viewMoreUrl": {
         "path": "/page/learn",

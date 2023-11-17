@@ -780,32 +780,38 @@
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",
       "alt": "Linkedin",
-      "icon" : "linkedin"
+      "icon" : "linkedin",
+      "active": true
     },
     {
       "url": "https://x.com/iGOTKarmayogi?t=OUEVuskmXbrTNdPuIBaHuw&s=09",
       "alt": "Twitter",
-      "icon" : "Combined Shape"
+      "icon" : "Combined Shape",
+      "active": true
     },
     {
       "url": "https://instagram.com/karmayogibharat?igshid=MzRlODBiNWFlZA==",
       "alt": "Instagram",
-      "icon" : "instagram"
+      "icon" : "instagram",
+      "active": true
     },
     {
       "url": "https://www.facebook.com/profile.php?id=100089782863897&mibextid=ZbWKwL",
       "alt": "Facebook",
-      "icon" : "facebook"
+      "icon" : "facebook",
+      "active": true
     },
     {
       "url": "https://youtube.com/@karmayogibharat?feature=shared",
       "alt": "Youtube",
-      "icon" : "youtube"
+      "icon" : "youtube",
+      "active": true
     },
     {
       "url": "https://open.spotify.com/user/31cr3bizg7gpg5vytxl4bzyhw43a?si=5up31eyNSl-Y4Svr_Kfr7g&utm_source=copy-link&utm_medium=copy-link&nd=1&_branch_match_id=1242771130436995949&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1g%2BqyEsqywiKyHdJAgBCVoQFIAAAAA%3D%3D",
       "alt": "Spotify",
-      "icon" : "spotify"
+      "icon" : "spotify",
+      "active": true
     }
   
   ],
@@ -882,6 +888,9 @@
         "icon": "navigate_next"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-portrait-skeleton"
+      },
       "sliderConfig": {
         "showNavs" : false,
         "showDots": false,
@@ -890,7 +899,7 @@
       "stripBackground": "",
       "titleDescription": "My Learning",
       "stripConfig": {
-        "cardSubType": "standard"
+        "cardSubType": "card-portrait"
       },
       "viewMoreUrl": {
         "path": "/page/learn",
@@ -959,9 +968,12 @@
         "widgetType": "errorResolver"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "errorWidget": {
         "widgetData": {
-          "errorType": "internalServer"
+          "errorType": "contentUnavailable"
         },
         "widgetSubType": "errorResolver",
         "widgetType": "errorResolver"
@@ -1042,6 +1054,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Blended Program",
       "stripConfig": {
@@ -1135,6 +1150,9 @@
         "widgetType": "errorResolver"
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "errorWidget": {
         "widgetData": {
           "errorType": "internalServer"
@@ -1218,6 +1236,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-standard-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Learning under 30 min",
       "stripConfig": {
@@ -1292,6 +1313,9 @@
         "maxWidgets": 12
       },
       "loader": true,
+      "loaderConfig": {
+        "cardSubType": "card-portrait-skeleton"
+      },
       "stripBackground": "",
       "titleDescription": "Certifications of the week",
       "stripConfig": {

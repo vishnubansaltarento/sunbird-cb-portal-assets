@@ -776,6 +776,35 @@
         "value": 0 
     }
   ],
+  "weeklyClaps": {
+    "enableClaps": true,
+    "weekList": [
+      {
+      "label":"W1",
+      "enable": true,
+      "key": "w1",
+      "activeWeek": false
+      },
+      {
+        "label":"W2",
+        "enable": true,
+        "key": "w2",
+        "activeWeek": false
+      },
+      {
+        "label":"W3",
+        "enable": true,
+        "key": "w3",
+        "activeWeek": false
+      },
+      {
+        "label":"W4",
+        "enable": true,
+        "key": "w4",
+        "activeWeek": true
+      }
+  ]
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",

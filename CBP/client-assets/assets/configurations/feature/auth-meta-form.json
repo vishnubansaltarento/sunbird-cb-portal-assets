@@ -6581,15 +6581,14 @@
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
-      "Standalone Assessment": []
-    },
-    "showFor": {
+      "Standalone Assessment": [],
       "CourseUnit": [],
       "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": []
     },
+    "showFor": {},
     "type": "string"
   },
   "wfApprovalType": {

@@ -44,26 +44,6 @@
         [
           {
             "dimensions": {},
-            "className": "",
-            "widget": {
-              "widgetType": "actionButton",
-              "widgetSubType": "actionButtonPageBack",
-              "widgetData": {
-                "url": "home",
-                "titles": [
-                  {
-                    "url": "/app/network-v2",
-                    "title": "Network",
-                    "icon": "group"
-                  }
-                ]
-              }
-            }
-          }
-        ],
-        [
-          {
-            "dimensions": {},
             "className": "new-box margin-top-s",
             "widget": {
               "widgetType": "slider",

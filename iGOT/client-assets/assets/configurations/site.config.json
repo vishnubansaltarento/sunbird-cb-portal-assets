@@ -253,7 +253,7 @@
       "left": [],
       "right": [
         {
-          "type": "featureButton",
+          "type": "downloadButton",
           "config": {
             "actionBtnId": "feature_home",
             "toolTip": "Home",
@@ -266,7 +266,20 @@
           }
         },
         {
-          "type": "featureButton",
+          "type": "fontButton",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "My Dashboard",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_mydashboard",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
+          "type": "helpButton",
           "config": {
             "actionBtnId": "feature_mydashboard",
             "toolTip": "My Dashboard",
@@ -286,7 +299,8 @@
             "widgetData": {
               "disableViewProfile": true,
               "disableAllFeatures": true,
-              "disableSettings": true
+              "disableSettings": true,
+              "removeClass": true
             },
             "hideTitle": true
           }
@@ -324,6 +338,41 @@
             }
           }
         }
+      ],
+      "all": [
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "home",
+            "path": "/page/home",
+            "label": "home"
+          }
+        },
+        {
+          "type": "explorerButton",
+          "config": {
+            "icon": "explorer",
+            "path": "/page/explore",
+            "label": "explorer"
+          }
+        },
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "search",
+            "path": "/app/globalsearch",
+            "label": "search"
+          }
+        },
+        {
+          "type": "iconButton",
+          "config": {
+            "icon": "learn",
+            "path": "/app/my-learning",
+            "label": "my learnings"
+          }
+        }
+
       ]
     },
     "secondary": {
@@ -369,7 +418,8 @@
       "accessKey": "L",
       "permission": [
         "Admin"
-      ]
+      ],
+      "order": 1
     },
     {
       "path": "/app/discuss/home",
@@ -378,7 +428,8 @@
       "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
-      "permission": []
+      "permission": [],
+      "order": 2
     },
     {
       "path": "/app/network-v2",
@@ -387,7 +438,9 @@
       "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
-      "permission": []
+      "permission": [],
+      "order": 3
+
     },
     {
       "path": "/app/careers/home",
@@ -396,7 +449,8 @@
       "desc": "Explore career options, grow in the path of your choice.",
       "icon": "work",
       "accessKey": "C",
-      "permission": []
+      "permission": [],
+      "order": 4
     },
     {
       "path": "/app/competencies",
@@ -405,7 +459,8 @@
       "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
-      "permission": []
+      "permission": [],
+      "order": 5
     },
     {
       "path": "/app/event-hub",
@@ -414,7 +469,8 @@
       "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",
-      "permission": []
+      "permission": [],
+      "order": 6
     }
   ],
   "featuredApps": [],

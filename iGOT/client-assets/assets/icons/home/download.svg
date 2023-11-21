@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/content/edit-24px</title>
+    <defs>
+        <polygon id="path-1" points="6 12 7.0575 13.0575 11.25 8.8725 11.25 18 12.75 18 12.75 8.8725 16.935 13.065 18 12 12 6"></polygon>
+    </defs>
+    <g id="UI-Elements-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Elements" transform="translate(-777, -100)">
+            <g id="Icons/content/edit-24px" transform="translate(777, 100)">
+                <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1" transform="translate(12, 12) rotate(-180) translate(-12, -12)"></use>
+                </mask>
+                <use id="icon/navigation/arrow_upward_24px" fill="#FFFFFF" transform="translate(12, 12) rotate(-180) translate(-12, -12)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -923,7 +923,7 @@
       "sliderConfig": {
         "showNavs" : true,
         "showDots": true,
-        "maxWidgets": 10
+        "maxWidgets": 2
       },
       "stripBackground": "",
       "titleDescription": "My Learning",
@@ -942,7 +942,7 @@
           "computeDataOnClick": false,
           "showTabDataCount": true,
           "requestRequired": false,
-          "maxWidgets": 10
+          "maxWidgets": 2
         },
         {
           "label": "Completed",
@@ -950,7 +950,7 @@
           "computeDataOnClick": false,
           "showTabDataCount": true,
           "requestRequired": false,
-          "maxWidgets": 10
+          "maxWidgets": 2
         }
       ],
       "filters": [],
@@ -1317,10 +1317,10 @@
       "stripBackground": "",
       "titleDescription": "Certifications of the week",
       "stripConfig": {
-        "cardSubType": "card-wide"
+        "cardSubType": "card-wide-v2"
       },
       "loaderConfig": {
-        "cardSubType": "card-wide-skelton"
+        "cardSubType": "card-wide-v2-skelton"
       },
       "viewMoreUrl": {
         "path": "/page/learn",

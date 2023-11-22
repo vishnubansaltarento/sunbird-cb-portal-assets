@@ -144,6 +144,22 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
+                },
+                {
+                    "name": "Events",
+                    "key": "Events",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/events",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
         }

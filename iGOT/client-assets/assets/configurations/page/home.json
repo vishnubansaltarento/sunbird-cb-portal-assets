@@ -745,40 +745,43 @@
       ]
     }
   },
-
-  "profileStats":[
-    {
-        "icon":"/assets/icons/home/inProgress.svg",
-        "label":"In progress",
-        "enable": true,
-        "key": "inProgress",
-        "value": 0 
-    },
-    {
-        "icon":"/assets/icons/home/certificate.svg",
-        "label":"Certificate",
-        "enable": true,
-        "key": "certificate",
-        "value": 0 
-    },
-    {
-        "icon":"/assets/icons/home/time.svg",
-        "label":"Learning hours",
-        "enable": true,
-        "key": "learningHours",
-        "value": 0 
-    },
-    {
-        "icon":"/assets/icons/home/inProgress.svg",
-        "label":"In progress",
-        "enable": false,
-        "key": "inProgress",
-        "value": 0 
-    }
-  ],
+  "profileCard":{
+    "enableCard": true,
+    "displayOnlyStats": false,
+    "profileStats": [
+      {
+          "icon":"/assets/icons/home/video-play.svg",
+          "label":"In progress",
+          "enable": true,
+          "key": "inProgress",
+          "value": 0 
+      },
+      {
+          "icon":"/assets/icons/home/certificate.svg",
+          "label":"Certificate",
+          "enable": true,
+          "key": "certificate",
+          "value": 0 
+      },
+      {
+          "icon":"/assets/icons/home/time.svg",
+          "label":"Learning hours",
+          "enable": true,
+          "key": "learningHours",
+          "value": 0 
+      },
+      {
+          "icon":"/assets/icons/home/inProgress.svg",
+          "label":"In progress",
+          "enable": false,
+          "key": "inProgress",
+          "value": 0 
+      }
+    ]
+  },
   "weeklyClaps": {
-    "enableClaps": true,
-    "weekList": [
+      "enableCard": true,
+      "weekList": [
       {
       "label":"W1",
       "enable": true,
@@ -786,22 +789,22 @@
       "activeWeek": false
       },
       {
-        "label":"W2",
-        "enable": true,
-        "key": "w2",
-        "activeWeek": false
+          "label":"W2",
+          "enable": true,
+          "key": "w2",
+          "activeWeek": false
       },
       {
-        "label":"W3",
-        "enable": true,
-        "key": "w3",
-        "activeWeek": false
+          "label":"W3",
+          "enable": true,
+          "key": "w3",
+          "activeWeek": false
       },
       {
-        "label":"W4",
-        "enable": true,
-        "key": "w4",
-        "activeWeek": true
+          "label":"W4",
+          "enable": true,
+          "key": "w4",
+          "activeWeek": true
       }
   ]
   },
@@ -921,8 +924,8 @@
         "cardSubType": "card-portrait-skeleton"
       },
       "sliderConfig": {
-        "showNavs" : true,
-        "showDots": true,
+        "showNavs" : false,
+        "showDots": false,
         "maxWidgets": 2
       },
       "stripBackground": "",

@@ -777,7 +777,37 @@
           "key": "inProgress",
           "value": 0 
       }
-    ]
+    ],
+    "weeklyClaps": {
+      "enableCard": true,
+      "displayOnlyHeader": true,
+      "weekList": [
+      {
+      "label":"W1",
+      "enable": true,
+      "key": "w1",
+      "activeWeek": false
+      },
+      {
+          "label":"W2",
+          "enable": true,
+          "key": "w2",
+          "activeWeek": false
+      },
+      {
+          "label":"W3",
+          "enable": true,
+          "key": "w3",
+          "activeWeek": false
+      },
+      {
+          "label":"W4",
+          "enable": true,
+          "key": "w4",
+          "activeWeek": true
+      }
+  ]
+    }
   },
   "weeklyClaps": {
       "enableCard": true,

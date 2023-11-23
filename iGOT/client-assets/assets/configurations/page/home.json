@@ -936,7 +936,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "continueLearning"
+        }
       },
       "tabs": [
         {
@@ -990,7 +992,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "continueLearning"
+        }
       },
       "loader": true,
       "loaderConfig": {
@@ -1083,7 +1087,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "blendedPrograms"
+        }
       },
       "tabs": [],
       "filters": [],
@@ -1158,7 +1164,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "trendingAcrossDepartment"
+        }
       },
       "loader": true,
       "loaderConfig": {
@@ -1251,7 +1259,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "learnUnder30Min"
+        }
       },
       "tabs": [],
       "filters": [],
@@ -1328,7 +1338,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "certificationsOfWeek"
+        }
       },
       "tabs": [],
       "filters": [],

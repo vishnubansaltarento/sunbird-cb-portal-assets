@@ -966,7 +966,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "continueLearning"
+        }
       },
       "tabs": [
         {
@@ -993,7 +995,7 @@
           "queryParams": {
             "orgdetails": "orgName,email",
             "licenseDetails": "name,description,url",
-            "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration",
+            "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating",
             "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
           }
         }
@@ -1020,7 +1022,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "continueLearning"
+        }
       },
       "loader": true,
       "loaderConfig": {
@@ -1113,7 +1117,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "blendedPrograms"
+        }
       },
       "tabs": [],
       "filters": [],
@@ -1161,7 +1167,8 @@
               "creatorLogo",
               "duration",
               "version",
-              "programDuration"
+              "programDuration",
+              "avgRating"
             ]
           }
         }
@@ -1188,7 +1195,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "trendingAcrossDepartment"
+        }
       },
       "loader": true,
       "loaderConfig": {
@@ -1281,7 +1290,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "learnUnder30Min"
+        }
       },
       "tabs": [],
       "filters": [],
@@ -1327,7 +1338,8 @@
               "creatorLogo",
               "duration",
               "version",
-              "programDuration"
+              "programDuration",
+              "avgRating"
             ]
           }
         }
@@ -1358,7 +1370,9 @@
       "viewMoreUrl": {
         "path": "/page/learn",
         "viewMoreText": "Show all",
-        "queryParams": {}
+        "queryParams": {
+          "key": "certificationsOfWeek"
+        }
       },
       "tabs": [],
       "filters": [],

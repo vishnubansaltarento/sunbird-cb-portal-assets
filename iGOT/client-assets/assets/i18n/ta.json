@@ -1,6 +1,6 @@
 {
     "common": {
-        "hubs": "Hubs",
+        "hubs": "மையங்கள்",
         "learn": "Learn",
         "discuss": "Discuss",
         "network": "Network",
@@ -11,7 +11,7 @@
     },
     "header": {
         "search_for_learning_contents": "Search for learning contents",
-        "download_app": "Download App"
+        "download_app": "பயன்பாட்டைப் பதிவிறக்கவும்"
     },
     "footer": {}
 }

@@ -894,6 +894,11 @@
       "id":4,
       "section":"profile",
       "active": true
+    },
+    {
+      "id":5,
+      "section":"language",
+      "active": true
     }
   ],
   "homeConfig": {

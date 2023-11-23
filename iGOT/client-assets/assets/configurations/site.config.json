@@ -279,6 +279,19 @@
           }
         },
         {
+          "type": "langSelect",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "Language",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_mydashboard",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "helpButton",
           "config": {
             "actionBtnId": "feature_mydashboard",

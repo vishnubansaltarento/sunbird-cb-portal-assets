@@ -938,6 +938,24 @@
     },
     "rightSection": {
       "active":  true
+    },
+    "discussHub": {
+      "active": true,
+      "updatePosts": {
+        "active": true
+      },
+      "trendingDiscussions": {
+        "active": true
+      }
+    },
+    "networkHub": {
+      "active": true,
+      "recentRequests": {
+        "active": true
+      },
+      "networkSuggestions": {
+        "active": true
+      }
     }
   },
   "strips": [

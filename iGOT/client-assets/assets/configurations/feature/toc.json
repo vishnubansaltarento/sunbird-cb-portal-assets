@@ -154,6 +154,7 @@
   "BatchEnrollRemoveMsg": "Your enrollment request for the selected batch has been removed.",
   "BatchEnrollSupportMsg": "For help, write to us at ",
   "BatchEnrollWithdrawMsg": "Your request to withdraw from this blended program has been successfully processed.",
+  "BatchListExpiredMsg": "You can't enroll into this blended program.",
   "attendenceHelp": {
     "title": "Follow these 4 simple steps to successfully mark your attendance.",
     "steps": [

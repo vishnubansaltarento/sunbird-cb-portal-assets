@@ -1,17 +1,20 @@
 {
     "common": {
-        "hubs": "Hubs",
-        "learn": "Learn",
-        "discuss": "Discuss",
-        "network": "Network",
-        "career": "Career",
+        "Hubs": "Hubs",
+        "Learn": "Learn",
+        "Discuss": "Discuss",
+        "Network": "Network",
+        "Career": "Career",
         "competencies": "Competencies",
-        "events": "Events",
+        "Events": "Events",
         "see_all": "See all"
     },
     "header": {
         "search_for_learning_contents": "Search for learning contents",
         "download_app": "Download App"
     },
-    "footer": {}
+    "footer": {},
+    "learn": {
+        "card_explorebycategogry": "Explore by competency"
+    }
 }

@@ -1,12 +1,12 @@
 {
     "common": {
-        "hubs": "மையங்கள்",
-        "learn": "Learn",
-        "discuss": "Discuss",
-        "network": "Network",
-        "career": "Career",
+        "Hubs": "மையங்கள்",
+        "Learn": "Learn",
+        "Discuss": "Discuss",
+        "Network": "Network",
+        "Career": "Career",
         "competencies": "Competencies",
-        "events": "Events",
+        "Events": "Events",
         "see_all": "See all"
     },
     "header": {

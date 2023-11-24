@@ -1,13 +1,13 @@
 {
     "common": {
-        "hubs": "केन्द्रों",
-        "learn": "Learn",
-        "discuss": "Discuss",
-        "network": "Network",
-        "career": "Career",
-        "competencies": "Competencies",
-        "events": "Events",
-        "see_all": "See all"
+        "Hubs": "केन्द्रों",
+        "Learn": "सीखना",
+        "Discuss": "चर्चा करना",
+        "Network": "नेटवर्क",
+        "Career": "आजीविका",
+        "Competencies": "दक्षताओं",
+        "Events": "आयोजन",
+        "see_all": "सभी देखें"
     },
     "header": {
         "search_for_learning_contents": "Search for learning content",

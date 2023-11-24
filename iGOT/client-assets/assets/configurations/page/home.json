@@ -1021,7 +1021,7 @@
           "cardSubType": "card-portrait"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
@@ -1081,7 +1081,7 @@
           "cardSubType": "standard"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
@@ -1181,7 +1181,7 @@
           "cardSubType": "standard"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "blendedPrograms"
@@ -1264,7 +1264,7 @@
           "cardSubType": "standard"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "trendingAcrossDepartment"
@@ -1364,7 +1364,7 @@
           "cardSubType": "standard"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "learnUnder30Min"
@@ -1449,7 +1449,7 @@
           "cardSubType": "card-wide-v2-skelton"
         },
         "viewMoreUrl": {
-          "path": "/page/learn",
+          "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "certificationsOfWeek"

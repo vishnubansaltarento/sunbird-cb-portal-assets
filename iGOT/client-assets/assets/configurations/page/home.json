@@ -959,8 +959,10 @@
     }
   },
   "homeStrips":  [{
+    "order":1,
     "strips": [
-      {
+      {        
+        "active": true,
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
@@ -1019,11 +1021,12 @@
             }
           }
         }
-      }
-      
+      }      
     ]},{
+    "order":2,
     "strips": [
-      {
+      {        
+        "active": true,
         "key": "trendingInDepartment",
         "logo": "school",
         "title": "Trending in your department",
@@ -1116,8 +1119,10 @@
       }
       
     ]},{
+    "order":3,
     "strips": [
-      {
+      {        
+        "active": true,
         "key": "blendedPrograms",
         "logo": "school",
         "title": "Blended Program",
@@ -1201,8 +1206,10 @@
       }
      
     ]},{
+      "order":4,
     "strips": [
       {
+        "active": true,
         "key": "trendingAcrossDepartment",
         "logo": "school",
         "title": "Trending across department",
@@ -1295,8 +1302,10 @@
       }
       
     ]},{
+      "order":5,
     "strips": [
-      {
+      {        
+        "active": true,
         "key": "learnUnder30Min",
         "logo": "school",
         "title": "Learning under 30 min",
@@ -1378,8 +1387,10 @@
       }
       
     ]},{
+      "order":6,
     "strips": [
       {
+        "active": true,
         "key": "certificationsOfWeek",
         "logo": "school",
         "title": "Certifications of the week",
@@ -1539,6 +1550,7 @@
   },
   "sliderData": [
     {
+      "active": true,
       "banners": {
         "l": "assets/instances/eagle/banners/orgs/new-banner/l.png",
         "m": "assets/instances/eagle/banners/orgs/new-banner/m.png",

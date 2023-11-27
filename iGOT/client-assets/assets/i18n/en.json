@@ -1,20 +1,51 @@
 {
     "common": {
+        "Karmayogi_bharat": "Karmayogi Bharat",
         "Hubs": "Hubs",
         "Learn": "Learn",
         "Discuss": "Discuss",
         "Network": "Network",
         "Career": "Career",
-        "competencies": "Competencies",
+        "Competencies": "Competencies",
         "Events": "Events",
-        "see_all": "See all"
+        "see_all": "See all",
+        "MDOPortal": "MDO Portal",
+        "CBPPortal": "CBP Portal",
+        "SPVPortal": "SPV Portal"
+    },
+    "msg": {
+
     },
     "header": {
         "search_for_learning_contents": "Search for learning contents",
         "download_app": "Download App"
     },
-    "footer": {},
+    "footer": {
+        "Hubs": "Hubs",
+        "RelatedLinks": "Related Links",
+        "Support": "Support",
+        "Aboutus": "About us",
+        "frequently_asked_questions": "Frequently asked questions",
+        "contact_us": "Contact Us"
+    },
     "learn": {
-        "card_explorebycategogry": "Explore by competency"
+        "btnExplorebycompetency": "Explore by competency",
+        "btnExplorebyprovider": "Explore by provider",
+        "btnCuratedcollections": "Curated collections"
+    },
+    "network": {
+
+    },
+    "event": {
+
+    },
+    "career": {
+
+    },
+    "competencies": {
+
+    },
+    "discuss": {
+
     }
 }

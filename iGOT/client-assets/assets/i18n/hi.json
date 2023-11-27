@@ -1,5 +1,6 @@
 {
     "common": {
+        "Karmayogi_bharat": "कर्मयोगी भारत",
         "Hubs": "केन्द्रों",
         "Learn": "सीखना",
         "Discuss": "चर्चा करना",
@@ -7,11 +8,44 @@
         "Career": "आजीविका",
         "Competencies": "दक्षताओं",
         "Events": "आयोजन",
-        "see_all": "सभी देखें"
+        "see_all": "सभी देखें",
+        "MDOPortal": "MDO Portal",
+        "CBPPortal": "CBP Portal",
+        "SPVPortal": "SPV Portal"
+    },
+    "msg": {
+
     },
     "header": {
         "search_for_learning_contents": "Search for learning content",
         "download_app": "ऐप डाउनलोड करें"
     },
-    "footer": {}
+    "footer": {
+        "Hubs": "केन्द्रों",
+        "RelatedLinks": "सम्बंधित लिंक्स",
+        "Support": "सहायता",
+        "Aboutus": "हमारे बारे में",
+        "frequently_asked_questions": "अक्सर पूछे जाने वाले प्रश्नों",
+        "contact_us": "संपर्क करें"
+    },
+    "learn": {
+        "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",
+        "btnExplorebyprovider": "प्रदाता द्वारा अन्वेषण करें",
+        "btnCuratedcollections": "चुनिंदा संग्रह"
+    },
+    "network": {
+
+    },
+    "event": {
+
+    },
+    "career": {
+
+    },
+    "competencies": {
+
+    },
+    "discuss": {
+
+    }
 }

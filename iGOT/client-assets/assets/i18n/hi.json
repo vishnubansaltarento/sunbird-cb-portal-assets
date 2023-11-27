@@ -14,7 +14,25 @@
         "SPVPortal": "SPV Portal"
     },
     "msg": {
-
+        "No_event" : "No Event",
+        "All" : "All",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful",
+        "no_search_res_found":"कोई खोज परिणाम नहीं मिला!",
+        "no_usr_found" : "कोई उपयोग्कर्ता नहीं मिले!",
+        "show_all":"सब दिखाएं",
+        "people_you_may_know":"जिन लोगों को आप जानते हों",
+        "see_more":"और देखें",
+        "lastAdded":"अंतिम बार जोड़ा गया",
+        "sortByName" : "नाम द्वारा क्रमबद्ध करें",
+        "connections":"सम्बन्ध",
+        "connection":"सम्बन्ध",
+        "no_conn_found":"कोई कनेक्शन नहीं मिला!",
+        "search_result":"Search Results !",
+        "moRecommUser" : "No recommended users!",
+        "no_opn_found" : "No Opening found",
+        "search":"Search"
     },
     "header": {
         "search_for_learning_contents": "Search for learning content",
@@ -34,13 +52,29 @@
         "btnCuratedcollections": "चुनिंदा संग्रह"
     },
     "network": {
-
+        "tabNetworkHome": "नेटवर्क होम",
+        "searchUser": "उपयोगकर्ता खोजें",
+        "tabYourConnections": "आपके कनेक्शन",
+        "no_connection_requests":" कोई कनेक्शन अनुरोध नहीं!",
+        "tabConnectionRequests": "कनेक्शन अनुरोध",
+        "tabConnectionRequest": "कनेक्शन अनुरोध",
+        "tabUsersFromMDO":"एमडीओ से उपयोगकर्ता",
+        "tabFromYourMdo": "आपके एमडीओ से",
+        "tabRecommendedConnections": "अनुशंसित कनेक्शन",
+        "btnSeeMore" : "और देखें"
     },
     "event": {
-
+        "labelTodayEvent" : "आज की घटनाएँ",
+        "No_event" : "कोई घटना नहीं",
+        "labelAll_events" : "सभी कार्यक्रम",
+        "All" : "सभी"
     },
     "career": {
-
+        "labelAllOpenings" : "सभी उद्घाटन",
+        "tabRecent" : "हाल ही का",
+        "tabMostViewed" : "सबसे ज्यादा देखा गया",
+        "labelPersonalizedExpTxt":"वैयक्तिकृत सीखने के अनुभव के लिए",
+        "btnSelectInterest" : "अपने हितों का चयन करें"
     },
     "competencies": {
 

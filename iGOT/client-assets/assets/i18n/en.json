@@ -22,7 +22,21 @@
         "All" : "All",
         "successfully enrolled": "Successfully enrolled",
         "failed": "Failed",
-        "your_action_is_successful": "Your action is successful"
+        "your_action_is_successful": "Your action is successful",
+        "no_search_res_found":"No search results found!",
+        "no_usr_found" : "No users found!",
+        "show_all":"Show All",
+        "people_you_may_know":"People you may know",
+        "see_more":"See More",
+        "lastAdded":"Last added",
+        "sortByName" : "Sort By Name",
+        "connections":"connections",
+        "connection":"connection",
+        "no_conn_found":"No connection found",
+        "search_result":"Search Results !",
+        "moRecommUser" : "No recommended users!",
+        "no_opn_found" : "No Opening found",
+        "search":"Search"
     },
     "header": {
         "search_for_learning_contents": "Search for learning contents",
@@ -48,10 +62,16 @@
     },
     "network": {
         "tabNetworkHome": "Network home",
+        "searchUser": "Search User",
         "tabYourConnections": "Your connections",
+        "no_connection_requests":" No connection requests!",
         "tabConnectionRequests": "Connection Requests",
+        "tabConnectionRequest": "Connection Request",
+        "tabUsersFromMDO":"Users from MDO",
         "tabFromYourMdo": "From Your MDO",
-        "tabRecommendedConnections": "Recommended Connections"
+        "tabRecommendedConnections": "Recommended Connections",
+        "btnSeeMore" : "See More"
+
     },
     "event": {
         "labelTodayEvent" : "Today's Events",
@@ -60,7 +80,11 @@
         "All" : "All"
     },
     "career": {
-
+        "labelAllOpenings" : "All openings",
+        "tabRecent" : "Recent",
+        "tabMostViewed" : "Most Viewed",
+        "labelPersonalizedExpTxt":"For a personalized learning experience",
+        "btnSelectInterest" : "Select your Interests"
     },
     "competencies": {
 

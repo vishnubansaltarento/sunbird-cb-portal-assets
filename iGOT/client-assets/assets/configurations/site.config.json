@@ -352,8 +352,8 @@
           "type": "explorerButton",
           "config": {
             "icon": "explorer",
-            "path": "/page/explore",
-            "label": "explorer"
+            "path": "/page/learn",
+            "label": "explore"
           }
         },
         {
@@ -368,7 +368,7 @@
           "type": "iconButton",
           "config": {
             "icon": "learn",
-            "path": "/app/my-learning",
+            "path": "/app/seeAll?key=continueLearning",
             "label": "my learnings"
           }
         }

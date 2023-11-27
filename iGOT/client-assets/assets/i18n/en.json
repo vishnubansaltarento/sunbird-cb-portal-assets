@@ -31,7 +31,24 @@
     "learn": {
         "btnExplorebycompetency": "Explore by competency",
         "btnExplorebyprovider": "Explore by provider",
-        "btnCuratedcollections": "Curated collections"
+        "btnCuratedcollections": "Curated collections",
+        "btnModeratedcourses": "Moderated courses"
+    },
+    "contentstripmultiple": {
+        "ContinueLearning": "Continue Learning",
+        "BlendedPrograms": "Blended Programs",
+        "CuratedPrograms": "Curated Programs",
+        "Featuredcourses": "Featured courses",
+        "StandaloneAssessment": "Standalone Assessment",
+        "Recentlyadded": "Recently added",
+        "Exploreall": "Explore all",
+        "Seeall": "See all",
+        "contentnotavailable": "Content not available",
+        "trydifferentkeywords": "Please try different keywords or change the search query."
+    },
+    "cardcontentv2": {
+        "viewdetails": "View details",
+        "mostenrolled": "Most enrolled"
     },
     "network": {
 

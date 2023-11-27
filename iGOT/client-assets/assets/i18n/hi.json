@@ -64,5 +64,18 @@
     },
     "discuss": {
 
+    },
+
+    "knowledgeall": {
+        "search": "खोज",
+        "noresultfound": "कोई परिणाम नहीं मिला"
+    },
+    "knowledgeleftmenu": {
+        "AllKnowledgeresources": "सभी ज्ञान संसाधन",
+        "SavedKnowledgeresource": "सहेजा गया ज्ञान संसाधन"
+    },
+    "knowledgesaved": {
+        "search": "खोज",
+        "noresultfound": "कोई परिणाम नहीं मिला"
     }
 }

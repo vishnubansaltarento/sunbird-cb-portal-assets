@@ -11,14 +11,27 @@
         "see_all": "See all",
         "MDOPortal": "MDO Portal",
         "CBPPortal": "CBP Portal",
-        "SPVPortal": "SPV Portal"
+        "SPVPortal": "SPV Portal",
+        "more": "more",
+        "knowledgeResources": "knowledge Resources",
+        "dashboard": "Dashboard",
+        "settings": "Settings"
     },
     "msg": {
-
+        "No_event" : "No Event",
+        "All" : "All",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful"
     },
     "header": {
         "search_for_learning_contents": "Search for learning contents",
-        "download_app": "Download App"
+        "download_app": "Download App",
+        "header" : "People you may know",
+        "see_all" : "See All",
+        "hubs": "Hubs",
+        "related_links": "Related links",
+        "frac_dictionary": "Frac Dictionary"
     },
     "footer": {
         "Hubs": "Hubs",
@@ -51,10 +64,17 @@
         "mostenrolled": "Most enrolled"
     },
     "network": {
-
+        "tabNetworkHome": "Network home",
+        "tabYourConnections": "Your connections",
+        "tabConnectionRequests": "Connection Requests",
+        "tabFromYourMdo": "From Your MDO",
+        "tabRecommendedConnections": "Recommended Connections"
     },
     "event": {
-
+        "labelTodayEvent" : "Today's Events",
+        "No_event" : "No Event",
+        "labelAll_events" : "All Events",
+        "All" : "All"
     },
     "career": {
 

@@ -201,7 +201,8 @@
                       "queryParams": {
                         "tab": "Learn",
                         "q": "",
-                        "p": "Trending"
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Moderated Courses\"], \"contentType\": [\"Moderated Courses\"]}"
                       }
                     },
                     "filters": [],
@@ -261,7 +262,8 @@
                       "queryParams": {
                         "tab": "Learn",
                         "q": "",
-                        "p": "Trending"
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Blended Program\"], \"contentType\": [\"Blended Program\"]}"
                       }
                     },
                     "filters": [],
@@ -357,7 +359,8 @@
                       "queryParams": {
                         "tab": "Learn",
                         "q": "",
-                        "p": "Trending"
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Curated Program\"], \"contentType\": [\"Curated Program\"]}"
                       }
                     },
                     "filters": [],
@@ -910,7 +913,15 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "viewMoreText": "See all",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Program\"], \"contentType\": [\"Program\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -966,7 +977,8 @@
                         "tab": "Learn",
                         "q": "",
                         "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}"
+                        "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}",
+                        "key":"latest"
                       }
                     },
                     "stripConfig": {
@@ -980,9 +992,7 @@
                           "filters": [
                             {
                               "primaryCategory": [
-                                "Course",
-                                "Program",
-                                "Standalone Assessment"
+                                "Course"
                               ],
                               "contentType": [
                                 "Course"

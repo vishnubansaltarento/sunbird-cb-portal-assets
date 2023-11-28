@@ -100,5 +100,21 @@
     },
     "discuss": {
 
+    },
+
+    "knowledgeall": {
+        "search": "Search",
+        "noresultfound": "No results found"
+    },
+    "knowledgeleftmenu": {
+        "AllKnowledgeresources": "All Knowledge resources",
+        "SavedKnowledgeresource": "Saved Knowledge resource"
+    },
+    "knowledgesaved": {
+        "search": "Search",
+        "noresultfound": "No results found"
     }
+
+
+
 }

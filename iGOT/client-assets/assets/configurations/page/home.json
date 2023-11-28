@@ -219,7 +219,15 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "viewMoreText": "See all",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Program\"], \"contentType\": [\"Program\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -270,7 +278,15 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Blended Program\"], \"contentType\": [\"Blended Program\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true

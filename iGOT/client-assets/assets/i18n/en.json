@@ -153,6 +153,38 @@
     "knowledgesaved": {
         "search": "Search",
         "noresultfound": "No results found"
+    },
+    "settings": {
+        "language": "Language",
+        "websiteLanguage": "Website language",
+        "enEnglish": "EN - English",
+        "contentLanguage": "Content Language",
+        "supportLanguages": "Support for more languages coming soon",
+        "appearance": "Appearance",
+        "chooseFontSize": "Choose base font size",
+        "baseFontSize": "Base font size",
+        "selectTheme": "Select theme",
+        "defaultLight" : "Default light",
+        "supportThemes": "Support for more themes coming soon"
+    },
+    "notificationSettings": {
+        "notificationHeader": "Notification Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "passwordSettings": {
+        "passwordHeader": "Account Password Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "privacySettings": {
+        "privacyHeader": "privacy Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "settingLeftMenu": {
+        "GeneralSettings": "General Settings",
+        "Notifications": "Notifications",
+        "AccountandPassword": "Account and Password",
+        "Privacy": "Privacy",
+        "'GetStarted'tour": "'Get Started' tour"
     }
 
 

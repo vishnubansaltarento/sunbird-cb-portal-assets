@@ -152,5 +152,38 @@
     "knowledgesaved": {
         "search": "खोज",
         "noresultfound": "कोई परिणाम नहीं मिला"
+    },
+
+    "settings": {
+        "language": "भाषा",
+        "websiteLanguage": "वेबसाइट भाषा",
+        "enEnglish": "एन - अंग्रेजी",
+        "contentLanguage": "सामग्री भाषा",
+        "supportLanguages": "अधिक भाषाओं के लिए समर्थन जल्द ही आ रहा है",
+        "appearance": "उपस्थिति",
+        "chooseFontSize": "आधार फ़ॉन्ट आकार चुनें",
+        "baseFontSize": "आधार फ़ॉन्ट आकार चुनें",
+        "selectTheme": "चुनिंदा विषय",
+        "defaultLight" : "डिफ़ॉल्ट प्रकाश",
+        "supportThemes": "अधिक विषयों के लिए समर्थन जल्द ही आ रहा है"
+    },
+    "notificationSettings": {
+        "notificationHeader": "अधिसूचना सेटिंग्स",
+        "comingSoon": "सुविधा जल्द ही आ रही है."
+    },
+    "passwordSettings": {
+        "passwordHeader": "खाता पासवर्ड सेटिंग्स",
+        "comingSoon": "सुविधा जल्द ही आ रही है."
+    },
+    "privacySettings": {
+        "privacyHeader": "गोपनीय सेटिंग",
+        "comingSoon": "सुविधा जल्द ही आ रही है."
+    },
+    "settingLeftMenu": {
+        "GeneralSettings": "सामान्य सेटिंग्स",
+        "Notifications": "सूचनाएं",
+        "AccountandPassword": "खाता और पासवर्ड",
+        "Privacy": "गोपनीयता",
+        "'GetStarted'tour": "'आरंभ करें' यात्रा"
     }
 }

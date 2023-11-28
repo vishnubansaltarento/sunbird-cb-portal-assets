@@ -11,6 +11,33 @@
         "see_all": "सभी देखें",
         "MDOPortal": "एमडीओ पोर्टल",
         "CBPPortal": "CBP Portal",
+        "SPVPortal": "SPV Portal",
+        "lastAdded":"अंतिम बार जोड़ा गया",
+        "sortByName" : "नाम द्वारा क्रमबद्ध करें",
+        "connections":"सम्बन्ध",
+        "connection":"सम्बन्ध",
+        "All" : "सभी",
+        "search":"खोज"
+    },
+    "msg": {
+        "No_event" : "No Event",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful",
+        "no_search_res_found":"कोई खोज परिणाम नहीं मिला!",
+        "no_usr_found" : "कोई उपयोग्कर्ता नहीं मिले!",
+        "show_all":"सब दिखाएं",
+        "people_you_may_know":"जिन लोगों को आप जानते हों",
+        "see_more":"और देखें",
+        "no_conn_found":"कोई कनेक्शन नहीं मिला!",
+        "search_result":"खोज के परिणाम !",
+        "moRecommUser" : "कोई अनुशंसित उपयोगकर्ता नहीं !",
+        "no_opn_found" : "कोई उद्घाटन नहीं मिला",
+        "No_competencies_found" : "कोई योग्यता नहीं मिली",
+        "Find_competencies_to_add_from" : "जोड़ने के लिए योग्यताएँ खोजें",
+        "All_competencies" : "All competencies",
+        "Not_enough_data" : "Not enough data",
+        "not_found":"नहीं मिला",
         "CBCPortal": "CBC Portal",
         "SPVPortal": "SPV Portal",
         "FracDictionary": "फ्रैक डिक्शनरी",
@@ -18,13 +45,6 @@
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
         "settings": "Settings"
-    },
-    "msg": {
-        "No_event" : "No Event",
-        "All" : "All",
-        "successfully enrolled": "Successfully enrolled",
-        "failed": "Failed",
-        "your_action_is_successful": "Your action is successful"
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"
@@ -80,16 +100,42 @@
         "mostenrolled": "सर्वाधिक नामांकित"
     },
     "network": {
-
+        "tabNetworkHome": "नेटवर्क होम",
+        "searchUser": "उपयोगकर्ता खोजें",
+        "tabYourConnections": "आपके कनेक्शन",
+        "no_connection_requests":" कोई कनेक्शन अनुरोध नहीं!",
+        "tabConnectionRequests": "कनेक्शन अनुरोध",
+        "tabConnectionRequest": "कनेक्शन अनुरोध",
+        "tabUsersFromMDO":"एमडीओ से उपयोगकर्ता",
+        "tabFromYourMdo": "आपके एमडीओ से",
+        "tabRecommendedConnections": "अनुशंसित कनेक्शन",
+        "btnSeeMore" : "और देखें"
     },
     "event": {
-
+        "labelTodayEvent" : "आज की घटनाएँ",
+        "No_event" : "कोई घटना नहीं",
+        "labelAll_events" : "सभी कार्यक्रम",
+        "All" : "सभी"
     },
     "career": {
-
+        "labelAllOpenings" : "सभी उद्घाटन",
+        "tabRecent" : "हाल ही का",
+        "tabMostViewed" : "सबसे ज्यादा देखा गया",
+        "labelPersonalizedExpTxt":"वैयक्तिकृत सीखने के अनुभव के लिए",
+        "btnSelectInterest" : "अपने हितों का चयन करें"
     },
     "competencies": {
-
+        "labelYourCompetencies":"आपकी योग्यताएँ",
+        "labelRecommendCompetencies":"अनुशंसित दक्षताएँ",
+        "tabAllCompetencies":"सभी योग्यताएँ",
+        "acquiredByYou":"आपके द्वारा प्राप्त किया गया",
+        "desired":"इच्छित",
+        "fromFRAC":"FRAC से",
+        "fromWAT":"WAT से",
+        "CBP_course":"CBP कोर्स",
+        "Self_attestation" : "Self attestation",
+        "addCompetency":"एक योग्यता जोड़ें",
+        "recommendedBasedOnPosition":"Competencies will be recommended based on your position."
     },
     "discuss": {
 

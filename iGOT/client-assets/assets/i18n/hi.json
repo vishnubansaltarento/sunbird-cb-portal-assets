@@ -9,8 +9,9 @@
         "Competencies": "दक्षताओं",
         "Events": "आयोजन",
         "see_all": "सभी देखें",
-        "MDOPortal": "MDO Portal",
+        "MDOPortal": "एमडीओ पोर्टल",
         "CBPPortal": "CBP Portal",
+<<<<<<< HEAD
         "SPVPortal": "SPV Portal",
         "lastAdded":"अंतिम बार जोड़ा गया",
         "sortByName" : "नाम द्वारा क्रमबद्ध करें",
@@ -38,10 +39,45 @@
         "All_competencies" : "All competencies",
         "Not_enough_data" : "Not enough data",
         "not_found":"नहीं मिला"
+=======
+        "CBCPortal": "CBC Portal",
+        "SPVPortal": "SPV Portal",
+        "FracDictionary": "फ्रैक डिक्शनरी",
+        "more": "more",
+        "knowledgeResources": "knowledge Resources",
+        "dashboard": "Dashboard",
+        "settings": "Settings"
     },
-    "header": {
-        "search_for_learning_contents": "Search for learning content",
-        "download_app": "ऐप डाउनलोड करें"
+    "msg": {
+        "No_event" : "No Event",
+        "All" : "All",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful"
+>>>>>>> 0e39ce6ff1b1aa76171a3563d0faa2b492468e57
+    },
+    "appnavbar": {
+        "Searchforlearningcontents": "सीखने की सामग्री खोजें"
+    },
+    "toprightnavbar": {
+        "downloadApp": "ऐप डाउनलोड करें"
+    },
+    "cardshublist": {
+        "more": "अधिक",
+        "nohubsinfoavailable": "No hubs Info Available",
+        "domore": "और करें",
+        "knowledgeresources": "ज्ञान संसाधन",
+        "knowledgeresourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "Dashboard": "डैशबोर्ड",
+        "dashboardSubtitle": "आपका सारा डेटा सरल विज़ुअलाइज़ेशन के रूप में दर्शाया गया है।",
+        "Settings": "समायोजन",
+        "settingSubtitle": "अपनी सभी प्राथमिकताएँ यहाँ प्रबंधित करें",
+        "quicklinks": "त्वरित सम्पक",
+        "CBCPortaldesc": "Capacity Building Commission",
+        "CBPPortaldesc": "Create and manage CBPs here",
+        "MDOPortaldesc": "एमडीओ उपयोगकर्ता पहुंच, कार्य ऑर्डर और ईवेंट प्रबंधित करें",
+        "FracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
+        "SPVPortaldesc": "Create and manage MDOs"
     },
     "footer": {
         "Hubs": "केन्द्रों",
@@ -54,7 +90,24 @@
     "learn": {
         "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",
         "btnExplorebyprovider": "प्रदाता द्वारा अन्वेषण करें",
-        "btnCuratedcollections": "चुनिंदा संग्रह"
+        "btnCuratedcollections": "चुनिंदा संग्रह",
+        "btnModeratedcourses": "Moderated courses"
+    },
+    "contentstripmultiple": {
+        "ContinueLearning": "सीखना जारी रखें",
+        "BlendedPrograms": "मिश्रित कार्यक्रम",
+        "CuratedPrograms": "क्यूरेटेड प्रोग्राम",
+        "Featuredcourses": "विशेष पाठ्यक्रम",
+        "StandaloneAssessment": "स्टैंडअलोन मूल्यांकन",
+        "Recentlyadded": "हाल ही में जोड़ा",
+        "Exploreall": "सभी का अन्वेषण करें",
+        "Seeall": "सभी देखें",
+        "contentnotavailable": "Content not available",
+        "trydifferentkeywords": "Please try different keywords or change the search query."
+    },
+    "cardcontentv2": {
+        "viewdetails": "विवरण देखें",
+        "mostenrolled": "सर्वाधिक नामांकित"
     },
     "network": {
         "tabNetworkHome": "नेटवर्क होम",
@@ -96,5 +149,18 @@
     },
     "discuss": {
 
+    },
+
+    "knowledgeall": {
+        "search": "खोज",
+        "noresultfound": "कोई परिणाम नहीं मिला"
+    },
+    "knowledgeleftmenu": {
+        "AllKnowledgeresources": "सभी ज्ञान संसाधन",
+        "SavedKnowledgeresource": "सहेजा गया ज्ञान संसाधन"
+    },
+    "knowledgesaved": {
+        "search": "खोज",
+        "noresultfound": "कोई परिणाम नहीं मिला"
     }
 }

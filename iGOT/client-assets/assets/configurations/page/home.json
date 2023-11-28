@@ -1068,7 +1068,7 @@
             "queryParams": {
               "orgdetails": "orgName,email",
               "licenseDetails": "name,description,url",
-              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating",
+              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,mostEnrolled,mostTrending",
               "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
             }
           }
@@ -1250,7 +1250,9 @@
                 "duration",
                 "version",
                 "programDuration",
-                "avgRating"
+                "avgRating",
+                "mostTrending",
+                "mostEnrolled"
               ]
             }
           }
@@ -1431,7 +1433,9 @@
                 "duration",
                 "version",
                 "programDuration",
-                "avgRating"
+                "avgRating",
+                "mostEnrolled",
+                "mostTrending"
               ]
             }
           }

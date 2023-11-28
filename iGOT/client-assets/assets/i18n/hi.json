@@ -11,7 +11,6 @@
         "see_all": "सभी देखें",
         "MDOPortal": "एमडीओ पोर्टल",
         "CBPPortal": "CBP Portal",
-<<<<<<< HEAD
         "SPVPortal": "SPV Portal",
         "lastAdded":"अंतिम बार जोड़ा गया",
         "sortByName" : "नाम द्वारा क्रमबद्ध करें",
@@ -39,22 +38,6 @@
         "All_competencies" : "All competencies",
         "Not_enough_data" : "Not enough data",
         "not_found":"नहीं मिला"
-=======
-        "CBCPortal": "CBC Portal",
-        "SPVPortal": "SPV Portal",
-        "FracDictionary": "फ्रैक डिक्शनरी",
-        "more": "more",
-        "knowledgeResources": "knowledge Resources",
-        "dashboard": "Dashboard",
-        "settings": "Settings"
-    },
-    "msg": {
-        "No_event" : "No Event",
-        "All" : "All",
-        "successfully enrolled": "Successfully enrolled",
-        "failed": "Failed",
-        "your_action_is_successful": "Your action is successful"
->>>>>>> 0e39ce6ff1b1aa76171a3563d0faa2b492468e57
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"

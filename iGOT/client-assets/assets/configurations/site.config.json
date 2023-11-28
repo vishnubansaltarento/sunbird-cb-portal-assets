@@ -365,23 +365,24 @@
           "type": "explorerButton",
           "config": {
             "icon": "explorer",
-            "path": "/page/explore",
-            "label": "explorer"
+            "path": "/page/learn",
+            "label": "explore"
           }
         },
         {
           "type": "iconButton",
           "config": {
             "icon": "search",
-            "path": "/app/globalsearch",
+            "path": "/app/search/home",
             "label": "search"
           }
         },
         {
           "type": "iconButton",
           "config": {
+            "key": "continueLearning",
             "icon": "learn",
-            "path": "/app/my-learning",
+            "path": "/app/seeAll",
             "label": "my learnings"
           }
         }

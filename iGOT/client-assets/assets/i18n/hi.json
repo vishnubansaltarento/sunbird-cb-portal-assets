@@ -37,7 +37,14 @@
         "Find_competencies_to_add_from" : "जोड़ने के लिए योग्यताएँ खोजें",
         "All_competencies" : "All competencies",
         "Not_enough_data" : "Not enough data",
-        "not_found":"नहीं मिला"
+        "not_found":"नहीं मिला",
+        "CBCPortal": "CBC Portal",
+        "SPVPortal": "SPV Portal",
+        "FracDictionary": "फ्रैक डिक्शनरी",
+        "more": "more",
+        "knowledgeResources": "knowledge Resources",
+        "dashboard": "Dashboard",
+        "settings": "Settings"
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"

@@ -9,16 +9,45 @@
         "Competencies": "दक्षताओं",
         "Events": "आयोजन",
         "see_all": "सभी देखें",
-        "MDOPortal": "MDO Portal",
+        "MDOPortal": "एमडीओ पोर्टल",
         "CBPPortal": "CBP Portal",
-        "SPVPortal": "SPV Portal"
+        "CBCPortal": "CBC Portal",
+        "SPVPortal": "SPV Portal",
+        "FracDictionary": "फ्रैक डिक्शनरी",
+        "more": "more",
+        "knowledgeResources": "knowledge Resources",
+        "dashboard": "Dashboard",
+        "settings": "Settings"
     },
     "msg": {
-
+        "No_event" : "No Event",
+        "All" : "All",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful"
     },
-    "header": {
-        "search_for_learning_contents": "Search for learning content",
-        "download_app": "ऐप डाउनलोड करें"
+    "appnavbar": {
+        "Searchforlearningcontents": "सीखने की सामग्री खोजें"
+    },
+    "toprightnavbar": {
+        "downloadApp": "ऐप डाउनलोड करें"
+    },
+    "cardshublist": {
+        "more": "अधिक",
+        "nohubsinfoavailable": "No hubs Info Available",
+        "domore": "और करें",
+        "knowledgeresources": "ज्ञान संसाधन",
+        "knowledgeresourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "Dashboard": "डैशबोर्ड",
+        "dashboardSubtitle": "आपका सारा डेटा सरल विज़ुअलाइज़ेशन के रूप में दर्शाया गया है।",
+        "Settings": "समायोजन",
+        "settingSubtitle": "अपनी सभी प्राथमिकताएँ यहाँ प्रबंधित करें",
+        "quicklinks": "त्वरित सम्पक",
+        "CBCPortaldesc": "Capacity Building Commission",
+        "CBPPortaldesc": "Create and manage CBPs here",
+        "MDOPortaldesc": "एमडीओ उपयोगकर्ता पहुंच, कार्य ऑर्डर और ईवेंट प्रबंधित करें",
+        "FracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
+        "SPVPortaldesc": "Create and manage MDOs"
     },
     "footer": {
         "Hubs": "केन्द्रों",
@@ -47,8 +76,8 @@
         "trydifferentkeywords": "Please try different keywords or change the search query."
     },
     "cardcontentv2": {
-        "viewdetails": "View details",
-        "mostenrolled": "Most enrolled"
+        "viewdetails": "विवरण देखें",
+        "mostenrolled": "सर्वाधिक नामांकित"
     },
     "network": {
 

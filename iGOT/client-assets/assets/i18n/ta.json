@@ -1,17 +1,104 @@
 {
     "common": {
+        "Karmayogi_bharat": "Karmayogi Bharat",
         "Hubs": "மையங்கள்",
         "Learn": "Learn",
         "Discuss": "Discuss",
         "Network": "Network",
         "Career": "Career",
-        "competencies": "Competencies",
+        "Competencies": "Competencies",
         "Events": "Events",
-        "see_all": "See all"
+        "see_all": "See all",
+        "MDOPortal": "MDO Portal",
+        "CBPPortal": "CBP Portal",
+        "CBCPortal": "CBC Portal",
+        "SPVPortal": "SPV Portal",
+        "FracDictionary": "ஃப்ராக் அகராதி",
+        "more": "more",
+        "knowledgeResources": "knowledge Resources",
+        "dashboard": "Dashboard",
+        "settings": "Settings"
     },
-    "header": {
-        "search_for_learning_contents": "Search for learning contents",
-        "download_app": "பயன்பாட்டைப் பதிவிறக்கவும்"
+    "msg": {
+        "No_event" : "No Event",
+        "All" : "All",
+        "successfully enrolled": "Successfully enrolled",
+        "failed": "Failed",
+        "your_action_is_successful": "Your action is successful"
     },
-    "footer": {}
+    "appnavbar": {
+        "Searchforlearningcontents": "கற்றல் உள்ளடக்கத்தைத் தேடுங்கள்"
+    },
+    "toprightnavbar": {
+        "downloadApp": "பயன்பாட்டைப் பதிவிறக்கவும்"
+    },
+    "cardshublist": {
+        "more": "More",
+        "nohubsinfoavailable": "No hubs Info Available",
+        "domore": "Do more",
+        "knowledgeresources": "Knowledge resources",
+        "knowledgeresourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "Dashboard": "Dashboard",
+        "dashboardSubtitle": "All your data represented as simple visualizations.",
+        "Settings": "Settings",
+        "settingSubtitle": "Manage all your preferences hessssre",
+        "quicklinks": "Quick links",
+        "CBCPortaldesc": "Capacity Building Commission",
+        "CBPPortaldesc": "Create and manage CBPs here",
+        "MDOPortaldesc": "Manage MDO user access, work orders and events",
+        "FracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
+        "SPVPortaldesc": "Create and manage MDOs"
+    },
+    "footer": {
+        "Hubs": "மையங்கள்",
+        "RelatedLinks": "தொடர்புடைய இணைப்புகள்",
+        "Support": "Support",
+        "Aboutus": "About us",
+        "frequently_asked_questions": "Frequently asked questions",
+        "contact_us": "Contact Us"
+    },
+    "learn": {
+        "btnExplorebycompetency": "திறமை மூலம் ஆராயுங்கள்",
+        "btnExplorebyprovider": "வழங்குநரால் ஆராயவும்",
+        "btnCuratedcollections": "தொகுக்கப்பட்ட தொகுப்புகள்",
+        "btnModeratedcourses": "மிதமான படிப்புகள்"
+    },
+    "contentstripmultiple": {
+        "ContinueLearning": "Continue Learning",
+        "BlendedPrograms": "Blended Programs",
+        "CuratedPrograms": "Curated Programs",
+        "Featuredcourses": "Featured courses",
+        "StandaloneAssessment": "Standalone Assessment",
+        "Recentlyadded": "Recently added",
+        "Exploreall": "Explore all",
+        "Seeall": "See all",
+        "contentnotavailable": "Content not available",
+        "trydifferentkeywords": "Please try different keywords or change the search query."
+    },
+    "cardcontentv2": {
+        "viewdetails": "View details",
+        "mostenrolled": "அதிகம் பதிவு செய்யப்பட்டவர்கள்"
+    },
+    "network": {
+        "tabNetworkHome": "Network home",
+        "tabYourConnections": "Your connections",
+        "tabConnectionRequests": "Connection Requests",
+        "tabFromYourMdo": "From Your MDO",
+        "tabRecommendedConnections": "Recommended Connections"
+    },
+    "event": {
+        "labelTodayEvent" : "Today's Events",
+        "No_event" : "No Event",
+        "labelAll_events" : "All Events",
+        "All" : "All"
+    },
+    "career": {
+
+    },
+    "competencies": {
+
+    },
+    "discuss": {
+
+    }
 }

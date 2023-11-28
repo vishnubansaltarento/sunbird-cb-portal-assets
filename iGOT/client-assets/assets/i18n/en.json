@@ -11,7 +11,9 @@
         "see_all": "See all",
         "MDOPortal": "MDO Portal",
         "CBPPortal": "CBP Portal",
+        "CBCPortal": "CBC Portal",
         "SPVPortal": "SPV Portal",
+        "FracDictionary": "Frac Dictionary",
         "more": "more",
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
@@ -24,14 +26,28 @@
         "failed": "Failed",
         "your_action_is_successful": "Your action is successful"
     },
-    "header": {
-        "search_for_learning_contents": "Search for learning contents",
-        "download_app": "Download App",
-        "header" : "People you may know",
-        "see_all" : "See All",
-        "hubs": "Hubs",
-        "related_links": "Related links",
-        "frac_dictionary": "Frac Dictionary"
+    "appnavbar": {
+        "Searchforlearningcontents": "Search for learning contents"
+    },
+    "toprightnavbar": {
+        "downloadApp": "Download App"
+    },
+    "cardshublist": {
+        "more": "More",
+        "nohubsinfoavailable": "No hubs Info Available",
+        "domore": "Do more",
+        "knowledgeresources": "Knowledge resources",
+        "knowledgeresourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "Dashboard": "Dashboard",
+        "dashboardSubtitle": "All your data represented as simple visualizations.",
+        "Settings": "Settings",
+        "settingSubtitle": "Manage all your preferences hessssre",
+        "quicklinks": "Quick links",
+        "CBCPortaldesc": "Capacity Building Commission",
+        "CBPPortaldesc": "Create and manage CBPs here",
+        "MDOPortaldesc": "Manage MDO user access, work orders and events",
+        "FracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
+        "SPVPortaldesc": "Create and manage MDOs"
     },
     "footer": {
         "Hubs": "Hubs",

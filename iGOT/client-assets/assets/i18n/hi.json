@@ -11,11 +11,16 @@
         "see_all": "सभी देखें",
         "MDOPortal": "MDO Portal",
         "CBPPortal": "CBP Portal",
-        "SPVPortal": "SPV Portal"
+        "SPVPortal": "SPV Portal",
+        "lastAdded":"अंतिम बार जोड़ा गया",
+        "sortByName" : "नाम द्वारा क्रमबद्ध करें",
+        "connections":"सम्बन्ध",
+        "connection":"सम्बन्ध",
+        "All" : "सभी",
+        "search":"खोज"
     },
     "msg": {
         "No_event" : "No Event",
-        "All" : "All",
         "successfully enrolled": "Successfully enrolled",
         "failed": "Failed",
         "your_action_is_successful": "Your action is successful",
@@ -24,15 +29,15 @@
         "show_all":"सब दिखाएं",
         "people_you_may_know":"जिन लोगों को आप जानते हों",
         "see_more":"और देखें",
-        "lastAdded":"अंतिम बार जोड़ा गया",
-        "sortByName" : "नाम द्वारा क्रमबद्ध करें",
-        "connections":"सम्बन्ध",
-        "connection":"सम्बन्ध",
         "no_conn_found":"कोई कनेक्शन नहीं मिला!",
-        "search_result":"Search Results !",
-        "moRecommUser" : "No recommended users!",
-        "no_opn_found" : "No Opening found",
-        "search":"Search"
+        "search_result":"खोज के परिणाम !",
+        "moRecommUser" : "कोई अनुशंसित उपयोगकर्ता नहीं !",
+        "no_opn_found" : "कोई उद्घाटन नहीं मिला",
+        "No_competencies_found" : "कोई योग्यता नहीं मिली",
+        "Find_competencies_to_add_from" : "जोड़ने के लिए योग्यताएँ खोजें",
+        "All_competencies" : "All competencies",
+        "Not_enough_data" : "Not enough data",
+        "not_found":"नहीं मिला"
     },
     "header": {
         "search_for_learning_contents": "Search for learning content",
@@ -77,7 +82,17 @@
         "btnSelectInterest" : "अपने हितों का चयन करें"
     },
     "competencies": {
-
+        "labelYourCompetencies":"आपकी योग्यताएँ",
+        "labelRecommendCompetencies":"अनुशंसित दक्षताएँ",
+        "tabAllCompetencies":"सभी योग्यताएँ",
+        "acquiredByYou":"आपके द्वारा प्राप्त किया गया",
+        "desired":"इच्छित",
+        "fromFRAC":"FRAC से",
+        "fromWAT":"WAT से",
+        "CBP_course":"CBP कोर्स",
+        "Self_attestation" : "Self attestation",
+        "addCompetency":"एक योग्यता जोड़ें",
+        "recommendedBasedOnPosition":"Competencies will be recommended based on your position."
     },
     "discuss": {
 

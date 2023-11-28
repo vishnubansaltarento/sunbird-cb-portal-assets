@@ -360,15 +360,16 @@
           "type": "iconButton",
           "config": {
             "icon": "search",
-            "path": "/app/globalsearch",
+            "path": "/app/search/home",
             "label": "search"
           }
         },
         {
           "type": "iconButton",
           "config": {
+            "key": "continueLearning",
             "icon": "learn",
-            "path": "/app/seeAll?key=continueLearning",
+            "path": "/app/seeAll",
             "label": "my learnings"
           }
         }

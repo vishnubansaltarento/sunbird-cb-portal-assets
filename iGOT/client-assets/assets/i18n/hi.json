@@ -344,6 +344,11 @@
         "Academics": "Academics - hi",
         "Hobbies": "Hobbies - hi"
     },
+    "profileCretificationsV2": {
+        "Certifications": "Certifications -hi",
+        "Issuedon": "Issued on - hi",
+        "CertificateNotissued": "Certificate Not issued - hi"
+    },
     "profileV2Career": {
         "Careerhistory": "Career history - hi",
         "joined": "Joined - hi",

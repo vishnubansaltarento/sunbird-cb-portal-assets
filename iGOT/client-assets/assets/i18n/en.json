@@ -345,7 +345,9 @@
         "Hobbies": "Hobbies"
     },
     "profileCretificationsV2": {
-        "Certifications": "Certifications"
+        "Certifications": "Certifications",
+        "Issuedon": "Issued on ",
+        "CertificateNotissued": "Certificate Not issued"
     },
     "profileV2Career": {
         "Careerhistory": "Career history",

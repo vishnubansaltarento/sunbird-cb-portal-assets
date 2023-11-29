@@ -322,6 +322,43 @@
         "FRACAns":"The Framework of Roles, Activities and Competencies (FRAC), as termed within Mission Karmayogi’s Integrated Government Online Training platform (iGOT) initiative, is the mapping of three constructs (roles, activities and competencies, supported by knowledge resources) for each individual position within all government ministries, departments and organisations (MDOs) at the national, state and local level.",
         "workOrderQ":"What is a Work order?",
         "workOrderA":"Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary."
+    },
+
+    "profileView": {
+        "editProfile": "Edit Profile",
+        "connections": "Connections",
+        "discussions": "Discussions",
+        "noInfoavailable": "No Information Available",
+        "yourStats": "Your stats",
+        "showAll": "Show all",
+        "myDiscussions": "My Discussions",
+        "recentPosts": "Recent posts",
+        "bestPosts": "Best posts",
+        "savedPosts": "Saved posts",
+        "noData": "No Data"
+    },
+    "profileV2LeftMenu": {
+        "Profileinfo": "Profile info",
+        "Certifications": "Certifications",
+        "Careerhistory": "Career history",
+        "Academics": "Academics",
+        "Hobbies": "Hobbies"
+    },
+    "profileCretificationsV2": {
+        "Certifications": "Certifications"
+    },
+    "profileV2Career": {
+        "Careerhistory": "Career history",
+        "joined": "Joined",
+        "NoCareerInformation": "No career information available"
+    },
+    "profileV2Academics": {
+        "Academics": "Academics",
+        "noInformation": "No Information Available"
+    },
+    "profileV2Hobbies": {
+        "Hobbies": "Hobbies",
+        "noInformation": "No hobbies information available " 
     }
 
 

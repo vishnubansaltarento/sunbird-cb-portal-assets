@@ -322,6 +322,40 @@
         "workOrderQ":"What is a Work order?",
         "workOrderA":"Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary."
 
+    },
+
+    "profileView": {
+        "editProfile": "Edit Profile -hi",
+        "connections": "Connections -hi",
+        "discussions": "Discussions -hi",
+        "noInfoavailable": "No Information Available -hi",
+        "yourStats": "Your stats -hi",
+        "showAll": "Show all -hi",
+        "myDiscussions": "My Discussions -hi",
+        "recentPosts": "Recent posts -hi",
+        "bestPosts": "Best posts -hi",
+        "savedPosts": "Saved posts -hi",
+        "noData": "No Data -hi"
+    },
+    "profileV2LeftMenu": {
+        "Profileinfo": "Profile info - hi",
+        "Certifications": "Certifications - hi",
+        "Careerhistory": "Career history - hi",
+        "Academics": "Academics - hi",
+        "Hobbies": "Hobbies - hi"
+    },
+    "profileV2Career": {
+        "Careerhistory": "Career history - hi",
+        "joined": "Joined - hi",
+        "NoCareerInformation": "No career information available - hi"
+    },
+    "profileV2Academics": {
+        "Academics": "Academics - hi",
+        "noInformation": "No Information Available - hi" 
+    },
+    "profileV2Hobbies": {
+        "Hobbies": "Hobbies - hi",
+        "noInformation": "No hobbies information available - hi" 
     }
 
 }

@@ -353,7 +353,8 @@
                             "posterImage",
                             "primaryCategory",
                             "purpose",
-                            "version"
+                            "version",
+                            "creatorLogo"
                           ]
                         }
                       }

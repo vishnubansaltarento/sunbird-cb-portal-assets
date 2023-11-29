@@ -1050,7 +1050,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your in progress courses/program here."
           },
           {
             "label": "Completed",
@@ -1058,7 +1059,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your completed courses/program here."
           }
         ],
         "filters": [],

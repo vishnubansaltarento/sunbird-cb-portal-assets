@@ -95,24 +95,6 @@
                 },
                 {
                   "banners": {
-                    "l": "assets/instances/eagle/banners/home/10/l.png",
-                    "m": "assets/instances/eagle/banners/home/10/m.png",
-                    "s": "assets/instances/eagle/banners/home/10/s.png",
-                    "xl": "assets/instances/eagle/banners/home/10/xl.png",
-                    "xs": "assets/instances/eagle/banners/home/10/xs.png",
-                    "xxl": "assets/instances/eagle/banners/home/10/xxl.png"
-                  },
-                  "redirectUrl": "/app/globalsearch",
-                  "queryParams": {
-                    "tab": "Learn",
-                    "q": "Salesforce",
-                    "lang": "en",
-                    "f": "{}"
-                  },
-                  "title": ""
-                },
-                {
-                  "banners": {
                     "l": "assets/instances/eagle/banners/home/1/l.jpg",
                     "m": "assets/instances/eagle/banners/home/1/m.jpg",
                     "s": "assets/instances/eagle/banners/home/1/s.jpg",
@@ -1055,7 +1037,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your in progress courses/program here."
           },
           {
             "label": "Completed",
@@ -1063,7 +1046,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your completed courses/program here."
           }
         ],
         "filters": [],

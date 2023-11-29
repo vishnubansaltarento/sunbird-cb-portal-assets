@@ -1398,7 +1398,7 @@
                   "Course",
                   "Program"
                 ],
-                "duration":{"<=":"1800000"}
+                "duration":{"<=":"1800"}
               },
               "offset": 0,
               "limit": 12,

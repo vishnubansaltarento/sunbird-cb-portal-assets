@@ -73,11 +73,74 @@
         "Exploreall": "सभी का अन्वेषण करें",
         "Seeall": "सभी देखें",
         "contentnotavailable": "Content not available",
-        "trydifferentkeywords": "Please try different keywords or change the search query."
+        "trydifferentkeywords": "Please try different keywords or change the search query.",
+        "info": "जानकारी"
     },
     "cardcontentv2": {
         "viewdetails": "विवरण देखें",
-        "mostenrolled": "सर्वाधिक नामांकित"
+        "mostenrolled": "सर्वाधिक नामांकित",
+        "by": "By",
+        "askedBy": "Asked by",
+        "reason": "Reason",
+        "newlyAdded": "Newly Added",
+        "hoursago": "hours ago",
+        "noviews": "No views",
+        "resume": "Resume"
+    }, 
+    "allproviderscomponent": {
+        "popularProviders": "Popular providers",
+        "noProvidersFound": "No providers found!",
+        "allProviders": "सभी प्रदाता",
+        "sortBy": "Sort by",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "search": "खोज"
+    },
+    "apptocbanner": {
+        "pleasechoosebatch": "Please choose a batch to start course",
+        "requesttoenroll": "Request to enroll",
+        "lastenrollmentdate": "Last enrollment date",
+        "yourenrollmentrequestis": "Your enrollment request is",
+        "withdrawyourrequest": "Withdraw your request",
+        "nobatches": "No batches",
+        "thisbatchstartsin": "यह बैच शुरू होता है",
+        "DAYS": "DAYS",
+        "HOURS": "HOURS",
+        "MINUTES": "MINUTES",
+        "batchduration": "बैच अवधि",
+        "days": "Days",
+        "kindlychecklocationdetails": "Kindly check the location details and plan in advance.",
+        "batchlocation": "Batch location",
+        "view": "View"
+    },
+    "apptocsinglepage": {
+        "overview": "अवलोकन",
+        "content": "Content",
+        "sessions": "Sessions",
+        "discussion": "Discussion",
+        "Summary": "सारांश",
+        "Description": "Description",
+        "authorsandcurators": "लेखक और क्यूरेटर",
+        "author": "Author",
+        "curator": "Curator",
+        "programdirectorfacilitators": "Program director & facilitators",
+        "facilitator": "Facilitator",
+        "competencies": "Competencies",
+        "competency": "Competency",
+        "type": "Type",
+        "ratingsreviews": "Ratings and reviews",
+        "topreviews": "Top reviews",
+        "latestreviews": "Latest reviews",
+        "noreviewsfound": "No reviews found!",
+        "search": "खोज"
+    },
+    "ratingsummary": {
+        "ratings": "ratings",
+        "outof5": "5 में से",
+        "star": "star"
+    },
+    "cardratingcommet": {
+        "viewreply": "View reply"
     },
     "network": {
 

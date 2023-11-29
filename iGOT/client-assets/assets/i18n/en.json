@@ -17,14 +17,34 @@
         "more": "more",
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
-        "settings": "Settings"
+        "settings": "Settings",
+        "lastAdded":"Last added",
+        "sortByName" : "Sort By Name",
+        "connections":"connections",
+        "connection":"connection",
+        "All" : "All",
+        "search":"Search"
     },
     "msg": {
         "No_event" : "No Event",
-        "All" : "All",
         "successfully enrolled": "Successfully enrolled",
         "failed": "Failed",
-        "your_action_is_successful": "Your action is successful"
+        "your_action_is_successful": "Your action is successful",
+        "no_search_res_found":"No search results found!",
+        "no_usr_found" : "No users found!",
+        "show_all":"Show All",
+        "people_you_may_know":"People you may know",
+        "see_more":"See More",
+        "no_conn_found":"No connection found",
+        "search_result":"Search Results !",
+        "moRecommUser" : "No recommended users!",
+        "no_opn_found" : "No Opening found",
+        "No_competencies_found" : "No competencies found",
+        "Find_competencies_to_add_from" : "Find competencies to add from",
+        "All_competencies" : "All competencies",
+        "Not_enough_data" : "Not enough data",
+        "not_found":"Not Found"
+
     },
     "appnavbar": {
         "Searchforlearningcontents": "Search for learning contents"
@@ -144,10 +164,16 @@
     },
     "network": {
         "tabNetworkHome": "Network home",
+        "searchUser": "Search User",
         "tabYourConnections": "Your connections",
+        "no_connection_requests":" No connection requests!",
         "tabConnectionRequests": "Connection Requests",
+        "tabConnectionRequest": "Connection Request",
+        "tabUsersFromMDO":"Users from MDO",
         "tabFromYourMdo": "From Your MDO",
-        "tabRecommendedConnections": "Recommended Connections"
+        "tabRecommendedConnections": "Recommended Connections",
+        "btnSeeMore" : "See More"
+
     },
     "event": {
         "labelTodayEvent" : "Today's Events",
@@ -156,10 +182,24 @@
         "All" : "All"
     },
     "career": {
-
+        "labelAllOpenings" : "All openings",
+        "tabRecent" : "Recent",
+        "tabMostViewed" : "Most Viewed",
+        "labelPersonalizedExpTxt":"For a personalized learning experience",
+        "btnSelectInterest" : "Select your Interests"
     },
     "competencies": {
-
+        "labelYourCompetencies":"Your competencies",
+        "labelRecommendCompetencies":"Recommended competencies",
+        "tabAllCompetencies":"All competencies",
+        "acquiredByYou":"Acquired By You",
+        "desired":"Desired",
+        "fromFRAC":"From FRAC",
+        "fromWAT":"From WAT",
+        "CBP_course":"CBP course",
+        "Self_attestation" : "Self attestation",
+        "addCompetency":"Add a competency",
+        "recommendedBasedOnPosition":"Competencies will be recommended based on your position."
     },
     "discuss": {
 
@@ -176,6 +216,38 @@
     "knowledgesaved": {
         "search": "Search",
         "noresultfound": "No results found"
+    },
+    "settings": {
+        "language": "Language",
+        "websiteLanguage": "Website language",
+        "enEnglish": "EN - English",
+        "contentLanguage": "Content Language",
+        "supportLanguages": "Support for more languages coming soon",
+        "appearance": "Appearance",
+        "chooseFontSize": "Choose base font size",
+        "baseFontSize": "Base font size",
+        "selectTheme": "Select theme",
+        "defaultLight" : "Default light",
+        "supportThemes": "Support for more themes coming soon"
+    },
+    "notificationSettings": {
+        "notificationHeader": "Notification Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "passwordSettings": {
+        "passwordHeader": "Account Password Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "privacySettings": {
+        "privacyHeader": "privacy Settings",
+        "comingSoon": "Feature coming soon."
+    },
+    "settingLeftMenu": {
+        "GeneralSettings": "General Settings",
+        "Notifications": "Notifications",
+        "AccountandPassword": "Account and Password",
+        "Privacy": "Privacy",
+        "'GetStarted'tour": "'Get Started' tour"
     }
 
 

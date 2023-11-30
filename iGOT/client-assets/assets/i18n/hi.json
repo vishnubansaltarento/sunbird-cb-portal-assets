@@ -604,6 +604,37 @@
         "noTags": "No tags available - hi",
         "approveRequest": "Once Your department will approve your request, System will unlock this section. - hi",
         "saveDetails": "Save Details - hi"
+    },
+
+    "publicsignup": {
+        "register": "Register - hi"
+    },
+    "globalsearch": {
+        "home": "home - hi",
+        "Search": "Search - hi"
+    },
+    "learnsearch": {
+        "searchResults": "search results - hi",
+        "searchResult": "search result - hi",
+        "for": "for - hi",
+        "course": "Course - hi",
+        "audio": "Audio - hi",
+        "pdf": "PDF - hi",
+        "webpage": "Webpage - hi",
+        "by": "By -hi",
+        "noResults": "No results found - hi",
+        "removeFilters": "Try removing the filters or search using different - hi"
+    },
+    "searchfilters": {
+        "filterSearch": "Filter search - hi",
+        "ContentType": "Content Type -hi",
+        "program": "Program -hi",
+        "course": "Course -hi",
+        "learningresource": "Learning Resource -hi",
+        "standaloneassessment": "Standalone Assessment -hi",
+        "moderatedCourses": "Moderated Courses -hi",
+        "BlendedProgram": "Blended Program -hi",
+        "CuratedProgram": "Curated Program -hi"
     }
 
 

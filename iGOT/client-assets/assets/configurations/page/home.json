@@ -1033,7 +1033,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your in progress courses/program here."
+            "nodataMsg": "You will find your in progress content here."
           },
           {
             "label": "Completed",
@@ -1042,7 +1042,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your completed courses/program here."
+            "nodataMsg": "You will find your completed content here."
           }
         ],
         "filters": [],

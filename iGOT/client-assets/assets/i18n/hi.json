@@ -22,7 +22,9 @@
         "accountAndAccess":"Account and access",
         "igotMarketplace":"iGOT Marketplace",
         "contentProvider":"Content provider",
-        "FRACing":"FRACing"
+        "FRACing":"FRACing",
+        "update":"Update",
+        "showAll": "Show all"
     },
     "msg": {
         "No_event" : "No Event",
@@ -49,7 +51,9 @@
         "more": "more",
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
-        "settings": "Settings"
+        "settings": "Settings",
+        "noDataFound":"No data found!"
+        
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"
@@ -503,6 +507,44 @@
     "profileV2Hobbies": {
         "Hobbies": "Hobbies - hi",
         "noInformation": "No hobbies information available - hi" 
+    },
+    "publicHome": {
+        "mainSectionContent":"सीखना। नेटवर्क। अपना करियर बढ़ाएं.",
+        "mainSectionContentDesc":"Gain skills to rocket your career growth. Connect with civil servants and experts to learn and discover new opportunities in the Indian civil services.",
+        "learnAndNetwork":"Learn and network with civil servants and subject matter experts across India",
+        "serviceHeading":"How does the platform enable you to become the best version of yourself?",
+        "expCivilServant" : "An experienced civil servant",
+        "journeySectionMain" : "Start your learning journey",
+        "journeySectionPara" : "Are you a government official without an iGOT Karmayogi account yet? Start here.",
+        "servicesSection": "A newly recruited civil servant",
+        "Learning_hub":"Learning hub",
+        "LearnhubPara":"Learn anywhere, anytime and bridge your competency gaps using impactful and engaging learning content.",
+        "Discussion_hub":"Discussion hub",
+        "ServiceItemDiscussion":"Discuss and learn with peers, colleagues, civil servants and experts across the country.",
+        "Network_hub":"Network hub",
+        "Network_hub_para":"Connect with civil servants across the country. Grow your network within government circles.",
+        "Competency_hub":"Competency hub",
+        "Competency_hub_para":"Identify your competency requirements, competency gaps, so you can grow faster in the right direction.",
+        "Career_hub":"Career hub",
+        "Career_hub_para":"Explore career opportunities across the country and signal your expertise.",
+        "Events_hub":"Events hub",
+        "Events_hub_para":"Join online and in-person events to break silos and share ideas." ,
+        "walkthroughIgot":"Walkthrough of the iGOT Karmayogi Portal",
+        "igotWalkthrough":"Gain skills to rocket your career growth. Connect with civil servants and experts to learn and discover new opportunities in the Indian civil services.",
+        "growSection":"Learn. Network. Take your career growth to the next level."
+    },
+    "home":{
+        "learnHub":"लर्न हब पर जाएं",
+        "updateTitle":"Update your mobile number",
+        "updateMobile":"Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
+        "why_it_is_imp":"Why it is important ?",
+        "networkHub":"Go to Network hub",
+        "suggestedForYou":"Suggested for you",
+        "Connect":"Connect",
+        "Connecting":"Connecting...",
+        "newRecommendation":"As of now there are no recommendations found for you.",
+        "gotToDiscussHubs":"Go to discuss hub",
+        "Trending_discussions":"Trending discussions"
     }
 
 }

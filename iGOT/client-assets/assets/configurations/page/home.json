@@ -1100,6 +1100,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1122,6 +1123,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1284,6 +1286,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1306,6 +1309,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {

@@ -95,24 +95,6 @@
                 },
                 {
                   "banners": {
-                    "l": "assets/instances/eagle/banners/home/10/l.png",
-                    "m": "assets/instances/eagle/banners/home/10/m.png",
-                    "s": "assets/instances/eagle/banners/home/10/s.png",
-                    "xl": "assets/instances/eagle/banners/home/10/xl.png",
-                    "xs": "assets/instances/eagle/banners/home/10/xs.png",
-                    "xxl": "assets/instances/eagle/banners/home/10/xxl.png"
-                  },
-                  "redirectUrl": "/app/globalsearch",
-                  "queryParams": {
-                    "tab": "Learn",
-                    "q": "Salesforce",
-                    "lang": "en",
-                    "f": "{}"
-                  },
-                  "title": ""
-                },
-                {
-                  "banners": {
                     "l": "assets/instances/eagle/banners/home/1/l.jpg",
                     "m": "assets/instances/eagle/banners/home/1/m.jpg",
                     "s": "assets/instances/eagle/banners/home/1/s.jpg",
@@ -219,7 +201,15 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "viewMoreText": "See all",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Program\"], \"contentType\": [\"Program\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -270,7 +260,15 @@
                         }
                       }
                     },
-                    "viewMoreUrl": {},
+                    "viewMoreUrl": {
+                      "path": "/app/globalsearch",
+                      "queryParams": {
+                        "tab": "Learn",
+                        "q": "",
+                        "p": "Trending",
+                        "f": "{\"primaryCategory\": [\"Blended Program\"], \"contentType\": [\"Blended Program\"]}"
+                      }
+                    },
                     "stripConfig": {
                       "cardSubType": "standard",
                       "postCardForSearch": true
@@ -1034,7 +1032,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your in progress courses/program here."
           },
           {
             "label": "Completed",
@@ -1042,7 +1041,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your completed courses/program here."
           }
         ],
         "filters": [],
@@ -1052,7 +1052,7 @@
             "queryParams": {
               "orgdetails": "orgName,email",
               "licenseDetails": "name,description,url",
-              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating",
+              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
               "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
             }
           }
@@ -1100,6 +1100,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1122,6 +1123,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1234,7 +1236,8 @@
                 "duration",
                 "version",
                 "programDuration",
-                "avgRating"
+                "avgRating",
+                "additionalTags"
               ]
             }
           }
@@ -1283,6 +1286,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1305,6 +1309,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1380,7 +1385,7 @@
                   "Course",
                   "Program"
                 ],
-                "duration":{"<=":"1800000"}
+                "duration":{"<=":"1800"}
               },
               "offset": 0,
               "limit": 12,
@@ -1415,7 +1420,8 @@
                 "duration",
                 "version",
                 "programDuration",
-                "avgRating"
+                "avgRating",
+                "additionalTags"
               ]
             }
           }

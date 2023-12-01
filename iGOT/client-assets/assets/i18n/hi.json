@@ -22,7 +22,10 @@
         "accountAndAccess":"Account and access",
         "igotMarketplace":"iGOT Marketplace",
         "contentProvider":"Content provider",
-        "FRACing":"FRACing"
+        "FRACing":"FRACing",
+        "signin": "Sign in",
+        "register": "Register",
+        "or": "or"
     },
     "msg": {
         "No_event" : "No Event",
@@ -173,8 +176,34 @@
     "cardratingcommet": {
         "viewreply": "View reply"
     },
+    "ratingdialog": {
+        "ratereview": "दर नियत करें और समीक्षा करें",
+        "yourreviewfeedbackisvaluable": "Your review and feedback is valuable in creating a robust learning experience",
+        "ratethis": "Rate this",
+        "givereview": "Give a review",
+        "characters": "characters",
+        "addareview": "इसके लिए एक समीक्षा जोड़ें",
+        "exceededcharacters": "You have exceeded 200 characters.",
+        "recommendcourse": "Recommend this course to your friends",
+        "submit": "Submit",
+        "update": "Update",
+        "thankyouforfeedback": "प्रतिक्रिया के लिए आपका धन्यवाद!!!",
+        "youcanupdateyourfeedback": "You can update your feedback at anytime.",
+        "optional": "(optional)"
+    },
     "apptocontents": {
         "previewcontentunavailable": "The preview for this type of content is unavailable. Please click on Start button above to view."
+    },
+    "apptoccontentcard": {
+        "viewcertificate": "View certificate-HI",
+        "resource": "Resource",
+        "module": "Module",
+        "course": "Course",
+        "optional": "optional",
+        "viewDetails": "View Details",
+        "completed": "पुरा होना",
+        "inprogress": "In progress",
+        "notstarted": "Not started"
     },
     "apptocsessions": {
         "nosessionsavailable": "No sessions available in this batch"
@@ -303,11 +332,34 @@
         "Totalapplied": "Total applied"
     },
     "certificatedialog": {
-        "downloadCertificate": "Download Certificate",
+        "downloadCertificate": "Download CertificateHI",
         "download": "Download",
         "PDF": "PDF",
         "PNG": "PNG",
         "SVG": "SVG"
+    },
+    "coursecompletiondialog": {
+        "congratulations": "बधाई हो!",
+        "yourcertificateavailableshortly": "Your certificate of completion will be available shortly.",
+        "wouldlovehearyourexperience": "We would love to hear about your experience, so please take a moment to",
+        "ratethecourse": "rate the course",
+        "shareyourthoughts": "and share your thoughts with us.",
+        "close": "Close"
+    },
+    "viewercomponent": {
+        "issueincontent": "Looks like we are having some issues in our content.",
+        "differentmimetype": "Debug Message: This content is of a different mimeType",
+        "possiblelink": "Possible Link:",
+        "reporttous": "Report to us",
+        "wewillmakeitwork": "and we will make it work",
+        "notauthorizedtopreview": "Looks like you are not authorized to preview this content.",
+        "ifgovtofficial": "If you are a government official, register or sign in so you can track your learning progress and get certified."
+    },
+    "viewertopbar": {
+        "prev": "पिछला",
+        "SKIP": "SKIP",
+        "NEXT": "NEXT",
+        "finish": "FINISH"
     },
     "network": {
         "tabNetworkHome": "नेटवर्क होम",

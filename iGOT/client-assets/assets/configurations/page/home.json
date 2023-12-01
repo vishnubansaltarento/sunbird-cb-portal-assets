@@ -1038,7 +1038,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your in progress courses/program here."
+            "nodataMsg": "You will find your in progress content here."
           },
           {
             "label": "Completed",
@@ -1047,7 +1047,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your completed courses/program here."
+            "nodataMsg": "You will find your completed content here."
           }
         ],
         "filters": [],
@@ -1105,6 +1105,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1127,6 +1128,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1289,6 +1291,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending courses here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1311,6 +1314,7 @@
             "requestRequired": true,
             "showTabDataCount": false,
             "maxWidgets": 12,
+            "nodataMsg": "You will find trending programs here.",
             "request": {
               "trendingSearch": {
                 "request": {
@@ -1734,6 +1738,7 @@
       "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Morarji%20Desai%20National%20Institute%20of%20Yoga%20%28MDNIY%29/all-CBP"
   
     }
-  ]
+  ],
+  "enableLazyLoading": true
 
 }

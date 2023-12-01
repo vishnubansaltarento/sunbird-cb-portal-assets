@@ -1034,7 +1034,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your in progress courses/program here."
+            "nodataMsg": "You will find your in progress content here."
           },
           {
             "label": "Completed",
@@ -1043,7 +1043,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 2,
-            "nodataMsg": "You will find your completed courses/program here."
+            "nodataMsg": "You will find your completed content here."
           }
         ],
         "filters": [],
@@ -1734,6 +1734,7 @@
       "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Morarji%20Desai%20National%20Institute%20of%20Yoga%20%28MDNIY%29/all-CBP"
   
     }
-  ]
+  ],
+  "enableLazyLoading": true
 
 }

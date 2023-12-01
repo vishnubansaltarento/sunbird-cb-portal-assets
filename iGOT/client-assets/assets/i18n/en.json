@@ -893,6 +893,29 @@
         "p43": "All content published on Karmayogi platform is provided by various Ministries, Departments and other public and authorised private organisations. The concerned course publishers ensure the accuracy and currency of the content on this platform. Many courses provided by various departments relate to policies, rules, guidelines as applicable on the date of publication of the course.  All courses publishers strive to keep the most updated content, however the latest position of any law, rules, guidelines etc. may be accessed from the website of the concerned Ministries.",
         "p44": "In no event will the Government of India or Karmayogi Bharat SPV be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this platform. The platform makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability of the published content. Links to other websites that have been included on this platform are provided for convenience only.",
         "p45": "I Agree"
+    },
+    "profilehome": {
+        "welcomeMsg": "Welcome to the Portal",
+        "prev": "Previous: ",
+        "autoSave": "Your selections are automatically saved.",
+        "done": "Done",
+        "next": "Next: ",
+        "WelcometothePortal": "Welcome to the Portal",
+        "Role&Activities": "Role & Activities",
+        "Topics": "Topics",
+        "Welcome": "Welcome",
+        "Currentcompetencies": "Current competencies",
+        "Desiredcompetencies": "Desired competencies",
+        "Platformwalkthrough": "Platform walkthrough",
+        "Enterallyourrolesandactivitiestocompleteyourprofile": "Enter all your roles and activities to complete your profile",
+        "Choosethetopicsofyourinterest": "Choose the topics of your interest",
+        "Choosethe'currentcompetencies'youareskilledwith": "Choose the 'current competencies' you are skilled with",
+        "Choosethecompetenciesyoudesiretopossess": "Choose the competencies you desire to possess",
+        "WatchtheiGOTplatformwalkthrough": "Watch the iGOT platform walkthrough"
+    },
+    "welcomeonboard": {
+        "WelcomeToiGOT": "Welcome to iGOT",
+        "note": "Let us take you through a quick guided onboarding to understand your interests at work. Knowing you better helps us give you a more personalized experience on the platform. This way you discover relevant and useful learning content in the easiest way possible. And don’t worry, you can always update your interests later!"
     }
 
 }

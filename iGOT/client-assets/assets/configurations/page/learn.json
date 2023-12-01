@@ -76,6 +76,7 @@
                     "key": "continueLearning",
                     "logo": "school",
                     "title": "Continue Learning",
+                    "customeClass": "mr-8",
                     "stripTitleLink": {
                       "link": "",
                       "icon": ""

@@ -807,6 +807,13 @@
         "moderatedCourses": "Moderated Courses -hi",
         "BlendedProgram": "Blended Program -hi",
         "CuratedProgram": "Curated Program -hi"
+    },
+    "utilslogout": {
+        "logoutNow": "Logout Now - hi",
+        "logoutNote": "Note: On logging out all the downloaded content will be deleted. - hi",
+        "logoutConfirm": "Are you sure? - hi",
+        "logoutYes": "Yes - hi",
+        "logoutNo": "No - hi" 
     }
 
 

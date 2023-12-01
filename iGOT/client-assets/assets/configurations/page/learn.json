@@ -373,7 +373,8 @@
                             "primaryCategory",
                             "purpose",
                             "version",
-                            "creatorLogo"
+                            "creatorLogo",
+                            "organisation"
                           ]
                         }
                       }

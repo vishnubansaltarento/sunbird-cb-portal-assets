@@ -130,6 +130,9 @@
         "descending": "Descending",
         "search": "खोज"
     },
+    "allcompetencies": {
+        "popularCompetencies": "Popular competencies"
+    },
     "apptocbanner": {
         "pleasechoosebatch": "Please choose a batch to start course",
         "requesttoenroll": "नामांकन करने का अनुरोध करें",

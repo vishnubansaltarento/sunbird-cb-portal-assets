@@ -100,6 +100,13 @@
         "contact_us": "Contact Us",
         "copyright": "Copyright"
     },
+    "platformrating": {
+        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notlikely": "Not likely",
+        "extremelylikely": "Extremely likely",
+        "submit": "Submit",
+        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+    },
     "learn": {
         "btnExplorebycompetency": "Explore by competency",
         "btnExplorebyprovider": "Explore by provider",

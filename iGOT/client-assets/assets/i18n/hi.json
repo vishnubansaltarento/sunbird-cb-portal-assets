@@ -91,6 +91,13 @@
         "frequently_asked_questions": "अक्सर पूछे जाने वाले प्रश्नों",
         "contact_us": "संपर्क करें"
     },
+    "platformrating": {
+        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notlikely": "Not likely",
+        "extremelylikely": "Extremely likely",
+        "submit": "Submit",
+        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+    },
     "learn": {
         "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",
         "btnExplorebyprovider": "प्रदाता द्वारा अन्वेषण करें",

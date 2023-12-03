@@ -57,6 +57,13 @@
         "frequently_asked_questions": "Frequently asked questions",
         "contact_us": "Contact Us"
     },
+    "platformrating": {
+        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notlikely": "Not likely",
+        "extremelylikely": "Extremely likely",
+        "submit": "Submit",
+        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+    },
     "learn": {
         "btnExplorebycompetency": "திறமை மூலம் ஆராயுங்கள்",
         "btnExplorebyprovider": "வழங்குநரால் ஆராயவும்",

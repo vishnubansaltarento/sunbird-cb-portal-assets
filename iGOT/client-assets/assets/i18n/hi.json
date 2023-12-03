@@ -131,7 +131,36 @@
         "search": "खोज"
     },
     "allcompetencies": {
-        "popularCompetencies": "Popular competencies"
+        "popularCompetencies": "Popular competencies",
+        "nocompetenciesfound": "No competencies found!",
+        "allCompetencies": "All competencies",
+        "sortBy": "Sort by",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "search": "Search"
+    },
+    "competencydetails": {
+        "competencyType": "Competency type:",
+        "competencyArea:": "Competency area:",
+        "allcbps": "All associated CBPs",
+        "CBPsfor": "CBPs for",
+        "nocbps": "No CBPs found!",
+        "filterby": "Filter by",
+        "audio": "Audio",
+        "pdf": "PDF",
+        "webpage": "Webpage",
+        "course": "Course"
+    }, 
+    "competencycard": {
+        "quickexplore": "Quick explore",
+        "nocbps": "No CBPs found!",
+        "seeall": "See all"
+    },
+    "curatedpage": {
+        "latestCollections": "Latest collections",
+        "nocuratedcollection": "No curated collections found!",
+        "curatedCollections": "Curated collections",
+        "search": "Search"
     },
     "apptocbanner": {
         "pleasechoosebatch": "Please choose a batch to start course",

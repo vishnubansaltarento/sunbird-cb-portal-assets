@@ -56,13 +56,15 @@
         "dashboard": "Dashboard",
         "settings": "Settings",
         "noDataFound":"No data found!"
-        
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"
     },
     "toprightnavbar": {
-        "downloadApp": "ऐप डाउनलोड करें"
+        "downloadApp": "ऐप डाउनलोड करें",
+        "font": "Font-HI",
+        "needhelp": "Need Help",
+        "profile": "Profile"
     },
     "cardshublist": {
         "more": "अधिक",
@@ -123,8 +125,8 @@
         "popularProviders": "Popular providers",
         "noProvidersFound": "No providers found!",
         "allProviders": "सभी प्रदाता",
-        "sortBy": "Sort by",
-        "ascending": "Ascending",
+        "sortBy": "Sort byHI",
+        "ascending": "AscendingHI",
         "descending": "Descending",
         "search": "खोज"
     },
@@ -311,6 +313,23 @@
         "free": "Free",
         "view": "View"
     },
+    "playerbrief": {
+        "download": "Download",
+        "interactiveVideo": "Interactive Video",
+        "interactiveVideos": "Interactive Videos",
+        "youtubeVideo": "Youtube Video",
+        "youtubeVideos": "Youtube Videos",
+        "podcast": "Podcast",
+        "podcasts": "Podcasts",
+        "webModule": "Web Module",
+        "webModules": "Web Modules",
+        "quiz": "Quiz",
+        "quizzes": "Quizzes",
+        "showMore": "Show More",
+        "showLess": "Show Less",
+        "authors": "Authors",
+        "curatorcontact": "Curator/Contact"
+    },
     "apptoc":{
         "Lastupdatedon": "Last updated on",
         "Expirydate": "Expiry date",
@@ -348,7 +367,7 @@
         "wouldlovehearyourexperience": "We would love to hear about your experience, so please take a moment to",
         "ratethecourse": "rate the course",
         "shareyourthoughts": "and share your thoughts with us.",
-        "close": "Close"
+        "close": "Close-hi"
     },
     "viewercomponent": {
         "issueincontent": "Looks like we are having some issues in our content.",
@@ -364,6 +383,14 @@
         "SKIP": "SKIP",
         "NEXT": "NEXT",
         "finish": "FINISH"
+    },
+    "viewertoc": {
+        "structure": "Structure",
+        "queue": "Queue",
+        "resourcenotpartofcollection": "The Resource is not part of the collection",
+        "unsupportedtype": "Unsupported Collection Type",
+        "contents": "Contents-HI",
+        "details": "Details-HI"
     },
     "network": {
         "tabNetworkHome": "नेटवर्क होम",

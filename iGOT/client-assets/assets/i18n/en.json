@@ -63,14 +63,16 @@
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
         "settings": "Settings",
-        "noDataFound":"No data found!",
-
+        "noDataFound":"No data found!"
     },
     "appnavbar": {
         "Searchforlearningcontents": "Search for learning contents"
     },
     "toprightnavbar": {
-        "downloadApp": "Download App"
+        "downloadApp": "Download App",
+        "font": "Font",
+        "needhelp": "Need Help",
+        "profile": "Profile"
     },
     "cardshublist": {
         "more": "More",
@@ -137,6 +139,16 @@
         "ascending": "Ascending",
         "descending": "Descending",
         "search": "Search"
+    },
+    "allcompetencies": {
+        "popularCompetencies": "Popular competencies",
+        "nocompetenciesfound": "No competencies found!",
+        "allCompetencies": "All competencies",
+        "sortBy": "Sort by",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "search": "Search"
+
     },
     "apptocbanner": {
         "pleasechoosebatch": "Please choose a batch to start course",
@@ -321,6 +333,23 @@
         "free": "Free",
         "view": "View"
     },
+    "playerbrief": {
+        "download": "Download",
+        "interactiveVideo": "Interactive Video",
+        "interactiveVideos": "Interactive Videos",
+        "youtubeVideo": "Youtube Video",
+        "youtubeVideos": "Youtube Videos",
+        "podcast": "Podcast",
+        "podcasts": "Podcasts",
+        "webModule": "Web Module",
+        "webModules": "Web Modules",
+        "quiz": "Quiz",
+        "quizzes": "Quizzes",
+        "showMore": "Show More",
+        "showLess": "Show Less",
+        "authors": "Authors",
+        "curatorcontact": "Curator/Contact"
+    },
     "apptoc":{
         "Lastupdatedon": "Last updated on",
         "Expirydate": "Expiry date",
@@ -374,6 +403,14 @@
         "skip": "SKIP",
         "next": "NEXT",
         "finish": "FINISH"
+    },
+    "viewertoc": {
+        "structure": "Structure",
+        "queue": "Queue",
+        "resourcenotpartofcollection": "The Resource is not part of the collection",
+        "unsupportedtype": "Unsupported Collection Type",
+        "contents": "Contents",
+        "details": "Details"
     },
     "network": {
         "tabNetworkHome": "Network home",

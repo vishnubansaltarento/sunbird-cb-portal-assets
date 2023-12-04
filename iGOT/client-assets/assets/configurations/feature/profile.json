@@ -190,35 +190,35 @@
   },
   "settingSideMenu": [
     {
-      "name": "General Settings",
+      "name": "generalSettings",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
       "routerLink": "/app/profile/settings"
     },
     {
-      "name": "Notifications",
+      "name": "notifications",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
       "routerLink": "/app/profile/notification"
     },
     {
-      "name": "Account and Password",
+      "name": "accountAndPassword",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
       "routerLink": "/app/profile/accountandpassword"
     },
     {
-      "name": "Privacy",
+      "name": "privacy",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,
       "routerLink": "/app/profile/privacy"
     },
     {
-      "name": "'Get Started' tour",
+      "name": "getStartedTour",
       "key": "Network Home",
       "badges": { "enabled": true, "uri": "" },
       "enabled": true,

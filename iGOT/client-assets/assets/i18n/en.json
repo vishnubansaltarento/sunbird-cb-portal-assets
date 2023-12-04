@@ -66,12 +66,12 @@
         "noDataFound":"No data found!"
     },
     "appnavbar": {
-        "Searchforlearningcontents": "Search for learning contents"
+        "searchforLearningContents": "Search for learning contents"
     },
     "toprightnavbar": {
         "downloadApp": "Download App",
         "font": "Font",
-        "needhelp": "Need Help",
+        "needHelp": "Need Help",
         "profile": "Profile"
     },
     "btnpageback": {
@@ -107,20 +107,20 @@
         "SPVPortaldesc": "Create and manage MDOs"
     },
     "footer": {
-        "Hubs": "Hubs",
-        "RelatedLinks": "Related Links",
-        "Support": "Support",
-        "Aboutus": "About us",
-        "frequently_asked_questions": "Frequently asked questions",
-        "contact_us": "Contact Us",
+        "hubs": "Hubs",
+        "relatedLinks": "Related Links",
+        "support": "Support",
+        "aboutUs": "About us",
+        "frequentlyAskedQuestions": "Frequently asked questions",
+        "contactUs": "Contact Us",
         "copyright": "Copyright"
     },
     "platformrating": {
-        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
-        "notlikely": "Not likely",
-        "extremelylikely": "Extremely likely",
+        "howLikelyRecommend": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notLikely": "Not likely",
+        "extremelyLikely": "Extremely likely",
         "submit": "Submit",
-        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+        "thanksForFeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
     },
     "footercardnotify": {
         "forPersonalizedLearning": "For a personalized learning experience",
@@ -147,14 +147,14 @@
         "showAll": "Show all"
     },
     "cardcontentv2": {
-        "viewdetails": "View details",
-        "mostenrolled": "Most enrolled",
-        "mosttrending": "Most enrolled",
+        "viewDetails": "View details",
+        "mostEnrolled": "Most enrolled",
+        "mostTrending": "Most trending",
         "by": "By",
         "askedBy": "Asked by",
         "reason": "Reason",
         "newlyAdded": "Newly Added",
-        "hoursago": "hours ago",
+        "hoursAgo": "hours ago",
         "noviews": "No views",
         "resume": "Resume"
     }, 
@@ -179,23 +179,23 @@
     "competencydetails": {
         "competencyType": "Competency type:",
         "competencyArea:": "Competency area:",
-        "allcbps": "All associated CBPs",
-        "CBPsfor": "CBPs for",
-        "nocbps": "No CBPs found!",
-        "filterby": "Filter by",
+        "allCbps": "All associated CBPs",
+        "cbpsFor": "CBPs for",
+        "noCbps": "No CBPs found!",
+        "filterBy": "Filter by",
         "audio": "Audio",
         "pdf": "PDF",
         "webpage": "Webpage",
         "course": "Course"
     }, 
     "competencycard": {
-        "quickexplore": "Quick explore",
-        "nocbps": "No CBPs found!",
-        "seeall": "See all"
+        "quickExplore": "Quick explore",
+        "noCbps": "No CBPs found!",
+        "seeAll": "See all"
     },
     "curatedpage": {
         "latestCollections": "Latest collections",
-        "nocuratedcollection": "No curated collections found!",
+        "noCuratedCollection": "No curated collections found!",
         "curatedCollections": "Curated collections",
         "search": "Search"
     },

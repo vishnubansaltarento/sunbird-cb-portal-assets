@@ -1106,8 +1106,8 @@
               "trendingSearch": {
                 "request": {
                     "filters": {
-                      "primaryCategory": [
-                          "courses"
+                      "contextType": [
+                        "courses"
                       ],
                       "organisation": "<orgID>"
                     },
@@ -1129,8 +1129,8 @@
               "trendingSearch": {
                 "request": {
                     "filters": {
-                      "primaryCategory": [
-                          "programs"
+                      "contextType": [
+                        "programs"
                       ],
                       "organisation": "<orgID>"
                     },
@@ -1145,9 +1145,9 @@
           "trendingSearch": {
             "request": {
                   "filters": {
-                    "primaryCategory": [
-                        "programs",
-                        "courses"
+                    "contextType": [
+                      "programs",
+                      "courses"
                     ],
                     "organisation": "across"
                 },
@@ -1292,8 +1292,8 @@
               "trendingSearch": {
                 "request": {
                     "filters": {
-                      "primaryCategory": [
-                          "courses"
+                      "contextType": [
+                        "courses"
                       ],
                       "organisation": "across"
                     },
@@ -1315,7 +1315,7 @@
               "trendingSearch": {
                 "request": {
                     "filters": {
-                      "primaryCategory": [
+                      "contextType": [
                           "programs"
                       ],
                       "organisation": "across"
@@ -1331,7 +1331,7 @@
           "trendingSearch": {
             "request": {
                   "filters": {
-                    "primaryCategory": [
+                    "contextType": [
                         "programs",
                         "courses"
                     ],
@@ -1379,52 +1379,17 @@
         "tabs": [],
         "filters": [],
         "request": {
-          "searchV6": {
+          "trendingSearch": {
             "request": {
               "filters": {
-                "primaryCategory": [
-                  "Course",
-                  "Program"
+                "contextType": [
+                  "under_30_mins"
                 ],
-                "duration":{"<=":"1800"}
+                "organisation": "across"
               },
-              "offset": 0,
-              "limit": 12,
-              "query": "",
-              "sort_by": {
-                "lastUpdatedOn": "desc"
-              },
-              "fields": [
-                "name",
-                "appIcon",
-                "instructions",
-                "description",
-                "purpose",
-                "mimeType",
-                "gradeLevel",
-                "identifier",
-                "medium",
-                "pkgVersion",
-                "board",
-                "subject",
-                "resourceType",
-                "primaryCategory",
-                "contentType",
-                "channel",
-                "organisation",
-                "trackable",
-                "license",
-                "posterImage",
-                "idealScreenSize",
-                "learningMode",
-                "creatorLogo",
-                "duration",
-                "version",
-                "programDuration",
-                "avgRating",
-                "additionalTags"
-              ]
-            }
+              "limit": 12
+            },
+            "responseKey": "under_30_mins"
           }
         }
       }
@@ -1468,7 +1433,7 @@
           "trendingSearch": {
             "request": {
                   "filters": {
-                    "primaryCategory": [
+                    "contextType": [
                         "certifications"
                     ],
                     "organisation": "across"

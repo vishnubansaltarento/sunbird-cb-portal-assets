@@ -987,11 +987,11 @@
         "contentType": "Content Type",
         "program": "Program",
         "course": "Course",
-        "learningresource": "Learning Resource",
-        "standaloneassessment": "Standalone Assessment",
+        "learningResource": "Learning Resource",
+        "standaloneAssessment": "Standalone Assessment",
         "moderatedCourses": "Moderated Courses",
-        "BlendedProgram": "Blended Program",
-        "CuratedProgram": "Curated Program"
+        "blendedProgram": "Blended Program",
+        "curatedProgram": "Curated Program"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
@@ -1079,21 +1079,21 @@
         "autoSave": "Your selections are automatically saved.",
         "done": "Done",
         "next": "Next: ",
-        "WelcometothePortal": "Welcome to the Portal",
-        "Role&Activities": "Role & Activities",
-        "Topics": "Topics",
-        "Welcome": "Welcome",
-        "Currentcompetencies": "Current competencies",
-        "Desiredcompetencies": "Desired competencies",
-        "Platformwalkthrough": "Platform walkthrough",
-        "Enterallyourrolesandactivitiestocompleteyourprofile": "Enter all your roles and activities to complete your profile",
-        "Choosethetopicsofyourinterest": "Choose the topics of your interest",
-        "Choosethe'currentcompetencies'youareskilledwith": "Choose the 'current competencies' you are skilled with",
-        "Choosethecompetenciesyoudesiretopossess": "Choose the competencies you desire to possess",
-        "WatchtheiGOTplatformwalkthrough": "Watch the iGOT platform walkthrough"
+        "welcomeDescription": "Welcome to the Portal",
+        "roleAndActivities": "Role & Activities",
+        "topics": "Topics",
+        "welcome": "Welcome",
+        "currentCompetencies": "Current competencies",
+        "desiredCompetencies": "Desired competencies",
+        "platformWalkthrough": "Platform walkthrough",
+        "roleAndActivitiesDescription": "Enter all your roles and activities to complete your profile",
+        "topicsDescription": "Choose the topics of your interest",
+        "currentCompetenciesDescription": "Choose the 'current competencies' you are skilled with",
+        "desiredCompetenciesDescription": "Choose the competencies you desire to possess",
+        "platformWalkthroughDescription": "Watch the iGOT platform walkthrough"
     },
     "welcomeonboard": {
-        "WelcomeToiGOT": "Welcome to iGOT",
+        "welcomeToiGOT": "Welcome to iGOT",
         "note": "Let us take you through a quick guided onboarding to understand your interests at work. Knowing you better helps us give you a more personalized experience on the platform. This way you discover relevant and useful learning content in the easiest way possible. And don’t worry, you can always update your interests later!"
     },
     "rolesandactivities": {

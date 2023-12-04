@@ -1,63 +1,63 @@
 {
   "tabs": [
     {
-      "name": "Welcome",
+      "name": "welcome",
       "key": "welcome",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/welcome",
-      "description": "Welcome to the Portal",
+      "description": "welcomeDescription",
       "largeDesc": [],
       "step": 1,
       "allowSkip": true
     },
     {
-      "name": "Role & Activities",
+      "name": "roleAndActivities",
       "key": "userRoles",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/roles",
-      "description": "Enter all your roles and activities to complete your profile",
+      "description": "roleAndActivitiesDescription",
       "step": 2,
       "allowSkip": true
     },
     {
-      "name": "Topics",
+      "name": "topics",
       "key": "systemTopics",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/topics",
-      "description": "Choose the topics of your interest",
+      "description": "topicsDescription",
       "step": 3,
       "allowSkip": true
     },
     {
-      "name": "Current competencies",
+      "name": "currentCompetencies",
       "key": "competencies",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/current-competencies",
-      "description": "Choose the 'current competencies' you are skilled with",
+      "description": "currentCompetenciesDescription",
       "step": 4,
       "allowSkip": true
     },
     {
-      "name": "Desired competencies",
+      "name": "desiredCompetencies",
       "key": "desiredCompetencies",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/desired-competencies",
-      "description": "Choose the competencies you desire to possess",
+      "description": "desiredCompetenciesDescription",
       "step": 5,
       "allowSkip": true
     },
     {
-      "name": "Platform walkthrough",
+      "name": "platformWalkthrough",
       "key": "platformWalkthrough ",
       "enabled": true,
       "check": false,
       "routerLink": "/app/setup/platform-walkthrough",
-      "description": "Watch the iGOT platform walkthrough",
+      "description": "platformWalkthroughDescription",
       "step": 6,
       "allowSkip": true
     }

@@ -108,11 +108,11 @@
   },
   "overview": {
     "description": {
-      "displayName": "Summary",
+      "displayName": "summary",
       "enabled": true
     },
     "body": {
-      "displayName": "Description",
+      "displayName": "description",
       "enabled": true
     },
     "learningObjective": {

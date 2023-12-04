@@ -1,6 +1,6 @@
 {
     "common": {
-        "Karmayogi_bharat": "कर्मयोगी भारत",
+        "karmayogiBharat": "कर्मयोगी भारत",
         "Hubs": "केन्द्रों",
         "Learn": "सीखना",
         "Discuss": "चर्चा करना",
@@ -22,9 +22,9 @@
         "sortByName" : "नाम द्वारा क्रमबद्ध करें",
         "connections":"सम्बन्ध",
         "connection":"सम्बन्ध",
-        "All" : "सभी",
-        "search":"खोज",
-        "missionKarmyogi":"मिशन कर्मयोगी",
+        "All" : "All",
+        "search":"Search",
+        "missionKarmyogi":"Mission Karmayogi",
         "accountAndAccess":"Account and access",
         "igotMarketplace":"iGOT Marketplace",
         "contentProvider":"Content provider",
@@ -32,6 +32,8 @@
         "signin": "Sign in",
         "register": "Register",
         "or": "or",
+        "Register":"Register",
+        "signIn":"Sign In",
         "update":"Update",
         "showAll": "Show all"
     },
@@ -64,12 +66,12 @@
         "noDataFound":"No data found!"
     },
     "appnavbar": {
-        "Searchforlearningcontents": "सीखने की सामग्री खोजें"
+        "searchforLearningContents": "सीखने की सामग्री खोजें"
     },
     "toprightnavbar": {
         "downloadApp": "ऐप डाउनलोड करें",
         "font": "Font-HI",
-        "needhelp": "Need Help",
+        "needHelp": "Need Help",
         "profile": "Profile"
     },
     "btnpageback": {
@@ -105,19 +107,20 @@
         "SPVPortaldesc": "Create and manage MDOs"
     },
     "footer": {
-        "Hubs": "केन्द्रों",
-        "RelatedLinks": "सम्बंधित लिंक्स",
-        "Support": "सहायता",
-        "Aboutus": "हमारे बारे में",
+        "hubs": "केन्द्रों",
+        "relatedLinks": "सम्बंधित लिंक्स",
+        "support": "सहायता",
+        "aboutUs": "हमारे बारे में",
         "frequentlyAskedQuestions": "अक्सर पूछे जाने वाले प्रश्नों",
-        "contactUs": "संपर्क करें"
+        "contactUs": "संपर्क करें",
+        "copyright": "Copyright"
     },
     "platformrating": {
-        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
-        "notlikely": "Not likely",
-        "extremelylikely": "Extremely likely",
+        "howLikelyRecommend": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notLikely": "Not likely",
+        "extremelyLikely": "Extremely likely",
         "submit": "Submit",
-        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+        "thanksForFeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
     },
     "footercardnotify": {
         "forPersonalizedLearning": "For a personalized learning experience",
@@ -144,13 +147,14 @@
         "showAll": "Show all"
     },
     "cardcontentv2": {
-        "viewdetails": "विवरण देखें",
-        "mostenrolled": "सर्वाधिक नामांकित",
+        "viewDetails": "विवरण देखें",
+        "mostEnrolled": "सर्वाधिक नामांकित",
+        "mostTrending": "Most trending",
         "by": "By",
         "askedBy": "Asked by",
         "reason": "Reason",
         "newlyAdded": "Newly Added",
-        "hoursago": "hours ago",
+        "hoursAgo": "hours ago",
         "noviews": "No views",
         "resume": "Resume"
     }, 
@@ -175,23 +179,23 @@
     "competencydetails": {
         "competencyType": "Competency type:",
         "competencyArea:": "Competency area:",
-        "allcbps": "All associated CBPs",
-        "CBPsfor": "CBPs for",
-        "nocbps": "No CBPs found!",
-        "filterby": "Filter by",
+        "allCbps": "All associated CBPs",
+        "cbpsFor": "CBPs for",
+        "noCbps": "No CBPs found!",
+        "filterBy": "Filter by",
         "audio": "Audio",
         "pdf": "PDF",
         "webpage": "Webpage",
         "course": "Course"
     }, 
     "competencycard": {
-        "quickexplore": "Quick explore",
-        "nocbps": "No CBPs found!",
-        "seeall": "See all"
+        "quickExplore": "Quick explore",
+        "noCbps": "No CBPs found!",
+        "seeAll": "See all"
     },
     "curatedpage": {
         "latestCollections": "Latest collections",
-        "nocuratedcollection": "No curated collections found!",
+        "noCuratedCollection": "No curated collections found!",
         "curatedCollections": "Curated collections",
         "search": "Search"
     },

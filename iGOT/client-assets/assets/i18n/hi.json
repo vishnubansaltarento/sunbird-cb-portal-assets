@@ -56,13 +56,15 @@
         "dashboard": "Dashboard",
         "settings": "Settings",
         "noDataFound":"No data found!"
-        
     },
     "appnavbar": {
         "Searchforlearningcontents": "सीखने की सामग्री खोजें"
     },
     "toprightnavbar": {
-        "downloadApp": "ऐप डाउनलोड करें"
+        "downloadApp": "ऐप डाउनलोड करें",
+        "font": "Font-HI",
+        "needhelp": "Need Help",
+        "profile": "Profile"
     },
     "cardshublist": {
         "more": "अधिक",
@@ -88,6 +90,13 @@
         "Aboutus": "हमारे बारे में",
         "frequently_asked_questions": "अक्सर पूछे जाने वाले प्रश्नों",
         "contact_us": "संपर्क करें"
+    },
+    "platformrating": {
+        "howlikelyrecommendiGOT": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
+        "notlikely": "Not likely",
+        "extremelylikely": "Extremely likely",
+        "submit": "Submit",
+        "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
     },
     "learn": {
         "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",
@@ -123,10 +132,42 @@
         "popularProviders": "Popular providers",
         "noProvidersFound": "No providers found!",
         "allProviders": "सभी प्रदाता",
+        "sortBy": "Sort byHI",
+        "ascending": "AscendingHI",
+        "descending": "Descending",
+        "search": "खोज"
+    },
+    "allcompetencies": {
+        "popularCompetencies": "Popular competencies",
+        "nocompetenciesfound": "No competencies found!",
+        "allCompetencies": "All competencies",
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "खोज"
+        "search": "Search"
+    },
+    "competencydetails": {
+        "competencyType": "Competency type:",
+        "competencyArea:": "Competency area:",
+        "allcbps": "All associated CBPs",
+        "CBPsfor": "CBPs for",
+        "nocbps": "No CBPs found!",
+        "filterby": "Filter by",
+        "audio": "Audio",
+        "pdf": "PDF",
+        "webpage": "Webpage",
+        "course": "Course"
+    }, 
+    "competencycard": {
+        "quickexplore": "Quick explore",
+        "nocbps": "No CBPs found!",
+        "seeall": "See all"
+    },
+    "curatedpage": {
+        "latestCollections": "Latest collections",
+        "nocuratedcollection": "No curated collections found!",
+        "curatedCollections": "Curated collections",
+        "search": "Search"
     },
     "apptocbanner": {
         "pleasechoosebatch": "Please choose a batch to start course",
@@ -311,6 +352,23 @@
         "free": "Free",
         "view": "View"
     },
+    "playerbrief": {
+        "download": "Download",
+        "interactiveVideo": "Interactive Video",
+        "interactiveVideos": "Interactive Videos",
+        "youtubeVideo": "Youtube Video",
+        "youtubeVideos": "Youtube Videos",
+        "podcast": "Podcast",
+        "podcasts": "Podcasts",
+        "webModule": "Web Module",
+        "webModules": "Web Modules",
+        "quiz": "Quiz",
+        "quizzes": "Quizzes",
+        "showMore": "Show More",
+        "showLess": "Show Less",
+        "authors": "Authors",
+        "curatorcontact": "Curator/Contact"
+    },
     "apptoc":{
         "Lastupdatedon": "Last updated on",
         "Expirydate": "Expiry date",
@@ -348,7 +406,7 @@
         "wouldlovehearyourexperience": "We would love to hear about your experience, so please take a moment to",
         "ratethecourse": "rate the course",
         "shareyourthoughts": "and share your thoughts with us.",
-        "close": "Close"
+        "close": "Close-hi"
     },
     "viewercomponent": {
         "issueincontent": "Looks like we are having some issues in our content.",
@@ -364,6 +422,14 @@
         "SKIP": "SKIP",
         "NEXT": "NEXT",
         "finish": "FINISH"
+    },
+    "viewertoc": {
+        "structure": "Structure",
+        "queue": "Queue",
+        "resourcenotpartofcollection": "The Resource is not part of the collection",
+        "unsupportedtype": "Unsupported Collection Type",
+        "contents": "Contents-HI",
+        "details": "Details-HI"
     },
     "network": {
         "tabNetworkHome": "नेटवर्क होम",
@@ -381,7 +447,17 @@
         "labelTodayEvent" : "आज की घटनाएँ",
         "No_event" : "कोई घटना नहीं",
         "labelAll_events" : "सभी कार्यक्रम",
-        "All" : "सभी"
+        "All" : "सभी",
+        "typoWebinar":"Webinar",
+        "btnViewRecording":"View Recording",
+        "tabCuratedEvents":"Curated Events",
+        "cardTitle":"Karmayogi Bharat",
+        "eventDescription":"Description",
+        "eventPresenters":"Presenters",
+        "eventAgenda":"Agenda",
+        "btnEventCompleted":"Event is completed",
+        "eventType":"Event Type",
+        "eventHostedBy":"Hosted By"
     },
     "career": {
         "labelAllOpenings" : "सभी उद्घाटन",
@@ -596,7 +672,56 @@
         "Connecting":"Connecting...",
         "newRecommendation":"As of now there are no recommendations found for you.",
         "gotToDiscussHubs":"Go to discuss hub",
-        "Trending_discussions":"Trending discussions"
+        "btnDiscuss":"Discuss",
+        "subDiscussTrendingDiscuss":"Trending discussions",
+        "networkConnectwith":"Connect with people you may know",
+        "btnView":"View",
+        "cardNewlyAddedCourses":"Newly added courses",
+        "learnContinue":"Continue learning",
+        "profileCardInProgress":"In Progress",
+        "labelMyLearning":"My Learning",
+        "profileCardCertificate":"Certificate",
+        "profileCardLearning":"Learning hours",
+        "profileCardWeeklyclaps":"Weekly claps",
+        "profileCardWeeks":"weeks",
+        "tabCompleted":"Completed",
+        "btnResume":"Resume",
+        "blendedProgramBanner":"Blended Program",
+        "navigationDetails":"Details",
+        "blendedProgramBatchStart":"This batch starts in",
+        "blendedProgramWithdrawReq":" Withdraw your request ",
+        "blendedProgramEnrollReq":"Your enrollment request is being reviewed. You will be notified when it is approved.",
+        "blendedProgramCheckLiveLoc":"Kindly check the location details and plan in advance.",
+        "blendedProgramBatchLoc":"Batch location",
+        "blendedProgramOverview":"Overview",
+        "blendedProgramContent":"Content",
+        "blendedProgramSessions":"Sessions",
+        "blendedProgramDiscussion":"Discussion",
+        "blendedProgramSummary":"Summary",
+        "blendedProgramDescription":"Description",
+        "blendedProgramAuthorsCurators":"Authors and curators",
+        "competencyType":"Type",
+        "competencyRatingReview":"Ratings and reviews",
+        "blendedProgramNoReviewFound":"No reviews found!",
+        "blendedProgramTopReviews":"Top reviews",
+        "placeholderSearch":"Search",
+        "cardTrendingDepartment":"Trending across department",
+        "cardPrograms":"Programs",
+        "cardCourses":"Courses",
+        "labelLearning30Min":"Learning under 30 min",
+        "labelMostTrending":"Most trending",
+        "discussUpdateOnPost":"Updates on your posts",
+        "discussionMonthsAgo":"months ago",
+        "networkRecentReq":"Recent requests",
+        "networkBuildConn":"Built your connections within your department and other departments.",
+        "networkFindConn":"Find COnnections",
+        "topProviderSliders":"Top providers powering your learning",
+        "scannerDownload":"Download",
+        "scannerIgotKarmyogiApp":"iGOT Karmayogi mobile app",
+        "scannerSubtext":"Continue your lifelong learning experience anywhere anytime.",
+        "scanToDownload":"Scan to Download",
+        "nudgesText":"Update your mobile number",
+        "nudgesButton":"Update"
     },
     "userProfile": {
         "home": "home - hi",

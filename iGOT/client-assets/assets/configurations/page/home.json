@@ -1005,6 +1005,7 @@
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
+        "customeClass": "mr-8",
         "stripTitleLink": {
           "link": "",
           "icon": ""

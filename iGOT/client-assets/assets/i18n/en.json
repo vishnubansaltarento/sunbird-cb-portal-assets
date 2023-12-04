@@ -127,23 +127,24 @@
         "selectYourInterests": "Select your interests"
     },
     "learn": {
-        "btnExplorebycompetency": "Explore by competency",
-        "btnExplorebyprovider": "Explore by provider",
-        "btnCuratedcollections": "Curated collections",
-        "btnModeratedcourses": "Moderated courses"
+        "btnExplorebyCompetency": "Explore by competency",
+        "btnExplorebyProvider": "Explore by provider",
+        "btnCuratedCollections": "Curated collections",
+        "btnModeratedCourses": "Moderated courses"
     },
     "contentstripmultiple": {
-        "ContinueLearning": "Continue Learning",
-        "BlendedPrograms": "Blended Programs",
-        "CuratedPrograms": "Curated Programs",
-        "Featuredcourses": "Featured courses",
-        "StandaloneAssessment": "Standalone Assessment",
-        "Recentlyadded": "Recently added",
-        "Exploreall": "Explore all",
-        "Seeall": "See all",
-        "contentnotavailable": "Content not available",
-        "trydifferentkeywords": "Please try different keywords or change the search query.",
-        "info": "info"
+        "continueLearning": "Continue Learning",
+        "blendedPrograms": "Blended Programs",
+        "curatedPrograms": "Curated Programs",
+        "featuredCourses": "Featured courses",
+        "standaloneAssessment": "Standalone Assessment",
+        "recentlyAdded": "Recently added",
+        "exploreAll": "Explore all",
+        "seeall": "See all",
+        "contentNotAvailable": "Content not available",
+        "tryDifferentKeywords": "Please try different keywords or change the search query.",
+        "info": "info",
+        "showAll": "Show all"
     },
     "cardcontentv2": {
         "viewdetails": "View details",
@@ -296,7 +297,7 @@
     },
     "attendancehelper": {
         "title": "Follow these 4 simple steps to successfully mark your attendance.",
-        "STEP1": "STEP 1",
+        "step1": "STEP 1",
         "title1": "Download iGOT app",
         "description1": "Download the app from the apple app store or google playstore",
         "STEP2": "STEP 2",

@@ -75,7 +75,7 @@
                     "active": true,
                     "key": "continueLearning",
                     "logo": "school",
-                    "title": "Continue Learning",
+                    "title": "continueLearning",
                     "customeClass": "mr-8",
                     "stripTitleLink": {
                       "link": "",
@@ -97,7 +97,7 @@
                     },
                     "viewMoreUrl": {
                       "path": "/app/seeAll",
-                      "viewMoreText": "Show all",
+                      "viewMoreText": "showAll",
                       "queryParams": {
                         "key": "continueLearning"
                       }
@@ -212,7 +212,7 @@
                 "strips": [
                   {
                     "key": "blendedprograms",
-                    "title": "Blended Programs",
+                    "title": "blendedPrograms",
                     "titleDescription": "Blended Programs",
                     "info": {
                       "mode": "below",
@@ -309,7 +309,7 @@
                 "strips": [
                   {
                     "key": "curatedProgram",
-                    "title": "Curated Programs",
+                    "title": "curatedPrograms",
                     "titleDescription": "Curated Programs",
                     "info": {
                       "mode": "below",
@@ -492,7 +492,7 @@
                 "strips": [
                   {
                     "key": "featuredCourses",
-                    "title": "Featured courses",
+                    "title": "featuredCourses",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -582,7 +582,7 @@
                 "strips": [
                   {
                     "key": "standaloneAssessment",
-                    "title": "Standalone Assessment",
+                    "title": "standaloneAssessment",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -600,7 +600,7 @@
                     },
                     "viewMoreUrl": {
                       "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
+                      "viewMoreText": "exploreAll",
                       "queryParams": {
                         "tab": "Learn",
                         "q": "",
@@ -695,7 +695,7 @@
                     },
                     "viewMoreUrl": {
                       "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
+                      "viewMoreText": "exploreAll",
                       "queryParams": {
                         "tab": "Learn",
                         "q": "{\"filterPanel\": [\"hide\"]}",
@@ -797,7 +797,7 @@
                     },
                     "viewMoreUrl": {
                       "path": "/app/globalsearch",
-                      "viewMoreText": "Explore all",
+                      "viewMoreText": "exploreAll",
                       "queryParams": {
                         "tab": "Learn",
                         "q": "{\"filterPanel\": [\"hide\"]}",
@@ -893,7 +893,7 @@
                     },
                     "viewMoreUrl": {
                       "path": "/app/globalsearch",
-                      "viewMoreText": "See all",
+                      "viewMoreText": "seeall",
                       "queryParams": {
                         "tab": "Learn",
                         "p": "Trending",
@@ -933,7 +933,7 @@
                 "strips": [
                   {
                     "key": "latest",
-                    "title": "Recently added",
+                    "title": "recentlyAdded",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",
@@ -1022,22 +1022,22 @@
   "ExploreButtons": [
     {
       "icon": "extension",
-      "name": "Explore by competency",
+      "name": "btnExplorebyCompetency",
       "route": "/app/learn/browse-by/competency/all-competencies"
     },
     {
       "icon": "scatter_plot",
-      "name": "Explore by provider",
+      "name": "btnExplorebyProvider",
       "route": "/app/learn/browse-by/provider/all-providers"
     },
     {
       "icon": "video_library",
-      "name": "Curated collections",
+      "name": "btnCuratedCollections",
       "route": "/app/curatedCollections/home"
     },
     {
       "icon": "video_library",
-      "name": "Moderated courses",
+      "name": "btnModeratedCourses",
       "route": "/app/globalsearch"
     }
   ]

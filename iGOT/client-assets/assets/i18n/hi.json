@@ -508,8 +508,8 @@
         "noresultfound": "कोई परिणाम नहीं मिला"
     },
     "knowledgeleftmenu": {
-        "AllKnowledgeresources": "सभी ज्ञान संसाधन",
-        "SavedKnowledgeresource": "सहेजा गया ज्ञान संसाधन"
+        "allKnowledgeResources": "सभी ज्ञान संसाधन",
+        "savedKnowledgeResource": "सहेजा गया ज्ञान संसाधन"
     },
     "knowledgesaved": {
         "search": "खोज",
@@ -542,11 +542,11 @@
         "comingSoon": "सुविधा जल्द ही आ रही है."
     },
     "settingLeftMenu": {
-        "GeneralSettings": "सामान्य सेटिंग्स",
-        "Notifications": "सूचनाएं",
-        "AccountandPassword": "खाता और पासवर्ड",
-        "Privacy": "गोपनीयता",
-        "'GetStarted'tour": "'आरंभ करें' यात्रा"
+        "generalSettings": "सामान्य सेटिंग्स",
+        "notifications": "सूचनाएं",
+        "accountAndPassword": "खाता और पासवर्ड",
+        "privacy": "गोपनीयता",
+        "getStartedTour": "'आरंभ करें' यात्रा"
     },
     "contact": {
         "headerForAnyTech" : "किसी भी तकनीकी समस्या के लिए कृपया संपर्क करें,",
@@ -632,28 +632,28 @@
         "noData": "No Data -hi"
     },
     "profileV2LeftMenu": {
-        "Profileinfo": "Profile info - hi",
-        "Certifications": "Certifications - hi",
-        "Careerhistory": "Career history - hi",
-        "Academics": "Academics - hi",
-        "Hobbies": "Hobbies - hi"
+        "profileInfo": "Profile info - hi",
+        "certifications": "Certifications - hi",
+        "careerHistory": "Career history - hi",
+        "academics": "Academics - hi",
+        "hobbies": "Hobbies - hi"
     },
     "profileCretificationsV2": {
-        "Certifications": "Certifications -hi",
+        "certifications": "Certifications -hi",
         "Issuedon": "Issued on - hi",
-        "CertificateNotissued": "Certificate Not issued - hi"
+        "certificateNotIssued": "Certificate Not issued - hi"
     },
     "profileV2Career": {
-        "Careerhistory": "Career history - hi",
+        "careerHistory": "Career history - hi",
         "joined": "Joined - hi",
-        "NoCareerInformation": "No career information available - hi"
+        "noCareerInformation": "No career information available - hi"
     },
     "profileV2Academics": {
-        "Academics": "Academics - hi",
+        "academics": "Academics - hi",
         "noInformation": "No Information Available - hi" 
     },
     "profileV2Hobbies": {
-        "Hobbies": "Hobbies - hi",
+        "hobbies": "Hobbies - hi",
         "noInformation": "No hobbies information available - hi" 
     },
     "publicHome": {
@@ -944,7 +944,7 @@
     },
     "searchfilters": {
         "filterSearch": "Filter search - hi",
-        "ContentType": "Content Type -hi",
+        "contentType": "Content Type -hi",
         "program": "Program -hi",
         "course": "Course -hi",
         "learningresource": "Learning Resource -hi",

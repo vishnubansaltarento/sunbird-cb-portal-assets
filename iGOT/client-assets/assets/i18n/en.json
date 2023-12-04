@@ -553,8 +553,8 @@
         "noresultfound": "No results found"
     },
     "knowledgeleftmenu": {
-        "AllKnowledgeresources": "All Knowledge resources",
-        "SavedKnowledgeresource": "Saved Knowledge resource"
+        "allKnowledgeResources": "All Knowledge resources",
+        "savedKnowledgeResource": "Saved Knowledge resource"
     },
     "knowledgesaved": {
         "search": "Search",
@@ -586,11 +586,11 @@
         "comingSoon": "Feature coming soon."
     },
     "settingLeftMenu": {
-        "GeneralSettings": "General Settings",
-        "Notifications": "Notifications",
-        "AccountandPassword": "Account and Password",
-        "Privacy": "Privacy",
-        "'GetStarted'tour": "'Get Started' tour"
+        "generalSettings": "General Settings",
+        "notifications": "Notifications",
+        "accountAndPassword": "Account and Password",
+        "privacy": "Privacy",
+        "getStartedTour": "'Get Started' tour"
     },
     "contact": {
         "headerForAnyTech" : "For any technical issues please contact,",
@@ -675,28 +675,28 @@
         "noData": "No Data"
     },
     "profileV2LeftMenu": {
-        "Profileinfo": "Profile info",
-        "Certifications": "Certifications",
-        "Careerhistory": "Career history",
-        "Academics": "Academics",
-        "Hobbies": "Hobbies"
+        "profileInfo": "Profile info",
+        "certifications": "Certifications",
+        "careerHistory": "Career history",
+        "academics": "Academics",
+        "hobbies": "Hobbies"
     },
     "profileCretificationsV2": {
-        "Certifications": "Certifications",
+        "certifications": "Certifications",
         "Issuedon": "Issued on ",
-        "CertificateNotissued": "Certificate Not issued"
+        "certificateNotIssued": "Certificate Not issued"
     },
     "profileV2Career": {
-        "Careerhistory": "Career history",
+        "careerHistory": "Career history",
         "joined": "Joined",
-        "NoCareerInformation": "No career information available"
+        "noCareerInformation": "No career information available"
     },
     "profileV2Academics": {
-        "Academics": "Academics",
+        "academics": "Academics",
         "noInformation": "No Information Available"
     },
     "profileV2Hobbies": {
-        "Hobbies": "Hobbies",
+        "hobbies": "Hobbies",
         "noInformation": "No hobbies information available " 
     },
     "publicHome": {
@@ -985,7 +985,7 @@
     },
     "searchfilters": {
         "filterSearch": "Filter search",
-        "ContentType": "Content Type",
+        "contentType": "Content Type",
         "program": "Program",
         "course": "Course",
         "learningresource": "Learning Resource",

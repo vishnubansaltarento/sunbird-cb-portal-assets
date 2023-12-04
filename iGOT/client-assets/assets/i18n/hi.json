@@ -461,6 +461,11 @@
         "contents": "Contents-HI",
         "details": "Details-HI"
     },
+    "player": {
+        "surveySubmitted": "Survey is submitted",
+        "page": "Page",
+        "of": "of"
+    },
     "network": {
         "tabNetworkHome": "नेटवर्क होम",
         "searchUser": "उपयोगकर्ता खोजें",

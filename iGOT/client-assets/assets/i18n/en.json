@@ -461,6 +461,11 @@
         "contents": "Contents",
         "details": "Details"
     },
+    "player": {
+        "surveySubmitted": "Survey is submitted",
+        "page": "Page",
+        "of": "of"
+    },
     "network": {
         "tabNetworkHome": "Network home",
         "searchUser": "Search User",

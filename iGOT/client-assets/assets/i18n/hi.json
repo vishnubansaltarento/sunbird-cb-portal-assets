@@ -118,23 +118,24 @@
         "selectYourInterests": "Select your interests"
     },
     "learn": {
-        "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",
-        "btnExplorebyprovider": "प्रदाता द्वारा अन्वेषण करें",
-        "btnCuratedcollections": "चुनिंदा संग्रह",
-        "btnModeratedcourses": "Moderated courses"
+        "btnExplorebyCompetency": "Explore by competency-HI",
+        "btnExplorebyProvider": "Explore by provider",
+        "btnCuratedCollections": "Curated collections",
+        "btnModeratedCourses": "Moderated courses"
     },
     "contentstripmultiple": {
-        "ContinueLearning": "सीखना जारी रखें",
-        "BlendedPrograms": "मिश्रित कार्यक्रम",
-        "CuratedPrograms": "क्यूरेटेड प्रोग्राम",
-        "Featuredcourses": "विशेष पाठ्यक्रम",
-        "StandaloneAssessment": "स्टैंडअलोन मूल्यांकन",
-        "Recentlyadded": "हाल ही में जोड़ा",
-        "Exploreall": "सभी का अन्वेषण करें",
-        "Seeall": "सभी देखें",
-        "contentnotavailable": "Content not available",
-        "trydifferentkeywords": "Please try different keywords or change the search query.",
-        "info": "जानकारी"
+        "continueLearning": "Continue Learning-HI",
+        "blendedPrograms": "Blended Programs-HI",
+        "curatedPrograms": "Curated Programs",
+        "featuredCourses": "Featured courses",
+        "standaloneAssessment": "Standalone Assessment",
+        "recentlyAdded": "Recently added",
+        "exploreAll": "Explore all",
+        "seeall": "See all",
+        "contentNotAvailable": "Content not available",
+        "tryDifferentKeywords": "Please try different keywords or change the search query.",
+        "info": "info",
+        "showAll": "Show all"
     },
     "cardcontentv2": {
         "viewdetails": "विवरण देखें",
@@ -285,8 +286,8 @@
         "afterbatchstartsmarkattendacethroughmobile": "After the batch starts, you will be able to mark the attendace through mobile."
     },
     "attendancehelper": {
-        "title": "Follow these 4 simple steps to successfully mark your attendance.",
-        "STEP1": "STEP 1",
+        "title": "Follow these 4 simple steps to successfully mark your attendance.- HI",
+        "step1": "STEP 1",
         "title1": "Download iGOT app",
         "description1": "Download the app from the apple app store or google playstore",
         "STEP2": "STEP 2",

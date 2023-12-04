@@ -66,6 +66,21 @@
         "needhelp": "Need Help",
         "profile": "Profile"
     },
+    "btnpageback": {
+        "home": "Home",
+        "hubs": "Hubs",
+        "noHubs": "No hubs Info Available",
+        "doMore": "Do more",
+        "knowledgeResources": "Knowledge resources",
+        "knowledgeResourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "dashboard": "Dashboard",
+        "dashboardSubtitle": "All your data represented as simple visualizations.",
+        "settings": "Settings",
+        "settingSubtitle": "Manage all your preferences hessssre",
+        "interests": "Interests",
+        "interestsSubtitle": "Manage topics of your interest and personalize your experience",
+        "quickLinks": "Quick links"
+    },
     "cardshublist": {
         "more": "अधिक",
         "nohubsinfoavailable": "No hubs Info Available",
@@ -97,6 +112,10 @@
         "extremelylikely": "Extremely likely",
         "submit": "Submit",
         "thanksforfeedback": "Thanks for the feedback. We are committed to consistently enhancing your learning experience."
+    },
+    "footercardnotify": {
+        "forPersonalizedLearning": "For a personalized learning experience",
+        "selectYourInterests": "Select your interests"
     },
     "learn": {
         "btnExplorebycompetency": "योग्यता के आधार पर अन्वेषण करें",

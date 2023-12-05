@@ -22,7 +22,7 @@
         "sortByName" : "Sort By Name",
         "connections":"connections",
         "connection":"connection",
-        "All" : "All",
+        "all" : "All",
         "search":"Search",
         "missionKarmyogi":"Mission Karmayogi",
         "accountAndAccess":"Account and access",
@@ -85,24 +85,25 @@
         "settingSubtitle": "Manage all your preferences hessssre",
         "interests": "Interests",
         "interestsSubtitle": "Manage topics of your interest and personalize your experience",
-        "quickLinks": "Quick links"
+        "quickLinks": "Quick links",
+        "details": "Details"
     },
     "cardshublist": {
         "more": "More",
-        "nohubsinfoavailable": "No hubs Info Available",
-        "domore": "Do more",
-        "knowledgeresources": "Knowledge resources",
-        "knowledgeresourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
+        "noHubs": "No hubs Info Available",
+        "doMore": "Do more",
+        "knowledgeResources": "Knowledge resources",
+        "knowledgeResourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
         "dashboard": "Dashboard",
         "dashboardSubtitle": "All your data represented as simple visualizations.",
         "settings": "Settings",
         "settingSubtitle": "Manage all your preferences hessssre",
-        "quicklinks": "Quick links",
-        "CBCPortaldesc": "Capacity Building Commission",
-        "CBPPortaldesc": "Create and manage CBPs here",
-        "MDOPortaldesc": "Manage MDO user access, work orders and events",
-        "FracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
-        "SPVPortaldesc": "Create and manage MDOs"
+        "quickLinks": "Quick links",
+        "cbcPortaldesc": "Capacity Building Commission",
+        "cbpPortaldesc": "Create and manage CBPs here",
+        "mdoPortaldesc": "Manage MDO user access, work orders and events",
+        "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
+        "spvPortaldesc": "Create and manage MDOs"
     },
     "footer": {
         "hubs": "Hubs",
@@ -1194,5 +1195,18 @@
     },
     "desiredcomptencycard": {
         "selectLevel": "Select level"
+    },
+    "weeklyclaps": {
+        "whatIsWeeklyClaps": "What is weekly claps?",
+        "weeklyClapsDesc": "Weekly Claps are a fun way to track your engagement on the platform. They reflect your commitment and activity levels.",
+        "whatToDo": "What should I do to maintain the claps?",
+        "spendAtLeast": "Spend at least",
+        "60mins": "60 minutes",
+        "engageWithPlatform": "engaging with the platform every week to maintain your claps.",
+        "whyDidILoose": "Why did I lose my claps?",
+        "ifYouFallShort": "If you fall short of the",
+        "engageRequired": "engagement requirement in a week, your claps count resets to zero.",
+        "weeklyClaps": "Weekly claps",
+        "weeks": "weeks"
     }
 }

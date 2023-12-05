@@ -426,7 +426,7 @@
     {
       "path": "/page/learn",
       "active": true,
-      "hubname": "Learn",
+      "hubname": "learn",
       "desc": "Sharpen your skills with hundreds-of online courses.",
       "icon": "school",
       "accessKey": "L",
@@ -438,7 +438,7 @@
     {
       "path": "/app/discuss/home",
       "active": true,
-      "hubname": "Discuss",
+      "hubname": "discuss",
       "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
@@ -448,7 +448,7 @@
     {
       "path": "/app/network-v2",
       "active": true,
-      "hubname": "Network",
+      "hubname": "network",
       "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
@@ -459,7 +459,7 @@
     {
       "path": "/app/careers/home",
       "active": true,
-      "hubname": "Career",
+      "hubname": "career",
       "desc": "Explore career options, grow in the path of your choice.",
       "icon": "work",
       "accessKey": "C",
@@ -469,7 +469,7 @@
     {
       "path": "/app/competencies",
       "active": true,
-      "hubname": "Competencies",
+      "hubname": "competencies",
       "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
@@ -479,7 +479,7 @@
     {
       "path": "/app/event-hub",
       "active": true,
-      "hubname": "Events",
+      "hubname": "events",
       "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",

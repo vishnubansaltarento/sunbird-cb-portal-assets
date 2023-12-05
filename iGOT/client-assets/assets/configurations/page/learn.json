@@ -151,7 +151,7 @@
                 "strips": [
                   {
                     "key": "moderatedCourses",
-                    "title": "Moderated Courses",
+                    "title": "moderatedCourses",
                     "titleDescription": "Moderated Courses",
                     "info": {
                       "mode": "below",

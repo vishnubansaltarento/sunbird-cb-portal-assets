@@ -135,6 +135,7 @@
         "blendedPrograms": "Blended Programs-HI",
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
+        "moderatedCourses": "Moderated Courses",
         "standaloneAssessment": "Standalone Assessment",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
@@ -142,7 +143,15 @@
         "contentNotAvailable": "Content not available",
         "tryDifferentKeywords": "Please try different keywords or change the search query.",
         "info": "info",
-        "showAll": "Show all"
+        "showAll": "Show all",
+        "blendedProgramsHtml": "Blended programs for you.",
+        "recentlyAddedHtml": "Recently added for you.",
+        "mandatoryCourses": "Mandatory courses",
+        "mandatoryCoursesHtml": "Mandatory courses for you",
+        "recommendedForYou": "Recommended for you",
+        "programs": "Programs",
+        "programsForYou": "Programs for you.",
+        "basedOnYourInterests": "Based on your interests"
     },
     "cardcontentv2": {
         "viewDetails": "विवरण देखें",
@@ -756,7 +765,13 @@
         "scannerSubtext":"Continue your lifelong learning experience anywhere anytime.",
         "scanToDownload":"Scan to Download",
         "nudgesText":"Update your mobile number",
-        "nudgesButton":"Update"
+        "nudgesButton":"Update",
+        "stripMyLearning": "My Learning",
+        "stripTrendingInDepartment": "Trending in your department",
+        "stripBlendedProgram": "Blended Program",
+        "stripTrendingAcrossDepartment": "Trending across department",
+        "stripLearningUnder": "Learning under 30 min",
+        "stripCertificationsOfWeek": "Certifications of the week"
     },
     "userProfile": {
         "home": "home - hi",
@@ -1164,6 +1179,19 @@
     },
     "desiredcomptencycard": {
         "selectLevel": "Select level - hi"
+    },
+    "weeklyclaps": {
+        "whatIsWeeklyClaps": "What is weekly claps?-HI",
+        "weeklyClapsDesc": "Weekly Claps are a fun way to track your engagement on the platform. They reflect your commitment and activity levels.",
+        "whatToDo": "What should I do to maintain the claps?",
+        "spendAtLeast": "Spend at least",
+        "60mins": "60 minutes",
+        "engageWithPlatform": "engaging with the platform every week to maintain your claps.",
+        "whyDidILoose": "Why did I lose my claps?",
+        "ifYouFallShort": "If you fall short of the",
+        "engageRequired": "engagement requirement in a week, your claps count resets to zero.",
+        "weeklyClaps": "Weekly claps",
+        "weeks": "weeks"
     }   
 
 }

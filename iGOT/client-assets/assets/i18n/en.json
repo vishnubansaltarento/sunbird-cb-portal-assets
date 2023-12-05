@@ -136,6 +136,7 @@
         "blendedPrograms": "Blended Programs",
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
+        "moderatedCourses": "Moderated Courses",
         "standaloneAssessment": "Standalone Assessment",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
@@ -143,7 +144,15 @@
         "contentNotAvailable": "Content not available",
         "tryDifferentKeywords": "Please try different keywords or change the search query.",
         "info": "info",
-        "showAll": "Show all"
+        "showAll": "Show all",
+        "blendedProgramsHtml": "Blended programs for you.",
+        "recentlyAddedHtml": "Recently added for you.",
+        "mandatoryCourses": "Mandatory courses",
+        "mandatoryCoursesHtml": "Mandatory courses for you",
+        "recommendedForYou": "Recommended for you",
+        "programs": "Programs",
+        "programsForYou": "Programs for you.",
+        "basedOnYourInterests": "Based on your interests"
     },
     "cardcontentv2": {
         "viewDetails": "View details",
@@ -789,7 +798,13 @@
         "scannerSubtext":"Continue your lifelong learning experience anywhere anytime.",
         "scanToDownload":"Scan to Download",
         "nudgesText":"Update your mobile number",
-        "nudgesButton":"Update"
+        "nudgesButton":"Update",
+        "stripMyLearning": "My Learning",
+        "stripTrendingInDepartment": "Trending in your department",
+        "stripBlendedProgram": "Blended Program",
+        "stripTrendingAcrossDepartment": "Trending across department",
+        "stripLearningUnder": "Learning under 30 min",
+        "stripCertificationsOfWeek": "Certifications of the week"
     },
     "userProfile": {
         "home": "home",
@@ -1208,5 +1223,13 @@
         "engageRequired": "engagement requirement in a week, your claps count resets to zero.",
         "weeklyClaps": "Weekly claps",
         "weeks": "weeks"
+    },
+    "hubsdesc": {
+        "learnDesc": "Sharpen your skills with hundreds-of online courses.",
+        "discussDesc": "Have a question? Have an Idea? discuss with your peers.",
+        "networkDesc": "Connect with interesting people, see what they are upto.",
+        "careerDesc": "Explore career options, grow in the path of your choice.",
+        "competenciesDesc": "Add your competencies, see what others are adding.",
+        "eventsDesc": "Add your events."
     }
 }

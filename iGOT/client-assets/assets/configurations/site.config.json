@@ -253,6 +253,19 @@
       "left": [],
       "right": [
         {
+          "type": "karmapointtext",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "Karma points",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_home",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "downloadButton",
           "config": {
             "actionBtnId": "feature_home",

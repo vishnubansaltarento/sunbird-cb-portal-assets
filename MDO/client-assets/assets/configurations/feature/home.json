@@ -160,7 +160,7 @@
                 },
                 {
                     "name": "Training Plan",
-                    "key": "training-plan",
+                    "key": "training-plan-dashboard",
                     "fragment": false,
                     "render": true,
                     "badges": {
@@ -168,7 +168,7 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/training-plan",
+                    "routerLink": "/app/home/training-plan-dashboard",
                     "requiredRoles": [
                         "admin",
                         "mdo_admin",

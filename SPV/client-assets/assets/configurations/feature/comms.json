@@ -1,0 +1,30 @@
+{
+  "comms": {
+    "buckets": [
+      {
+        "name": "Top 20 MDO's by content completion",
+        "key": "row1"
+      },
+      {
+        "name": "Top 60 users by content completion in the last 15 days",
+        "key": "row2"
+      },
+      {
+        "name": "User onboarded anytime but not signed up for my content",
+        "key": "row3"
+      },
+      {
+        "name": "User onboarded in the last 15 days but not signed up for my content",
+        "key": "row4"
+      },
+      {
+        "name": "Users who successfully finished the entire Prarambh module",
+        "key": "row5"
+      },
+      {
+        "name": "Users who completed 6 Prarambh courses but are pending fully completion",
+        "key": "row6"
+      }
+    ]
+  }
+}

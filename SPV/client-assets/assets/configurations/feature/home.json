@@ -160,22 +160,6 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
-                },
-                {
-                    "name": "Comms buckets",
-                    "key": "comms-buckets",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/comms-buckets",
-                    "requiredRoles": [
-                        "SPV_ADMIN",
-                        "spv_admin"
-                    ]
                 }
             ]
         }

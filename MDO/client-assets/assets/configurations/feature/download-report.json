@@ -33,5 +33,12 @@
         "reportType": "Detailed data report",
         "downloadReportFileName":"UserAssessmentReport",
         "enabled": true
+    },
+    {
+        "name": "Blended Program Report",
+        "type": "blended-program-report-mdo",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"BlendedProgramReport",
+        "enabled": true
     }
 ]

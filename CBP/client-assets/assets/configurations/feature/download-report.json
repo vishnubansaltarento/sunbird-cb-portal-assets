@@ -26,5 +26,12 @@
         "reportType": "Detailed data report",
         "downloadReportFileName":"CBPReport",
         "enabled": false
+    },
+    {
+        "name": "Blended Program Report",
+        "type": "blended-program-report-cbp",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"BlendedProgramReport",
+        "enabled": true
     }
 ]

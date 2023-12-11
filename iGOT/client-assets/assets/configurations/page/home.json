@@ -1001,7 +1001,7 @@
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
-        "customeClass": "mr-8",
+        "customeClass": "mr-5",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1025,6 +1025,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait"
           }
         },
         "tabs": [
@@ -1087,6 +1093,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait"
           }
         },
         "loader": true,
@@ -1100,7 +1112,7 @@
             "computeDataOnClick": false,
             "computeDataOnClickKey": "",
             "requestRequired": true,
-            "showTabDataCount": false,
+            "showTabDataCount": true,
             "maxWidgets": 12,
             "nodataMsg": "You will find trending courses here.",
             "request": {
@@ -1189,6 +1201,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "blendedPrograms"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1273,6 +1291,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "trendingAcrossDepartment"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "loader": true,
@@ -1375,6 +1399,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "learnUnder30Min"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1426,6 +1456,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "certificationsOfWeek"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],

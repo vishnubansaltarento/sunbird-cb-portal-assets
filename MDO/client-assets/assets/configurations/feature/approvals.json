@@ -226,6 +226,11 @@
       "enabled": true
     },
     {
+      "name": "Group",
+      "key": "group",
+      "enabled": true
+    },
+    {
       "name": "Complete postal address",
       "key": "completePostalAddress",
       "enabled": true

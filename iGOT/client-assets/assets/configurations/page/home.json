@@ -1050,7 +1050,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 12,
-            "nodataMsg": "You don’t have any new course in completed."
+            "nodataMsg": "You will find your Completed Courses/Program here."
           }
         ],
         "filters": [],

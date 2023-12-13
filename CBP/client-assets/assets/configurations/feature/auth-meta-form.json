@@ -446,7 +446,7 @@
     },
     "type": "string"
   },
-  "competencies_v4": {
+  "competencies_v5": {
     "defaultValue": {
       "Collection": [
         {

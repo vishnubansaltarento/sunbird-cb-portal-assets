@@ -145,9 +145,9 @@
                   {
                     "key": "continueLearning",
                     "logo": "school",
-                    "title": "Learn1",
+                    "title": "Learn",
                     "stripBackground": "assets/instances/eagle/background/learn.svg",
-                    "titleDescription": "Continue learning1",
+                    "titleDescription": "Continue learning",
                     "stripConfig": {
                       "cardSubType": "standard"
                     },
@@ -163,7 +163,7 @@
                         "queryParams": {
                           "orgdetails": "orgName,email",
                           "licenseDetails": "name,description,url",
-                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,avgRating,license,programDuration",
                           "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
                         }
                       }
@@ -318,7 +318,8 @@
                             "creatorLogo",
                             "duration",
                             "version",
-                            "programDuration"
+                            "programDuration",
+                            "avgRating"
                           ]
                         }
                       }
@@ -785,7 +786,7 @@
     "profileStats": [
       {
           "icon":"/assets/icons/home/video-play.svg",
-          "label":"In progress",
+          "label":"In Progress",
           "enable": true,
           "key": "inProgress",
           "value": 0 
@@ -806,7 +807,7 @@
       },
       {
           "icon":"/assets/icons/home/inProgress.svg",
-          "label":"In progress",
+          "label":"In Progress",
           "enable": false,
           "key": "inProgress",
           "value": 0 
@@ -1000,7 +1001,7 @@
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
-        "customeClass": "mr-8",
+        "customeClass": "mr-5",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1010,9 +1011,9 @@
           "cardSubType": "card-portrait-skeleton"
         },
         "sliderConfig": {
-          "showNavs" : false,
+          "showNavs" : true,
           "showDots": false,
-          "maxWidgets": 2
+          "maxWidgets": 12
         },
         "stripBackground": "",
         "titleDescription": "My Learning",
@@ -1024,17 +1025,23 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait"
           }
         },
         "tabs": [
           {
-            "label": "In progress",
+            "label": "In Progress",
             "value": "inprogress",
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2,
-            "nodataMsg": "You will find your in progress content here."
+            "maxWidgets": 12,
+            "nodataMsg": "You don’t have any new course in progress."
           },
           {
             "label": "Completed",
@@ -1042,8 +1049,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 2,
-            "nodataMsg": "You will find your completed content here."
+            "maxWidgets": 12,
+            "nodataMsg": "You will find your Completed Courses/Program here."
           }
         ],
         "filters": [],
@@ -1066,7 +1073,7 @@
         "active": true,
         "key": "trendingInDepartment",
         "logo": "school",
-        "title": "Trending in your department",
+        "title": "Trending in Your Department",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1077,7 +1084,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending in your department",
+        "titleDescription": "Trending in Your Department",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1085,7 +1092,13 @@
           "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
-            "key": "continueLearning"
+            "key": "trendingInDepartment"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "loader": true,
@@ -1188,6 +1201,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "blendedPrograms"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1252,7 +1271,7 @@
         "active": true,
         "key": "trendingAcrossDepartment",
         "logo": "school",
-        "title": "Trending across department",
+        "title": "Trending Across Department",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1263,7 +1282,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending across department",
+        "titleDescription": "Trending Across Department",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1272,6 +1291,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "trendingAcrossDepartment"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "loader": true,
@@ -1350,7 +1375,7 @@
         "active": true,
         "key": "learnUnder30Min",
         "logo": "school",
-        "title": "Learning under 30 min",
+        "title": "Learning Under 30 Min",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1365,7 +1390,7 @@
           "cardSubType": "card-standard-skeleton"
         },
         "stripBackground": "",
-        "titleDescription": "Learning under 30 min",
+        "titleDescription": "Learning Under 30 Min",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1374,6 +1399,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "learnUnder30Min"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1401,7 +1432,7 @@
         "active": true,
         "key": "certificationsOfWeek",
         "logo": "school",
-        "title": "Certifications of the week",
+        "title": "Certifications of the Week",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1413,7 +1444,7 @@
         },
         "loader": true,
         "stripBackground": "",
-        "titleDescription": "Certifications of the week",
+        "titleDescription": "Certifications of the Week",
         "stripConfig": {
           "cardSubType": "card-wide-v2"
         },
@@ -1425,6 +1456,12 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "certificationsOfWeek"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],

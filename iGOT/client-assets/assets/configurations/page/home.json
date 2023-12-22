@@ -993,8 +993,58 @@
       }
     }
   },
-  "homeStrips":  [{
-    "order":1,
+  "homeStrips":  [
+    {
+      "order":1,
+      "strips": [
+        {        
+          "active": true,
+          "key": "myCbp",
+          "logo": "school",
+          "title": "My iGOT",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs" : true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "stripBackground": "",
+          "titleDescription": "Blended Program",
+          "stripConfig": {
+            "cardSubType": "standard",
+            "hideShowAll": true
+          },
+          "viewMoreUrl": {
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                      "acbp"
+                  ],
+                  "organisation": "<orgID>",
+                  "designation": "<designation>"
+                },
+                  "limit": 50
+              },
+              "responseKey": "acbp"
+            }
+          }
+        }
+       
+      ]},
+    {
+    "order":2,
     "strips": [
       {        
         "active": true,
@@ -1050,7 +1100,7 @@
             "showTabDataCount": true,
             "requestRequired": false,
             "maxWidgets": 12,
-            "nodataMsg": "You don’t have any new course in completed."
+            "nodataMsg": "You will find your Completed Courses/Program here."
           }
         ],
         "filters": [],
@@ -1067,7 +1117,7 @@
         }
       }      
     ]},{
-    "order":2,
+    "order":3,
     "strips": [
       {        
         "active": true,
@@ -1171,7 +1221,7 @@
       }
       
     ]},{
-    "order":3,
+    "order":4,
     "strips": [
       {        
         "active": true,
@@ -1265,7 +1315,7 @@
       }
      
     ]},{
-      "order":4,
+      "order":5,
     "strips": [
       {
         "active": true,
@@ -1369,7 +1419,7 @@
       }
       
     ]},{
-      "order":5,
+      "order":6,
     "strips": [
       {        
         "active": true,
@@ -1426,7 +1476,7 @@
       }
       
     ]},{
-      "order":6,
+      "order":7,
     "strips": [
       {
         "active": true,

@@ -1,0 +1,88 @@
+{
+    "cbpConfig" : {
+        "insightOnRight": {
+          "active" : false
+        },
+        "leftSection" : {
+          "active":  true
+        },
+        "rightSection": {
+          "active":  true
+        }
+      },
+      "cbpStrips":  [{
+        "order":1,
+        "strips": [
+          {        
+            "active": true,
+            "key": "continueLearning",
+            "logo": "school",
+            "title": "My Learning",
+            "customeClass": "mr-5",
+            "stripTitleLink": {
+              "link": "",
+              "icon": ""
+            },
+            "loader": true,
+            "loaderConfig": {
+              "cardSubType": "card-portrait-skeleton"
+            },
+            "sliderConfig": {
+              "showNavs" : true,
+              "showDots": false,
+              "maxWidgets": 2
+            },
+            "stripBackground": "",
+            "titleDescription": "My Learning",
+            "stripConfig": {
+              "cardSubType": "card-portrait"
+            },
+            "viewMoreUrl": {
+              "path": "/app/seeAll",
+              "viewMoreText": "Show all",
+              "queryParams": {
+                "key": "continueLearning"
+              },
+              "loaderConfig": {
+                "cardSubType": "card-portrait-skeleton"
+              },
+              "stripConfig": {
+                "cardSubType": "card-portrait"
+              }
+            },
+            "tabs": [
+              {
+                "label": "In Progress",
+                "value": "inprogress",
+                "computeDataOnClick": false,
+                "showTabDataCount": true,
+                "requestRequired": false,
+                "maxWidgets": 12,
+                "nodataMsg": "You don’t have any new course in progress."
+              },
+              {
+                "label": "Completed",
+                "value": "completed",
+                "computeDataOnClick": false,
+                "showTabDataCount": true,
+                "requestRequired": false,
+                "maxWidgets": 12,
+                "nodataMsg": "You will find your Completed Courses/Program here."
+              }
+            ],
+            "filters": [],
+            "request": {
+              "enrollmentList": {
+                "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+                "queryParams": {
+                  "orgdetails": "orgName,email",
+                  "licenseDetails": "name,description,url",
+                  "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
+                  "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                }
+              }
+            }
+          }      
+        ]}
+      ]
+}

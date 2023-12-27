@@ -1731,8 +1731,13 @@
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f6df809-6930-44f4-abcf-c8297363d3e0.png",
-      "clientName": "Department of Personnel and Training DoPT",
+      "clientName": "Department of Expenditure",
       "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Expenditure%20/all-CBP"
+    },
+    {
+      "clientImageUrl": "assets/icons/top-providers/dopt.png",
+      "clientName": "Department of Personnel and Training DoPT",
+      "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Personnel%20and%20Training%20DoPT/all-CBP"
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f8cab8e-9d22-44ba-a41e-83b907e5a5f0.jpeg",

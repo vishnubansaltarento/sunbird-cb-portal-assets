@@ -1647,14 +1647,53 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
       },
       "redirectUrl": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    },
+    {
+      "active": true,
+      "banners": {
+        "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png"
+      },
+      "redirectUrl": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": "" 
+    },
+
+    {
+      "active": true,
+      "banners": {
+        "l": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/3/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png"
+      },
+      "redirectUrl": "",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1692,8 +1731,13 @@
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f6df809-6930-44f4-abcf-c8297363d3e0.png",
-      "clientName": "Department of Personnel and Training DoPT",
+      "clientName": "Department of Expenditure",
       "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Expenditure%20/all-CBP"
+    },
+    {
+      "clientImageUrl": "assets/icons/top-providers/dopt.png",
+      "clientName": "Department of Personnel and Training DoPT",
+      "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Personnel%20and%20Training%20DoPT/all-CBP"
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f8cab8e-9d22-44ba-a41e-83b907e5a5f0.jpeg",

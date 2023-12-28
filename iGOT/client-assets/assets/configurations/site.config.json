@@ -469,7 +469,7 @@
     {
       "path": "/app/competencies",
       "active": true,
-      "hubname": "Competencies",
+      "hubname": "Competency",
       "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
@@ -479,7 +479,7 @@
     {
       "path": "/app/event-hub",
       "active": true,
-      "hubname": "Events",
+      "hubname": "Event",
       "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",

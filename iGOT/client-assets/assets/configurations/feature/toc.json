@@ -185,5 +185,56 @@
     ],
     "helpText": "If you’re facing the problem in marking the attendance, please contact your program coordinator"
   },
+  "karmaPoints": [
+    {
+      "displayButton": "Enroll",
+      "textBeforeIcon": "Earn",
+      "points": "5 Karma Points",
+      "textAfterIcon": "for your 1st course enrolment.",
+      "toolTipText": "Note: This is only applicable for your first enrolment."
+    },
+    {
+      "displayButton": "Start",
+      "textBeforeIcon": "Earn",
+      "points": "5 Karma Points",
+      "textAfterIcon": "by completing this course.",
+      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+    },
+    {
+      "displayButton": "Resume",
+      "textBeforeIcon": "Earn",
+      "points": "5 Karma Points",
+      "textAfterIcon": "by completing this course.",
+      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+    },
+    {
+      "displayButton": "Rate this course",
+      "textBeforeIcon": "Earn",
+      "points": "2 more Karma Points",
+      "textAfterIcon": ", rate this course!",
+      "toolTipText": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE."
+    },
+    {
+      "displayButton": "Edit rating",
+      "textBeforeIcon": "Congrats! You've rated the course and earned",
+      "points": "2 Karma Points",
+      "textAfterIcon": "",
+      "toolTipText": ""
+    },
+    {
+      "displayButton": "Take Assessment",
+      "textBeforeIcon": "Complete The Assessment To Earn ",
+      "points": "5 Karma Points",
+      "textAfterIcon": "",
+      "toolTipText": "Here's 5 extra Karma Points for successfully completing all final assessments"
+    },
+    {
+      "displayButton": "Start again",
+      "textBeforeIcon": "Congrats! You've Completed The Course And Earned",
+      "points": "5 Karma Points",
+      "textAfterIcon": "",
+      "toolTipText": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
+    }
+  ],
   "ScormProgressThreshold": 20
 }

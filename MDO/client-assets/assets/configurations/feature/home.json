@@ -157,6 +157,23 @@
                         "mdo_admin",
                         "mdo_leader"
                     ]
+                },
+                {
+                    "name": "Training Plan",
+                    "key": "training-plan-dashboard",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/training-plan-dashboard",
+                    "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                    ]
                 }
             ]
         }

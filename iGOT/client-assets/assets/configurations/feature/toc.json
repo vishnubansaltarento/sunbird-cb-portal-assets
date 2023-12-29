@@ -234,6 +234,13 @@
       "points": "5 Karma Points",
       "textAfterIcon": "",
       "toolTipText": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
+    },
+    {
+      "displayButton": "ACBP",
+      "textBeforeIcon": "Claim",
+      "points": "10 Karma Points",
+      "textAfterIcon": "",
+      "toolTipText": ""
     }
   ],
   "ScormProgressThreshold": 20

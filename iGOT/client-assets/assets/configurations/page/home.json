@@ -995,54 +995,84 @@
   },
   "homeStrips":  [
     {
-      "order":1,
+      "order": 1,
       "strips": [
-        {        
+        {
           "active": true,
-          "key": "myCbp",
+          "key": "cbpPlan",
           "logo": "school",
-          "title": "My iGOT",
+          "title": "My CBP Plans",
+          "customeClass": "mr-5",
           "stripTitleLink": {
             "link": "",
             "icon": ""
-          },
-          "sliderConfig": {
-            "showNavs" : true,
-            "showDots": true,
-            "maxWidgets": 12
-          },
+          },	
           "loader": true,
           "loaderConfig": {
             "cardSubType": "card-standard-skeleton"
           },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": false,
+            "maxWidgets": 12
+          },
           "stripBackground": "",
-          "titleDescription": "Blended Program",
+          "titleDescription": "My Learning",
           "stripConfig": {
-            "cardSubType": "standard",
-            "hideShowAll": true
+            "cardSubType": "card-standard"
           },
           "viewMoreUrl": {
+            "path": "/page/cbp",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "cbpPlan"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-standard-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-standard"
+            }
           },
-          "tabs": [],
+          "tabs": [
+            {
+              "label": "All",
+              "value": "all",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any new course in progress."
+            },
+            {
+              "label": "Upcoming",
+              "value": "upcoming",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find your Completed Courses/Program here."
+            },
+            {
+              "label": "Overdue",
+              "value": "overdue",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find your Completed Courses/Program here."
+            }
+          ],
           "filters": [],
           "request": {
-            "trendingSearch": {
-              "request": {
-                "filters": {
-                  "contextType": [
-                      "acbp"
-                  ],
-                  "organisation": "<orgID>",
-                  "designation": "<designation>"
-                },
-                  "limit": 12
-              },
-              "responseKey": "acbp"
+            "cbpList": {
+              "path": "/apis/proxies/v8/user/v1/cbplan/<userId>"
             }
           }
         }
-       
-      ]},
+      ]
+    },
+
     {
     "order":2,
     "strips": [
@@ -1647,14 +1677,53 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
       },
       "redirectUrl": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    },
+    {
+      "active": true,
+      "banners": {
+        "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png"
+      },
+      "redirectUrl": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": "" 
+    },
+
+    {
+      "active": true,
+      "banners": {
+        "l": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/3/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png"
+      },
+      "redirectUrl": "",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",

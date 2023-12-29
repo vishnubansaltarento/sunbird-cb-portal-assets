@@ -370,7 +370,7 @@
             "key": "continueLearning",
             "icon": "learn",
             "path": "/app/seeAll",
-            "label": "my learnings"
+            "label": "my learning"
           }
         }
 

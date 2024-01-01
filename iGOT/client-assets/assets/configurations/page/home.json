@@ -1013,7 +1013,7 @@
           },
           "sliderConfig": {
             "showNavs": true,
-            "showDots": false,
+            "showDots": true,
             "maxWidgets": 12
           },
           "stripBackground": "",

@@ -261,7 +261,7 @@
       "enabled": true
     },
     {
-      "name": "Verified Karmayogi",
+      "name": "Do you want to recognize this user as a Verified Karmayogi?",
       "key": "verifiedKarmayogi",
       "enabled": true
     }

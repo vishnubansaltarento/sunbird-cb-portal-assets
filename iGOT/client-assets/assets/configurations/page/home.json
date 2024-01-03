@@ -1013,7 +1013,7 @@
           },
           "sliderConfig": {
             "showNavs": true,
-            "showDots": false,
+            "showDots": true,
             "maxWidgets": 12
           },
           "stripBackground": "",
@@ -1051,7 +1051,7 @@
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will find your Completed Courses/Program here."
+              "nodataMsg": "You will see all the content for which the due date is within 30 days."
             },
             {
               "label": "Overdue",
@@ -1060,7 +1060,7 @@
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will find your Completed Courses/Program here."
+              "nodataMsg": "You will see all the content for which the due date has passed here."
             }
           ],
           "filters": [],

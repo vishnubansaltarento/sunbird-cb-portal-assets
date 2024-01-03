@@ -95,7 +95,7 @@
         },	
         "loader": true,
         "loaderConfig": {
-          "cardSubType": "card-wide-v2-skeleton"
+          "cardSubType": "card-wide-v2-skelton"
         },
         "sliderConfig": {
           "showNavs": true,
@@ -113,10 +113,55 @@
             "key": "cbpPlan"
           },
           "loaderConfig": {
-            "cardSubType": "card-wide-v2-skeleton"
+            "cardSubType": "card-wide-v2-skelton"
           },
           "stripConfig": {
             "cardSubType": "card-wide-v2"
+          }
+        },
+        "tabs": [
+        ],
+        "filters": [],
+        "request": {
+          "cbpList": {
+            "path": "/apis/proxies/v8/user/v1/cbplan/<userId>"
+          }
+        }
+      },
+      "cbpFeedMobileStrip":  {
+        "active": true,
+        "key": "cbpPlan",
+        "logo": "school",
+        "title": "My CBP Plans",
+        "customeClass": "mr-5",
+        "stripTitleLink": {
+          "link": "",
+          "icon": ""
+        },	
+        "loader": true,
+        "loaderConfig": {
+          "cardSubType": "card-portrait-click-skeleton"
+        },
+        "sliderConfig": {
+          "showNavs": true,
+          "showDots": false
+        },
+        "stripBackground": "",
+        "titleDescription": "My Learning",
+        "stripConfig": {
+          "cardSubType": "card-portrait-click"
+        },
+        "viewMoreUrl": {
+          "path": "/page/cbp",
+          "viewMoreText": "Show all",
+          "queryParams": {
+            "key": "cbpPlan"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [

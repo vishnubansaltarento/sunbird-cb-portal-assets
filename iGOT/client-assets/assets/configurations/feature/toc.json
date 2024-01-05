@@ -223,14 +223,14 @@
     },
     {
       "displayButton": "Take Assessment",
-      "textBeforeIcon": "Complete The Assessment To Earn ",
+      "textBeforeIcon": "Complete the assessment to earn ",
       "points": "5 Karma Points",
       "textAfterIcon": "",
       "toolTipText": "Here's 5 extra Karma Points for successfully completing all final assessments"
     },
     {
       "displayButton": "Start again",
-      "textBeforeIcon": "Congrats! You've Completed The Course And Earned",
+      "textBeforeIcon": "Congrats! You've completed the course and earned",
       "points": "5 Karma Points",
       "textAfterIcon": "",
       "toolTipText": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."

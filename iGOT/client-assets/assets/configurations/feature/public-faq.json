@@ -155,7 +155,22 @@
                     "value": "<p class='mat-body-2'><ng-container i18n>Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary.</ng-container> </p> "
                 }
             ]
+        },
+        {
+            "fragment": "KarmaPoints",
+            "title": "Karma Points",
+            "contents": [
+                {
+                    "heading": "How do you earn Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Karma Points are gamified points that would be awarded to the user/Learner after completion of a course.</ng-container> </p> "
+                },
+                {
+                    "heading": "What is a ACBP course?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>ACBP course is a mandatory course to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details.</ng-container> </p> "
+                }
+            ]
         }
+
    ]
     
 }

@@ -159,7 +159,7 @@
                     ]
                 },
                 {
-                    "name": "Training Plan",
+                    "name": "Training plan",
                     "key": "training-plan-dashboard",
                     "fragment": false,
                     "render": true,

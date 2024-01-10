@@ -100,6 +100,18 @@
                     },
                     "enabled": true,
                     "routerLink": "/app/home/reports-section"
+                },
+                {
+                    "name": "Training plan",
+                    "key": "training-plan-dashboard",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/training-plan-dashboard"
                 }
             ]
         }

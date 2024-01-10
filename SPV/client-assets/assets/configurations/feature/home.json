@@ -178,7 +178,7 @@
                     ]
                 },
                 {
-                    "name": "Capacity Building Reports",
+                    "name": "Capacity building reports",
                     "key": "capacity-building-reports",
                     "fragment": false,
                     "render": true,

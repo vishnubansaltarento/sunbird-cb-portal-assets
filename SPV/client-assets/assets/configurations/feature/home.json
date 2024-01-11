@@ -176,6 +176,22 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
+                },
+                {
+                    "name": "Capacity building reports",
+                    "key": "capacity-building-reports",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/capacity-building-reports",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
         }

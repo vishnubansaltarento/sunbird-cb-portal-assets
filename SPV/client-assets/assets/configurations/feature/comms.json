@@ -30,16 +30,6 @@
         "name": "Users who completed 6 Prarambh courses but are pending full completion",
         "key": "prarambhUsers6Completions.csv",
         "enable": true
-      },
-      {
-        "name": "User Exhaust",
-        "key": "ACBPUserSummaryReport.csv",
-        "enable": true
-      },
-      {
-        "name": "Enrollment Exhaust",
-        "key": "ACBPEnrollmentReport.csv",
-        "enable": true
       }
     ]
   }

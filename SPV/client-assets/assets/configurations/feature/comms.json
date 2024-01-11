@@ -2,12 +2,12 @@
   "comms": {
     "buckets": [
       {
-        "name": "Top 20 MDOs by content completion",
+        "name": "All MDOs by content completion",
         "key": "topMdoCompletionRatio.csv",
         "enable": true
       },
       {
-        "name": "Top 60 Users by content completion in the last 15 days",
+        "name": "Top 1 Lakh Users by content completion in the last 15 days",
         "key": "topNRecentCompletions.csv",
         "enable": true
       },

@@ -1212,16 +1212,16 @@
         "selectLevel": "Select level"
     },
     "weeklyclaps": {
-        "whatIsWeeklyClaps": "What is weekly claps?",
+        "whatIsWeeklyClaps": "What is Weekly Claps?",
         "weeklyClapsDesc": "Weekly Claps are a fun way to track your engagement on the platform. They reflect your commitment and activity levels.",
         "whatToDo": "What should I do to maintain the claps?",
-        "spendAtLeast": "Spend at least",
+        "spendAtLeast": "Simply spend a minimum of ",
         "60mins": "60 minutes",
-        "engageWithPlatform": "engaging with the platform every week to maintain your claps.",
+        "engageWithPlatform": "engaging on the platform each week to maintain your claps.",
         "whyDidILoose": "Why did I lose my claps?",
-        "ifYouFallShort": "If you fall short of the",
-        "engageRequired": "engagement requirement in a week, your claps count resets to zero.",
-        "weeklyClaps": "Weekly claps",
+        "ifYouFallShort": "If you engage less than ",
+        "engageRequired": "in a week, your claps count resets to Zero.",
+        "weeklyClapsTitle": "Weekly Claps",
         "weeks": "weeks"
     },
     "hubsdesc": {

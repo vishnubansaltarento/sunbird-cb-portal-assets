@@ -253,6 +253,19 @@
       "left": [],
       "right": [
         {
+          "type": "karmapointtext",
+          "config": {
+            "actionBtnId": "feature_mydashboard",
+            "toolTip": "Karma points",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_home",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "downloadButton",
           "config": {
             "actionBtnId": "feature_home",
@@ -469,7 +482,7 @@
     {
       "path": "/app/competencies",
       "active": true,
-      "hubname": "competencies",
+      "hubname": "Competency",
       "desc": "Add your competencies, see what others are adding.",
       "icon": "extension",
       "accessKey": "O",
@@ -479,7 +492,7 @@
     {
       "path": "/app/event-hub",
       "active": true,
-      "hubname": "events",
+      "hubname": "Event",
       "desc": "Add your events.",
       "icon": "event",
       "accessKey": "E",

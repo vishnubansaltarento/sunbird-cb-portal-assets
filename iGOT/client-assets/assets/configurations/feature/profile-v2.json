@@ -86,6 +86,24 @@
             }
         },
         {
+            "name": "Karma Points",
+            "key": "karmapoints",
+            "dataKey": "karmapoints",
+            "render": true,
+            "badges": {
+                "enabled": false,
+                "uri": ""
+            },
+            "enabled": true,
+            "routerLink": ".",
+            "widget": {
+                "widgetType": "profilev2",
+                "widgetSubType": "karmapoints",
+                "widgetHostClass": "margin-bottom-l",
+                "widgetData": {}
+            }
+        },
+        {
             "name": "Your Competencies",
             "key": "competencies",
             "dataKey": "",

@@ -28,8 +28,8 @@
         "enabled": false
     },
     {
-        "name": "Blended Program Attendance Report",
-        "type": "standalone-reports/blended-program-report-cbp",
+        "name": "Blended Program Report",
+        "type": "blended-program-report-cbp",
         "reportType": "Detailed data report",
         "downloadReportFileName":"BlendedProgramReport",
         "enabled": true

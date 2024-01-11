@@ -35,10 +35,24 @@
         "enabled": true
     },
     {
-        "name": "Blended Program Attendance Report",
-        "type": "standalone-reports/blended-program-report-mdo",
+        "name": "Blended Program Report",
+        "type": "blended-program-report-mdo",
         "reportType": "Detailed data report",
         "downloadReportFileName":"BlendedProgramReport",
+        "enabled": true
+    },
+    {
+        "name": "Capacity Building Report User Exhaust",
+        "type": "acbp-report-mdo-summary",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"ACBPUserSummaryReport",
+        "enabled": true
+    },
+    {
+        "name": "Capacity Building Report Enrollment Exhaust",
+        "type": "acbp-report-mdo-enrolment",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"ACBPEnrollmentReport",
         "enabled": true
     }
 ]

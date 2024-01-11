@@ -226,6 +226,11 @@
       "enabled": true
     },
     {
+      "name": "Group",
+      "key": "group",
+      "enabled": true
+    },
+    {
       "name": "Complete postal address",
       "key": "completePostalAddress",
       "enabled": true
@@ -256,7 +261,7 @@
       "enabled": true
     },
     {
-      "name": "Verified Karmayogi",
+      "name": "Do you want to recognize this user as a Verified Karmayogi?",
       "key": "verifiedKarmayogi",
       "enabled": true
     }

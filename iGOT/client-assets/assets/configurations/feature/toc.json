@@ -108,11 +108,11 @@
   },
   "overview": {
     "description": {
-      "displayName": "Summary",
+      "displayName": "summary",
       "enabled": true
     },
     "body": {
-      "displayName": "Description",
+      "displayName": "description",
       "enabled": true
     },
     "learningObjective": {
@@ -156,34 +156,34 @@
   "BatchEnrollWithdrawMsg": "Your request to withdraw from this blended program has been successfully processed.",
   "BatchListExpiredMsg": "You can't enroll into this blended program.",
   "attendenceHelp": {
-    "title": "Follow these 4 simple steps to successfully mark your attendance.",
+    "title": "title",
     "steps": [
       {
-        "step": "STEP 1",
+        "step": "step1",
         "img": "/assets/icons/attendance_step1.svg",
-        "title": "Download iGOT app",
-        "description": "Download the app from the apple app store or google playstore"
+        "title": "title1",
+        "description": "description1"
       },
       {
-        "step": "STEP 2",
+        "step": "step2",
         "img": "/assets/icons/attendance_step2.svg",
-        "title": "Login to the app",
-        "description": "Login using your registered email/phone number"
+        "title": "title2",
+        "description": "description2"
       },
       {
-        "step": "STEP 3",
+        "step": "step3",
         "img": "/assets/icons/attendance_step3.svg",
-        "title": "Open the blended program",
-        "description": "For example: Search for ‘Creating and Running and Online Course’"
+        "title": "title3",
+        "description": "description3"
       },
       {
-        "step": "STEP 4",
+        "step": "step4",
         "img": "/assets/icons/attendance_step4.svg",
-        "title": "Tap the button “Scan to mark attendance” ",
-        "description": "Follow the steps as it guides."
+        "title": "title4",
+        "description": "description4"
       }
     ],
-    "helpText": "If you’re facing the problem in marking the attendance, please contact your program coordinator"
+    "helpText": "helpText"
   },
   "karmaPoints": [
     {

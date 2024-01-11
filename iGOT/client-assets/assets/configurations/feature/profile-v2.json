@@ -1,7 +1,7 @@
 {
     "tabs": [
         {
-            "name": "Profile info",
+            "name": "profileInfo",
             "key": "profileInfo",
             "render": false,
             "dataKey": "",
@@ -14,7 +14,7 @@
             "widget": {}
         },
         {
-            "name": "Certifications",
+            "name": "certifications",
             "key": "certifications",
             "dataKey": "",
             "render": true,
@@ -32,7 +32,7 @@
             }
         },
         {
-            "name": "Career history",
+            "name": "careerHistory",
             "key": "CareerHistory",
             "dataKey": "professionalDetails",
             "render": true,
@@ -50,7 +50,7 @@
             }
         },
         {
-            "name": "Academics",
+            "name": "academics",
             "key": "academics",
             "dataKey": "academics",
             "render": true,
@@ -68,7 +68,7 @@
             }
         },
         {
-            "name": "Hobbies",
+            "name": "hobbies",
             "key": "hobbies",
             "dataKey": "interests",
             "render": true,

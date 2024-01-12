@@ -1560,7 +1560,7 @@
                     ],
                     "organisation": "across"
                 },
-                "limit": 12
+                "limit": 5
             },
             "responseKey": "certifications"
           }

@@ -52,7 +52,7 @@
           },
           "sliderConfig": {
             "showNavs": true,
-            "showDots": true,
+            "showDots": false,
             "maxWidgets": 12
           },
           "loader": true,

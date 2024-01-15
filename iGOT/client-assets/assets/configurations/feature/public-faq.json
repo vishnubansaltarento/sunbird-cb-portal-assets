@@ -155,7 +155,94 @@
                     "value": "<p class='mat-body-2'><ng-container i18n>Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary.</ng-container> </p> "
                 }
             ]
+        },
+        {
+            "fragment": "KarmaPoints",
+            "title": "Karma Points",
+            "contents": [
+                {
+                    "heading": "What are Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Karma Points measure and map a government officer's engagement on the iGOT Karmayogi platform to encourage them in their learning and competency-building journey.</ng-container> </p> "
+                },
+                {
+                    "heading": "Why do I need Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Good question! All learners need to know how they progress in their journeys. They need neutral feedback and encouragement so that they can give their best. Karma Points help learners keep track of their journey and motivate them to engage with the platform.</ng-container> </p> "
+                },
+                {
+                    "heading": "How can I earn Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Easy! You can earn Karma Points through various actions on iGOT, such as registering and logging in, completing courses, clearing assessments, completing courses under your Capacity Building Plans (ask your MDO Admin or iGOT Nodal Officer for details), and providing feedback on completed courses through ratings.</ng-container> </p> "
+                },
+                {
+                    "heading": "How are Karma Points calculated?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Simple! You get Karma Points from your first engagement – through one-time actions like self-registration on iGOT. After registering and logging into iGOT, continuous actions, such as completing courses or clearing assessments, also grant learners Karma Points. These meaningful actions are measured, added, and converted into your Karma Points.</ng-container> </p> "
+                },
+                {
+                    "heading": "I registered and logged in to iGOT. How many Karma Points do I receive?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Great question! If you self-register and log in to iGOT, you will receive 5 Karma Points instantly. However, if you are onboarded through your Ministry or Department, you will not receive those 5 Karma Points. Don’t worry! You have many opportunities to earn lots of Karma Points! Enroll in a course to begin your journey!</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I receive Karma Points for self-registration?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Yes! If you self-register, you will receive 5 Karma Points!</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I receive Karma Points if I have been registered through my Ministry, Department, or Organisation?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Unfortunately, you will not earn Karma Points if you have been registered through your Ministry, Department, or Organisation. Don’t worry! You have many opportunities to earn lots of Karma Points! Enroll in a course to begin your journey!</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I earn Karma Points for passing assessments?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Yes! You earn 5 Karma Points each time you pass an assessment, which is course related.</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I get Karma Points for assessments, even for courses without assessments?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No. For courses that do not have assessments, you will only get Karma Points for completing the course. In the long term, all courses will have assessments.</ng-container> </p> "
+                },
+                {
+                    "heading": "Does rating earn me Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Yes, you will receive 2 Karma Points each time you rate.</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I be awarded Karma Points for enrolling in a course every time?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No, you will earn only 5 Karma Points for your first course enrollment.</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I be awarded Karma Points for logging into iGOT every time?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No, you will earn 5 Karma Points for your first log-in only.</ng-container> </p> "
+                },
+                {
+                    "heading": "What happens if I complete a course that later gets mandated in my Capacity Building Plan?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No problem. You can click on “Claim Your +10 Karma Points” to be rewarded with additional Karma Points once a course is mandated as part of your Capacity Building Plan.</ng-container> </p> "
+                },
+                {
+                    "heading": "Will I receive additional Karma Points for courses re-mandated as part of my Capacity Building Plan?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No, you will receive 10 Karma Points only for the first time you complete a course, even if it is re-mandated later.</ng-container> </p> "
+                },
+                {
+                    "heading": "How many Karma Points will I be awarded for completing courses outlined in my Capacity Building Plan within the stipulated time?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>You will gain 10 additional Karma Points for completing mandated courses within the stipulated time frame, as outlined in your Ministry’s or Department’s Capacity Building Plans. With the 5 Karma Points you earn for completing a course, you receive a total of 15 Karma Points for completing a course within your Capacity Building Plan.</ng-container> </p> "
+                },
+                {
+                    "heading": "Will my Karma Points be affected if I don't complete mandatory courses under my Capacity Building Plan within the stipulated time?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Yes, your Karma Points will be affected if you don’t complete a course under your Capacity Building Plan within the stipulated time. One Karma Point will be deducted for each month of delay. For instance, if you need to complete a course by 31st January but complete it on 28th March, you will receive 10 - 2 = 8 Karma Points. <br> These points will be in addition to the 5 Karma Points you receive for completing the course.</ng-container> </p> "
+                },
+                {
+                    "heading": "Is there a limit on the number of Karma Points I can earn?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Yes, there is a limit on the number of Karma Points you can earn. Each month, you can earn Karma Points for 4 courses. However, this limit only applies to courses outside your Capacity Building Plan. There is no limit on the number of Karma Points you can earn for your Capacity Building Plan courses</ng-container> </p> "
+                },
+                {
+                    "heading": "How often are Karma Points updated?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>Almost in real time! Karma Points are updated within 0 to 4 hours, allowing you to track your progress. A three-month history is also accessible by clicking on the Karma Points widget.</ng-container> </p> "
+                },
+                {
+                    "heading": "Where can I track my Karma Points?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>You can view your Karma Points on the iGOT home page, which is updated within 0 to 4 hours. Clicking on the Karma Points widget shows a three-month history of activities contributing to your score.</ng-container> </p> "
+                },
+                {
+                    "heading": "Is the mechanism for calculating Karma Points fixed?",
+                    "value": "<p class='mat-body-2'><ng-container i18n>No! iGOT is a dynamic platform that will keep evolving with your feedback toward the goal of a Viksit Bharat. Similarly, the calculation of Karma Points will keep evolving with the platform's growth.</ng-container> </p> "
+                }
+            ]
         }
+
    ]
     
 }

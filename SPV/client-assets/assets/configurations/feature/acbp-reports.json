@@ -1,0 +1,16 @@
+{
+  "reports": {
+    "buckets": [
+      {
+        "name": "User Exhaust",
+        "key": "ACBPUserSummaryReport.csv",
+        "enable": true
+      },
+      {
+        "name": "Enrollment Exhaust",
+        "key": "ACBPEnrollmentReport.csv",
+        "enable": true
+      }
+    ]
+  }
+}

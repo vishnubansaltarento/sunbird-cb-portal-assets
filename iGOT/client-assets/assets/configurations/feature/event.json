@@ -45,7 +45,7 @@
           "active": true,
           "key": "todaysevents",
           "logo": "school",
-          "title": "Today's Events",
+          "title": "Today's events",
           "stripTitleLink": {
             "link": "",
             "icon": ""

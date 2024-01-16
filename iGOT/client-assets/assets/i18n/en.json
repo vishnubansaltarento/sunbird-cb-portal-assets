@@ -440,7 +440,8 @@
         "batchDuration": "Batch duration",
         "enrolled": "Enrolled",
         "rejected": "Rejected",
-        "totalApplied": "Total applied"
+        "totalApplied": "Total applied",
+        "batchSize": "Batch size"
     },
     "certificatedialog": {
         "downloadCertificate": "Download Certificate",

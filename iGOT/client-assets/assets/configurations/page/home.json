@@ -1006,7 +1006,7 @@
           "active": true,
           "key": "cbpPlan",
           "logo": "school",
-          "title": "My CBP Plans",
+          "title": "My iGOT",
           "customeClass": "mr-5",
           "stripTitleLink": {
             "link": "",
@@ -1560,7 +1560,7 @@
                     ],
                     "organisation": "across"
                 },
-                "limit": 12
+                "limit": 5
             },
             "responseKey": "certifications"
           }

@@ -43,16 +43,16 @@
     },
     {
         "name": "Capacity Building Report User Exhaust",
-        "type": "acbp-report-mdo-summary",
+        "type": "cbp-report-mdo-summary",
         "reportType": "Detailed data report",
-        "downloadReportFileName":"ACBPUserSummaryReport",
+        "downloadReportFileName":"CBPUserSummaryReport",
         "enabled": true
     },
     {
         "name": "Capacity Building Report Enrollment Exhaust",
-        "type": "acbp-report-mdo-enrolment",
+        "type": "cbp-report-mdo-enrolment",
         "reportType": "Detailed data report",
-        "downloadReportFileName":"ACBPEnrollmentReport",
+        "downloadReportFileName":"CBPEnrollmentReport",
         "enabled": true
     }
 ]

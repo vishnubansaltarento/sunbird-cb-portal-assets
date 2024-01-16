@@ -177,6 +177,15 @@
         "descending": "Descending",
         "search": "Search"
     },
+    "providerallcbp": {
+        "allCBPs": "All CBPs",
+        "fromProvider": "CBPs from this provider",
+        "loadMore": "Load more",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "sortBy": "Sort by",
+        "insights": "Insights"
+    },
     "allcompetencies": {
         "popularCompetencies": "Popular competencies",
         "nocompetenciesfound": "No competencies found!",

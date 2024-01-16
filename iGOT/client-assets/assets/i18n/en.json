@@ -513,7 +513,22 @@
         "eventAgenda":"Agenda",
         "btnEventCompleted":"Event is completed",
         "eventType":"Event Type",
-        "eventHostedBy":"Hosted By"
+        "eventHostedBy":"Hosted By",
+        "curatedEvents": "Curated events",
+        "mdoEvents": "Events in your MDO",
+        "webinar": "Webinar",
+        "karmayogitalks": "Karmayogi Talks"
+    },
+    "eventDetailsRightCard": {
+        "viewRecording": "View recording",
+        "eventIsCompleted": "Event is completed",
+        "joinEvent": "Join event",
+        "eventIsYetToStart": "Event is yet to start",
+        "eventType": "Event Type",
+        "hostedBy": "Hosted By"
+    },
+    "eventPresentorsCard": {
+        "host": "Host"
     },
     "career": {
         "labelAllOpenings" : "All openings",

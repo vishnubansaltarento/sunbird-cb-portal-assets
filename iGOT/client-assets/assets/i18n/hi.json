@@ -500,19 +500,34 @@
     },
     "event": {
         "labelTodayEvent" : "आज की घटनाएँ",
-        "noEvent" : "No Event",
-        "labelAllEvents" : "All Events",
-        "all" : "All",
-        "typoWebinar":"Webinar",
-        "btnViewRecording":"View Recording",
-        "tabCuratedEvents":"Curated Events",
-        "cardTitle":"Karmayogi Bharat",
-        "eventDescription":"Description",
-        "eventPresenters":"Presenters",
-        "eventAgenda":"Agenda",
-        "btnEventCompleted":"Event is completed",
-        "eventType":"Event Type",
-        "eventHostedBy":"Hosted By"
+        "noEvent" : "No Event - hi",
+        "labelAllEvents" : "All Events - hi",
+        "all" : "Al - hil",
+        "typoWebinar":"Webinar - hi",
+        "btnViewRecording":"View Recording - hi",
+        "tabCuratedEvents":"Curated Events - hi",
+        "cardTitle":"Karmayogi Bharat - hi",
+        "eventDescription":"Description - hi",
+        "eventPresenters":"Presenters - hi",
+        "eventAgenda":"Agenda - hi",
+        "btnEventCompleted":"Event is completed - hi",
+        "eventType":"Event Type - hi",
+        "eventHostedBy":"Hosted By - hi",
+        "curatedEvents": "Curated events - hi",
+        "mdoEvents": "Events in your MDO - hi",
+        "webinar": "Webinar - hi",
+        "karmayogitalks": "Karmayogi Talks - hi"
+    },
+    "eventDetailsRightCard": {
+        "viewRecording": "View recording - hi",
+        "eventIsCompleted": "Event is completed - hi",
+        "joinEvent": "Join event - hi",
+        "eventIsYetToStart": "Event is yet to start - hi",
+        "eventType": "Event Type - hi",
+        "hostedBy": "Hosted By - hi"
+    },
+    "eventPresentorsCard": {
+        "host": "Host - hi"
     },
     "career": {
         "labelAllOpenings" : "सभी उद्घाटन",

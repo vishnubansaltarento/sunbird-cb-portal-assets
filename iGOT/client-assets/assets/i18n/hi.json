@@ -35,7 +35,8 @@
         "or": "or",
         "signIn":"Sign In",
         "update":"Update",
-        "showAll": "Show all"
+        "showAll": "Show all",
+        "loadMore": "Load more... hi"
     },
     "msg": {
         "noEvent" : "No Event",
@@ -66,7 +67,9 @@
         "noDataFound":"No data found!"
     },
     "appnavbar": {
-        "searchforLearningContents": "सीखने की सामग्री खोजें"
+        "searchforLearningContents": "सीखने की सामग्री खोजें",
+        "karmaPoints": "Karma Points - hi",
+        "karmaPointsToolTip": "Karma Points measure and map your engagement at iGOT. Points are updated within 4 hours. -hi"
     },
     "toprightnavbar": {
         "downloadApp": "ऐप डाउनलोड करें",
@@ -75,19 +78,20 @@
         "profile": "Profile"
     },
     "btnpageback": {
-        "home": "Home",
-        "hubs": "Hubs",
-        "noHubs": "No hubs Info Available",
-        "doMore": "Do more",
-        "knowledgeResources": "Knowledge resources",
-        "knowledgeResourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.",
-        "dashboard": "Dashboard",
-        "dashboardSubtitle": "All your data represented as simple visualizations.",
-        "settings": "Settings",
-        "settingSubtitle": "Manage all your preferences hessssre",
-        "interests": "Interests",
-        "interestsSubtitle": "Manage topics of your interest and personalize your experience",
-        "quickLinks": "Quick links"
+        "home": "Home - hi",
+        "hubs": "Hubs  - hi",
+        "noHubs": "No hubs Info Available  - hi",
+        "doMore": "Do more  - hi",
+        "knowledgeResources": "Knowledge resources  - hi",
+        "knowledgeResourcesSubtitle": "Find the latest policies, circulars and all available knowledge resources.   - hi",
+        "dashboard": "Dashboard  - hi",
+        "dashboardSubtitle": "All your data represented as simple visualizations. - hi",
+        "settings": "Settings - hi",
+        "settingSubtitle": "Manage all your preferences hessssre - hi",
+        "interests": "Interests - hi",
+        "interestsSubtitle": "Manage topics of your interest and personalize your experience - hi",
+        "quickLinks": "Quick links - hi",
+        "network": "Network - hi"
     },
     "cardshublist": {
         "more": "अधिक",
@@ -686,7 +690,8 @@
         "certifications": "Certifications - hi",
         "careerHistory": "Career history - hi",
         "academics": "Academics - hi",
-        "hobbies": "Hobbies - hi"
+        "hobbies": "Hobbies - hi",
+        "karmaPoints": "Karma points - hi"
     },
     "profileCretificationsV2": {
         "certifications": "Certifications -hi",
@@ -705,6 +710,13 @@
     "profileV2Hobbies": {
         "hobbies": "Hobbies - hi",
         "noInformation": "No hobbies information available - hi" 
+    },
+    "profileKarmapoints": {
+        "karmaPoints": "Karma Points - hi",
+        "showAll": "Show all - hi",
+        "noKarmaPoints": "No karma points information available - hi",
+        "bonus": "BONUS - hi",
+        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs. - hi"
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",

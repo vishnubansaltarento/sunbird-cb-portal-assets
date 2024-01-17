@@ -35,7 +35,8 @@
         "or": "or",
         "signIn":"Sign In",
         "update":"Update",
-        "showAll": "Show all"
+        "showAll": "Show all",
+        "loadMore": "Load more..."
     },
     "msg": {
         "noEvent" : "No Event",
@@ -66,7 +67,10 @@
         "noDataFound":"No data found!"
     },
     "appnavbar": {
-        "searchforLearningContents": "Search for learning contents"
+        "searchforLearningContents": "Search for learning contents",
+        "karmaPoints": "Karma Points",
+        "karmaPointsToolTip": "Karma Points measure and map your engagement at iGOT. Points are updated within 4 hours."
+        
     },
     "toprightnavbar": {
         "downloadApp": "Download App",
@@ -88,7 +92,8 @@
         "interests": "Interests",
         "interestsSubtitle": "Manage topics of your interest and personalize your experience",
         "quickLinks": "Quick links",
-        "details": "Details"
+        "details": "Details",
+        "network": "Network"
     },
     "cardshublist": {
         "more": "More",
@@ -719,7 +724,8 @@
         "certifications": "Certifications",
         "careerHistory": "Career history",
         "academics": "Academics",
-        "hobbies": "Hobbies"
+        "hobbies": "Hobbies",
+        "karmaPoints": "Karma points"
     },
     "profileCretificationsV2": {
         "certifications": "Certifications",
@@ -738,6 +744,13 @@
     "profileV2Hobbies": {
         "hobbies": "Hobbies",
         "noInformation": "No hobbies information available " 
+    },
+    "profileKarmapoints": {
+        "karmaPoints": "Karma Points",
+        "showAll": "Show all",
+        "noKarmaPoints": "No karma points information available",
+        "bonus": "BONUS",
+        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs."
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",

@@ -238,7 +238,9 @@
           "text": "Whenever possible please provide an introduction and conclusion for the course."
         }
       ]
-    }
+    },
+    "openCourseEnabled": true,
+    "moderatedCourseEnabled": true
   },
   {
     "id": "moderatedCourse",

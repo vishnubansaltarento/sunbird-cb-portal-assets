@@ -188,66 +188,67 @@
   "karmaPoints": [
     {
       "displayButton": "Enroll",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "for your 1st course enrolment.",
-      "toolTipText": "Note: This is only applicable for your first enrolment."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "firstEnroll",
+      "toolTipText": "firstEnrollTip"
     },
     {
       "displayButton": "Start",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "courseCompleteTip"
     },
     {
       "displayButton": "Resume",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "courseCompleteTip"
     },
     {
       "displayButton": "Rate this course",
-      "textBeforeIcon": "Earn",
-      "points": "2 more Karma Points",
-      "textAfterIcon": ", rate this course!",
-      "toolTipText": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE."
+      "textBeforeIcon": "earn",
+      "points": "2",
+      "textAfterPoints": "moreKarmaPoints",
+      "textAfterIcon": "rateThis",
+      "toolTipText": "rateTip"
     },
     {
       "displayButton": "Edit rating",
-      "textBeforeIcon": "Congrats! You've rated the course and earned",
-      "points": "2 Karma Points",
+      "textBeforeIcon": "afterRate",
+      "points": "2",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
       "toolTipText": ""
     },
     {
       "displayButton": "Take Assessment",
-      "textBeforeIcon": "Complete the assessment to earn ",
-      "points": "5 Karma Points",
+      "textBeforeIcon": "beforeAssement",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
-      "toolTipText": "Here's 5 extra Karma Points for successfully completing all final assessments"
-    },
-    {
-      "displayButton": "Start again",
-      "textBeforeIcon": "Congrats! You've completed the course and earned",
-      "points": "5 Karma Points",
-      "textAfterIcon": "",
-      "toolTipText": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
+      "toolTipText": "assessmentTip"
     },
     {
       "displayButton": "ACBP CLAIM",
-      "textBeforeIcon": "Claim",
-      "points": "10 Karma Points",
+      "textBeforeIcon": "claim",
+      "points": "10",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
       "toolTipText": ""
     },
     {
       "displayButton": "ACBP",
-      "textBeforeIcon": "Earn",
-      "points": "10 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details. "
+      "textBeforeIcon": "earn",
+      "points": "10",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "acbpTip"
     }
   ],
   "ScormProgressThreshold": 20

@@ -92,8 +92,9 @@
         "interests": "Interests",
         "interestsSubtitle": "Manage topics of your interest and personalize your experience",
         "quickLinks": "Quick links",
-        "details": "Details",
-        "network": "Network"
+        "network": "Network",
+        "learn": "Learn",
+        "details": "Details"
     },
     "cardshublist": {
         "more": "More",
@@ -404,7 +405,8 @@
         "to": "to",
         "paidContent": "Paid Content",
         "free": "Free",
-        "view": "View"
+        "view": "View",
+        "cbpDeadLine": "CBP plan deadline"
     },
     "playerbrief": {
         "download": "Download",
@@ -751,6 +753,22 @@
         "noKarmaPoints": "No karma points information available",
         "bonus": "BONUS",
         "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs."
+    },
+    "appKarmapointsPanel": {
+        "earn": "Earn",
+        "claim": "Claim",
+        "afterRate": "Congrats! You've rated the course and earned",
+        "beforeAssement": "Complete the assessment to earn",
+        "karmaPoints": "Karma Points",
+        "moreKarmaPoints": "more KarmaPoints",
+        "firstEnroll": "for your 1st course enrolment.",
+        "firstEnrollTip": "Note: This is only applicable for your first enrolment.",
+        "courseCompleteTip" : "Every course completion automatically gets you 5 Karma Points.",
+        "byCompleting": "by completing this course.",
+        "rateThis": ", rate this course!",
+        "rateTip": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE.",
+        "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
+        "acbpTip": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",

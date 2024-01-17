@@ -33,7 +33,7 @@
         },
         {
             "name": "careerHistory",
-            "key": "CareerHistory",
+            "key": "careerHistory",
             "dataKey": "professionalDetails",
             "render": true,
             "badges": {
@@ -87,7 +87,7 @@
         },
         {
             "name": "Karma Points",
-            "key": "karmapoints",
+            "key": "karmaPoints",
             "dataKey": "karmapoints",
             "render": true,
             "badges": {

@@ -710,6 +710,7 @@
         "frcCAns":"The Framework of Roles, Activities and Competencies (FRAC), as termed within Mission Karmayogi’s Integrated Government Online Training platform (iGOT) initiative, is the mapping of three constructs (roles, activities and competencies, supported by knowledge resources) for each individual position within all government ministries, departments and organisations (MDOs) at the national, state and local level.",
         "workOrderQ":"What is a Work order?",
         "workOrderA":"Work allocation orders are documents which formally allocate the roles and accountabilities to every government official, usually upon joining. These are allocated by the supervisor or Head of the MDO, and updated as and when necessary."
+
     },
 
     "profileView": {
@@ -976,7 +977,31 @@
         "rejectedKarmayogiMsg": "Verified Karmayogi request has been rejected. Request again after making changes.",
         "officePinCode": "Office Pin Code",
         "ehrmsID": "eHRMS ID",
-        "ehrmsSystem": "eHRMS System"
+        "ehrmsSystem": "eHRMS System",
+        "DobPlaceholder": "Choose Date of Birth (dd-mm-yyyy)",
+        "mobilePlaceholder": "Mobile Number",
+        "primaryEmailPlaceholder": "Primary Email",
+        "groupPlavceholder": "Select your group",
+        "designationPlaceholder": "--Select--",
+        "pinPlaceholder": "123456",
+        "knownLanguagesPlaceholder": "Known Languages",
+        "telephoneNumberPlaceholder": "Telephone Number",
+        "secondaryEmailPlaceholder": "Secondary Email",
+        "rAddressPlaceholder": "Type Your Residence Address Here",
+        "dojPlaceholder": "Choose Date of Joining",
+        "motherTonguePlaceholder":"Mother Tongue",
+        "orgDescriptionPlaceholder": "Please enter your organisation description",
+        "allotmentYearPlaceholder": "1998",
+        "civilListNumberPlaceholder": "Enter Civil List Number",
+        "employeeCodePlaceholder": "Enter Employee Code",
+        "officePostalAddressPlaceholder": "Enter Office Postal Address",
+        "officePinCodePlaceholder": "Enter Office Pin Code",
+        "ehrmdIDPlaceholder": "EHRMS ID",
+        "ehrmdSystemPlaceholder": "EHRMS System",
+        "schoolNamePlaceholder": "Enter School Name",
+        "otherGraduationDegreePlaceholder": "Enter Other Graduation Degree",
+        "instituteNamePlaceholder": "Enter Institute Name",
+        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree"
     },
     "profileDropdown": {
         "signOut": "Sign-out",

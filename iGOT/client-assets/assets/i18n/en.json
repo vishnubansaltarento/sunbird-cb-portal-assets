@@ -810,6 +810,7 @@
         "suggestedForYou":"Suggested for you",
         "connect":"Connect",
         "connecting":"Connecting...",
+        "noDataFound": "No data found!",
         "newRecommendation":"As of now there are no recommendations found for you.",
         "gotToDiscussHubs":"Go to discuss hub",
         "btnDiscuss":"Discuss",
@@ -856,10 +857,6 @@
         "networkBuildConn":"Built your connections within your department and other departments.",
         "networkFindConn":"Find COnnections",
         "topProviderSliders":"Top providers powering your learning",
-        "scannerDownload":"Download",
-        "scannerIgotKarmyogiApp":"iGOT Karmayogi mobile app",
-        "scannerSubtext":"Continue your lifelong learning experience anywhere anytime.",
-        "scanToDownload":"Scan to Download",
         "nudgesText":"Update your mobile number",
         "nudgesButton":"Update",
         "myLearning": "My Learning",
@@ -875,7 +872,27 @@
         "inProgress": "In Progress",
         "completed": "Completed",
         "courses": "Courses",
-        "programs": "Programs"
+        "programs": "Programs",
+        "showAll": "Show All",
+        "updateYourProfile": "Update your profile and get it verified",
+        "updateNow": "Update now"
+    },
+    "updateposts": {
+        "discussUpdateOnPost":"Updates on your posts",
+        "showAll": "Show All",
+        "upvotes": "Upvote(s) on your posts",
+        "downvotes": "Downvote(s) on your posts",
+        "haveQuestions": "Do you have any questions, suggestions or, ideas in your mind? Post it.",
+        "startDiscussion": "Start discussion",
+        "noDataFound": "No data found!",
+        "unableToFetch": "Unable to fetch discussion info due to some error."
+    },
+    "downloadapp": {
+        "download":"Download",
+        "igotKarmyogi":"iGOT Karmayogi",
+        "mobileApp": "Mobile App",
+        "subtext":"Experience Lifelong Learning Anytime, Anywhere, and Through Any Device!",
+        "scanToDownload":"Scan to Download"
     },
     "userProfile": {
         "home": "home",

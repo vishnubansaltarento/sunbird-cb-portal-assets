@@ -119,7 +119,7 @@
         "aboutUs": "हमारे बारे में",
         "frequentlyAskedQuestions": "अक्सर पूछे जाने वाले प्रश्नों",
         "contactUs": "संपर्क करें",
-        "copyright": "Copyright"
+        "copyright": "Copyright-HI"
     },
     "platformrating": {
         "howLikelyRecommend": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
@@ -772,13 +772,14 @@
         "updateMobile":"Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
         "whyItIsImp":"Why it is important ?",
         "networkHub":"Go to Network hub",
-        "suggestedForYou":"Suggested for you",
+        "suggestedForYou":"Suggested for you-HI",
         "Connect":"Connect",
         "Connecting":"Connecting...",
-        "newRecommendation":"As of now there are no recommendations found for you.",
+        "noDataFound": "No data found!",
+        "newRecommendation":"As of now there are no recommendations found for you.-HI",
         "gotToDiscussHubs":"Go to discuss hub",
         "btnDiscuss":"Discuss",
-        "subDiscussTrendingDiscuss":"Trending discussions",
+        "subDiscussTrendingDiscuss":"Trending discussions-HI",
         "networkConnectwith":"Connect with people you may know",
         "btnView":"View",
         "cardNewlyAddedCourses":"Newly added courses",
@@ -821,10 +822,6 @@
         "networkBuildConn":"Built your connections within your department and other departments.-HI",
         "networkFindConn":"Find COnnections-HI",
         "topProviderSliders":"Top providers powering your learning-HI",
-        "scannerDownload":"Download-HI",
-        "scannerIgotKarmyogiApp":"iGOT Karmayogi mobile app-HI",
-        "scannerSubtext":"Continue your lifelong learning experience anywhere anytime.-HI",
-        "scanToDownload":"Scan to Download-HI",
         "nudgesText":"Update your mobile number-HI",
         "nudgesButton":"Update-HI",
         "myLearning": "My Learning-HI",
@@ -840,7 +837,27 @@
         "inProgress": "In Progress-HI",
         "completed": "Completed-HI",
         "courses": "Courses-HI",
-        "programs": "Programs-HI"
+        "programs": "Programs-HI",
+        "showAll": "Show All-HI",
+        "updateYourProfile": "Update your profile and get it verified",
+        "updateNow": "Update now-HI"
+    },
+    "updateposts": {
+        "discussUpdateOnPost":"Updates on your posts-HI",
+        "showAll": "Show All",
+        "upvotes": "Upvote(s) on your posts-HI",
+        "downvotes": "Downvote(s) on your posts-HI",
+        "haveQuestions": "Do you have any questions, suggestions or, ideas in your mind? Post it.",
+        "startDiscussion": "Start discussion-HI",
+        "noDataFound": "No data found!-HI",
+        "unableToFetch": "Unable to fetch discussion info due to some error."
+    },
+    "downloadapp": {
+        "download":"Download-HI",
+        "igotKarmyogi":"iGOT Karmayogi-HI",
+        "mobileApp": "Mobile App-HI",
+        "subtext":"Experience Lifelong Learning Anytime, Anywhere, and Through Any Device!",
+        "scanToDownload":"Scan to Download-HI"
     },
     "userProfile": {
         "home": "home - hi",

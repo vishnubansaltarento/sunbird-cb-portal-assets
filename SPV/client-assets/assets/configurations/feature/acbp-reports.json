@@ -3,12 +3,12 @@
     "buckets": [
       {
         "name": "User Exhaust",
-        "key": "ACBPUserSummaryReport.csv",
+        "key": "CBPUserSummaryReport.csv",
         "enable": true
       },
       {
         "name": "Enrollment Exhaust",
-        "key": "ACBPEnrollmentReport.csv",
+        "key": "CBPEnrollmentReport.csv",
         "enable": true
       }
     ]

@@ -12484,5 +12484,52 @@
           "name": "ZONAL MANAGER",
           "description": "ZONAL MANAGER"
         }
+      ],
+      "republicDay2024": [
+        {
+          "id": 1,
+          "startTime": "6AM",
+          "endTime": "10AM",
+          "greet": "Good morning",
+          "info": "Give your learning journey a fresh start, learn something new!",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
+          "centerImage": "/assets/images/RepublicDay-2024/Morning_icon.svg"
+        }, 
+        {
+          "id": 2,
+          "startTime": "10AM",
+          "endTime": "1PM",
+          "greet": "Hey",
+          "info": "Take a quick break from work - explore a course under 30 mins!",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
+          "centerImage": "/assets/images/RepublicDay-2024/LateMorning_icon.svg"
+        }, 
+        {
+          "id": 3,
+          "startTime": "1PM",
+          "endTime": "5AM",
+          "greet": "Had lunch,",
+          "info": "Time to complete that pending course before you head back to work!",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
+          "centerImage": "/assets/images/RepublicDay-2024/Afternoon_icon.svg"
+        }, 
+        {
+          "id": 4,
+          "startTime": "5PM",
+          "endTime": "7PM",
+          "greet": "Chai time",
+          "info": "What better way to spend it than to discover new courses?",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+          "centerImage": "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg"
+        },
+        {
+          "id": 5,
+          "startTime": "7PM",
+          "endTime": "6AM",
+          "greet": "Hello",
+          "info": "Let's finish the day on a high note - finish a course and get a certificate!",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+          "centerImage": "/assets/images/RepublicDay-2024/Evening_icon.svg"
+        }        
       ]
 }

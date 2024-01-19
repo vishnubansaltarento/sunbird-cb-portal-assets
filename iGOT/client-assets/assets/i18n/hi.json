@@ -25,7 +25,7 @@
         "connections":"सम्बन्ध",
         "connection":"सम्बन्ध",
         "All" : "All",
-        "search":"Search",
+        "search":"Search -hi",
         "missionKarmyogi":"Mission Karmayogi",
         "accountAndAccess":"Account and access",
         "igotMarketplace":"iGOT Marketplace",
@@ -508,6 +508,9 @@
     "connectionPeopleCard": {
         "connect": "Connect - hi",
         "connectionSent": "Connection sent - hi"
+    },
+    "connectionHoverCard": {
+        "networkProfile" : "Network Profile - hi"
     },
     "event": {
         "labelTodayEvent" : "आज की घटनाएँ",

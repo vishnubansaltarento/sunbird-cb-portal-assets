@@ -511,6 +511,9 @@
         "connect": "Connect",
         "connectionSent": "Connection sent"
     },
+    "connectionHoverCard": {
+        "networkProfile" : "Network Profile"
+    },
     "event": {
         "labelTodayEvent" : "Today's Events",
         "noEvent" : "No Event",

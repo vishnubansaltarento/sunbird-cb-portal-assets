@@ -12485,51 +12485,120 @@
           "description": "ZONAL MANAGER"
         }
       ],
-      "republicDay2024": [
-        {
-          "id": 1,
-          "startTime": "6AM",
-          "endTime": "10AM",
-          "greet": "Good morning",
-          "info": "Give your learning journey a fresh start, learn something new!",
-          "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
-          "centerImage": "/assets/images/RepublicDay-2024/Morning_icon.svg"
-        }, 
-        {
-          "id": 2,
-          "startTime": "10AM",
-          "endTime": "1PM",
-          "greet": "Hey",
-          "info": "Take a quick break from work - explore a course under 30 mins!",
-          "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
-          "centerImage": "/assets/images/RepublicDay-2024/LateMorning_icon.svg"
-        }, 
-        {
-          "id": 3,
-          "startTime": "1PM",
-          "endTime": "5AM",
-          "greet": "Had lunch,",
-          "info": "Time to complete that pending course before you head back to work!",
-          "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
-          "centerImage": "/assets/images/RepublicDay-2024/Afternoon_icon.svg"
-        }, 
-        {
-          "id": 4,
-          "startTime": "5PM",
-          "endTime": "7PM",
-          "greet": "Chai time",
-          "info": "What better way to spend it than to discover new courses?",
-          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
-          "centerImage": "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg"
-        },
-        {
-          "id": 5,
-          "startTime": "7PM",
-          "endTime": "6AM",
-          "greet": "Hello",
-          "info": "Let's finish the day on a high note - finish a course and get a certificate!",
-          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
-          "centerImage": "/assets/images/RepublicDay-2024/Evening_icon.svg"
-        }        
-      ]
+      "republicDay2024": {
+          "enable": true,
+          "data" : [
+            {
+              "id": 1,
+              "addDay":0,
+              "startTime": "6:00 AM",
+              "endTime": "10:00 AM",
+              "greet": "Good morning",
+              "info": [
+                "Give your learning journey a fresh start, learn something new!",
+                "Give your learning journey a fresh start, learn something new1",
+                "Give your learning journey a fresh start, learn something new2",
+                "Give your learning journey a fresh start, learn something new3",
+                "Give your learning journey a fresh start, learn something new4"
+              ],
+              "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
+              "centerImage": [
+                "/assets/images/RepublicDay-2024/Morning_icon.svg",
+                "/assets/images/RepublicDay-2024/Morning_icon.svg",
+                "/assets/images/RepublicDay-2024/Morning_icon.svg",
+                "/assets/images/RepublicDay-2024/Morning_icon.svg",
+                "/assets/images/RepublicDay-2024/Morning_icon.svg"
+              ]
+            }, 
+            {
+              "id": 2,
+              "addDay":0,
+              "startTime": "10:00 AM",
+              "endTime": "1:00 PM",
+              "greet": "Hey",
+              "info": [
+                "Take a quick break from work - explore a course under 30 mins!",
+                "Take a quick break from work - explore a course under 30 mins1",
+                "Take a quick break from work - explore a course under 30 mins2",
+                "Take a quick break from work - explore a course under 30 mins3",
+                "Take a quick break from work - explore a course under 30 mins4"
+              ],
+              "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
+              "centerImage": [
+                "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+                "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+                "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+                "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+                "/assets/images/RepublicDay-2024/LateMorning_icon.svg"
+              ]
+            }, 
+            {
+              "id": 3,
+              "addDay":0,
+              "startTime": "1:00 PM",
+              "endTime": "5:00 AM",
+              "greet": "Had lunch,",
+              "info": [
+                "Time to complete that pending course before you head back to work!",
+                "Time to complete that pending course before you head back to work1",
+                "Time to complete that pending course before you head back to work2",
+                "Time to complete that pending course before you head back to work3",
+                "Time to complete that pending course before you head back to work4"
+              ],
+              "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
+              "centerImage": [
+                "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Afternoon_icon.svg"
+              ]
+            }, 
+            {
+              "id": 4,
+              "addDay":0,
+              "startTime": "5:00 PM",
+              "endTime": "7:00 PM",
+              "greet": "Chai time",
+              "info": [
+                "What better way to spend it than to discover new courses?",
+                "What better way to spend it than to discover new courses1",
+                "What better way to spend it than to discover new courses2",
+                "What better way to spend it than to discover new courses3",
+                "What better way to spend it than to discover new courses4"
+              ],
+              "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+              "centerImage": [
+                "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+                "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg"
+              ]
+            },
+            {
+              "id": 5,
+              "startTime": "7:00 PM",
+              "endTime": "6:00 AM",
+              "addDay":1,
+              "greet": "Hello",
+              "info": [
+                "Let's finish the day on a high note - finish a course and get a certificate!",
+                "Let's finish the day on a high note - finish a course and get a certificate2",
+                "Let's finish the day on a high note - finish a course and get a certificate3",
+                "Let's finish the day on a high note - finish a course and get a certificate4",
+                "Let's finish the day on a high note - finish a course and get a certificate5"
+              ],
+              "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+              "centerImage": [
+                "/assets/images/RepublicDay-2024/Evening_icon.svg",
+                "/assets/images/RepublicDay-2024/Evening_icon.svg",
+                "/assets/images/RepublicDay-2024/Evening_icon.svg",
+                "/assets/images/RepublicDay-2024/Evening_icon.svg",
+                "/assets/images/RepublicDay-2024/Evening_icon.svg"
+              ]
+            }  
+          ]
+      }   
+      
 }

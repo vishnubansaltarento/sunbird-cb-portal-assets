@@ -1646,13 +1646,13 @@
   "sliderData": [
     {
       "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/landing/l.png",
-        "m": "assets/instances/eagle/banners/orgs/landing/m.png",
-        "s": "assets/instances/eagle/banners/orgs/landing/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/landing/xl.png",
-        "xs": "assets/instances/eagle/banners/orgs/landing/xs.png",
-        "xxl": "assets/instances/eagle/banners/orgs/landing/xxl.png"
+      "banners":{
+        "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png"
       },
       "redirectUrl": "/app/organisation/dopt",
       "queryParams": {

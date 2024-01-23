@@ -2,12 +2,13 @@
   "profileTimelyNudges": {
   "enable": true,
     "profileDelayInSec": "5",
-    "nudgeDelayInSec": "1000",
+    "nudgeDelayInSec": "10",
       "data" : [
         {
           "startTime": 6,
           "endTime": 10,
           "greet": "Good morning <userName>!",
+          "textColor": "#000000",
           "info": [
             "Give your learning journey a fresh start, learn something new!",
             "Give your learning journey a fresh start, learn something new1",
@@ -28,6 +29,7 @@
           "startTime": 10,
           "endTime": 13,
           "greet": "Hey <userName>,",
+          "textColor": "#000000",
           "info": [
             "Take a quick break from work - explore a course under 30 mins!",
             "Take a quick break from work - explore a course under 30 mins1",
@@ -48,6 +50,7 @@
           "startTime": 13,
           "endTime": 17,
           "greet": "Had lunch, <userName>?",
+          "textColor": "#000000",
           "info": [
             "Time to complete that pending course before you head back to work!",
             "Time to complete that pending course before you head back to work1",
@@ -68,6 +71,7 @@
           "startTime": 17,
           "endTime": 19,
           "greet": "Chai time <userName>!",
+          "textColor": "#000000",
           "info": [
             "What better way to spend it than to discover new courses?",
             "What better way to spend it than to discover new courses1",
@@ -88,6 +92,7 @@
           "startTime": 19,
           "endTime": 6,
           "greet": "Hello <userName>,",
+          "textColor": "#FFFFFF",
           "info": [
             "Let's finish the day on a high note - finish a course and get a certificate!",
             "Let's finish the day on a high note - finish a course and get a certificate2",

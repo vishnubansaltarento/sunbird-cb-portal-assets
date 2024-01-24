@@ -10,11 +10,12 @@
           "greet": "Good morning <userName>!",
           "textColor": "#000000",
           "info": [
-            "Give your learning journey a fresh start, learn something new!",
-            "Give your learning journey a fresh start, learn something new1",
-            "Give your learning journey a fresh start, learn something new2",
-            "Give your learning journey a fresh start, learn something new3",
-            "Give your learning journey a fresh start, learn something new4"
+            "Get a fresh start, explore something new.",
+            "Start your day by exploring new horizons.",
+            "Stimulate your mind with a bite-sized learning session.",
+            "Good morning. Challenge boundaries and learn something new.",
+            "Good morning, early bird! Time to make those brain cells shine.",
+            "Good morning. Let your mind unfold its potential!"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
           "centerImage": [
@@ -31,11 +32,11 @@
           "greet": "Hey <userName>,",
           "textColor": "#000000",
           "info": [
-            "Take a quick break from work - explore a course under 30 mins!",
-            "Take a quick break from work - explore a course under 30 mins1",
-            "Take a quick break from work - explore a course under 30 mins2",
-            "Take a quick break from work - explore a course under 30 mins3",
-            "Take a quick break from work - explore a course under 30 mins4"
+            "Take a quick break - assess your skills with a standalone assessment.",
+            "Take a snack break with a quick standalone assessment!",
+            "Recharge with a quick snack, and expand your skill sets.",
+            "Pause and reflect on your progress with a quick skills evaluation.",
+            "Take a mid-morning break, and refresh your skills."
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
           "centerImage": [
@@ -52,11 +53,11 @@
           "greet": "Had lunch, <userName>?",
           "textColor": "#000000",
           "info": [
-            "Time to complete that pending course before you head back to work!",
-            "Time to complete that pending course before you head back to work1",
-            "Time to complete that pending course before you head back to work2",
-            "Time to complete that pending course before you head back to work3",
-            "Time to complete that pending course before you head back to work4"
+            "Had a good lunch? Time to top up some new domain skills!",
+            "Had lunch? Now feed your brain with a bite of new knowledge.",
+            "Lunch and learn - the perfect combo!",
+            "Had a good lunch? Now it's time to power up your functional skills!",
+            "Hungry? Here’s some food for the mind."
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
           "centerImage": [
@@ -73,11 +74,11 @@
           "greet": "Chai time <userName>!",
           "textColor": "#000000",
           "info": [
-            "What better way to spend it than to discover new courses?",
-            "What better way to spend it than to discover new courses1",
-            "What better way to spend it than to discover new courses2",
-            "What better way to spend it than to discover new courses3",
-            "What better way to spend it than to discover new courses4"
+            "Chai time! Time to share your ideas at the Discussion Forum!",
+            "Let's brew up some new learnings! Grab your chai and start!",
+            "Grab a chai and crack a course.",
+            "Let's snack on samosas and learn something innovative.",
+            "Chai o'clock! Time for some leadership courses!"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Afternoon_Bg.svg",
           "centerImage": [
@@ -94,11 +95,11 @@
           "greet": "Hello <userName>,",
           "textColor": "#FFFFFF",
           "info": [
-            "Let's finish the day on a high note - finish a course and get a certificate!",
-            "Let's finish the day on a high note - finish a course and get a certificate2",
-            "Let's finish the day on a high note - finish a course and get a certificate3",
-            "Let's finish the day on a high note - finish a course and get a certificate4",
-            "Let's finish the day on a high note - finish a course and get a certificate5"
+            "Dinner's over! Time to watch Karmayogi Talks at the Event Hub!",
+            "Had dinner? Check your progress at the In Progress' section.",
+            "Dinner's over! Finish pending courses and get Weekly Claps!",
+            "After dinner, download the ready certificates!",
+            "Dinner's done! Now check out the Blended Programs!"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
           "centerImage": [

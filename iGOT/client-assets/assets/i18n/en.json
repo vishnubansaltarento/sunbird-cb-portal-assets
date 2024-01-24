@@ -1087,7 +1087,8 @@
         "competencyPassbook": "Competency passbook",
         "getStarted": "'Get Started' tour",
         "myLearning": "My Learning",
-        "viewProfile": "View Profile"
+        "viewProfile": "View Profile",
+        "learningHistory": "Learning History"
     },
     "requestDialog": {
         "designationRequest": "Request to add designation",

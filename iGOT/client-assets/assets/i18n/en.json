@@ -134,10 +134,10 @@
         "selectYourInterests": "Select your interests"
     },
     "learn": {
-        "btnExplorebyCompetency": "Explore by competency",
-        "btnExplorebyProvider": "Explore by provider",
-        "btnCuratedCollections": "Curated collections",
-        "btnModeratedCourses": "Moderated courses"
+        "exploreByCompetency": "Explore by competency",
+        "exploreByProvider": "Explore by provider",
+        "curatedCollections": "Curated collections",
+        "moderatedCourses": "Moderated courses"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",
@@ -496,16 +496,17 @@
     "network": {
         "networkHome": "Network home",
         "searchUser": "Search User",
-        "myConnections": "Your connections",
-        "noConnectionRequests":" No connection requests!",
+        "yourConnections": "Your connections",
+        "noConnectionRequests":"No connection requests!",
         "connectionRequests": "Connection Requests",
         "tabConnectionRequest": "Connection Request",
         "formMyMDO":"Users from MDO",
-        "tabFromYourMdo": "From Your MDO",
+        "fromYourMdo": "From your MDO",
         "recommendedConnections": "Recommended Connections",
         "btnSeeMore" : "See More",
         "userSearch": "User Search",
-        "showAll": "Show All"
+        "showAll": "Show All",
+        "noSearchResultFound":"No search results found!"
     },
     "connectionPeopleCard": {
         "connect": "Connect",
@@ -765,7 +766,6 @@
         "mechanismForcalculatingKp": "Is the mechanism for calculating Karma Points fixed?",
         "mechanismForcalculatingKpDesc": "No! iGOT is a dynamic platform that will keep evolving with your feedback toward the goal of a Viksit Bharat. Similarly, the calculation of Karma Points will keep evolving with the platform's growth."
     },
-
     "profileView": {
         "editProfile": "Edit Profile",
         "connections": "Connections",
@@ -928,7 +928,8 @@
         "programs": "Programs",
         "showAll": "Show All",
         "updateYourProfile": "Update your profile and get it verified",
-        "updateNow": "Update now"
+        "updateNow": "Update now",
+        "myDiscussions": "My Discussions"
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts",

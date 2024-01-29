@@ -12837,5 +12837,23 @@
       "name": "ZONAL MANAGER",
       "description": "ZONAL MANAGER"
     }
+  ],
+  "webistelanguages": [
+    {
+      "value": "English",
+      "key": "en"
+    },
+    {
+      "value": "Hindi",
+      "key": "hi"
+    },
+    {
+      "value": "Tamil",
+      "key": "ta"
+    },
+    {
+      "value": "Kannada",
+      "key": "ka"
+    }
   ]
 }

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "English",
+        "value": "English"
+    },
+    {
+        "name": "ಕನ್ನಡ",
+        "value": "Kannada"
+    },
+    {
+        "name": "తెలుగు",
+        "value": "Telugu"
+    },
+    {
+        "name": "தமிழ்",
+        "value": "Tamil"
+    },
+    {
+        "name": "മലയാളം",
+        "value": "Malayalam"
+    },
+    {
+        "name": "हिंदी",
+        "value": "Hindi"
+    },
+    {
+        "name": "অসমীয়া",
+        "value": "Assamese"
+    },
+    {
+        "name": "বাংলা",
+        "value": "Bengali"
+    },
+    {
+        "name": "ગુજરાતી",
+        "value": "Gujarati"
+    },
+    {
+        "name": "मराठी",
+        "value": "Marathi"
+    },
+    {
+        "name": "ଓଡିଆ",
+        "value": "Odia"
+    },
+    {
+        "name": "ਪੰਜਾਬੀ",
+        "value": "Punjabi"
+    }
+]

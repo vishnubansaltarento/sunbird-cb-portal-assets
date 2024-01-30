@@ -245,9 +245,9 @@
     {
       "displayButton": "ACBP",
       "textBeforeIcon": "Earn",
-      "points": "10 Karma Points",
+      "points": "15 Karma Points",
       "textAfterIcon": "by completing this course.",
-      "toolTipText": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details. "
+      "toolTipText": "This is a part of your Capacity Building Plan. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
     }
   ],
   "ScormProgressThreshold": 20

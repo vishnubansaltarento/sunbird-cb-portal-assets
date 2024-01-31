@@ -1,0 +1,26 @@
+{
+  "overrideThemeChanges": {
+    "isEnabled": true,
+    "desktop": {
+      "animationDuration": 15000,
+      "logoUrl": "/assets/instances/eagle/app_logos/flaglogo.gif",
+      "logoText": "75th Republic Day",
+      "logoDisplayTime": 1800000,
+      "backgroundTheme": "linear-gradient(to left, #138808 33%, #ffffff 33%, #ffffff 66%, #FF9933 66% );"
+    },
+    "mWeb": {
+      "logoUrl": "/assets/instances/eagle/app_logos/flaglogo.gif",
+      "logoText": "75th Republic Day"
+    },
+    "mobile": {
+      "isEnabled": true,
+      "logoUrl": "/assets/instances/eagle/app_logos/mobile_animation_file.json",
+      "logoText": "75th Republic Day",
+      "backgroundColors": [
+        "0xffF8DACE",
+        "0xffFFFFFF",
+        "0xffCBEED2"
+      ]
+    }
+  }
+}

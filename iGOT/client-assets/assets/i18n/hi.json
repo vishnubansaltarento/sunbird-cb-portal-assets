@@ -133,10 +133,10 @@
         "selectYourInterests": "Select your interests"
     },
     "learn": {
-        "btnExplorebyCompetency": "Explore by competency-HI",
-        "btnExplorebyProvider": "Explore by provider-HI",
-        "btnCuratedCollections": "Curated collections-HI",
-        "btnModeratedCourses": "Moderated courses-HI"
+        "exploreByCompetency": "Explore by competency-HI",
+        "exploreByProvider": "Explore by provider-HI",
+        "curatedCollections": "Curated collections-HI",
+        "moderatedCourses": "Moderated courses-HI"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning-HI",
@@ -493,17 +493,19 @@
         "of": "of"
     },
     "network": {
-        "networkHome": "Network home -hi",
-        "searchUser": "Search User -hi",
-        "myConnections": "Your connections -hi",
-        "noConnectionRequests":" No connection requests! -hi",
-        "connectionRequests": "Connection Requests -hi",
-        "tabConnectionRequest": "Connection Request -hi",
-        "formMyMDO":"Users from MDO -hi",
-        "recommendedConnections": "Recommended Connections -hi",
-        "btnSeeMore" : "See More -hi",
-        "userSearch": "User Search -hi",
-        "showAll": "Show All -hi"
+        "networkHome": "Network home-HI",
+        "searchUser": "Search User-HI",
+        "yourConnections": "Your connections-HI",
+        "noConnectionRequests":"No connection requests!-HI",
+        "connectionRequests": "Connection Requests-HI",
+        "tabConnectionRequest": "Connection Request-HI",
+        "formMyMDO":"Users from MDO-HI",
+        "tabFromYourMdo": "From Your MDO-HI",
+        "recommendedConnections": "Recommended Connections-HI",
+        "btnSeeMore" : "See More-HI",
+        "userSearch": "User Search-HI",
+        "showAll": "Show All-HI",
+        "noSearchResultFound":"No search results found!-HI"
     },
     "connectionPeopleCard": {
         "connect": "Connect - hi",
@@ -891,8 +893,9 @@
         "courses": "Courses-HI",
         "programs": "Programs-HI",
         "showAll": "Show All-HI",
-        "updateYourProfile": "Update your profile and get it verified",
-        "updateNow": "Update now-HI"
+        "updateYourProfile": "Update your profile and get it verified-HI",
+        "updateNow": "Update now-HI",
+        "myDiscussions": "My Discussions-HI"
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts-HI",

@@ -102,7 +102,7 @@
                     "routerLink": "/app/home/reports-section"
                 },
                 {
-                    "name": "Training plan",
+                    "name": "Training Plan",
                     "key": "training-plan-dashboard",
                     "fragment": false,
                     "render": true,

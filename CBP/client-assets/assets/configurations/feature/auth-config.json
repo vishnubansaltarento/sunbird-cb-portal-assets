@@ -197,9 +197,204 @@
   },
   "menus": {
     "widgetType": "menus",
-    "widgetSubType": "leftMenu",
+    "widgetSubType": "leftMenuV1",
     "widgetData": {
       "logo": true,
+      "newMenu": true,
+      "menusList":[
+        {
+          "menuCategory":"Curate",
+          "subMenu": [
+            {
+              "name": "My Content",
+              "key": "mycbp",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/me",
+              "queryParams": "published",
+              "requiredRoles": [
+                "content_reviewer",
+                "content_creator",
+                "spv_publisher",
+                "editor",
+                "admin"
+              ]
+            },
+            {
+              "name": "All Content",
+              "key": "cbp",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/all",
+              "queryParams": "published",
+              "requiredRoles": [
+                "admin",
+                "super-admin",
+                "content-admin",
+                "editor",
+                "content_creator"
+              ]
+            }
+          ]
+        },
+        {
+          "menuCategory":"Manage",
+          "subMenu": [
+            {
+              "name": "Moderated course",
+              "key": "moderatedCourse",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/moderated-course-home",
+              "requiredRoles": [
+                "content_reviewer",
+                "content_creator",
+                "content_publisher"
+              ]
+            },
+            {
+              "name": "Blended program",
+              "key": "blendedProgram",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/blended-program-home",
+              "requiredRoles": [
+                "content_reviewer",
+                "content_creator",
+                "spv_publisher"
+              ]
+            },
+            {
+              "name": "Manage blended program",
+              "key": "blendedProgramAll",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/blended-program-all",
+              "requiredRoles": [
+                "program_coordinator"
+              ]
+            },
+            {
+              "name": "Users",
+              "key": "user",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/users",
+              "requiredRoles": [
+                "cbp_admin"
+              ]
+            },
+            {
+              "name": "Competencies",
+              "key": "competencies",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/competencies",
+              "requiredRoles": [
+                "admin",
+                "super-admin",
+                "content-admin",
+                "editor",
+                "content_creator"
+              ]
+            },
+            {
+              "name": "Forms",
+              "key": "Forms",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/forms",
+              "requiredRoles": [
+                "admin",
+                "super-admin",
+                "content-admin",
+                "content_creator"
+              ]
+            },
+            {
+              "name": "Reports",
+              "key": "reportSection",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/reportSection",
+              "requiredRoles": [
+                "cbp_admin",
+                "content_creator",
+                "program_coordinator"
+              ]
+            },
+            {
+              "name": "Policies",
+              "key": "policies",
+              "fragment": false,
+              "render": false,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": false,
+              "routerLink": "/app/notifications"
+            },
+            {
+              "name": "About",
+              "key": "about",
+              "fragment": false,
+              "render": false,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": false,
+              "routerLink": "/app/info/about"
+            }
+          ]
+        }
+      ],
       "menus": [
         {
           "name": "My CBPs",

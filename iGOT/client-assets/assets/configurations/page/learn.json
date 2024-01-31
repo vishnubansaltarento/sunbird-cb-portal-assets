@@ -1030,22 +1030,22 @@
   "ExploreButtons": [
     {
       "icon": "extension",
-      "name": "btnExplorebyCompetency",
+      "name": "Explore by competency",
       "route": "/app/learn/browse-by/competency/all-competencies"
     },
     {
       "icon": "scatter_plot",
-      "name": "btnExplorebyProvider",
+      "name": "Explore by provider",
       "route": "/app/learn/browse-by/provider/all-providers"
     },
     {
       "icon": "video_library",
-      "name": "btnCuratedCollections",
+      "name": "Curated collections",
       "route": "/app/curatedCollections/home"
     },
     {
       "icon": "video_library",
-      "name": "btnModeratedCourses",
+      "name": "Moderated courses",
       "route": "/app/globalsearch"
     }
   ]

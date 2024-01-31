@@ -1,0 +1,17 @@
+[
+    {
+        "name": "All users",
+        "value": "allUsers",
+        "enabledFor": ["Course","Program","Standalone Assessment"]
+    },
+    {
+        "name": "MDO Specific",
+        "value": "mdoSpecific",
+        "enabledFor": ["Course","Program","Standalone Assessment"]
+    },
+    {
+        "name": "Custom User",
+        "value": "customeUser",
+        "enabledFor": ["Program"]
+    }
+]

@@ -1,0 +1,119 @@
+{
+  "profileTimelyNudges": {
+  "enable": true,
+    "profileDelayInSec": 5,
+    "nudgeDelayInSec": 10,
+      "data" : [
+        {
+          "startTime": 6,
+          "endTime": 10,
+          "greet": "Good morning <userName>!",
+          "textColor": "#000000",
+          "info": [
+            "Get a fresh start, explore something new.",
+            "Start your day by exploring new horizons.",
+            "Stimulate your mind with a bite-sized learning session.",
+            "Challenge boundaries and learn something new.",
+            "Early bird! Time to make those brain cells shine."
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Morning_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Morning_icon.svg",
+            "/assets/images/RepublicDay-2024/Morning_icon.svg",
+            "/assets/images/RepublicDay-2024/Morning_icon.svg",
+            "/assets/images/RepublicDay-2024/Morning_icon.svg",
+            "/assets/images/RepublicDay-2024/Morning_icon.svg"
+          ]
+        },
+        {
+          "startTime": 10,
+          "endTime": 13,
+          "greet": "Hey <userName>!",
+          "textColor": "#000000",
+          "info": [
+            "Take a snack break with a quick standalone assessment!",
+            "Recharge with a quick snack, and expand your skill sets.",
+            "Pause and reflect on your progress with a quick skills evaluation.",
+            "Take a mid-morning break, and refresh your skills.",
+            "Take a snack break with a quick look at your Karma Points!"
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Morning_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+            "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+            "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+            "/assets/images/RepublicDay-2024/LateMorning_icon.svg",
+            "/assets/images/RepublicDay-2024/LateMorning_icon.svg"
+          ]
+        },
+        {
+          "startTime": 13,
+          "endTime": 17,
+          "greet": "Had a good lunch <userName>!",
+          "textColor": "#000000",
+          "info": [
+            "Time to top up some new domain skills!",
+            "Now feed your brain with a bite of new knowledge.",
+            "Lunch and learn - the perfect combo!",
+            "Now it's time to power up your functional skills!",
+            "Here's some food for the mind."
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Afternoon_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Afternoon_icon.svg"
+          ]
+        },
+        {
+          "startTime": 17,
+          "endTime": 19,
+          "greet": "It's chai o'clock <userName>!",
+          "textColor": "#000000",
+          "info": [
+            "Time to share your ideas at the Discussion Forum!",
+            "Let's brew up some new learnings!",
+            "Grab a chai and crack a course.",
+            "Let’s snack on samosas and learn something innovative.",
+            "Time for some leadership courses!"
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Late_Afternoon_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Afternoon_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg",
+            "/assets/images/RepublicDay-2024/Late_Afternoon_icon.svg"
+          ]
+        },
+        {
+          "startTime": 19,
+          "endTime": 6,
+          "greet": "Good Night <userName>!",
+          "textColor": "#FFFFFF",
+          "info": [
+            "Done for the day? Check your progress at the 'In Progress' section.",
+            "Still up? Great time to check out Trending Courses!",
+            "While the world sleeps, our Chatbot is awake - go ahead, chat!",
+            "Relaxing after dinner? Watch Karmayogi Talks!",
+            "Still awake? Check your Karma Points!"
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg"
+          ]
+        }              
+      ]
+  }
+}

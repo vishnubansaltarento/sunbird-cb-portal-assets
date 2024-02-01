@@ -75,41 +75,6 @@
                     ]
                 },
                 {
-                    "name": "Events",
-                    "key": "events",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/events",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },    
-                {
-                    "name": "Work allocation tool",
-                    "key": "workallocation",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                      "enabled": false,
-                      "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/workallocation",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "wat_member",
-                        "mdo_leader"
-                    ]
-                },
-                {
                     "name": "Organisation profile",
                     "key": "orgProfile",
                     "fragment": false,

@@ -1252,6 +1252,97 @@
       
     ]},{
       "order":4,
+      "strips": [
+        {        
+          "active": true,
+          "key": "recentlyAdded",
+          "logo": "school",
+          "title": "Recently Added",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs" : true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "stripBackground": "",
+          "titleDescription": "Recently Added",
+          "stripConfig": {
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "recentlyAdded"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "tabs": [
+          ],
+          "filters": [],
+          "request": {
+            "searchV6": {
+              "request": {
+                "filters": [
+                  {
+                    "primaryCategory": [
+                      "Course"
+                    ],
+                    "contentType": [
+                      "Course"
+                    ]
+                  }
+                ],
+                "query": "",
+                "sort_by": {
+                  "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                  "name",
+                  "appIcon",
+                  "instructions",
+                  "description",
+                  "purpose",
+                  "mimeType",
+                  "gradeLevel",
+                  "identifier",
+                  "medium",
+                  "pkgVersion",
+                  "board",
+                  "subject",
+                  "resourceType",
+                  "primaryCategory",
+                  "contentType",
+                  "channel",
+                  "organisation",
+                  "trackable",
+                  "license",
+                  "posterImage",
+                  "idealScreenSize",
+                  "learningMode",
+                  "creatorLogo",
+                  "duration",
+                  "avgRating"
+                ]
+              }
+            }
+          }
+        }
+        
+      ]},{
+      "order":5,
     "strips": [
       {
         "active": true,
@@ -1355,7 +1446,7 @@
       }
       
     ]},{
-      "order":5,
+      "order":6,
     "strips": [
       {        
         "active": true,
@@ -1413,7 +1504,7 @@
       
     ]},
     {
-      "order":6,
+      "order":7,
       "strips": [
         {        
           "active": true,
@@ -1508,7 +1599,7 @@
        
       ]},
     {
-      "order":7,
+      "order":8,
     "strips": [
       {
         "active": true,
@@ -1522,7 +1613,8 @@
         "sliderConfig": {
           "showNavs" : true,
           "showDots": true,
-          "maxWidgets": 12
+          "maxWidgets": 12,
+          "cerificateCardMargin": true
         },
         "loader": true,
         "stripBackground": "",

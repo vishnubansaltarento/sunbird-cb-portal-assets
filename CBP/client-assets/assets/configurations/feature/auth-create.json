@@ -249,8 +249,8 @@
     "description": "Create a collection of module and resources for moderated courses.",
     "icon": "video_library",
     "contentType": "Course",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator",
@@ -285,8 +285,8 @@
   {
     "id": "learningPath",
     "isCollection": true,
-    "name": "Invite Only Program",
-    "description": "Create a collection of courses to invite specific users to enroll into a particular batch.",
+    "name": "Program",
+    "description": "Create a collection of module and resources for moderated courses.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
@@ -302,9 +302,20 @@
     "details": {
       "title": "Welcome to curation of program.",
       "createTitle": "Program",
-      "subTitle": "Create a collection of Courses.",
+      "subTitle": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner. Users will earn certificates at both the individual course and program levels, with their progress continuously monitored throughout the system.",
       "points": []
-    }
+    },
+    "openProgramEnabled": true,
+    "moderatedProgramEnabled": true,
+    "blendedProgramEnabled": true,
+    "programDuration":{
+      "max": 999,
+      "min": 1
+    },
+    "batchSize": {
+      "max": 200,
+      "min": 1
+    } 
   },
   {
     "id": "curatedProgram",
@@ -313,8 +324,8 @@
     "description": "Create a collection of courses where any user can enroll and complete the courses in a self-paced manner.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator"
@@ -425,8 +436,8 @@
     "description": "Create a collection of online and offline resources.",
     "icon": "library_books",
     "contentType": "Course",
-    "available": true,
-    "enabled": true,
+    "available": false,
+    "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [
       "content_creator"

@@ -1,0 +1,32 @@
+{
+    "actionMenu": [
+        {
+            "name": "Preview",
+            "key": "preivewContent",
+            "icon": "remove_red_eye",
+            "enabledFor": ["mdo_leader", "mdo_admin"],
+            "enabled": true
+        },
+        {
+            "name": "Edit",
+            "key": "editContent",
+            "icon": "edit",
+            "enabledFor": ["mdo_leader", "mdo_admin"],
+            "enabled": true
+        },
+        {
+            "name": "Delete",
+            "key": "deleteContent",
+            "icon": "delete",
+            "enabledFor": ["mdo_leader", "mdo_admin"],
+            "enabled": true
+        },
+        {
+            "name": "Publish",
+            "key": "publishContent",
+            "icon": "publish",
+            "enabledFor": ["mdo_leader", "mdo_admin"],
+            "enabled": true
+        }
+    ]
+}

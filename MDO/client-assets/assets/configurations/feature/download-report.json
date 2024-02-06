@@ -40,5 +40,19 @@
         "reportType": "Detailed data report",
         "downloadReportFileName":"BlendedProgramReport",
         "enabled": true
+    },
+    {
+        "name": "Capacity Building Report User Exhaust",
+        "type": "cbp-report-mdo-summary",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"CBPUserSummaryReport",
+        "enabled": true
+    },
+    {
+        "name": "Capacity Building Report Enrollment Exhaust",
+        "type": "cbp-report-mdo-enrolment",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"CBPEnrollmentReport",
+        "enabled": true
     }
 ]

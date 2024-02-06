@@ -6,5 +6,5 @@ SR,Question,Option1,IsOption1Correct,Option2,IsOption2Correct,Option3,IsOption3C
 ",FALSE,"H V R Iengar
 ",FALSE
 2,"Who was the first director of Central Bureau of Investigation
-?",F. V. Arul,FALSE, D. P. Kohli,TRUE,S. N. Mathur,FALSE,D. R. Karthikeyan,FALSE,,FALSE,,FALSE
-3,when first Five-Year Plans of India started?,1941,FALSE,1951,TRUE,1961,FALSE,1971,FALSE,,FALSE,,FALSE
+?",F. V. Arul,FALSE, D. P. Kohli,TRUE,S. N. Mathur,FALSE,D. R. Karthikeyan,FALSE,OTHERS,FALSE,None of these,FALSE
+3,when first Five-Year Plans of India started?,1941,FALSE,1951,TRUE,1961,FALSE,1971,FALSE,OTHERS,FALSE,None of these,FALSE

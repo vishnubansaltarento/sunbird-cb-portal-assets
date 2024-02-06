@@ -380,8 +380,9 @@
         "status": [
           "Live"
         ],
-        "primaryCategory": [
-          "Course"
+        "courseCategory": [
+          "Course", 
+          "Moderated Course"
         ]
       }
     },

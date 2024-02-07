@@ -595,6 +595,7 @@
         "postReply":"Post reply",
         "recent":"Recent",
         "reply":"Reply",
+        "replynew":"reply",
         "lastReply":"Last reply",
         "replies":"replies",
         "cancel":"Cancel",
@@ -610,12 +611,24 @@
         "labelAllDiscussionRecent":"Recent",
         "labelAllDiscussionPopular":"Popular",
         "btnStartDiscussion":"Start discussion",
-        "placeholderAskQuesPostIdea" : "Ask a question or post an idea",
+        "askQuesPostIdea" : "Ask a question or post an idea",
+        "elaborateYourQuestion": "Please elaborate your question or idea here",
+        "addTagPressEnter": "Add a tag and press Enter",
         "labelCategoriesAll":"All",
         "labelCategoriesWatching":"Watching",
         "placeholderTagsSearch":"Search by name",
         "discussionVotes":"Votes",
-        "discussionViews":"Views"
+        "discussionViews":"Views",
+        "all": "All",
+        "watching": "Watching",
+        "popular": "Popular",
+        "selectCategory": "Select Category",
+        "update": "Update",
+        "similarDiscussions": "Similar discussions",
+        "displaySimilarDiscussions": "We will display similar discussions here as you type",
+        "delete": "Delete",
+        "edit": "Edit",
+        "trendingTags": "Trending tags"
     },
     "knowledgeall": {
         "search": "Search",
@@ -2577,8 +2590,5 @@
         "mStaticTimings": "9:00 AM to 5:00 PM",
         "mStaticNationalprogram": "National Program for Civil Services Capacity Building",
         "mStaticWelcomeintrotext": "National Programme for Civil Services Capacity Building, aptly named as Mission Karmayogi, aims to create a professional, well-trained and future-looking civil service."
-   
-
-
     }
 }

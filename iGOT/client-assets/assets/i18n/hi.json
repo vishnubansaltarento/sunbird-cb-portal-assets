@@ -66,6 +66,18 @@
         "settings": "Settings -hi",
         "noDataFound":"No data found! -hi"
     },
+    "seeAllHome": {
+        "myLearning": "My Learning -hi",
+        "inProgress": "In Progress -hi",
+        "completed": "Completed -hi",
+        "trendingInYourDepartment": "Trending in your department -hi",
+        "courses": "Courses -hi",
+        "programs": "Programs -hi",
+        "blendedProgram": "Blended Program-HI",
+        "trendingAcrossDepartment": "Trending across department -hi",
+        "learningUnder30Min": "Learning under 30 min -hi",
+        "certificationsOfTheWeek": "Certifications of the week -hi"
+    },
     "appnavbar": {
         "searchforLearningContents": "सीखने की सामग्री खोजें",
         "karmaPoints": "Karma Points - hi",
@@ -897,6 +909,12 @@
         "updateNow": "Update now-HI",
         "myDiscussions": "My Discussions-HI"
     },
+    "profileCardStats": {
+        "inProgress": "In Progress - hi",
+        "certificate": "Certificate - hi",
+        "learningHours": "Learning hours - hi",
+        "ShowMyActivities": "Show my activities - hi",
+    },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts-HI",
         "showAll": "Show All -hi",
@@ -1054,7 +1072,8 @@
         "competencyPassbook": "Competency passbook - hi",
         "getStarted": "'Get Started' tour - hi",
         "myLearning": "My Learning - hi",
-        "viewProfile": "View Profile - hi"
+        "viewProfile": "View Profile - hi",
+        "learningHistory": "Learning History -hi"
     },
     "requestDialog": {
         "designationRequest": "Request to add designation - hi",

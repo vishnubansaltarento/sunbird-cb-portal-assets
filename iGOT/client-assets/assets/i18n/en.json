@@ -66,6 +66,19 @@
         "settings": "Settings",
         "noDataFound":"No data found!"
     },
+    "seeAllHome": {
+        "myLearning": "My Learning",
+        "inProgress": "In Progress",
+        "completed": "Completed",
+        "trendingInYourDepartment": "Trending in your department",
+        "courses": "Courses",
+        "programs": "Programs",
+        "blendedProgram": "Blended Program",
+        "trendingAcrossDepartment": "Trending across department",
+        "learningUnder30Min": "Learning under 30 min",
+        "certificationsOfTheWeek": "Certifications of the week"
+
+    },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
         "karmaPoints": "Karma Points",
@@ -930,6 +943,12 @@
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions"
+    },
+    "profileCardStats": {
+        "inProgress": "In Progress",
+        "certificate": "Certificate",
+        "learningHours": "Learning hours",
+        "ShowMyActivities": "Show my activities",
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts",

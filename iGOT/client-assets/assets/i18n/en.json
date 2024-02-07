@@ -512,6 +512,8 @@
         "yourConnections": "Your connections",
         "noConnectionRequests":"No connection requests!",
         "connectionRequests": "Connection Requests",
+        "cRequests": "Connection requests",
+        "cRequest": "Connection request",
         "tabConnectionRequest": "Connection Request",
         "formMyMDO":"Users from MDO",
         "fromYourMdo": "From your MDO",
@@ -961,7 +963,7 @@
         "inProgress": "In Progress",
         "certificate": "Certificate",
         "learningHours": "Learning hours",
-        "ShowMyActivities": "Show my activities",
+        "ShowMyActivities": "Show my activities"
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts",

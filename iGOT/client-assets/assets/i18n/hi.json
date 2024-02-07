@@ -510,6 +510,8 @@
         "myConnections": "आपके संपर्क",
         "noConnectionRequests": "कोई कनेक्शन अनुरोध नहीं!",
         "connectionRequests": "कनेक्शन अनुरोध",
+        "cRequests": "Connection requests - hi",
+        "cRequest": "Connection request -hi",
         "tabConnectionRequest": "कनेक्शन अनुरोध",
         "formMyMDO": "एम. डी. ओ के उपयोगकर्ता",
         "tabFromYourMdo": "आपके एम. डी. ओ से",
@@ -944,7 +946,7 @@
         "inProgress": "In Progress - hi",
         "certificate": "Certificate - hi",
         "learningHours": "Learning hours - hi",
-        "ShowMyActivities": "Show my activities - hi",
+        "ShowMyActivities": "Show my activities - hi"
     },
     "updateposts": {
         "discussUpdateOnPost": "आपकी पोस्ट पर अपडेट",

@@ -66,6 +66,18 @@
         "settings": "विन्यास",
         "noDataFound": "कोई डेटा नहीं मिला!"
     },
+    "seeAllHome": {
+        "myLearning": "My Learning -hi",
+        "inProgress": "In Progress -hi",
+        "completed": "Completed -hi",
+        "trendingInYourDepartment": "Trending in your department -hi",
+        "courses": "Courses -hi",
+        "programs": "Programs -hi",
+        "blendedProgram": "Blended Program-HI",
+        "trendingAcrossDepartment": "Trending across department -hi",
+        "learningUnder30Min": "Learning under 30 min -hi",
+        "certificationsOfTheWeek": "Certifications of the week -hi"
+    },
     "appnavbar": {
         "searchforLearningContents": "सीखने की सामग्री खोजें",
         "karmaPoints": "कर्म बिंदु",
@@ -927,6 +939,12 @@
         "showAll": "सब दिखाएँ",
         "updateYourProfile": "अपनी प्रोफ़ाइल को अद्यतन करें और इसे सत्यापित करें।",
         "updateNow": "अभी अद्यतन करें"
+    },
+    "profileCardStats": {
+        "inProgress": "In Progress - hi",
+        "certificate": "Certificate - hi",
+        "learningHours": "Learning hours - hi",
+        "ShowMyActivities": "Show my activities - hi",
     },
     "updateposts": {
         "discussUpdateOnPost": "आपकी पोस्ट पर अपडेट",

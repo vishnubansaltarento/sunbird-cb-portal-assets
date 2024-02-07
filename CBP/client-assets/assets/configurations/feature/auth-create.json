@@ -207,7 +207,7 @@
     "id": "course",
     "isCollection": true,
     "name": "Course",
-    "description": "Create a collection of module and resources.",
+    "description": "Create Course and Moderated course with a collection of modules and resources.",
     "icon": "video_library",
     "contentType": "Course",
     "available": true,
@@ -221,26 +221,30 @@
     "possion": 1,
     "primaryCategory": "Course",
     "details": {
-      "title": "Welcome to curation of content.",
+      "title": "Welcome to the course creation section.",
       "createTitle": "Course information",
-      "subTitle": "A few key suggestions for creating a robust course for your learners,",
+      "subTitle": "A few key points for creating a robust course:",
       "points": [
         {
           "icon": "error_outline",
-          "text": "Whenever possible try to create a module, which is a collection of resources, this helps to streamline the learning process."
+          "text": "For seamless view create courses with modules as well as resources (Video, PDFs , assessment etc.) with proper taxonomy."
         },
         {
           "icon": "error_outline",
-          "text": "Please provide hi-res images whenever possible."
+          "text": "In the course thumnail, please use 16:9 ratio images with high -resolution."
         },
         {
           "icon": "error_outline",
-          "text": "Whenever possible please provide an introduction and conclusion for the course."
+          "text": "Please write a proper Introduction and Description for the course."
         }
       ]
     },
     "openCourseEnabled": true,
-    "moderatedCourseEnabled": true
+    "moderatedCourseEnabled": true,
+    "toolTipinfo": "On selection of 'All users', the created course will be tagged as 'Course' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created course will be tagged as 'Moderated course' and will be accessible to the selected MDO's users or verified users.",
+    "accessSettingSubtitle":"Select the user type who should be able to view course.",
+    "moderatedTitle": "Moderated course access",
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the course."
   },
   {
     "id": "moderatedCourse",
@@ -286,7 +290,7 @@
     "id": "learningPath",
     "isCollection": true,
     "name": "Program",
-    "description": "Create a collection of module and resources for moderated courses.",
+    "description": "Create Curated, Moderated, Invite only and Blended Program with curation of open courses (means which is accessible to all). Note:  Only in Moderated program, you can add Moderated courses.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
@@ -315,7 +319,11 @@
     "batchSize": {
       "max": 200,
       "min": 1
-    } 
+    },
+    "toolTipinfo": "On selection of 'All users', the created program will be tagged as 'Curated Program' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created program will be tagged as 'Moderated program' and will be accessible to the selected MDO's users or verified users.On selection of 'Custom users', the created program will be tagged as 'Invite Only Program' and will be accessible to the invited users only.",
+    "accessSettingSubtitle" : "Select the user type who will have access to the created program.",
+    "moderatedTitle": "Moderated program access",
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the created program."
   },
   {
     "id": "curatedProgram",
@@ -410,8 +418,8 @@
   {
     "id": "standaloneAssessment",
     "isCollection": true,
-    "name": "Standalone Assessment",
-    "description": "Create a standalone assessment.",
+    "name": "Assessment",
+    "description": "Create Standalone and Moderated Assessments.",
     "icon": "playlist_add_check",
     "contentType": "Collection",
     "available": true,
@@ -423,11 +431,15 @@
     "primaryCategory": "Standalone Assessment",
     "possion": 3,
     "details": {
-      "title": "Welcome to curation of standalone assessment.",
-      "createTitle": "Standalone Assessment",
-      "subTitle": "Create a standalone assessment.",
+      "title": "Welcome to the assessement creation.",
+      "createTitle": "Assessment",
+      "subTitle": "Create Standalone and Moderated assessment.",
       "points": []
-    }
+    },
+    "toolTipinfo": "On selection of 'All users', the created assessment will be tagged as 'Standalone assessment' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created assessment will be tagged as 'Moderated assessment' and will be accessible to the selected MDO's users or verified users.",
+    "accessSettingSubtitle": "Select the user type who will have access to the created assessment.",
+    "moderatedTitle": "Moderated assessment access",
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the created assessment."
   },
   {
     "id": "blendedProgram",

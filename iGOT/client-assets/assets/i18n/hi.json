@@ -510,6 +510,8 @@
         "yourConnections": "Your connections-HI",
         "noConnectionRequests":"No connection requests!-HI",
         "connectionRequests": "Connection Requests-HI",
+        "cRequests": "Connection requests-HI",
+        "cRequest": "Connection request-HI",
         "tabConnectionRequest": "Connection Request-HI",
         "formMyMDO":"Users from MDO-HI",
         "tabFromYourMdo": "From Your MDO-HI",
@@ -913,7 +915,7 @@
         "inProgress": "In Progress - hi",
         "certificate": "Certificate - hi",
         "learningHours": "Learning hours - hi",
-        "ShowMyActivities": "Show my activities - hi",
+        "ShowMyActivities": "Show my activities - hi"
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts-HI",

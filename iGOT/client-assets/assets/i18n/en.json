@@ -944,6 +944,12 @@
         "updateNow": "Update now",
         "myDiscussions": "My Discussions"
     },
+    "profileCardStats": {
+        "inProgress": "In Progress",
+        "certificate": "Certificate",
+        "learningHours": "Learning hours",
+        "ShowMyActivities": "Show my activities",
+    },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts",
         "showAll": "Show All",

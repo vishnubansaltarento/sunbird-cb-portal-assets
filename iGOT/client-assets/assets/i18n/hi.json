@@ -909,6 +909,12 @@
         "updateNow": "Update now-HI",
         "myDiscussions": "My Discussions-HI"
     },
+    "profileCardStats": {
+        "inProgress": "In Progress - hi",
+        "certificate": "Certificate - hi",
+        "learningHours": "Learning hours - hi",
+        "ShowMyActivities": "Show my activities - hi",
+    },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts-HI",
         "showAll": "Show All -hi",

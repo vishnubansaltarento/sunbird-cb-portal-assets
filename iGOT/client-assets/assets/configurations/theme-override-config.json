@@ -1,6 +1,6 @@
 {
   "overrideThemeChanges": {
-    "isEnabled": true,
+    "isEnabled": false,
     "desktop": {
       "animationDuration": 15000,
       "logoUrl": "/assets/instances/eagle/app_logos/flaglogo.gif",
@@ -13,7 +13,7 @@
       "logoText": "75th Republic Day"
     },
     "mobile": {
-      "isEnabled": true,
+      "isEnabled": false,
       "logoUrl": "/assets/instances/eagle/app_logos/mobile_animation_file.json",
       "logoText": "75th Republic Day",
       "backgroundColors": [

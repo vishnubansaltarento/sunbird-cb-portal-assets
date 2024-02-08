@@ -33,7 +33,9 @@
       "or": "किंवा",
       "signIn": "प्रवेश करा",
       "update": "अद्ययावत",
-      "showAll": "सर्व दाखवा"
+      "showAll": "सर्व दाखवा",
+      "loadMore": "Load more...",
+      "gyaanKarmayogi": "Gyaan Karmayogi"
     },
     "msg": {
       "noEvent": "कार्यक्रम नाही",
@@ -573,7 +575,8 @@
       "baseFontSize": "आधार अक्षरांचा आकार",
       "selectTheme": "विषय निवडा",
       "defaultLight": "पूर्वनिर्धारीत प्रकाश",
-      "supportThemes": "लवकरच येणाऱ्या आणखी विषयांसाठी पाठबळ"
+      "supportThemes": "लवकरच येणाऱ्या आणखी विषयांसाठी पाठबळ",
+      "chooselanguage": "Choose the language-MR"
     },
     "notificationSettings": {
       "notificationHeader": "सूचना मांडणी",

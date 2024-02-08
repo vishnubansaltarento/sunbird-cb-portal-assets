@@ -36,7 +36,8 @@
         "signIn": "साइन इन करें",
         "update": "अद्यतन करें",
         "showAll": "सब दिखाएँ",
-        "loadMore": "अधिक लोड करें।"
+        "loadMore": "अधिक लोड करें।",
+        "gyaanKarmayogi": "Gyaan Karmayogi-HI"
     },
     "msg": {
         "noEvent": "कोई घटना नहीं",
@@ -639,7 +640,8 @@
         "baseFontSize": "आधार फ़ॉन्ट आकार",
         "selectTheme": "विषय चुनें",
         "defaultLight": "डिफ़ॉल्ट प्रकाश",
-        "supportThemes": "जल्द ही आने वाले और विषयों के लिए समर्थन"
+        "supportThemes": "जल्द ही आने वाले और विषयों के लिए समर्थन",
+        "chooselanguage": "Choose the language-HI"
     },
     "notificationSettings": {
         "notificationHeader": "अधिसूचना सेटिंग",

@@ -107,7 +107,13 @@
         "quickLinks": "Quick links",
         "network": "Network",
         "learn": "Learn",
-        "details": "Details"
+        "details": "Details",
+        "saved": "Saved",
+        "knowledgeResource": "Knowledge Resource",
+        "updateProfile": "Update Profile",
+        "allCompetencies": "All Competencies",
+        "allCbps": "All CBPs",
+        "curatedCollections": "Curated collections"
     },
     "cardshublist": {
         "more": "More",
@@ -197,13 +203,14 @@
         "search": "Search"
     },
     "providerallcbp": {
-        "allCBPs": "All CBPs",
+        "allCbps": "All CBPs",
         "fromProvider": "CBPs from this provider",
         "loadMore": "Load more",
         "ascending": "Ascending",
         "descending": "Descending",
         "sortBy": "Sort by",
-        "insights": "Insights"
+        "insights": "Insights",
+        "search": "Search"
     },
     "allcompetencies": {
         "popularCompetencies": "Popular competencies",
@@ -213,6 +220,9 @@
         "ascending": "Ascending",
         "descending": "Descending",
         "search": "Search"
+    },
+    "inSights": {
+        "commingSoon": "Feature coming soon!"
     },
     "competencydetails": {
         "competencyType": "Competency type:",
@@ -971,6 +981,38 @@
         "certificate": "Certificate",
         "learningHours": "Learning hours",
         "ShowMyActivities": "Show my activities"
+    },
+    "profileNudge": {
+        "slot1Info1": "Get a fresh start, explore something new.",
+        "slot1Info2": "Start your day by exploring new horizons.",
+        "slot1Info3": "Stimulate your mind with a bite-sized learning session.",
+        "slot1Info4": "Challenge boundaries and learn something new.",
+        "slot1Info5": "Early bird! Time to make those brain cells shine.",
+        "slot2Info1": "Take a snack break with a quick standalone assessment!",
+        "slot2Info2": "Recharge with a quick snack, and expand your skill sets.",
+        "slot2Info3": "Pause and reflect on your progress with a quick skills evaluation.",
+        "slot2Info4": "Take a mid-morning break, and refresh your skills.",
+        "slot2Info5": "Take a snack break with a quick look at your Karma Points!",
+        "slot3Info1": "Time to top up some new domain skills!",
+        "slot3Info2": "Now feed your brain with a bite of new knowledge.",
+        "slot3Info3": "Lunch and learn - the perfect combo!",
+        "slot3Info4": "Now it's time to power up your functional skills!",
+        "slot3Info5": "Here's some food for the mind.",
+        "slot4Info1": "Time to share your ideas at the Discussion Forum!",
+        "slot4Info2": "Let's brew up some new learnings!",
+        "slot4Info3": "Grab a chai and crack a course.",
+        "slot4Info4": "Let's snack on samosas and learn something innovative.",
+        "slot4Info5": "Time for some leadership courses!",
+        "slot5Info1": "Done for the day? Check your progress at the 'In Progress' section.",
+        "slot5Info2": "Still up? Great time to check out Trending Courses!",
+        "slot5Info3": "While the world sleeps, our Chatbot is awake - go ahead, chat!",
+        "slot5Info4": "Relaxing after dinner? Watch Karmayogi Talks!",
+        "slot5Info5": "Still awake? Check your Karma Points!",
+        "slot1Greet": "Good morning",
+        "slot2Greet": "Hey",
+        "slot3Greet": "Had a good lunch",
+        "slot4Greet": "It's chai o'clock ",
+        "slot5Greet": "Good Night"
     },
     "updateposts": {
         "discussUpdateOnPost":"Updates on your posts",

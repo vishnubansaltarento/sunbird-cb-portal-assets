@@ -263,6 +263,19 @@
         "batchLocation": "बैच का स्थान",
         "view": "देखें"
     },
+    "contentSharing": {
+        "header": "Share with Karmayogis -hi",
+        "note": "Note: Emails will be sent only to registered karmayogis. -hi",
+        "remaingCharacter": "characters -hi",
+        "copyLink": "Copy link -hi",
+        "send": "Send -hi",
+        "placehoderText": "To: Add an email -hi",
+        "success": "Emails successfully shared with registered Karmayogis -hi",
+        "maxLimit": "Maximum email limit reached -hi",
+        "invalidEmail": "Invalid email -hi",
+        "linkCopied": "Link copied -hi",
+        "error": "Something went wrong. Please try after sometime -hi"
+    },
     "apptocsinglepage": {
         "overview": "सारांश",
         "content": "सामग्री",

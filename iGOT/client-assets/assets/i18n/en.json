@@ -267,6 +267,20 @@
         "batchLocation": "Batch location",
         "view": "View"
     },
+    "contentSharing": {
+        "header": "Share with Karmayogis",
+        "note": "Note: Emails will be sent only to registered karmayogis.",
+        "remaingCharacter": "characters",
+        "copyLink": "Copy link",
+        "send": "Send",
+        "placehoderText": "To: Add an email",
+        "success": "Emails successfully shared with registered Karmayogis",
+        "maxLimit": "Maximum email limit reached",
+        "invalidEmail": "Invalid email",
+        "linkCopied": "Link copied",
+        "error": "Something went wrong. Please try after sometime"
+
+    },
     "apptocsinglepage": {
         "overview": "Overview",
         "content": "Content",

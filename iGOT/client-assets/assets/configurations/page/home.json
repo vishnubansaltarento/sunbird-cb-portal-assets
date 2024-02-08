@@ -1153,7 +1153,7 @@
         "active": true,
         "key": "trendingInDepartment",
         "logo": "school",
-        "title": "Trending in Your Department",
+        "title": "Trending in your Department",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1164,7 +1164,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending in Your Department",
+        "titleDescription": "Trending in your Department",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1251,107 +1251,104 @@
       }
       
     ]},{
-    "order":4,
-    "strips": [
-      {        
-        "active": true,
-        "key": "blendedPrograms",
-        "logo": "school",
-        "title": "Blended Program",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": true,
-          "maxWidgets": 12
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-standard-skeleton"
-        },
-        "stripBackground": "",
-        "titleDescription": "Blended Program",
-        "stripConfig": {
-          "cardSubType": "standard"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "blendedPrograms"
+      "order":4,
+      "strips": [
+        {        
+          "active": true,
+          "key": "recentlyAdded",
+          "logo": "school",
+          "title": "Recently Added",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
           },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
+          "sliderConfig": {
+            "showNavs" : true,
+            "showDots": true,
+            "maxWidgets": 12
           },
+          "stripBackground": "",
+          "titleDescription": "Recently Added",
           "stripConfig": {
-            "cardSubType": "card-portrait-click"
-          }
-        },
-        "tabs": [],
-        "filters": [],
-        "request": {
-          "searchV6": {
-            "request": {
-              "filters": {
-                "primaryCategory": [
-                  "Blended Program"
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "recentlyAdded"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "tabs": [
+          ],
+          "filters": [],
+          "request": {
+            "searchV6": {
+              "request": {
+                "filters": [
+                  {
+                    "primaryCategory": [
+                      "Course"
+                    ],
+                    "contentType": [
+                      "Course"
+                    ]
+                  }
                 ],
-                "contentType": [
-                  "Course"
-                ],
-                "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
-              },
-              "offset": 0,
-              "limit": 12,
-              "query": "",
-              "sort_by": {
-                "lastUpdatedOn": "desc"
-              },
-              "fields": [
-                "name",
-                "appIcon",
-                "instructions",
-                "description",
-                "purpose",
-                "mimeType",
-                "gradeLevel",
-                "identifier",
-                "medium",
-                "pkgVersion",
-                "board",
-                "subject",
-                "resourceType",
-                "primaryCategory",
-                "contentType",
-                "channel",
-                "organisation",
-                "trackable",
-                "license",
-                "posterImage",
-                "idealScreenSize",
-                "learningMode",
-                "creatorLogo",
-                "duration",
-                "version",
-                "programDuration",
-                "avgRating",
-                "additionalTags"
-              ]
+                "query": "",
+                "sort_by": {
+                  "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                  "name",
+                  "appIcon",
+                  "instructions",
+                  "description",
+                  "purpose",
+                  "mimeType",
+                  "gradeLevel",
+                  "identifier",
+                  "medium",
+                  "pkgVersion",
+                  "board",
+                  "subject",
+                  "resourceType",
+                  "primaryCategory",
+                  "contentType",
+                  "channel",
+                  "organisation",
+                  "trackable",
+                  "license",
+                  "posterImage",
+                  "idealScreenSize",
+                  "learningMode",
+                  "creatorLogo",
+                  "duration",
+                  "avgRating"
+                ]
+              }
             }
           }
         }
-      }
-     
-    ]},{
+        
+      ]},{
       "order":5,
     "strips": [
       {
         "active": true,
         "key": "trendingAcrossDepartment",
         "logo": "school",
-        "title": "Trending Across Department",
+        "title": "Trending across Departments",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1362,7 +1359,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending Across Department",
+        "titleDescription": "Trending across Departments",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1455,7 +1452,7 @@
         "active": true,
         "key": "learnUnder30Min",
         "logo": "school",
-        "title": "Learning Under 30 Min",
+        "title": "Learning under 30 minutes",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1470,7 +1467,7 @@
           "cardSubType": "card-standard-skeleton"
         },
         "stripBackground": "",
-        "titleDescription": "Learning Under 30 Min",
+        "titleDescription": "Learning under 30 minutes",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1505,8 +1502,104 @@
         }
       }
       
-    ]},{
+    ]},
+    {
       "order":7,
+      "strips": [
+        {        
+          "active": true,
+          "key": "blendedPrograms",
+          "logo": "school",
+          "title": "Blended Program",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs" : true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "stripBackground": "",
+          "titleDescription": "Blended Program",
+          "stripConfig": {
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "blendedPrograms"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "searchV6": {
+              "request": {
+                "filters": {
+                  "primaryCategory": [
+                    "Blended Program"
+                  ],
+                  "contentType": [
+                    "Course"
+                  ],
+                  "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
+                },
+                "offset": 0,
+                "limit": 12,
+                "query": "",
+                "sort_by": {
+                  "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                  "name",
+                  "appIcon",
+                  "instructions",
+                  "description",
+                  "purpose",
+                  "mimeType",
+                  "gradeLevel",
+                  "identifier",
+                  "medium",
+                  "pkgVersion",
+                  "board",
+                  "subject",
+                  "resourceType",
+                  "primaryCategory",
+                  "contentType",
+                  "channel",
+                  "organisation",
+                  "trackable",
+                  "license",
+                  "posterImage",
+                  "idealScreenSize",
+                  "learningMode",
+                  "creatorLogo",
+                  "duration",
+                  "version",
+                  "programDuration",
+                  "avgRating",
+                  "additionalTags"
+                ]
+              }
+            }
+          }
+        }
+       
+      ]},
+    {
+      "order":8,
     "strips": [
       {
         "active": true,
@@ -1520,7 +1613,8 @@
         "sliderConfig": {
           "showNavs" : true,
           "showDots": true,
-          "maxWidgets": 12
+          "maxWidgets": 12,
+          "cerificateCardMargin": true
         },
         "loader": true,
         "stripBackground": "",

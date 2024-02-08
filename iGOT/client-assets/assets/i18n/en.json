@@ -36,7 +36,8 @@
         "signIn":"Sign In",
         "update":"Update",
         "showAll": "Show all",
-        "loadMore": "Load more..."
+        "loadMore": "Load more...",
+        "gyaanKarmayogi": "Gyaan Karmayogi"
     },
     "msg": {
         "noEvent" : "No Event",
@@ -672,7 +673,8 @@
         "baseFontSize": "Base font size",
         "selectTheme": "Select theme",
         "defaultLight" : "Default light",
-        "supportThemes": "Support for more themes coming soon"
+        "supportThemes": "Support for more themes coming soon",
+        "chooselanguage": "Choose the language"
     },
     "notificationSettings": {
         "notificationHeader": "Notification Settings",

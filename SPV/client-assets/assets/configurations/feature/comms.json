@@ -3,32 +3,32 @@
     "buckets": [
       {
         "name": "All MDOs by content completion",
-        "key": "topMdoCompletionRatio.csv",
+        "key": "AllMDOsContentCompletion.csv",
         "enable": true
       },
       {
         "name": "Top 1 Lakh Users by content completion in the last 15 days",
-        "key": "topNRecentCompletions.csv",
+        "key": "Top1LakhUsersContentCompletionLast15Days.csv",
         "enable": true
       },
       {
         "name": "Users onboarded anytime but not signed up for any content",
-        "key": "usersWithoutEnrollments.csv",
+        "key": "UsersOnboardedNotSignedUpAnyContent.csv",
         "enable": true
       },
       {
         "name": "Users onboarded in the last 15 days but not signed up for any content",
-        "key": "recentUsersWithoutEnrollments.csv",
+        "key": "UsersOnboardedLast15DaysNotSignedUpAnyContent.csv",
         "enable": true
       },
       {
         "name": "Users who successfully finished the entire Prarambh module",
-        "key": "prarambhUsersAllCompletions.csv",
+        "key": "UsersFinishedEntirePrarambhModule.csv",
         "enable": true
       },
       {
         "name": "Users who completed 6 Prarambh courses but are pending full completion",
-        "key": "prarambhUsers6Completions.csv",
+        "key": "UsersCompleted6PrarambhCoursesPendingFullCompletion.csv",
         "enable": true
       }
     ]

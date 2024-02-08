@@ -145,10 +145,10 @@
         "selectYourInterests": "अपनी रुचियों को चुनें"
     },
     "learn": {
-        "btnExplorebyCompetency": "योग्यता से खोज करें",
-        "btnExplorebyProvider": "प्रदाता द्वारा अन्वेषण करें",
-        "btnCuratedCollections": "क्यूरेटेड संग्रह",
-        "btnModeratedCourses": "मध्यम पाठ्यक्रम"
+        "exploreByCompetency": "योग्यता से खोज करें",
+        "exploreByProvider": "प्रदाता द्वारा अन्वेषण करें",
+        "curatedCollections": "क्यूरेटेड संग्रह",
+        "moderatedCourses": "मध्यम पाठ्यक्रम"
     },
     "contentstripmultiple": {
         "continueLearning": "सीखना जारी रखें",
@@ -563,7 +563,14 @@
         "tabRecent": "हाल ही में",
         "tabMostViewed": "सबसे ज्यादा देखा गया",
         "labelPersonalizedExpTxt": "एक व्यक्तिगत सीखने के अनुभव के लिए",
-        "btnSelectInterest": "अपनी रुचियों का चयन करें"
+        "btnSelectInterest": "अपनी रुचियों का चयन करें",
+        "readMore": "Read more -hi"
+    },
+    "careerPagination": {
+        "first": "First -hi",
+        "previous": "Previous -hi",
+        "next": "Next -hi",
+        "last": "Last -hi"
     },
     "competencies": {
         "labelYourCompetencies": "आपकी योग्यताएँ",

@@ -566,7 +566,14 @@
         "tabRecent" : "Recent",
         "tabMostViewed" : "Most Viewed",
         "labelPersonalizedExpTxt":"For a personalized learning experience",
-        "btnSelectInterest" : "Select your Interests"
+        "btnSelectInterest" : "Select your Interests",
+        "readMore": "Read more"
+    },
+    "careerPagination": {
+        "first": "First",
+        "previous": "Previous",
+        "next": "Next",
+        "last": "Last"
     },
     "competencies": {
         "labelYourCompetencies":"Your competencies",

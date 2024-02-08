@@ -4028,9 +4028,7 @@
     },
     "notDisabledFor": {},
     "notMandatoryFor": {},
-    "notShowFor": {
-      "Standalone Assessment": []
-    },
+    "notShowFor": {},
     "showFor": {
       "Course": [],
       "Program": [],

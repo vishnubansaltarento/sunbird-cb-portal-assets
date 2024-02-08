@@ -7,14 +7,10 @@
         {
           "startTime": 6,
           "endTime": 10,
-          "greet": "Good morning <userName>!",
+          "greet": "slot1Greet",
           "textColor": "#000000",
           "info": [
-            "Get a fresh start, explore something new.",
-            "Start your day by exploring new horizons.",
-            "Stimulate your mind with a bite-sized learning session.",
-            "Challenge boundaries and learn something new.",
-            "Early bird! Time to make those brain cells shine."
+            "slot1Info1", "slot1Info2", "slot1Info3", "slot1Info4", "slot1Info5"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Morning_Bg.svg",
@@ -29,14 +25,10 @@
         {
           "startTime": 10,
           "endTime": 13,
-          "greet": "Hey <userName>!",
+          "greet": "slot2Greet",
           "textColor": "#000000",
           "info": [
-            "Take a snack break with a quick standalone assessment!",
-            "Recharge with a quick snack, and expand your skill sets.",
-            "Pause and reflect on your progress with a quick skills evaluation.",
-            "Take a mid-morning break, and refresh your skills.",
-            "Take a snack break with a quick look at your Karma Points!"
+            "slot2Info1", "slot2Info2", "slot2Info3", "slot2Info4", "slot2Info5"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Morning_Bg.svg",
@@ -51,14 +43,10 @@
         {
           "startTime": 13,
           "endTime": 17,
-          "greet": "Had a good lunch <userName>!",
+          "greet": "slot3Greet",
           "textColor": "#000000",
           "info": [
-            "Time to top up some new domain skills!",
-            "Now feed your brain with a bite of new knowledge.",
-            "Lunch and learn - the perfect combo!",
-            "Now it's time to power up your functional skills!",
-            "Here's some food for the mind."
+            "slot3Info1", "slot3Info2", "slot3Info3", "slot3Info4", "slot3Info5"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Afternoon_Bg.svg",
@@ -73,14 +61,10 @@
         {
           "startTime": 17,
           "endTime": 19,
-          "greet": "It's chai o'clock <userName>!",
+          "greet": "slot4Greet",
           "textColor": "#000000",
           "info": [
-            "Time to share your ideas at the Discussion Forum!",
-            "Let's brew up some new learnings!",
-            "Grab a chai and crack a course.",
-            "Let’s snack on samosas and learn something innovative.",
-            "Time for some leadership courses!"
+            "slot4Info1", "slot4Info2", "slot4Info3", "slot4Info4", "slot4Info5"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Afternoon_Bg.svg",
@@ -95,14 +79,10 @@
         {
           "startTime": 19,
           "endTime": 6,
-          "greet": "Good Night <userName>!",
+          "greet": "slot5Greet",
           "textColor": "#FFFFFF",
           "info": [
-            "Done for the day? Check your progress at the 'In Progress' section.",
-            "Still up? Great time to check out Trending Courses!",
-            "While the world sleeps, our Chatbot is awake - go ahead, chat!",
-            "Relaxing after dinner? Watch Karmayogi Talks!",
-            "Still awake? Check your Karma Points!"
+            "slot5Info1", "slot5Info2", "slot5Info3", "slot5Info4", "slot5Info5"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",

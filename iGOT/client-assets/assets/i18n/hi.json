@@ -105,7 +105,13 @@
         "quickLinks": "त्वरित लिंक",
         "network": "नेटवर्क",
         "learn": "सीखें।",
-        "details": "विवरण"
+        "details": "विवरण",
+        "saved": "Saved -hi",
+        "knowledgeResource": "Knowledge Resource -hi",
+        "updateProfile": "Update Profile -hi",
+        "allCompetencies": "All Competencies -hi",
+        "allCbps": "All CBPs-hi",
+        "curatedCollections": "Curated collections-hi"
     },
     "cardshublist": {
         "more": "अधिक",
@@ -145,10 +151,10 @@
         "selectYourInterests": "अपनी रुचियों को चुनें"
     },
     "learn": {
-        "btnExplorebyCompetency": "योग्यता से खोज करें",
-        "btnExplorebyProvider": "प्रदाता द्वारा अन्वेषण करें",
-        "btnCuratedCollections": "क्यूरेटेड संग्रह",
-        "btnModeratedCourses": "मध्यम पाठ्यक्रम"
+        "exploreByCompetency": "योग्यता से खोज करें",
+        "exploreByProvider": "प्रदाता द्वारा अन्वेषण करें",
+        "curatedCollections": "क्यूरेटेड संग्रह",
+        "moderatedCourses": "मध्यम पाठ्यक्रम"
     },
     "contentstripmultiple": {
         "continueLearning": "सीखना जारी रखें",
@@ -195,13 +201,14 @@
         "search": "खोजें।"
     },
     "providerallcbp": {
-        "allCBPs": "सभी सीबीपी",
+        "allCbps": "सभी सीबीपी",
         "fromProvider": "इस प्रदाता से सी. बी. पी.",
         "loadMore": "अधिक लोड करें",
         "ascending": "चढ़ाई।",
         "descending": "उतरते हुए।",
         "sortBy": "के अनुसार क्रमबद्ध करें",
-        "insights": "अंतर्दृष्टि"
+        "insights": "अंतर्दृष्टि",
+        "search": "Search-hi"
     },
     "allcompetencies": {
         "popularCompetencies": "लोकप्रिय योग्यताएँ",
@@ -211,6 +218,9 @@
         "ascending": "चढ़ाई।",
         "descending": "उतरते हुए।",
         "search": "खोजें।"
+    },
+    "inSights": {
+        "commingSoon": "Feature coming soon! -hi"
     },
     "competencydetails": {
         "competencyType": "योग्यता प्रकारः",
@@ -563,7 +573,14 @@
         "tabRecent": "हाल ही में",
         "tabMostViewed": "सबसे ज्यादा देखा गया",
         "labelPersonalizedExpTxt": "एक व्यक्तिगत सीखने के अनुभव के लिए",
-        "btnSelectInterest": "अपनी रुचियों का चयन करें"
+        "btnSelectInterest": "अपनी रुचियों का चयन करें",
+        "readMore": "Read more -hi"
+    },
+    "careerPagination": {
+        "first": "First -hi",
+        "previous": "Previous -hi",
+        "next": "Next -hi",
+        "last": "Last -hi"
     },
     "competencies": {
         "labelYourCompetencies": "आपकी योग्यताएँ",
@@ -947,6 +964,38 @@
         "certificate": "Certificate - hi",
         "learningHours": "Learning hours - hi",
         "ShowMyActivities": "Show my activities - hi"
+    },
+    "profileNudge": {
+        "slot1Info1": "Get a fresh start, explore something new. -hi",
+        "slot1Info2": "Start your day by exploring new horizons. -hi",
+        "slot1Info3": "Stimulate your mind with a bite-sized learning session. -hi",
+        "slot1Info4": "Challenge boundaries and learn something new. -hi",
+        "slot1Info5": "Early bird! Time to make those brain cells shine. -hi",
+        "slot2Info1": "Take a snack break with a quick standalone assessment! -hi",
+        "slot2Info2": "Recharge with a quick snack, and expand your skill sets. -hi",
+        "slot2Info3": "Pause and reflect on your progress with a quick skills evaluation. -hi",
+        "slot2Info4": "Take a mid-morning break, and refresh your skills. -hi",
+        "slot2Info5": "Take a snack break with a quick look at your Karma Points! -hi",
+        "slot3Info1": "Time to top up some new domain skills! -hi",
+        "slot3Info2": "Now feed your brain with a bite of new knowledge. -hi",
+        "slot3Info3": "Lunch and learn - the perfect combo! -hi",
+        "slot3Info4": "Now it's time to power up your functional skills! -hi",
+        "slot3Info5": "Here's some food for the mind. -hi",
+        "slot4Info1": "Time to share your ideas at the Discussion Forum! -hi",
+        "slot4Info2": "Let's brew up some new learnings! -hi",
+        "slot4Info3": "Grab a chai and crack a course. -hi",
+        "slot4Info4": "Let's snack on samosas and learn something innovative. -hi",
+        "slot4Info5": "Time for some leadership courses! -hi",
+        "slot5Info1": "Done for the day? Check your progress at the 'In Progress' section. -hi",
+        "slot5Info2": "Still up? Great time to check out Trending Courses! -hi",
+        "slot5Info3": "While the world sleeps, our Chatbot is awake - go ahead, chat! -hi",
+        "slot5Info4": "Relaxing after dinner? Watch Karmayogi Talks! -hi",
+        "slot5Info5": "Still awake? Check your Karma Points! -hi",
+        "slot1Greet": "Good morning-hi",
+        "slot2Greet": "Hey-hi",
+        "slot3Greet": "Had a good lunch-hi",
+        "slot4Greet": "It's chai o'clock-hi ",
+        "slot5Greet": "Good Night-hi"
     },
     "updateposts": {
         "discussUpdateOnPost": "आपकी पोस्ट पर अपडेट",

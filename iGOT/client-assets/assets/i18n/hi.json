@@ -246,6 +246,44 @@
         "curatedCollections": "क्यूरेटेड संग्रह",
         "search": "खोजें।"
     },
+    "competencyList": {
+        "title": "Learning History -hi",
+        "CompetenciesSubTitle": "My Competencies -hi",
+        "subTheme": "Competency Sub Theme -hi",
+        "contentConsumed": "Content Consumed -hi",
+        "noCompetencyDataFound": "No competency found -hi",
+        "noDataFound": "No data found! -hi",
+        "unableToFetchData": "Unable to fetch discussion info due to some error. -hi",
+        "recentCompetencies": "Recently associated competencies -hi",
+        "search": "Search -hi"
+    },
+    "competencyCardDetails": {
+        "passbookList": "Passbook list -hi",
+        "passbookDetails": "Passbook details -hi",
+        "lastUpdatedOn": "Last updated on -hi",
+        "competencySubTheme": "Competency sub-theme -hi",
+        "noSubTheme": "No Sub theme data found! -hi",
+        "viewMore": "View more -hi",
+        "viewLess": "View less -hi",
+        "associatedCertificates": "Associated Certificates -hi",
+        "noCertificates": "No Certificates found! -hi",
+        "noCertificatesWithCompetency":"No certificates found associated with this competency theme -hi",
+        "issuedOn": "Issued on -hi"
+    },
+    "widgetCbpFilters": {
+        "filters": "Filters -hi",
+        "contentType": "Content Type -hi",
+        "status": "Status -hi",
+        "timeDuration": "Time duration -hi",
+        "competencyArea": "Competency Area -hi",
+        "competencyTheme": "Competency Theme -hi",
+        "competencySubTheme": "Competency Sub-Theme -hi",
+        "enterCompetencySubTheme": "Enter competency sub-theme -hi",
+        "enterCompetencyTheme": "Enter competency theme -hi",
+        "provider": "Provider -hi",
+        "clear": "Clear -hi",
+        "apply": "Apply -hi"
+    },
     "apptocbanner": {
         "pleaseChooseBatch": "पाठ्यक्रम शुरू करने के लिए कृपया एक समूह चुनें",
         "requestToEnroll": "नामांकन के लिए अनुरोध",

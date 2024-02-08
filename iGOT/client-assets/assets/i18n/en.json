@@ -250,6 +250,44 @@
         "curatedCollections": "Curated collections",
         "search": "Search"
     },
+    "competencyList": {
+        "title": "Learning History",
+        "CompetenciesSubTitle": "My Competencies",
+        "subTheme": "Competency Sub Theme",
+        "contentConsumed": "Content Consumed",
+        "noCompetencyDataFound": "No competency found",
+        "noDataFound": "No data found!",
+        "unableToFetchData": "Unable to fetch discussion info due to some error.",
+        "recentCompetencies": "Recently associated competencies",
+        "search": "Search"
+    },
+    "competencyCardDetails": {
+        "passbookList": "Passbook list",
+        "passbookDetails": "Passbook details",
+        "lastUpdatedOn": "Last updated on",
+        "competencySubTheme": "Competency sub-theme",
+        "noSubTheme": "No Sub theme data found!",
+        "viewMore": "View more",
+        "viewLess": "View less",
+        "associatedCertificates": "Associated Certificates",
+        "noCertificates": "No Certificates found!",
+        "noCertificatesWithCompetency":"No certificates found associated with this competency theme",
+        "issuedOn": "Issued on"
+    },
+    "widgetCbpFilters": {
+        "filters": "Filters",
+        "contentType": "Content Type",
+        "status": "Status",
+        "timeDuration": "Time duration",
+        "competencyArea": "Competency Area",
+        "competencyTheme": "Competency Theme",
+        "competencySubTheme": "Competency Sub-Theme",
+        "enterCompetencySubTheme": "Enter competency sub-theme",
+        "enterCompetencyTheme": "Enter competency theme",
+        "provider": "Provider",
+        "clear": "Clear",
+        "apply": "Apply"
+    },
     "apptocbanner": {
         "pleaseChooseBatch": "Please choose a batch to start course",
         "requestToEnroll": "Request to enroll",

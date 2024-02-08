@@ -131,7 +131,9 @@
         "cbpPortaldesc": "Create and manage CBPs here",
         "mdoPortaldesc": "Manage MDO user access, work orders and events",
         "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
-        "spvPortaldesc": "Create and manage MDOs"
+        "spvPortaldesc": "Create and manage MDOs",
+        "competency": "Competency",
+        "identifyYourCompetency": "Identify your competency requirements, and competency gaps."
     },
     "footer": {
         "hubs": "Hubs",
@@ -669,8 +671,8 @@
         "noresultfound": "No results found"
     },
     "knowledgeleftmenu": {
-        "allKnowledgeResources": "All Knowledge resources",
-        "savedKnowledgeResource": "Saved Knowledge resource"
+        "allKnowledgeResources": "All",
+        "savedKnowledgeResource": "Saved"
     },
     "knowledgesaved": {
         "search": "Search",

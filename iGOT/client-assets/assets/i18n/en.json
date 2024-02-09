@@ -651,7 +651,27 @@
         "cbpCourse":"CBP course",
         "selfAttestation" : "Self attestation",
         "addCompetency":"Add a competency",
-        "recommendedBasedOnPosition":"Competencies will be recommended based on your position."
+        "recommendedBasedOnPosition":"Competencies will be recommended based on your position.",
+        "allCompetencies": "All competencies",
+        "search": "Search"
+    },
+    "competencyDetailedView": {
+        "type": "Competency type:",
+        "area": "Competency area:",
+        "selfAttestCompetency": "Self attest competency",
+        "removeFromYourCompetencies": "Remove from your competencies",
+        "level": "Competency level",
+        "description": "Description"
+    },
+    "competenceView": {
+        "type": "Competency type:",
+        "cancel": "Cancel",
+        "remove": "Remove from your list",
+        "add": "Add to your competencies",
+        "selectCompetency": "Select your competency level",
+        "description": "You are self-declaring competency and you can also take the competency assessment to add further credibility",
+        "addToYourCompetencies": "Add to your competencies",
+        "takeAssessment": "Take assessment to add this competency"
     },
     "discuss": {
         "askQuestion":"Ask a question or post an idea",

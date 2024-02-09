@@ -206,7 +206,9 @@
         "newlyAdded": "Newly Added",
         "hoursAgo": "hours ago",
         "noviews": "No views",
-        "resume": "Resume"
+        "resume": "Resume",
+        "start": "Start",
+        "viewCertificate": "View Certificate"
     }, 
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
@@ -1048,8 +1050,8 @@
         "myLearning": "My Learning",
         "trendingInYourDepartment": "Trending in your department",
         "blendedProgram": "Blended Program",
-        "trendingAcrossDepartment": "Trending across department",
-        "learningUnder30Min": "Learning under 30 min",
+        "trendingAcrossDepartments": "Trending across department",
+        "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
         "myIgot": "My iGOT",
         "all": "All",
@@ -1062,7 +1064,8 @@
         "showAll": "Show all",
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
-        "myDiscussions": "My Discussions"
+        "myDiscussions": "My Discussions",
+        "recentlyAdded": "Recently added"
     },
     "profileCardStats": {
         "inProgress": "In Progress",

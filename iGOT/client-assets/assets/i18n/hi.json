@@ -202,7 +202,9 @@
         "newlyAdded": "नया जोड़ा गया",
         "hoursAgo": "घंटे पहले",
         "noviews": "कोई दृश्य नहीं",
-        "resume": "फिर से शुरू करें"
+        "resume": "फिर से शुरू करें",
+        "start": "Start -hi",
+        "viewCertificate": "View Certificate- hi"
     },
     "allproviderscomponent": {
         "popularProviders": "लोकप्रिय प्रदाता",
@@ -1029,8 +1031,8 @@
         "myLearning": "मेरी सीख",
         "trendingInYourDepartment": "आपके विभाग में रुझान",
         "blendedProgram": "मिश्रित कार्यक्रम",
-        "trendingAcrossDepartment": "पूरे विभाग में रुझान",
-        "learningUnder30Min": "30 मिनट से कम समय में सीखना",
+        "trendingAcrossDepartments": "पूरे विभाग में रुझान",
+        "learningUnder30Minutes": "30 मिनट से कम समय में सीखना",
         "certificationsOfTheWeek": "सप्ताह के प्रमाणन",
         "myIgot": "मेरा आई. जी. ओ. टी.",
         "all": "सभी",
@@ -1042,7 +1044,8 @@
         "programs": "कार्यक्रम",
         "showAll": "सब दिखाएँ",
         "updateYourProfile": "अपनी प्रोफ़ाइल को अद्यतन करें और इसे सत्यापित करें।",
-        "updateNow": "अभी अद्यतन करें"
+        "updateNow": "अभी अद्यतन करें",
+        "recentlyAdded": "Recently added -hi"
     },
     "profileCardStats": {
         "inProgress": "In Progress - hi",

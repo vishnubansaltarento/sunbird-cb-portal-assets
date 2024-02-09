@@ -550,7 +550,9 @@
         "reportToUs": "Report to us",
         "weWillMakeItWork": "and we will make it work",
         "notAuthorizedToPreview": "Looks like you are not authorized to preview this content.",
-        "ifGovtOfficial": "If you are a government official, register or sign in so you can track your learning progress and get certified."
+        "ifGovtOfficial": "If you are a government official, register or sign in so you can track your learning progress and get certified.",
+        "contents": "Contents",
+        "details": "Details"
     },
     "viewertopbar": {
         "prev": "PREV",
@@ -570,6 +572,13 @@
         "surveySubmitted": "Survey is submitted",
         "page": "Page",
         "of": "of"
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.",
+        "startAssesmentNow": "Start assessment now",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt",
+        "summary": "Summary",
+        "pointsToNote": "Points to note"
     },
     "network": {
         "networkHome": "Network home",

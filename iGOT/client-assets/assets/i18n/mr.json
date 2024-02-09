@@ -443,7 +443,9 @@
       "reportToUs": "आम्हाला कळवा",
       "weWillMakeItWork": "आणि आम्ही ते काम करू",
       "notAuthorizedToPreview": "या मजकुराचे पूर्वावलोकन करण्यासाठी तुम्ही अधिकृत नसाल असे दिसते.",
-      "ifGovtOfficial": "जर तुम्ही सरकारी अधिकारी असाल तर नोंदणी करा किंवा नोंदणी करा जेणेकरून तुम्ही तुमच्या शिकण्याच्या प्रगतीचा मागोवा घेऊ शकाल आणि प्रमाणित होऊ शकाल."
+      "ifGovtOfficial": "जर तुम्ही सरकारी अधिकारी असाल तर नोंदणी करा किंवा नोंदणी करा जेणेकरून तुम्ही तुमच्या शिकण्याच्या प्रगतीचा मागोवा घेऊ शकाल आणि प्रमाणित होऊ शकाल.",
+      "contents": "Contents-Mr",
+      "details": "Details-Mr"
     },
     "viewertopbar": {
       "prev": "प्रीव्ह",
@@ -463,6 +465,13 @@
       "surveySubmitted": "सर्वेक्षण सादर केले आहे",
       "page": "पृष्ठ",
       "of": "चा."
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.-HI",
+        "startAssesmentNow": "Start assessment now-HI",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HI",
+        "summary": "Summary-HI",
+        "pointsToNote": "Points to note-HI"
     },
     "network": {
       "tabNetworkHome": "जाळ्याचे घर",

@@ -545,7 +545,9 @@
         "reportToUs": "हमें रिपोर्ट करें",
         "weWillMakeItWork": "और हम इसे काम करेंगे",
         "notAuthorizedToPreview": "ऐसा लगता है कि आप इस सामग्री का पूर्वावलोकन करने के लिए अधिकृत नहीं हैं।",
-        "ifGovtOfficial": "यदि आप एक सरकारी अधिकारी हैं, तो पंजीकरण करें या साइन इन करें ताकि आप अपनी सीखने की प्रगति पर नज़र रख सकें और प्रमाणित हो सकें।"
+        "ifGovtOfficial": "यदि आप एक सरकारी अधिकारी हैं, तो पंजीकरण करें या साइन इन करें ताकि आप अपनी सीखने की प्रगति पर नज़र रख सकें और प्रमाणित हो सकें।",
+        "contents": "Contents-HI",
+        "details": "Details-HI"
     },
     "viewertopbar": {
         "prev": "पी आर ई वी",
@@ -565,6 +567,13 @@
         "surveySubmitted": "सर्वेक्षण प्रस्तुत किया जाता है",
         "page": "पृष्ठ",
         "of": "में से"
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.HI",
+        "startAssesmentNow": "Start assessment now-HI",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HI",
+        "summary": "Summary-HI",
+        "pointsToNote": "Points to note-HI"
     },
     "network": {
         "networkHome": "नेटवर्क घर",

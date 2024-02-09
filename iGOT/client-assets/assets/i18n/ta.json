@@ -472,7 +472,9 @@
       "reportToUs": "எங்களுக்குத் தெரிவிக்கவும்",
       "weWillMakeItWork": "நாங்கள் அதை வேலை செய்வோம்",
       "notAuthorizedToPreview": "இந்த உள்ளடக்கத்தை முன்னோட்டமிட உங்களுக்கு அதிகாரம் இல்லை என்று தெரிகிறது.",
-      "ifGovtOfficial": "நீங்கள் ஒரு அரசு அதிகாரியாக இருந்தால், உங்கள் கற்றல் முன்னேற்றத்தைக் கண்காணிக்கவும் சான்றிதழ் பெறவும் பதிவு செய்யுங்கள் அல்லது உள்நுழையவும்."
+      "ifGovtOfficial": "நீங்கள் ஒரு அரசு அதிகாரியாக இருந்தால், உங்கள் கற்றல் முன்னேற்றத்தைக் கண்காணிக்கவும் சான்றிதழ் பெறவும் பதிவு செய்யுங்கள் அல்லது உள்நுழையவும்.",
+      "contents": "Contents-TA",
+      "details": "Details-TA"
     },
     "viewertopbar": {
       "prev": "PREV",
@@ -492,6 +494,13 @@
       "surveySubmitted": "கணக்கெடுப்பு சமர்ப்பிக்கப்பட்டுள்ளது",
       "page": "பக்கம்",
       "of": "என்பதிலிருந்து"
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.-HI",
+        "startAssesmentNow": "Start assessment now-HI",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HI",
+        "summary": "Summary-HI",
+        "pointsToNote": "Points to note-HI"
     },
     "network": {
       "networkHome": "நெட்வொர்க் ஹோம்",

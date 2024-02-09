@@ -180,6 +180,18 @@
         "programsForYou": "आपके लिए कार्यक्रम।",
         "basedOnYourInterests": "आपकी रुचियों के आधार पर"
     },
+    "cbpPlanFeed": {
+        "title": "My iGOT -hi",
+        "search": "Search -hi",
+        "noResults": "No results found -hi",
+        "helpText": "Try adjusting your search to find what you are looking for -hi"
+    },
+    "cbpPlanStats": {
+        "title": "My iGOT -hi",
+        "all": "All -hi",
+        "upcoming": "Upcoming -hi",
+        "overdue": "Overdue -hi"
+    },
     "cardcontentv2": {
         "viewDetails": "विवरण देखें",
         "mostEnrolled": "सबसे अधिक पंजीकृत",

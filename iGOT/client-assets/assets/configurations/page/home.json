@@ -916,28 +916,28 @@
     {
       "id":1,
       "order":1,
-      "sectionHeading": "Hubs",
+      "sectionHeading": "hubs",
       "active": true,
       "slug": "hub"
     },
     {
       "id":2,
       "order":2,
-      "sectionHeading": "Related Links",
+      "sectionHeading": "relatedLinks",
       "active": true,
       "slug": "link"
     },
     {
       "id":3,
       "order":3,
-      "sectionHeading": "Support",
+      "sectionHeading": "support",
       "active": true,
       "slug": "support"
     },
     {
       "id":4,
       "order":4,
-      "sectionHeading": "About us",
+      "sectionHeading": "aboutUs",
       "active": true,
       "slug": "about"
     }
@@ -961,6 +961,11 @@
     {
       "id":4,
       "section":"profile",
+      "active": true
+    },
+    {
+      "id":5,
+      "section":"language",
       "active": true
     }
   ],

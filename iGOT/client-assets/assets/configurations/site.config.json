@@ -292,6 +292,19 @@
           }
         },
         {
+          "type": "langSelect",
+          "config": {
+            "actionBtnId": "feature_langselect",
+            "toolTip": "Language",
+            "className": "fixtopMargin",
+            "config": {
+              "actionBtnId": "feature_langselect",
+              "type": "card-mini",
+              "hideTitle": true
+            }
+          }
+        },
+        {
           "type": "helpButton",
           "config": {
             "actionBtnId": "feature_mydashboard",
@@ -425,7 +438,7 @@
     {
       "path": "/page/learn",
       "active": true,
-      "hubname": "Learn",
+      "hubname": "learn",
       "desc": "Sharpen your skills with hundreds-of online courses.",
       "icon": "school",
       "accessKey": "L",
@@ -437,7 +450,7 @@
     {
       "path": "/app/discuss/home",
       "active": true,
-      "hubname": "Discuss",
+      "hubname": "discuss",
       "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
@@ -457,7 +470,7 @@
     {
       "path": "/app/network-v2",
       "active": true,
-      "hubname": "Network",
+      "hubname": "network",
       "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
@@ -12811,6 +12824,56 @@
       "id": "PID2464",
       "name": "ZONAL MANAGER",
       "description": "ZONAL MANAGER"
+    }
+  ],
+  "webistelanguages": [
+    {
+      "value": "Assamese",
+      "key": "as"
+    },
+    {
+      "value": "Bengali",
+      "key": "be"
+    },
+    {
+      "value": "English",
+      "key": "en"
+    },
+    {
+      "value": "Gujarati",
+      "key": "gu"
+    },
+    {
+      "value": "Hindi",
+      "key": "hi"
+    },
+    {
+      "value": "Kannada",
+      "key": "ka"
+    },
+    {
+      "value": "Marathi",
+      "key": "mr"
+    },
+    {
+      "value": "Malayalam",
+      "key": "ml"
+    },
+    {
+      "value": "Odia",
+      "key": "od"
+    },
+    {
+      "value": "Punjabi",
+      "key": "pu"
+    },
+    {
+      "value": "Tamil",
+      "key": "ta"
+    },
+    {
+      "value": "Telugu",
+      "key": "te"
     }
   ]
 }

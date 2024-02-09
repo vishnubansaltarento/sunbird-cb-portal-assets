@@ -108,11 +108,11 @@
   },
   "overview": {
     "description": {
-      "displayName": "Summary",
+      "displayName": "summary",
       "enabled": true
     },
     "body": {
-      "displayName": "Description",
+      "displayName": "description",
       "enabled": true
     },
     "learningObjective": {
@@ -156,89 +156,89 @@
   "BatchEnrollWithdrawMsg": "Your request to withdraw from this blended program has been successfully processed.",
   "BatchListExpiredMsg": "You can't enroll into this blended program.",
   "attendenceHelp": {
-    "title": "Follow these 4 simple steps to successfully mark your attendance.",
+    "title": "title",
     "steps": [
       {
-        "step": "STEP 1",
+        "step": "step1",
         "img": "/assets/icons/attendance_step1.svg",
-        "title": "Download iGOT app",
-        "description": "Download the app from the apple app store or google playstore"
+        "title": "title1",
+        "description": "description1"
       },
       {
-        "step": "STEP 2",
+        "step": "step2",
         "img": "/assets/icons/attendance_step2.svg",
-        "title": "Login to the app",
-        "description": "Login using your registered email/phone number"
+        "title": "title2",
+        "description": "description2"
       },
       {
-        "step": "STEP 3",
+        "step": "step3",
         "img": "/assets/icons/attendance_step3.svg",
-        "title": "Open the blended program",
-        "description": "For example: Search for ‘Creating and Running and Online Course’"
+        "title": "title3",
+        "description": "description3"
       },
       {
-        "step": "STEP 4",
+        "step": "step4",
         "img": "/assets/icons/attendance_step4.svg",
-        "title": "Tap the button “Scan to mark attendance” ",
-        "description": "Follow the steps as it guides."
+        "title": "title4",
+        "description": "description4"
       }
     ],
-    "helpText": "If you’re facing the problem in marking the attendance, please contact your program coordinator"
+    "helpText": "helpText"
   },
   "karmaPoints": [
     {
       "displayButton": "Enroll",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "for your 1st course enrolment.",
-      "toolTipText": "Note: This is only applicable for your first enrolment."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "firstEnroll",
+      "toolTipText": "firstEnrollTip"
     },
     {
       "displayButton": "Start",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "courseCompleteTip"
     },
     {
       "displayButton": "Resume",
-      "textBeforeIcon": "Earn",
-      "points": "5 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "Every course completion automatically gets you 5 Karma Points."
+      "textBeforeIcon": "earn",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "courseCompleteTip"
     },
     {
       "displayButton": "Rate this course",
-      "textBeforeIcon": "Earn",
-      "points": "2 more Karma Points",
-      "textAfterIcon": ", rate this course!",
-      "toolTipText": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE."
+      "textBeforeIcon": "earn",
+      "points": "2",
+      "textAfterPoints": "moreKarmaPoints",
+      "textAfterIcon": "rateThis",
+      "toolTipText": "rateTip"
     },
     {
       "displayButton": "Edit rating",
-      "textBeforeIcon": "Congrats! You've rated the course and earned",
-      "points": "2 Karma Points",
+      "textBeforeIcon": "afterRate",
+      "points": "2",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
       "toolTipText": ""
     },
     {
       "displayButton": "Take Assessment",
-      "textBeforeIcon": "Complete the assessment to earn ",
-      "points": "5 Karma Points",
+      "textBeforeIcon": "beforeAssement",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
-      "toolTipText": "Here's 5 extra Karma Points for successfully completing all final assessments"
-    },
-    {
-      "displayButton": "Start again",
-      "textBeforeIcon": "Congrats! You've completed the course and earned",
-      "points": "5 Karma Points",
-      "textAfterIcon": "",
-      "toolTipText": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
+      "toolTipText": "assessmentTip"
     },
     {
       "displayButton": "ACBP CLAIM",
-      "textBeforeIcon": "Claim",
-      "points": "10 Karma Points",
+      "textBeforeIcon": "claim",
+      "points": "10",
+      "textAfterPoints": "karmaPoints",
       "textAfterIcon": "",
       "toolTipText": ""
     },

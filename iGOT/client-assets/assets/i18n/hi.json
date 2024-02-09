@@ -180,6 +180,18 @@
         "programsForYou": "आपके लिए कार्यक्रम।",
         "basedOnYourInterests": "आपकी रुचियों के आधार पर"
     },
+    "cbpPlanFeed": {
+        "title": "My iGOT -hi",
+        "search": "Search -hi",
+        "noResults": "No results found -hi",
+        "helpText": "Try adjusting your search to find what you are looking for -hi"
+    },
+    "cbpPlanStats": {
+        "title": "My iGOT -hi",
+        "all": "All -hi",
+        "upcoming": "Upcoming -hi",
+        "overdue": "Overdue -hi"
+    },
     "cardcontentv2": {
         "viewDetails": "विवरण देखें",
         "mostEnrolled": "सबसे अधिक पंजीकृत",
@@ -545,7 +557,9 @@
         "reportToUs": "हमें रिपोर्ट करें",
         "weWillMakeItWork": "और हम इसे काम करेंगे",
         "notAuthorizedToPreview": "ऐसा लगता है कि आप इस सामग्री का पूर्वावलोकन करने के लिए अधिकृत नहीं हैं।",
-        "ifGovtOfficial": "यदि आप एक सरकारी अधिकारी हैं, तो पंजीकरण करें या साइन इन करें ताकि आप अपनी सीखने की प्रगति पर नज़र रख सकें और प्रमाणित हो सकें।"
+        "ifGovtOfficial": "यदि आप एक सरकारी अधिकारी हैं, तो पंजीकरण करें या साइन इन करें ताकि आप अपनी सीखने की प्रगति पर नज़र रख सकें और प्रमाणित हो सकें।",
+        "contents": "Contents-HI",
+        "details": "Details-HI"
     },
     "viewertopbar": {
         "prev": "पी आर ई वी",
@@ -565,6 +579,13 @@
         "surveySubmitted": "सर्वेक्षण प्रस्तुत किया जाता है",
         "page": "पृष्ठ",
         "of": "में से"
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.HI",
+        "startAssesmentNow": "Start assessment now-HI",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HI",
+        "summary": "Summary-HI",
+        "pointsToNote": "Points to note-HI"
     },
     "network": {
         "networkHome": "नेटवर्क घर",
@@ -645,7 +666,27 @@
         "cbpCourse": "सीबीपी पाठ्यक्रम",
         "selfAttestation": "आत्म प्रमाणन",
         "addCompetency": "योग्यता जोड़ें",
-        "recommendedBasedOnPosition": "आपकी स्थिति के आधार पर दक्षताओं की सिफारिश की जाएगी।"
+        "recommendedBasedOnPosition": "आपकी स्थिति के आधार पर दक्षताओं की सिफारिश की जाएगी।",
+        "allCompetencies": "All competencies -hi",
+        "search": "Search -hi"
+    },
+    "competencyDetailedView": {
+        "type": "Competency type: -hi",
+        "area": "Competency area: -h",
+        "selfAttestCompetency": "Self attest competency -h",
+        "removeFromYourCompetencies": "Remove from your competencies -h",
+        "level": "Competency level -h",
+        "description": "Description -h"
+    },
+    "competenceView": {
+        "type": "Competency type: -hi",
+        "cancel": "Cancel -hi",
+        "remove": "Remove from your list -hi",
+        "add": "Add to your competencies -hi",
+        "selectCompetency": "Select your competency level -hi",
+        "description": "You are self-declaring competency and you can also take the competency assessment to add further credibility -hi",
+        "addToYourCompetencies": "Add to your competencies -hi",
+        "takeAssessment": "Take assessment to add this competency -hi"
     },
     "discuss": {
         "askQuestion": "एक प्रश्न पूछें या एक विचार पोस्ट करें",

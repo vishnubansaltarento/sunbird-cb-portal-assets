@@ -184,6 +184,18 @@
         "programsForYou": "Programs for you.",
         "basedOnYourInterests": "Based on your interests"
     },
+    "cbpPlanFeed": {
+        "title": "My iGOT",
+        "search": "Search",
+        "noResults": "No results found",
+        "helpText": "Try adjusting your search to find what you are looking for"
+    },
+    "cbpPlanStats": {
+        "title": "My iGOT",
+        "all": "All",
+        "upcoming": "Upcoming",
+        "overdue": "Overdue"
+    },
     "cardcontentv2": {
         "viewDetails": "View details",
         "mostEnrolled": "Most enrolled",
@@ -550,7 +562,9 @@
         "reportToUs": "Report to us",
         "weWillMakeItWork": "and we will make it work",
         "notAuthorizedToPreview": "Looks like you are not authorized to preview this content.",
-        "ifGovtOfficial": "If you are a government official, register or sign in so you can track your learning progress and get certified."
+        "ifGovtOfficial": "If you are a government official, register or sign in so you can track your learning progress and get certified.",
+        "contents": "Contents",
+        "details": "Details"
     },
     "viewertopbar": {
         "prev": "PREV",
@@ -570,6 +584,13 @@
         "surveySubmitted": "Survey is submitted",
         "page": "Page",
         "of": "of"
+    },
+    "practiceoverview": {
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.",
+        "startAssesmentNow": "Start assessment now",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt",
+        "summary": "Summary",
+        "pointsToNote": "Points to note"
     },
     "network": {
         "networkHome": "Network home",
@@ -651,7 +672,27 @@
         "cbpCourse":"CBP course",
         "selfAttestation" : "Self attestation",
         "addCompetency":"Add a competency",
-        "recommendedBasedOnPosition":"Competencies will be recommended based on your position."
+        "recommendedBasedOnPosition":"Competencies will be recommended based on your position.",
+        "allCompetencies": "All competencies",
+        "search": "Search"
+    },
+    "competencyDetailedView": {
+        "type": "Competency type:",
+        "area": "Competency area:",
+        "selfAttestCompetency": "Self attest competency",
+        "removeFromYourCompetencies": "Remove from your competencies",
+        "level": "Competency level",
+        "description": "Description"
+    },
+    "competenceView": {
+        "type": "Competency type:",
+        "cancel": "Cancel",
+        "remove": "Remove from your list",
+        "add": "Add to your competencies",
+        "selectCompetency": "Select your competency level",
+        "description": "You are self-declaring competency and you can also take the competency assessment to add further credibility",
+        "addToYourCompetencies": "Add to your competencies",
+        "takeAssessment": "Take assessment to add this competency"
     },
     "discuss": {
         "askQuestion":"Ask a question or post an idea",

@@ -322,13 +322,13 @@
     "contentSharing": {
         "header": "Share with Karmayogis",
         "note": "Note: Emails will be sent only to registered karmayogis.",
-        "remaingCharacter": "characters",
+        "remaingEmails": "emails",
         "copyLink": "Copy link",
         "send": "Send",
         "placehoderText": "To: Add an email",
         "success": "Emails successfully shared with registered Karmayogis",
         "maxLimit": "Maximum email limit reached",
-        "invalidEmail": "Invalid email",
+        "invalidEmail": "Please enter a valid email address",
         "linkCopied": "Link copied",
         "error": "Something went wrong. Please try after sometime"
 

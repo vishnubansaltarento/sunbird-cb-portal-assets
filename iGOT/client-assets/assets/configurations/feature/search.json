@@ -81,33 +81,33 @@
           "ischecked": false
         },
         {
-          "name": "learning resource",
+          "name": "learningResource",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "standalone assessment",
+          "name": "standaloneAssessment",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "moderated courses",
+          "name": "moderatedCourses",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "Blended Program",
+          "name": "blendedProgram",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "Curated Program",
+          "name": "curatedProgram",
           "count": 0,
           "ischecked": false
         }
       ],
       "name": "primaryCategory",
-      "displayname": "Content type"
+      "displayname": "contentType"
     },
     {
       "values": [

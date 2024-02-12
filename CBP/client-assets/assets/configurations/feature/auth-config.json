@@ -204,6 +204,16 @@
       "menusList":[
         {
           "menuCategory":"Curate",
+          "requiredRoles": [
+            "admin",
+            "super-admin",
+            "content-admin",
+            "editor",
+            "content_creator",
+            "content_reviewer",
+            "spv_publisher",
+            "content_publisher"
+          ],
           "subMenu": [
             {
               "name": "My Content",
@@ -224,7 +234,23 @@
                 "editor",
                 "admin"
               ]
-            },
+            },  
+            
+        {
+          "name": "My Content",
+          "key": "moderatedCourse",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/moderated-course-home",
+          "requiredRoles": [
+            "content_publisher"
+          ]
+        },
             {
               "name": "All Content",
               "key": "cbp",
@@ -249,10 +275,19 @@
         },
         {
           "menuCategory":"Manage",
+          "requiredRoles": [
+            "admin",
+            "super-admin",
+            "content-admin",
+            "editor",
+            "content_creator",
+            "program_coordinator",
+            "cbp_admin"
+          ],
           "subMenu": [
             {
-              "name": "Moderated course",
-              "key": "moderatedCourse",
+              "name": "Batch Management",
+              "key": "batch-management",
               "fragment": false,
               "render": true,
               "badges": {
@@ -260,41 +295,7 @@
                 "uri": ""
               },
               "enabled": true,
-              "routerLink": "/author/cbp/moderated-course-home",
-              "requiredRoles": [
-                "content_reviewer",
-                "content_creator",
-                "content_publisher"
-              ]
-            },
-            {
-              "name": "Blended program",
-              "key": "blendedProgram",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                "enabled": false,
-                "uri": ""
-              },
-              "enabled": true,
-              "routerLink": "/author/cbp/blended-program-home",
-              "requiredRoles": [
-                "content_reviewer",
-                "content_creator",
-                "spv_publisher"
-              ]
-            },
-            {
-              "name": "Manage blended program",
-              "key": "blendedProgramAll",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                "enabled": false,
-                "uri": ""
-              },
-              "enabled": true,
-              "routerLink": "/author/cbp/blended-program-all",
+              "routerLink": "/author/cbp/batch-management",
               "requiredRoles": [
                 "program_coordinator"
               ]

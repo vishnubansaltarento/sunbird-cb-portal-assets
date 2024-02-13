@@ -317,7 +317,7 @@
     },
     "contentSharing": {
         "header": "Share with Karmayogis -hi",
-        "note": "Note: Emails will be sent only to registered karmayogis. -hi",
+        "note": "Note: Emails will be sent only to registered Karmayogis. -hi",
         "remaingEmails": "emails -hi",
         "copyLink": "Copy link -hi",
         "send": "Send -hi",
@@ -326,7 +326,9 @@
         "maxLimit": "Maximum email limit reached -hi",
         "invalidEmail": "Please enter a valid email address -hi",
         "linkCopied": "Link copied -hi",
-        "error": "Something went wrong. Please try after sometime -hi"
+        "error": "Something went wrong. Please try after sometime -hi",
+        "dulicateUser": "User is already selected -hi",
+        "dulicateEmail": "Email is already selected -hi"
     },
     "apptocsinglepage": {
         "overview": "सारांश",

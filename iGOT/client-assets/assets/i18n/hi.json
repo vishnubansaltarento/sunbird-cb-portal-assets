@@ -952,7 +952,10 @@
         "rateThis": ", इस पाठ्यक्रम का मूल्यांकन करें!",
         "rateTip": "आपका पाठ्यक्रम मूल्यांकन कर्मयोगियों के लिए एक मूल्यवान सिफारिश के रूप में कार्य करता है, इसलिए आगे बढ़ें और मूल्यांकन करें।",
         "assessmentTip": "सभी अंतिम मूल्यांकनों को सफलतापूर्वक पूरा करने के लिए यहां 5 अतिरिक्त कर्म बिंदु दिए गए हैं",
-        "acbpTip": "यह एक ए. सी. बी. पी. पाठ्यक्रम है। कृपया ध्यान दें कि अनुसूची का पालन करना अनिवार्य है; यह आपके कर्म बिंदुओं से जुड़ा हुआ है। अधिक जानकारी के लिए कृपया अक्सर पूछे जाने वाले प्रश्न देखें।"
+        "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs. -hi",
+        "completeBeforeText": "Congrats! You've completed the course and earned -hi",
+        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points. -hi",
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points. -hi"
     },
     "publicHome": {
         "mainSectionContent": "सीखें। नेटवर्क। अपने करियर को आगे बढ़ाएँ।",

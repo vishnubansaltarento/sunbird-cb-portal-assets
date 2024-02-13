@@ -971,7 +971,10 @@
         "rateThis": ", rate this course!",
         "rateTip": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE.",
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
-        "acbpTip": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
+        "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",
+        "completeBeforeText": "Congrats! You've completed the course and earned",
+        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",

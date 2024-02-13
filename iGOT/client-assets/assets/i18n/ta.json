@@ -111,7 +111,10 @@
       "cbpPortaldesc": "இங்கே சிபிபிகளை உருவாக்கி நிர்வகிக்கவும்",
       "mdoPortaldesc": "எம். டி. ஓ பயனர் அணுகல், பணி ஆணைகள் மற்றும் நிகழ்வுகளை நிர்வகிக்கவும்",
       "fracDictionarydesc": "பாத்திரங்கள், செயல்பாடுகள் மற்றும் திறன்களின் கட்டமைப்பின் அகராதி.",
-      "spvPortaldesc": "எம். டி. ஓ. க்களை உருவாக்கி நிர்வகிக்கவும்"
+      "spvPortaldesc": "எம். டி. ஓ. க்களை உருவாக்கி நிர்வகிக்கவும்",
+      "comingSoon": "Coming soon-TA",
+      "career": "Career-TA",
+      "exploreOpportunities": "Explore career opportunities across the country and signal your expertise.-TA"
     },
     "footer": {
       "hubs": "மையங்கள்",
@@ -160,7 +163,10 @@
       "recommendedForYou": "பரிந்துரைக்கப்படுகிறது",
       "programs": "திட்டங்கள்",
       "programsForYou": "உங்களுக்கான திட்டங்கள்.",
-      "basedOnYourInterests": "உங்கள் ஆர்வங்களின் அடிப்படையில்"
+      "basedOnYourInterests": "உங்கள் ஆர்வங்களின் அடிப்படையில்",
+      "getReadyForLearningAdventure": "Get ready for your next learning adventure-TA",
+      "clickHere": "Click here-TA",
+      "toEnrollNextCourse": " to enroll in your next course now!-TA"
     },
     "cardcontentv2": {
       "viewDetails": "விவரங்களைக் காண்க",
@@ -924,8 +930,8 @@
       "myLearning": "என் கற்றல்",
       "trendingInYourDepartment": "உங்கள் துறையில் போக்கு",
       "blendedProgram": "கலப்பு நிரல்",
-      "trendingAcrossDepartment": "துறை முழுவதும் போக்கு",
-      "learningUnder30Min": "30 நிமிடங்களுக்குள் கற்றல்",
+      "trendingAcrossDepartments": "துறை முழுவதும் போக்கு",
+      "learningUnder30Minutes": "30 நிமிடங்களுக்குள் கற்றல்",
       "certificationsOfTheWeek": "வாரத்தின் சான்றிதழ்கள்",
       "myIgot": "எனது ஐஜிஓடி",
       "all": "அனைத்தும்",
@@ -937,7 +943,47 @@
       "programs": "திட்டங்கள்",
       "showAll": "அனைத்தையும் காட்டு",
       "updateYourProfile": "உங்கள் சுயவிவரத்தைப் புதுப்பித்து அதைச் சரிபார்க்கவும்",
-      "updateNow": "இப்போது புதுப்பிக்கவும்"
+      "updateNow": "இப்போது புதுப்பிக்கவும்",
+      "myDiscussions": "My Discussions-TA",
+      "recentlyAdded": "Recently added-TA"
+    },
+    "profileCardStats": {
+        "inProgress": "In Progress-TA",
+        "certificate": "Certificate-TA",
+        "learningHours": "Learning hours-TA",
+        "ShowMyActivities": "Show my activities-TA"
+    },
+    "profileNudge": {
+        "slot1Info1": "Get a fresh start, explore something new.-TA",
+        "slot1Info2": "Start your day by exploring new horizons.-TA",
+        "slot1Info3": "Stimulate your mind with a bite-sized learning session.-TA",
+        "slot1Info4": "Challenge boundaries and learn something new.-TA",
+        "slot1Info5": "Early bird! Time to make those brain cells shine.-TA",
+        "slot2Info1": "Take a snack break with a quick standalone assessment!-TA",
+        "slot2Info2": "Recharge with a quick snack, and expand your skill sets.-TA",
+        "slot2Info3": "Pause and reflect on your progress with a quick skills evaluation.-TA",
+        "slot2Info4": "Take a mid-morning break, and refresh your skills.-TA",
+        "slot2Info5": "Take a snack break with a quick look at your Karma Points!-TA",
+        "slot3Info1": "Time to top up some new domain skills!-TA",
+        "slot3Info2": "Now feed your brain with a bite of new knowledge.-TA",
+        "slot3Info3": "Lunch and learn - the perfect combo!-TA",
+        "slot3Info4": "Now it's time to power up your functional skills!-TA",
+        "slot3Info5": "Here's some food for the mind.-TA",
+        "slot4Info1": "Time to share your ideas at the Discussion Forum!-TA",
+        "slot4Info2": "Let's brew up some new learnings!-TA",
+        "slot4Info3": "Grab a chai and crack a course.-TA",
+        "slot4Info4": "Let's snack on samosas and learn something innovative.-TA",
+        "slot4Info5": "Time for some leadership courses!-TA",
+        "slot5Info1": "Done for the day? Check your progress at the 'In Progress' section.-TA",
+        "slot5Info2": "Still up? Great time to check out Trending Courses!-TA",
+        "slot5Info3": "While the world sleeps, our Chatbot is awake - go ahead, chat!-TA",
+        "slot5Info4": "Relaxing after dinner? Watch Karmayogi Talks!-TA",
+        "slot5Info5": "Still awake? Check your Karma Points!-TA",
+        "slot1Greet": "Good morning-TA",
+        "slot2Greet": "Hey-TA",
+        "slot3Greet": "Had a good lunch-TA",
+        "slot4Greet": "It's chai o'clock-TA",
+        "slot5Greet": "Good Night-TA"
     },
     "updateposts": {
       "discussUpdateOnPost": "உங்கள் இடுகைகளில் புதுப்பிப்புகள்",

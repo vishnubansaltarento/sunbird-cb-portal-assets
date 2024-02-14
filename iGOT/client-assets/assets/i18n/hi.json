@@ -129,7 +129,12 @@
         "cbpPortaldesc": "सी. बी. पी. यहाँ बनाएँ और प्रबंधित करें",
         "mdoPortaldesc": "एम. डी. ओ. उपयोगकर्ता पहुँच, कार्य आदेश और आयोजनों का प्रबंधन करें",
         "fracDictionarydesc": "भूमिकाओं, गतिविधियों और दक्षताओं के ढांचे का शब्दकोश।",
-        "spvPortaldesc": "एम. डी. ओ. बनाएँ और प्रबंधित करें"
+        "spvPortaldesc": "एम. डी. ओ. बनाएँ और प्रबंधित करें",
+        "competency": "Competency-HI",
+        "identifyYourCompetency": "Identify your competency requirements, and competency gaps.-HI",
+        "comingSoon": "Coming soon-HI",
+        "career": "Career-HI",
+        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise.-HI"
     },
     "footer": {
         "hubs": "हब",
@@ -178,7 +183,10 @@
         "recommendedForYou": "आपके लिए अनुशंसित",
         "programs": "कार्यक्रम",
         "programsForYou": "आपके लिए कार्यक्रम।",
-        "basedOnYourInterests": "आपकी रुचियों के आधार पर"
+        "basedOnYourInterests": "आपकी रुचियों के आधार पर",
+        "getReadyForLearningAdventure": "Get ready for your next learning adventure-HI",
+        "clickHere": "Click here-HI",
+        "toEnrollNextCourse": " to enroll in your next course now!-HI"
     },
     "cbpPlanFeed": {
         "title": "My iGOT -hi",
@@ -632,7 +640,7 @@
         "curatedEvents": "क्यूरेटेड इवेंट्स",
         "mdoEvents": "आपके एम. डी. ओ. में कार्यक्रम",
         "webinar": "वेबिनार",
-        "karmayogitalks": "कर्मयोगी वार्ताएँ"
+        "karmayogiTalks": "कर्मयोगी वार्ताएँ"
     },
     "eventDetailsRightCard": {
         "viewRecording": "रिकॉर्डिंग देखें",

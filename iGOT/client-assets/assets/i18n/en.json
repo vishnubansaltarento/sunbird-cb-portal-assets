@@ -78,7 +78,6 @@
         "trendingAcrossDepartment": "Trending across department",
         "learningUnder30Min": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week"
-
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -133,7 +132,10 @@
         "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
         "spvPortaldesc": "Create and manage MDOs",
         "competency": "Competency",
-        "identifyYourCompetency": "Identify your competency requirements, and competency gaps."
+        "identifyYourCompetency": "Identify your competency requirements, and competency gaps.",
+        "comingSoon": "Coming soon",
+        "career": "Career",
+        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise."
     },
     "footer": {
         "hubs": "Hubs",
@@ -182,7 +184,10 @@
         "recommendedForYou": "Recommended for you",
         "programs": "Programs",
         "programsForYou": "Programs for you.",
-        "basedOnYourInterests": "Based on your interests"
+        "basedOnYourInterests": "Based on your interests",
+        "getReadyForLearningAdventure": "Get ready for your next learning adventure",
+        "clickHere": "Click here",
+        "toEnrollNextCourse": " to enroll in your next course now!"
     },
     "cbpPlanFeed": {
         "title": "My iGOT",
@@ -638,7 +643,7 @@
         "curatedEvents": "Curated events",
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
-        "karmayogitalks": "Karmayogi Talks"
+        "karmayogiTalks": "Karmayogi Talks"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -1003,7 +1008,7 @@
         "igotWalkthrough":"Gain skills to rocket your career growth. Connect with civil servants and experts to learn and discover new opportunities in the Indian civil services.",
         "growSection":"Learn. Network. Take your career growth to the next level."
     },
-    "home":{
+    "home": {
         "learnHub":"Go to learn hub",
         "updateTitle":"Update your mobile number",
         "updateMobile":"Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1057,7 +1062,7 @@
         "discussionMonthsAgo":"months ago",
         "networkRecentReq":"Recent requests",
         "networkBuildConn":"Built your connections within your department and other departments.",
-        "networkFindConn":"Find COnnections",
+        "networkFindConn":"Find Connections",
         "topProviderSliders":"Top providers powering your learning",
         "nudgesText":"Update your mobile number",
         "nudgesButton":"Update",
@@ -1704,7 +1709,7 @@
         "mHomeDiscussionMonthsAgo":"months ago",
         "mHomeNetworkRecentReq":"Recent requests",
         "mHomeNetworkBuildConn":"Built your connections within your department and other departments.",
-        "mHomeNetworkFindConn":"Find COnnections",
+        "mHomeNetworkFindConn":"Find Connections",
         "mHomeTopProviderSliders":"Top providers powering your learning",
         "mHomeScannerDownload":"Download",
         "mHomeScannerIgotKarmyogiApp":"iGOT Karmayogi mobile app",

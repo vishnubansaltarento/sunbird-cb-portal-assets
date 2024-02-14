@@ -129,10 +129,10 @@
       "selectYourInterests": "तुमच्या आवडी निवडा"
     },
     "learn": {
-      "btnExplorebyCompetency": "क्षमतेनुसार शोध घ्या",
-      "btnExplorebyProvider": "प्रदात्याद्वारे शोधा",
-      "btnCuratedCollections": "क्युरेटेड संग्रह",
-      "btnModeratedCourses": "मध्यम दर्जाचे अभ्यासक्रम"
+      "exploreByCompetency": "क्षमतेनुसार शोध घ्या",
+      "exploreByProvider": "प्रदात्याद्वारे शोधा",
+      "curatedCollections": "क्युरेटेड संग्रह",
+      "moderatedCourses": "मध्यम दर्जाचे अभ्यासक्रम"
     },
     "contentstripmultiple": {
       "continueLearning": "शिकणे सुरू ठेवा",
@@ -515,7 +515,11 @@
       "eventAgenda": "अजेंडा",
       "btnEventCompleted": "कार्यक्रम पूर्ण झाला आहे",
       "eventType": "कार्यक्रमाचा प्रकार",
-      "eventHostedBy": "द्वारे होस्ट केलेले"
+      "eventHostedBy": "द्वारे होस्ट केलेले",
+      "curatedEvents": "Curated events-MR",
+      "mdoEvents": "Events in your MDO-MR",
+      "webinar": "Webinar-MR",
+      "karmayogiTalks": "Karmayogi Talks-MR"
     },
     "career": {
       "labelAllOpenings": "सर्व खुल्या जागा",

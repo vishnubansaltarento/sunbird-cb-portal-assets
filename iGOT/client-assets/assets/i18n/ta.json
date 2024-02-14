@@ -137,10 +137,10 @@
       "selectYourInterests": "உங்கள் விருப்பங்களைத் தேர்ந்தெடுக்கவும்"
     },
     "learn": {
-      "btnExplorebyCompetency": "திறமை மூலம் ஆராயுங்கள்",
-      "btnExplorebyProvider": "வழங்குநர் மூலம் ஆராயுங்கள்",
-      "btnCuratedCollections": "தொகுக்கப்பட்ட தொகுப்புகள்",
-      "btnModeratedCourses": "மிதமான படிப்புகள்"
+      "exploreByCompetency": "திறமை மூலம் ஆராயுங்கள்",
+      "exploreByProvider": "வழங்குநர் மூலம் ஆராயுங்கள்",
+      "curatedCollections": "தொகுக்கப்பட்ட தொகுப்புகள்",
+      "moderatedCourses": "மிதமான படிப்புகள்"
     },
     "contentstripmultiple": {
       "continueLearning": "தொடர்ந்து கற்றுக்கொள்ளுங்கள்",
@@ -547,7 +547,7 @@
       "curatedEvents": "தொகுக்கப்பட்ட நிகழ்வுகள்",
       "mdoEvents": "உங்கள் எம். டி. ஓ-வில் நிகழ்வுகள்",
       "webinar": "வெபினார்",
-      "karmayogitalks": "கர்மயோகி பேச்சு"
+      "karmayogiTalks": "கர்மயோகி பேச்சு"
     },
     "eventDetailsRightCard": {
       "viewRecording": "பதிவைக் காண்க",

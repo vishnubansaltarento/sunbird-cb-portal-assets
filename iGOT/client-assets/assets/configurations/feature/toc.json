@@ -244,10 +244,27 @@
     },
     {
       "displayButton": "ACBP",
-      "textBeforeIcon": "Earn",
-      "points": "15 Karma Points",
-      "textAfterIcon": "by completing this course.",
-      "toolTipText": "This is a part of your Capacity Building Plan. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
+      "textBeforeIcon": "earn",
+      "points": "15",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "byCompleting",
+      "toolTipText": "acbpTip"
+    },
+    {
+      "displayButton": "ACBP COMPLETED",
+      "textBeforeIcon": "completeBeforeText",
+      "points": "15",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "",
+      "toolTipText": "acbpCompleteTip"
+    },
+    {
+      "displayButton": "Start again",
+      "textBeforeIcon": "completeBeforeText",
+      "points": "5",
+      "textAfterPoints": "karmaPoints",
+      "textAfterIcon": "",
+      "toolTipText": "completeTip"
     }
   ],
   "ScormProgressThreshold": 20

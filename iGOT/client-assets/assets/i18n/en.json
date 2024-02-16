@@ -78,7 +78,6 @@
         "trendingAcrossDepartment": "Trending across department",
         "learningUnder30Min": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week"
-
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -133,7 +132,10 @@
         "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
         "spvPortaldesc": "Create and manage MDOs",
         "competency": "Competency",
-        "identifyYourCompetency": "Identify your competency requirements, and competency gaps."
+        "identifyYourCompetency": "Identify your competency requirements, and competency gaps.",
+        "comingSoon": "Coming soon",
+        "career": "Career",
+        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise."
     },
     "footer": {
         "hubs": "Hubs",
@@ -182,7 +184,10 @@
         "recommendedForYou": "Recommended for you",
         "programs": "Programs",
         "programsForYou": "Programs for you.",
-        "basedOnYourInterests": "Based on your interests"
+        "basedOnYourInterests": "Based on your interests",
+        "getReadyForLearningAdventure": "Get ready for your next learning adventure",
+        "clickHere": "Click here",
+        "toEnrollNextCourse": " to enroll in your next course now!"
     },
     "cbpPlanFeed": {
         "title": "My iGOT",
@@ -321,16 +326,18 @@
     },
     "contentSharing": {
         "header": "Share with Karmayogis",
-        "note": "Note: Emails will be sent only to registered karmayogis.",
-        "remaingCharacter": "characters",
+        "note": "Note: Emails will be sent only to registered Karmayogis.",
+        "remaingEmails": "emails",
         "copyLink": "Copy link",
         "send": "Send",
         "placehoderText": "To: Add an email",
         "success": "Emails successfully shared with registered Karmayogis",
         "maxLimit": "Maximum email limit reached",
-        "invalidEmail": "Invalid email",
+        "invalidEmail": "Please enter a valid email address",
         "linkCopied": "Link copied",
-        "error": "Something went wrong. Please try after sometime"
+        "error": "Something went wrong. Please try after sometime",
+        "dulicateUser": "User is already selected",
+        "dulicateEmail": "Email is already selected"
 
     },
     "apptocsinglepage": {
@@ -636,7 +643,7 @@
         "curatedEvents": "Curated events",
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
-        "karmayogitalks": "Karmayogi Talks"
+        "karmayogiTalks": "Karmayogi Talks"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -971,7 +978,10 @@
         "rateThis": ", rate this course!",
         "rateTip": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE.",
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
-        "acbpTip": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
+        "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",
+        "completeBeforeText": "Congrats! You've completed the course and earned",
+        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",
@@ -998,7 +1008,7 @@
         "igotWalkthrough":"Gain skills to rocket your career growth. Connect with civil servants and experts to learn and discover new opportunities in the Indian civil services.",
         "growSection":"Learn. Network. Take your career growth to the next level."
     },
-    "home":{
+    "home": {
         "learnHub":"Go to learn hub",
         "updateTitle":"Update your mobile number",
         "updateMobile":"Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1052,7 +1062,7 @@
         "discussionMonthsAgo":"months ago",
         "networkRecentReq":"Recent requests",
         "networkBuildConn":"Built your connections within your department and other departments.",
-        "networkFindConn":"Find COnnections",
+        "networkFindConn":"Find Connections",
         "topProviderSliders":"Top providers powering your learning",
         "nudgesText":"Update your mobile number",
         "nudgesButton":"Update",
@@ -1699,7 +1709,7 @@
         "mHomeDiscussionMonthsAgo":"months ago",
         "mHomeNetworkRecentReq":"Recent requests",
         "mHomeNetworkBuildConn":"Built your connections within your department and other departments.",
-        "mHomeNetworkFindConn":"Find COnnections",
+        "mHomeNetworkFindConn":"Find Connections",
         "mHomeTopProviderSliders":"Top providers powering your learning",
         "mHomeScannerDownload":"Download",
         "mHomeScannerIgotKarmyogiApp":"iGOT Karmayogi mobile app",

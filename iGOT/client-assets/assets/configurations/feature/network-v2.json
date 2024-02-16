@@ -1,8 +1,8 @@
 {
     "tabs": [
         {
-            "name": "Network home",
-            "key": "NetworkHome",
+            "name": "network home",
+            "key": "network Home",
             "badges": {
                 "enabled": true,
                 "uri": ""
@@ -12,7 +12,7 @@
         },
         {
             "name": "Your connections",
-            "key": "MyConnections",
+            "key": "Your connections",
             "badges": {
                 "enabled": true,
                 "uri": ""
@@ -22,7 +22,7 @@
         },
         {
             "name": "Connection Requests",
-            "key": "connectionRequests",
+            "key": "Connection Requests",
             "badges": {
                 "enabled": true,
                 "uri": ""
@@ -32,7 +32,7 @@
         },
         {
             "name": "From your MDO",
-            "key": "formMyMDO",
+            "key": "From your MDO",
             "badges": {
                 "enabled": true,
                 "uri": ""
@@ -42,7 +42,7 @@
         },
         {
             "name": "Recommended connections",
-            "key": "recommendedConnections",
+            "key": "Recommended Connections",
             "badges": {
                 "enabled": true,
                 "uri": ""

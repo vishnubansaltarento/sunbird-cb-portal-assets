@@ -56,8 +56,8 @@
         "enabled": true
     },
     {
-        "name": "Content Competency Mapping",
-        "type": "content-competency-mapping",
+        "name": "Content Competency Mapping Report",
+        "type": "content-competency-mapping-report",
         "reportType": "Detailed data report",
         "downloadReportFileName":"ContentCompetencyMappingReport",
         "enabled": true

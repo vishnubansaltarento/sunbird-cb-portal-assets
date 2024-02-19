@@ -1084,7 +1084,17 @@
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here"
+    },
+    "homeotherportals": {
+        "otherPortals": "Other Portals You Have Access To",
+        "mdoPortal": "MDO portal",
+        "manageMdoUserAccess,WorkOrdersAndEvents.": "Manage MDO user access, work orders and events.",
+        "cbpPortal": "CBP portal",
+        "createAndManageCbpsHere.": "Create and manage CBPs here.",
+        "spvPortal": "SPV portal",
+        "createAndManageSpvsHere.": "Create and manage SPV's here."
     },
     "profileCardStats": {
         "inProgress": "In Progress",

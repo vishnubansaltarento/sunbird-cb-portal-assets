@@ -1067,7 +1067,8 @@
         "showAll": "सब दिखाएँ",
         "updateYourProfile": "अपनी प्रोफ़ाइल को अद्यतन करें और इसे सत्यापित करें।",
         "updateNow": "अभी अद्यतन करें",
-        "recentlyAdded": "Recently added -hi"
+        "recentlyAdded": "Recently added -hi",
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here-HI"
     },
     "profileCardStats": {
         "inProgress": "In Progress - hi",

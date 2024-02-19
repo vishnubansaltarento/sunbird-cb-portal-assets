@@ -35,7 +35,7 @@
       "update": "अद्ययावत",
       "showAll": "सर्व दाखवा",
       "loadMore": "Load more...",
-      "gyaanKarmayogi": "Gyaan Karmayogi"
+      "gyaanKarmayogi": "Gyaan Karmayogi-MR"
     },
     "msg": {
       "noEvent": "कार्यक्रम नाही",
@@ -171,7 +171,9 @@
       "newlyAdded": "नव्याने जोडले",
       "hoursAgo": "काही तासांपूर्वी",
       "noviews": "दृश्ये नाहीत",
-      "resume": "पुन्हा सुरू करा"
+      "resume": "पुन्हा सुरू करा",
+      "start": "Start-MR",
+      "viewCertificate": "View Certificate-MR"
     },
     "allproviderscomponent": {
       "popularProviders": "लोकप्रिय पुरवठादार",
@@ -823,7 +825,8 @@
       "nudgesText": "तुमचा मोबाईल क्रमांक अद्ययावत करा",
       "nudgesButton": "अद्ययावत",
       "myDiscussions": "My Discussions-MR",
-      "recentlyAdded": "Recently adde-MR"
+      "recentlyAdded": "Recently adde-MR",
+      "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here-MR"
     },
     "profileCardStats": {
         "inProgress": "In Progress-MR",

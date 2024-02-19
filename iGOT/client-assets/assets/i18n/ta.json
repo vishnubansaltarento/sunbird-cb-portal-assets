@@ -180,7 +180,9 @@
       "newlyAdded": "புதிதாக சேர்க்கப்பட்டது",
       "hoursAgo": "மணி நேரத்திற்கு முன்பு",
       "noviews": "பார்வைகள் இல்லை",
-      "resume": "மீண்டும் தொடங்குங்கள்"
+      "resume": "மீண்டும் தொடங்குங்கள்",
+      "start": "Start-TA",
+      "viewCertificate": "View Certificate-TA"
     },
     "allproviderscomponent": {
       "popularProviders": "பிரபலமான வழங்குநர்கள்",
@@ -504,11 +506,11 @@
       "of": "என்பதிலிருந்து"
     },
     "practiceoverview": {
-        "itsTimeForAssesment": "Now, it’s time for a quick assessment.-HI",
-        "startAssesmentNow": "Start assessment now-HI",
-        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HI",
-        "summary": "Summary-HI",
-        "pointsToNote": "Points to note-HI"
+        "itsTimeForAssesment": "Now, it’s time for a quick assessment.-TA",
+        "startAssesmentNow": "Start assessment now-TA",
+        "youExceededAttempt": "You have exceeded the maximum allowed attempt-HTA",
+        "summary": "Summary-TA",
+        "pointsToNote": "Points to note-TA"
     },
     "network": {
       "networkHome": "நெட்வொர்க் ஹோம்",
@@ -947,7 +949,8 @@
       "updateYourProfile": "உங்கள் சுயவிவரத்தைப் புதுப்பித்து அதைச் சரிபார்க்கவும்",
       "updateNow": "இப்போது புதுப்பிக்கவும்",
       "myDiscussions": "My Discussions-TA",
-      "recentlyAdded": "Recently added-TA"
+      "recentlyAdded": "Recently added-TA",
+      "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here -TA"
     },
     "profileCardStats": {
         "inProgress": "In Progress-TA",

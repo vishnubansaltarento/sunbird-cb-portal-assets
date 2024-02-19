@@ -54,5 +54,12 @@
         "reportType": "Detailed data report",
         "downloadReportFileName":"CBPEnrollmentReport",
         "enabled": true
+    },
+    {
+        "name": "Content Competency Mapping Report",
+        "type": "kcm-report",
+        "reportType": "Detailed data report",
+        "downloadReportFileName":"ContentCompetencyMappingReport",
+        "enabled": true
     }
 ]

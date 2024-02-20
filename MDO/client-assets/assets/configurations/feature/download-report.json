@@ -24,7 +24,7 @@
         "name": "CBP Report",
         "type": "course-report",
         "reportType": "Detailed data report",
-        "downloadReportFileName":"CBPReport",
+        "downloadReportFileName":"ContentReport",
         "enabled": true
     },
     {

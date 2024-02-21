@@ -37,7 +37,8 @@
         "update":"Update",
         "showAll": "Show all",
         "loadMore": "Load more...",
-        "gyaanKarmayogi": "Gyaan Karmayogi"
+        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "dueBy": "Due by"
     },
     "msg": {
         "noEvent" : "No Event",
@@ -347,12 +348,20 @@
         "discussion": "Discussion",
         "summary": "Summary",
         "description": "Description",
+        "viewMore": "view more",
+        "viewLess": "view less",
         "authorsAndCurators": "Authors and curators",
         "author": "Author",
+        "authors": "Authors",
         "curator": "Curator",
+        "curators": "Curators",
         "programDirectorFacilitators": "Program director & facilitators",
         "facilitator": "Facilitator",
         "competencies": "Competencies",
+        "competenciesTooltip": "Competency: Set of demonstrable characteristics and skills that enable and improve the efficiency of performing a job. Behavioural competencies describe the key values and strengths that help an official perform effectively in a range of roles. Domain competencies are defined for a specific MDO (for example, the Ministry of Personnel or the Department of Biotechnology) but that does not mean that others will not need them. Functional competencies are common among many domains, cutting across MDOs, as well as roles and activities.",
+        "noCompetencyFound": "No competencies found",
+        "certificateEarned": "Certificate earned",
+        "anySuggestions": "Do you have any questions, suggestions or, ideas in your mind? Post it.",
         "competency": "Competency",
         "type": "Type",
         "ratingsReviews": "Ratings and reviews",
@@ -365,7 +374,11 @@
         "studyMaterials": "Study materials",
         "Skills": "Skills",
         "preRequisites": "Pre-Requisites",
-        "Topics": "Topics"
+        "Topics": "Topics",
+        "batchStartsIn": "This batch starts in",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -709,7 +722,7 @@
         "sidepanelCategories":"Categories",
         "sidepanelTags":"Tags",
         "sidepanelMyDiscuss":"My Discussions",
-        "startDiscuss":"Start Discusion",
+        "startDiscuss":"Start Discussion",
         "startDiscussQues":"Question is mandatory",
         "descMandatory":"Description is mandatory",
         "btnSubmitPost":"Submit post",

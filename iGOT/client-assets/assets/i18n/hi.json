@@ -37,7 +37,8 @@
         "update": "अद्यतन करें",
         "showAll": "सब दिखाएँ",
         "loadMore": "अधिक लोड करें।",
-        "gyaanKarmayogi": "Gyaan Karmayogi-HI"
+        "gyaanKarmayogi": "Gyaan Karmayogi-HI",
+        "dueBy": "Due by - HI"
     },
     "msg": {
         "noEvent": "कोई घटना नहीं",
@@ -345,12 +346,20 @@
         "discussion": "चर्चा.",
         "summary": "सारांश",
         "description": "वर्णन",
+        "viewMore": "view more - HI",
+        "viewLess": "view less - HI",
         "authorsAndCurators": "लेखक और संरक्षक",
         "author": "लेखक",
+        "authors": "Authors - HI",
         "curator": "क्यूरेटर",
+        "curators": "Curators - HI",
         "programDirectorFacilitators": "कार्यक्रम निदेशक और सुविधा प्रदाता",
         "facilitator": "सुविधा प्रदाता",
         "competencies": "योग्यताएँ",
+        "competenciesTooltip": "Competency: Set of demonstrable characteristics and skills that enable and improve the efficiency of performing a job. Behavioural competencies describe the key values and strengths that help an official perform effectively in a range of roles. Domain competencies are defined for a specific MDO (for example, the Ministry of Personnel or the Department of Biotechnology) but that does not mean that others will not need them. Functional competencies are common among many domains, cutting across MDOs, as well as roles and activities. - HI",
+        "noCompetencyFound": "No competencies found - HI",
+        "certificateEarned": "Certificate earned - HI",
+        "anySuggestions": "Do you have any questions, suggestions or, ideas in your mind? Post it. - HI",
         "competency": "योग्यता",
         "type": "प्रकार",
         "ratingsReviews": "मूल्यांकन और समीक्षाएँ",
@@ -363,7 +372,12 @@
         "studyMaterials": "अध्ययन सामग्री",
         "Skills": "कौशल",
         "preRequisites": "पूर्व-आवश्यकताएँ",
-        "Topics": "विषय-वस्तु"
+        "Topics": "विषय-वस्तु",
+        "batchStartsIn": "This batch starts in - HI",
+        "days": "Days - HI",
+        "hours": "Hours - HI",
+        "minutes": "Minutes - HI",
+        "by": "By - HI"
     },
     "ratingsummary": {
         "ratings": "रेटिंग्स",

@@ -75,8 +75,8 @@
     "courses": "পাঠ্যক্ৰমসমূহ",
     "programs": "কাৰ্যসূচীসমূহ",
     "blendedProgram": "মিশ্ৰিত প্ৰগ্ৰাম",
-    "trendingAcrossDepartment": "সমগ্ৰ বিভাগতে প্ৰৱণতা",
-    "learningUnder30Min": "30 মিনিটৰ ভিতৰত শিকা",
+    "trendingAcrossDepartments": "সমগ্ৰ বিভাগতে প্ৰৱণতা",
+    "learningUnder30Minutes": "30 মিনিটৰ ভিতৰত শিকা",
     "certificationsOfTheWeek": "সপ্তাহটোৰ প্ৰমাণপত্ৰ"
   },
   "appnavbar": {
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "আপোনাৰ প্ৰৱেশাধিকাৰ থকা অন্যান্য প 'ৰ্টেলসমূহ",
     "mdoPortal": "এম. ডি. অ '. প' ৰ্টেল",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "এম. ডি. অ '. ব্যৱহাৰকাৰীৰ প্ৰৱেশাধিকাৰ, কৰ্ম আদেশ আৰু অনুষ্ঠানসমূহ পৰিচালনা কৰক।",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "এম. ডি. অ '. ব্যৱহাৰকাৰীৰ প্ৰৱেশাধিকাৰ, কৰ্ম আদেশ আৰু অনুষ্ঠানসমূহ পৰিচালনা কৰক।",
     "cbpPortal": "চি. বি. পি. পৰ্টেল",
     "createAndManageCbpsHere.": "ইয়াত চি. বি. পি. সৃষ্টি আৰু পৰিচালনা কৰক।",
     "spvPortal": "এছ. পি. ভি. প 'ৰ্টেল",
-    "createAndManageSpvsHere.": "ইয়াত এছ. পি. ভি. সৃষ্টি আৰু পৰিচালনা কৰক।"
+    "createAndManageSpv'sHere.": "ইয়াত এছ. পি. ভি. সৃষ্টি আৰু পৰিচালনা কৰক।"
   },
   "profileCardStats": {
     "inProgress": "অগ্ৰসৰ হৈ আছে",

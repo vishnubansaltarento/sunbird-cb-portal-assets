@@ -75,8 +75,8 @@
     "courses": "కోర్సులు",
     "programs": "కార్యక్రమాలు",
     "blendedProgram": "మిశ్రమ కార్యక్రమం",
-    "trendingAcrossDepartment": "డిపార్ట్మెంట్ అంతటా ట్రెండింగ్",
-    "learningUnder30Min": "30 నిమిషాల్లోపు నేర్చుకోవడం",
+    "trendingAcrossDepartments": "డిపార్ట్మెంట్ అంతటా ట్రెండింగ్",
+    "learningUnder30Minutes": "30 నిమిషాల్లోపు నేర్చుకోవడం",
     "certificationsOfTheWeek": "వారం యొక్క ధృవపత్రాలు"
   },
   "appnavbar": {
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "మీకు అందుబాటులో ఉన్న ఇతర పోర్టల్స్",
     "mdoPortal": "ఎండిఓ పోర్టల్",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "ఎండిఓ యూజర్ యాక్సెస్, వర్క్ ఆర్డర్లు మరియు ఈవెంట్లను నిర్వహించండి.",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "ఎండిఓ యూజర్ యాక్సెస్, వర్క్ ఆర్డర్లు మరియు ఈవెంట్లను నిర్వహించండి.",
     "cbpPortal": "సిబిపి పోర్టల్",
     "createAndManageCbpsHere.": "ఇక్కడ సిబిపిలను సృష్టించండి మరియు నిర్వహించండి.",
     "spvPortal": "ఎస్. పి. వి పోర్టల్",
-    "createAndManageSpvsHere.": "ఇక్కడ ఎస్పివిలను సృష్టించండి మరియు నిర్వహించండి."
+    "createAndManageSpv'sHere.": "ఇక్కడ ఎస్పివిలను సృష్టించండి మరియు నిర్వహించండి."
   },
   "profileCardStats": {
     "inProgress": "పురోగతిలో ఉంది",

@@ -364,7 +364,7 @@
       ],
       "isExternal": "true",
       "name": "SPV Portal",
-      "subtitle": "",
+      "subtitle": "Create and manage SPV's here.",
       "permission": [
         "superAdmin",
         "spv_admin",

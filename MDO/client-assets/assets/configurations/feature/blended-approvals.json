@@ -76,23 +76,6 @@
                     ]
                 },
                 {
-                    "name": "Competency",
-                    "key": "competency",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/competencyList",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
                     "name": "Blended program",
                     "key": "blended-approvals",
                     "fragment": false,

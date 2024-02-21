@@ -75,7 +75,7 @@
     "courses": "ପାଠ୍ଯ଼କ୍ରମ",
     "programs": "କାର୍ଯ୍ଯ଼କ୍ରମ",
     "blendedProgram": "ମିଶ୍ରିତ କାର୍ଯ୍ଯ଼କ୍ରମ",
-    "trendingAcrossDepartment": "ବିଭାଗ ସାରା ଟ୍ରେଣ୍ଡିଂ",
+    "trendingAcrossDepartments": "ବିଭାଗ ସାରା ଟ୍ରେଣ୍ଡିଂ",
     "learningUnder30Min": "30 ମିନିଟରୁ କମ୍ ସମଯ଼ ମଧ୍ଯ଼ରେ ଶିଖିବା",
     "certificationsOfTheWeek": "ସପ୍ତାହର ପ୍ରମାଣପତ୍ର"
   },
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "ଆପଣଙ୍କ ପାଖରେ ଥିବା ଅନ୍ଯ଼ ପୋର୍ଟାଲଗୁଡ଼ିକ",
     "mdoPortal": "ଏମଡିଓ ପୋର୍ଟାଲ",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "ଏମ. ଡି. ଓ. ବ୍ଯ଼ବହାରକାରୀଙ୍କ ପ୍ରବେଶ, କାର୍ଯ୍ଯ଼ ଆଦେଶ ଏବଂ କାର୍ଯ୍ଯ଼କ୍ରମଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ।",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "ଏମ. ଡି. ଓ. ବ୍ଯ଼ବହାରକାରୀଙ୍କ ପ୍ରବେଶ, କାର୍ଯ୍ଯ଼ ଆଦେଶ ଏବଂ କାର୍ଯ୍ଯ଼କ୍ରମଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ।",
     "cbpPortal": "ସିବିପି ପୋର୍ଟାଲ",
     "createAndManageCbpsHere.": "ଏଠାରେ ସି. ବି. ପି. ସୃଷ୍ଟି କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ।",
     "spvPortal": "ଏସ୍. ପି. ଭି. ପୋର୍ଟାଲ",
-    "createAndManageSpvsHere.": "ଏଠାରେ ଏସ୍. ପି. ଭି. ତିଆରି କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ।"
+    "createAndManageSpv'sHere.": "ଏଠାରେ ଏସ୍. ପି. ଭି. ତିଆରି କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ।"
   },
   "profileCardStats": {
     "inProgress": "ପ୍ରଗତି ପଥରେ",

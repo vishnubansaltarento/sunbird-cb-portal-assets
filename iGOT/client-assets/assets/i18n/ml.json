@@ -75,7 +75,7 @@
     "courses": "കോഴ്സുകൾ",
     "programs": "പരിപാടികൾ",
     "blendedProgram": "സംയോജിത പരിപാടി",
-    "trendingAcrossDepartment": "വകുപ്പിലുടനീളം ട്രെൻഡിംഗ്",
+    "trendingAcrossDepartments": "വകുപ്പിലുടനീളം ട്രെൻഡിംഗ്",
     "learningUnder30Min": "30 മിനിറ്റിനുള്ളിൽ പഠിക്കുക",
     "certificationsOfTheWeek": "ആഴ്ചയിലെ സർട്ടിഫിക്കേഷനുകൾ"
   },
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "നിങ്ങൾക്ക് ആക്സസ് ഉള്ള മറ്റ് പോർട്ടലുകൾ",
     "mdoPortal": "എംഡിഒ പോർട്ടൽ",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "എംഡിഒ ഉപയോക്തൃ ആക്സസ്, വർക്ക് ഓർഡറുകൾ, ഇവന്റുകൾ എന്നിവ നിയന്ത്രിക്കുക.",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "എംഡിഒ ഉപയോക്തൃ ആക്സസ്, വർക്ക് ഓർഡറുകൾ, ഇവന്റുകൾ എന്നിവ നിയന്ത്രിക്കുക.",
     "cbpPortal": "സിബിപി പോർട്ടൽ",
     "createAndManageCbpsHere.": "ഇവിടെ സി. ബി. പികൾ സൃഷ്ടിക്കുകയും കൈകാര്യം ചെയ്യുകയും ചെയ്യുക.",
     "spvPortal": "എസ്. പി. വി പോർട്ടൽ",
-    "createAndManageSpvsHere.": "ഇവിടെ എസ്. പി. വികൾ സൃഷ്ടിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക."
+    "createAndManageSpv'sHere.": "ഇവിടെ എസ്. പി. വികൾ സൃഷ്ടിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക."
   },
   "profileCardStats": {
     "inProgress": "പുരോഗതിയിലാണ്.",

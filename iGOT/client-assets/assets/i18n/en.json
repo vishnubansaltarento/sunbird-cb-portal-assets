@@ -12,7 +12,7 @@
         "events": "Events",
         "seeAll": "See all",
         "mdoPortal": "MDO Portal",
-        "cbpPortal": "CBP Portal",
+        "cbpPortal": "CP Portal",
         "cbcPortal": "CBC Portal",
         "spvPortal": "SPV Portal",
         "fracDictionary": "Frac Dictionary",
@@ -127,7 +127,7 @@
         "settingSubtitle": "Manage all your preferences hessssre",
         "quickLinks": "Quick links",
         "cbcPortaldesc": "Capacity Building Commission",
-        "cbpPortaldesc": "Create and manage CBPs here",
+        "cbpPortaldesc": "Create and manage CPs here",
         "mdoPortaldesc": "Manage MDO user access, work orders and events",
         "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
         "spvPortaldesc": "Create and manage MDOs",
@@ -1084,7 +1084,17 @@
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here"
+    },
+    "homeotherportals": {
+        "otherPortals": "Other Portals You Have Access To",
+        "mdoPortal": "MDO portal",
+        "manageMdoUserAccess,WorkOrdersAndEvents.": "Manage MDO user access, work orders and events.",
+        "cbpPortal": "CP portal",
+        "createAndManageCbpsHere.": "Create and manage CPs here.",
+        "spvPortal": "SPV portal",
+        "createAndManageSpvsHere.": "Create and manage SPV's here."
     },
     "profileCardStats": {
         "inProgress": "In Progress",

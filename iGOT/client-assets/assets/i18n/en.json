@@ -75,9 +75,10 @@
         "courses": "Courses",
         "programs": "Programs",
         "blendedProgram": "Blended Program",
-        "trendingAcrossDepartment": "Trending across department",
+        "trendingAcrossDepartments": "Trending across departments",
         "learningUnder30Min": "Learning under 30 min",
-        "certificationsOfTheWeek": "Certifications of the week"
+        "certificationsOfTheWeek": "Certifications of the week",
+        "recentlyAdded": "Recently added"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -365,7 +366,10 @@
         "studyMaterials": "Study materials",
         "Skills": "Skills",
         "preRequisites": "Pre-Requisites",
-        "Topics": "Topics"
+        "Topics": "Topics",
+        "subTheme": "Sub theme",
+        "theme": "Theme",
+        "area": "Area"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -962,7 +966,11 @@
         "showAll": "Show all",
         "noKarmaPoints": "No karma points information available",
         "bonus": "BONUS",
-        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs."
+        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs.",
+        "courseCompletion": "Course Completion",
+        "courseRating": "Course Rating",
+        "firstLogin": "First Login",
+        "firstEnrollment": "First Enrollment"
     },
     "appKarmapointsPanel": {
         "earn": "Earn",
@@ -1094,7 +1102,7 @@
         "cbpPortal": "CP portal",
         "createAndManageCbpsHere.": "Create and manage CPs here.",
         "spvPortal": "SPV portal",
-        "createAndManageSpvsHere.": "Create and manage SPV's here."
+        "createAndManageSpv'sHere.": "Create and manage SPV's here."
     },
     "profileCardStats": {
         "inProgress": "In Progress",

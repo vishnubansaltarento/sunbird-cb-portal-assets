@@ -75,7 +75,7 @@
     "courses": "কোর্স",
     "programs": "কর্মসূচি",
     "blendedProgram": "মিশ্রিত প্রোগ্রাম",
-    "trendingAcrossDepartment": "বিভাগ জুড়ে ট্রেন্ডিং",
+    "trendingAcrossDepartments": "বিভাগ জুড়ে ট্রেন্ডিং",
     "learningUnder30Min": "30 মিনিটের নিচে শেখা",
     "certificationsOfTheWeek": "সপ্তাহের শংসাপত্র"
   },
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "অন্যান্য পোর্টালগুলিতে আপনার প্রবেশাধিকার রয়েছে",
     "mdoPortal": "এম. ডি. ও পোর্টাল",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "এম. ডি. ও ব্যবহারকারীর প্রবেশাধিকার, কাজের অর্ডার এবং অনুষ্ঠান পরিচালনা করুন।",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "এম. ডি. ও ব্যবহারকারীর প্রবেশাধিকার, কাজের অর্ডার এবং অনুষ্ঠান পরিচালনা করুন।",
     "cbpPortal": "সিবিপি পোর্টাল",
     "createAndManageCbpsHere.": "এখানে সিবিপি তৈরি করুন এবং পরিচালনা করুন।",
     "spvPortal": "এস. পি. ভি পোর্টাল",
-    "createAndManageSpvsHere.": "এখানে এস. পি. ভি তৈরি করুন এবং পরিচালনা করুন।"
+    "createAndManageSpv'sHere.": "এখানে এস. পি. ভি তৈরি করুন এবং পরিচালনা করুন।"
   },
   "profileCardStats": {
     "inProgress": "অগ্রগতিতে",

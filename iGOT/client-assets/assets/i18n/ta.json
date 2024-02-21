@@ -75,9 +75,10 @@
     "courses": "படிப்புகள்",
     "programs": "திட்டங்கள்",
     "blendedProgram": "கலப்பு நிரல்",
-    "trendingAcrossDepartment": "துறை முழுவதும் போக்கு",
-    "learningUnder30Min": "30 நிமிடங்களுக்குள் கற்றல்",
-    "certificationsOfTheWeek": "வாரத்தின் சான்றிதழ்கள்"
+    "trendingAcrossDepartments": "துறை முழுவதும் போக்கு",
+    "learningUnder30Minutes": "30 நிமிடங்களுக்குள் கற்றல்",
+    "certificationsOfTheWeek": "வாரத்தின் சான்றிதழ்கள்",
+    "recentlyAdded": "Recently added-TA"
   },
   "appnavbar": {
     "searchforLearningContents": "கற்றல் உள்ளடக்கங்களைத் தேடுங்கள்",
@@ -363,7 +364,10 @@
     "studyMaterials": "படிப்புப் பொருட்கள்",
     "Skills": "திறன்கள்.",
     "preRequisites": "முன் நிபந்தனைகள்",
-    "Topics": "தலைப்புகள்"
+    "Topics": "தலைப்புகள்",
+    "subTheme": "Sub theme-TA",
+    "theme": "Theme-TA",
+    "area": "Area-TA"
   },
   "ratingsummary": {
     "ratings": "மதிப்பீடுகள்",
@@ -960,7 +964,11 @@
     "showAll": "அனைத்தையும் காட்டு",
     "noKarmaPoints": "கர்மா புள்ளிகள் பற்றிய தகவல் எதுவும் கிடைக்கவில்லை",
     "bonus": "போனஸ்",
-    "tooltip": "கர்மா புள்ளிகள் என்பது ஐஜிஓடியில் உயர் கற்றல் ஈடுபாட்டிற்கான வெகுமதியாகும். மேலும் தகவலுக்கு, கர்மா பாயிண்ட்ஸ் அடிக்கடி கேட்கப்படும் கேள்விகளைப் பார்வையிடவும்."
+    "tooltip": "கர்மா புள்ளிகள் என்பது ஐஜிஓடியில் உயர் கற்றல் ஈடுபாட்டிற்கான வெகுமதியாகும். மேலும் தகவலுக்கு, கர்மா பாயிண்ட்ஸ் அடிக்கடி கேட்கப்படும் கேள்விகளைப் பார்வையிடவும்.",
+    "courseCompletion": "Course Completion-TA",
+    "courseRating": "Course Rating-TA",
+    "firstLogin": "First Login-TA",
+    "firstEnrollment": "First Enrollment-TA"
   },
   "appKarmapointsPanel": {
     "earn": "சம்பாதியுங்கள்.",
@@ -1088,11 +1096,11 @@
   "homeotherportals": {
     "otherPortals": "நீங்கள் அணுகக்கூடிய பிற இணையதளங்கள்",
     "mdoPortal": "எம். டி. ஓ இணையதளம்",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "எம். டி. ஓ பயனர் அணுகல், வேலை ஆர்டர்கள் மற்றும் நிகழ்வுகளை நிர்வகிக்கவும்.",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "எம். டி. ஓ பயனர் அணுகல், வேலை ஆர்டர்கள் மற்றும் நிகழ்வுகளை நிர்வகிக்கவும்.",
     "cbpPortal": "சிபிபி இணையதளம்",
     "createAndManageCbpsHere.": "இங்கே சிபிபிகளை உருவாக்கி நிர்வகிக்கவும்.",
     "spvPortal": "எஸ். பி. வி இணையதளம்",
-    "createAndManageSpvsHere.": "இங்கு எஸ். பி. வி. க்களை உருவாக்கி நிர்வகிக்கவும்."
+    "createAndManageSpv'sHere.": "இங்கு எஸ். பி. வி. க்களை உருவாக்கி நிர்வகிக்கவும்."
   },
   "profileCardStats": {
     "inProgress": "முன்னேற்றத்தில் உள்ளது",

@@ -75,9 +75,10 @@
     "courses": "पाठ्यक्रम",
     "programs": "कार्यक्रम",
     "blendedProgram": "मिश्रित कार्यक्रम",
-    "trendingAcrossDepartment": "पूरे विभाग में रुझान",
-    "learningUnder30Min": "30 मिनट से कम समय में सीखना",
-    "certificationsOfTheWeek": "सप्ताह के प्रमाणन"
+    "trendingAcrossDepartments": "पूरे विभाग में रुझान",
+    "learningUnder30Minutes": "30 मिनट से कम समय में सीखना",
+    "certificationsOfTheWeek": "सप्ताह के प्रमाणन",
+    "recentlyAdded": "Recently added-HI"
   },
   "appnavbar": {
     "searchforLearningContents": "सीखने की सामग्री खोजें",
@@ -363,7 +364,10 @@
     "studyMaterials": "अध्ययन सामग्री",
     "Skills": "कौशल",
     "preRequisites": "पूर्व-आवश्यकताएँ",
-    "Topics": "विषय-वस्तु"
+    "Topics": "विषय-वस्तु",
+    "subTheme": "Sub theme-HI",
+    "theme": "Theme-HI",
+    "area": "Area-HI"
   },
   "ratingsummary": {
     "ratings": "रेटिंग्स",
@@ -960,7 +964,11 @@
     "showAll": "सब दिखाएँ",
     "noKarmaPoints": "कर्म बिंदुओं की कोई जानकारी उपलब्ध नहीं है",
     "bonus": "बोनस",
-    "tooltip": "आई. जी. ओ. टी. में उच्च शिक्षा के लिए कर्म अंक एक पुरस्कार है। अधिक जानकारी के लिए, कर्मा पॉइंट्स एफ. ए. क्यू. पर जाएँ।"
+    "tooltip": "आई. जी. ओ. टी. में उच्च शिक्षा के लिए कर्म अंक एक पुरस्कार है। अधिक जानकारी के लिए, कर्मा पॉइंट्स एफ. ए. क्यू. पर जाएँ।",
+    "courseCompletion": "Course Completion-HI",
+    "courseRating": "Course Rating-HI",
+    "firstLogin": "First Login-HI",
+    "firstEnrollment": "First Enrollment-HI"
   },
   "appKarmapointsPanel": {
     "earn": "कमाई करें।",
@@ -1088,11 +1096,11 @@
   "homeotherportals": {
     "otherPortals": "अन्य पोर्टल जिन तक आपकी पहुंच है",
     "mdoPortal": "एमडीओ पोर्टल",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "एम. डी. ओ. उपयोगकर्ता पहुँच, कार्य आदेश और कार्यक्रमों का प्रबंधन करें।",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "एम. डी. ओ. उपयोगकर्ता पहुँच, कार्य आदेश और कार्यक्रमों का प्रबंधन करें।",
     "cbpPortal": "सीबीपी पोर्टल",
     "createAndManageCbpsHere.": "यहाँ सी. बी. पी. बनाएँ और प्रबंधित करें।",
     "spvPortal": "एस. पी. वी. पोर्टल",
-    "createAndManageSpvsHere.": "यहाँ एस. पी. वी. बनाएँ और प्रबंधित करें।"
+    "createAndManageSpv'sHere.": "यहाँ एस. पी. वी. बनाएँ और प्रबंधित करें।"
   },
   "profileCardStats": {
     "inProgress": "प्रगति में",

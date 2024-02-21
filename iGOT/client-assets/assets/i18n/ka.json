@@ -75,8 +75,8 @@
     "courses": "ಕೋರ್ಸ್ಗಳು",
     "programs": "ಕಾರ್ಯಕ್ರಮಗಳು",
     "blendedProgram": "ಸಂಯೋಜಿತ ಪ್ರೋಗ್ರಾಂ",
-    "trendingAcrossDepartment": "ಇಲಾಖೆಯಾದ್ಯಂತ ಟ್ರೆಂಡಿಂಗ್",
-    "learningUnder30Min": "30 ನಿಮಿಷಗಳಿಗಿಂತ ಕಡಿಮೆ ಅವಧಿಯಲ್ಲಿ ಕಲಿಯುವುದು",
+    "trendingAcrossDepartments": "ಇಲಾಖೆಯಾದ್ಯಂತ ಟ್ರೆಂಡಿಂಗ್",
+    "learningUnder30Minutes": "30 ನಿಮಿಷಗಳಿಗಿಂತ ಕಡಿಮೆ ಅವಧಿಯಲ್ಲಿ ಕಲಿಯುವುದು",
     "certificationsOfTheWeek": "ವಾರದ ಪ್ರಮಾಣೀಕರಣಗಳು"
   },
   "appnavbar": {
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "ನಿಮಗೆ ಲಭ್ಯವಿರುವ ಇತರ ಪೋರ್ಟಲ್ಗಳು",
     "mdoPortal": "ಎಂ. ಡಿ. ಓ ಪೋರ್ಟಲ್",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "ಎಂಡಿಒ ಬಳಕೆದಾರರ ಪ್ರವೇಶ, ಕೆಲಸದ ಆದೇಶಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರ್ವಹಿಸಿ.",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "ಎಂಡಿಒ ಬಳಕೆದಾರರ ಪ್ರವೇಶ, ಕೆಲಸದ ಆದೇಶಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರ್ವಹಿಸಿ.",
     "cbpPortal": "ಸಿಬಿಪಿ ಪೋರ್ಟಲ್",
     "createAndManageCbpsHere.": "ಇಲ್ಲಿ ಸಿಬಿಪಿಗಳನ್ನು ರಚಿಸಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ.",
     "spvPortal": "ಎಸ್ಪಿವಿಯ ಪೋರ್ಟಲ್",
-    "createAndManageSpvsHere.": "ಇಲ್ಲಿ ಎಸ್. ಪಿ. ವಿ. ಗಳನ್ನು ರಚಿಸಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ."
+    "createAndManageSpv'sHere.": "ಇಲ್ಲಿ ಎಸ್. ಪಿ. ವಿ. ಗಳನ್ನು ರಚಿಸಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ."
   },
   "profileCardStats": {
     "inProgress": "ಪ್ರಗತಿಯಲ್ಲಿದೆ.",

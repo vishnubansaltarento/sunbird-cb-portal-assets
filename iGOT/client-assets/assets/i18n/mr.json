@@ -75,8 +75,8 @@
     "courses": "अभ्यासक्रम",
     "programs": "कार्यक्रम",
     "blendedProgram": "मिश्रित कार्यक्रम",
-    "trendingAcrossDepartment": "विभागभरात कल",
-    "learningUnder30Min": "30 मिनिटांपेक्षा कमी वेळ शिकणे",
+    "trendingAcrossDepartments": "विभागभरात कल",
+    "learningUnder30Minutes": "30 मिनिटांपेक्षा कमी वेळ शिकणे",
     "certificationsOfTheWeek": "आठवड्याचे प्रमाणन"
   },
   "appnavbar": {
@@ -1088,11 +1088,11 @@
   "homeotherportals": {
     "otherPortals": "तुम्हाला उपलब्ध असलेली इतर पोर्टल",
     "mdoPortal": "एमडीओ पोर्टल",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "एम. डी. ओ. वापरकर्त्याचा प्रवेश, कामाच्या मागण्या आणि कार्यक्रम व्यवस्थापित करा.",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "एम. डी. ओ. वापरकर्त्याचा प्रवेश, कामाच्या मागण्या आणि कार्यक्रम व्यवस्थापित करा.",
     "cbpPortal": "सी. बी. पी. पोर्टल",
     "createAndManageCbpsHere.": "येथे सी. बी. पी. तयार करा आणि व्यवस्थापित करा.",
     "spvPortal": "एस. पी. व्ही. पोर्टल",
-    "createAndManageSpvsHere.": "येथे एस. पी. व्ही. तयार करा आणि व्यवस्थापित करा."
+    "createAndManageSpv'sHere.": "येथे एस. पी. व्ही. तयार करा आणि व्यवस्थापित करा."
   },
   "profileCardStats": {
     "inProgress": "प्रगतीपथावर",

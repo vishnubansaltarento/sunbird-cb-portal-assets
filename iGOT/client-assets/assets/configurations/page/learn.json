@@ -178,7 +178,7 @@
                         "tab": "Learn",
                         "q": "",
                         "p": "Trending",
-                        "f": "{\"primaryCategory\": [\"Moderated Courses\"], \"contentType\": [\"Moderated Courses\"]}"
+                        "f": "{\"primaryCategory\": [\"Moderated Course\",\"Moderated Program\",\"Moderated Assessment\"], \"contentType\": [\"Moderated Courses\"]}"
                       }
                     },
                     "filters": [],

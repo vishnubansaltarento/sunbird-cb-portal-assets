@@ -378,7 +378,17 @@
         "batchStartsIn": "This batch starts in",
         "days": "Days",
         "hours": "Hours",
-        "minutes": "Minutes"
+        "minutes": "Minutes",
+        "courses": "Course(s)",
+        "modules": "Module(s)",
+        "videos": "Video(s)",
+        "pdf": "PDF's",
+        "audio": "Audio(s)",
+        "webPages": "Web Page(s)",
+        "interactiveContent": "Interactive Content(s)",
+        "finalAssessment": "Final assessment(s)",
+        "practiceTest": "Practice test(s)",
+        "otherItems": "Other Item(s)"
     },
     "ratingsummary": {
         "ratings": "ratings",

@@ -377,7 +377,16 @@
         "days": "Days - HI",
         "hours": "Hours - HI",
         "minutes": "Minutes - HI",
-        "by": "By - HI"
+        "courses": "Course(s) - HI",
+        "modules": "Module(s) - HI",
+        "videos": "Video(s) - HI",
+        "pdf": "PDF's - HI",
+        "audio": "Audio(s) - HI",
+        "webPages": "Web Page(s) - HI",
+        "interactiveContent": "Interactive Content(s) - HI",
+        "finalAssessment": "Final assessment(s) - HI",
+        "practiceTest": "Practice test(s) - HI",
+        "otherItems": "Other Item(s) - HI"
     },
     "ratingsummary": {
         "ratings": "रेटिंग्स",

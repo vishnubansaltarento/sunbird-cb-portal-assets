@@ -1616,7 +1616,8 @@
         "ifYouFallShort": "If you engage less than ",
         "engageRequired": "in a week, your claps count resets to Zero.",
         "weeklyClapsTitle": "Weekly Claps",
-        "weeks": "weeks"
+        "weeks": "weeks",
+        "leaderboard": "Leaderboard"
     },
     "hubsdesc": {
         "learnDesc": "Sharpen your skills with hundreds-of online courses.",

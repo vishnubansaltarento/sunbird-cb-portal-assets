@@ -214,7 +214,9 @@
         "noviews": "No views",
         "resume": "Resume",
         "start": "Start",
-        "viewCertificate": "View Certificate"
+        "viewCertificate": "View Certificate",
+        "overDue": "Over due",
+        "deadline": "Deadline"
     }, 
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
@@ -250,6 +252,7 @@
     "competencydetails": {
         "competencyType": "Competency type:",
         "competencyArea:": "Competency area:",
+        "competencyArea": "Competency area",
         "allCbps": "All associated CBPs",
         "cbpsFor": "CBPs for",
         "noCbps": "No CBPs found!",
@@ -279,7 +282,14 @@
         "noDataFound": "No data found!",
         "unableToFetchData": "Unable to fetch discussion info due to some error.",
         "recentCompetencies": "Recently associated competencies",
-        "search": "Search"
+        "search": "Search",
+        "all": "All",
+        "behavioural": "Behavioural",
+        "functional": "Functional",
+        "domain": "Domain",
+        "viewMore": "View more",
+        "viewLess": "View less",
+        "issued": "Issued on"
     },
     "competencyCardDetails": {
         "passbookList": "Passbook list",
@@ -323,7 +333,9 @@
         "days": "Days",
         "kindlyCheckLocationDetails": "Kindly check the location details and plan in advance.",
         "batchLocation": "Batch location",
-        "view": "View"
+        "view": "View",
+        "sureToWithdrawConfirm": "Are you sure you want to withdraw your request?",
+        "withdrawConfirmDesc": "You will miss the learning opportunity if you withdraw your enrolment."
     },
     "contentSharing": {
         "header": "Share with Karmayogis",
@@ -339,7 +351,7 @@
         "error": "Something went wrong. Please try after sometime",
         "dulicateUser": "User is already selected",
         "dulicateEmail": "Email is already selected"
-
+        
     },
     "apptocsinglepage": {
         "overview": "Overview",
@@ -624,7 +636,11 @@
     },
     "connectionPeopleCard": {
         "connect": "Connect",
-        "connectionSent": "Connection sent"
+        "connectionSent": "Connection sent",
+        "connectionSentSuccessfully": "Connection sent successfully!",
+        "connectionReceived": "Connection received",
+        "connected": "Connected"
+
     },
     "connectionHoverCard": {
         "networkProfile" : "Network Profile"
@@ -717,7 +733,7 @@
         "startDiscussQues":"Question is mandatory",
         "descMandatory":"Description is mandatory",
         "btnSubmitPost":"Submit post",
-        "comments":"comments",
+        "comments":"Comments",
         "yourAnswerHere":"Your answer here",
         "thisIsMandatory":"This is mandatory",
         "postReply":"Post reply",
@@ -1291,7 +1307,8 @@
         "schoolNamePlaceholder": "Enter School Name",
         "otherGraduationDegreePlaceholder": "Enter Other Graduation Degree",
         "instituteNamePlaceholder": "Enter Institute Name",
-        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree"
+        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree",
+        "inReview!": "In Review!"
     },
     "profileDropdown": {
         "signOut": "Sign-out",

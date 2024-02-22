@@ -213,7 +213,9 @@
     "noviews": "कोई दृश्य नहीं",
     "resume": "फिर से शुरू करें",
     "start": "आरंभ करें।",
-    "viewCertificate": "प्रमाणपत्र देखें"
+    "viewCertificate": "प्रमाणपत्र देखें",
+    "overDue": "Over due-HI",
+    "deadline": "Deadline-HI"
   },
   "allproviderscomponent": {
     "popularProviders": "लोकप्रिय प्रदाता",
@@ -249,6 +251,7 @@
   "competencydetails": {
     "competencyType": "योग्यता प्रकारः",
     "competencyArea:": "योग्यता क्षेत्रः",
+    "competencyArea": "Competency area-HI",
     "allCbps": "सभी संबद्ध सी. बी. पी.",
     "cbpsFor": "सी. बी. पी. के लिए",
     "noCbps": "कोई सी. बी. पी. नहीं मिला!",
@@ -329,7 +332,9 @@
     "days": "दिन।",
     "kindlyCheckLocationDetails": "कृपया स्थान विवरण की जांच करें और पहले से योजना बनाएं।",
     "batchLocation": "बैच का स्थान",
-    "view": "देखें"
+    "view": "देखें",
+    "sureToWithdrawConfirm": "Are you sure you want to withdraw your request?-HI",
+    "withdrawConfirmDesc": "You will miss the learning opportunity if you withdraw your enrolment.-HI"
   },
   "contentSharing": {
     "header": "कर्मयोगियों के साथ साझा करें",
@@ -629,7 +634,10 @@
   },
   "connectionPeopleCard": {
     "connect": "जुड़ें।",
-    "connectionSent": "कनेक्शन भेजा गया"
+    "connectionSent": "कनेक्शन भेजा गया",
+    "connectionSentSuccessfully": "Connection sent successfully!-HI",
+    "connectionReceived": "Connection received-HI",
+    "connected": "Connected-HI"
   },
   "connectionHoverCard": {
     "networkProfile": "नेटवर्क प्रोफाइल"

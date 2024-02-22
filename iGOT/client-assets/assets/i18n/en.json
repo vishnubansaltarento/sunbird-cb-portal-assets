@@ -114,7 +114,8 @@
         "updateProfile": "Update Profile",
         "allCompetencies": "All Competencies",
         "allCbps": "All CBPs",
-        "curatedCollections": "Curated collections"
+        "curatedCollections": "Curated collections",
+        "search": "Search"
     },
     "cardshublist": {
         "more": "More",
@@ -169,7 +170,7 @@
         "blendedPrograms": "Blended Programs",
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
-        "moderatedCourses": "Moderated Courses",
+        "moderatedCourses": "Moderated Content",
         "standaloneAssessment": "Standalone Assessment",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
@@ -1439,7 +1440,9 @@
         "course": "Course",
         "learningResource": "Learning Resource",
         "standaloneAssessment": "Standalone Assessment",
-        "moderatedCourses": "Moderated Courses",
+        "moderatedCourse": "Moderated Course",
+        "moderatedProgram": "Moderated Program",
+        "moderatedAssessment": "Moderated Assessment",
         "blendedProgram": "Blended Program",
         "curatedProgram": "Curated Program"
     },

@@ -114,7 +114,8 @@
         "updateProfile": "Update Profile",
         "allCompetencies": "All Competencies",
         "allCbps": "All CBPs",
-        "curatedCollections": "Curated collections"
+        "curatedCollections": "Curated collections",
+        "search": "Search"
     },
     "cardshublist": {
         "more": "More",

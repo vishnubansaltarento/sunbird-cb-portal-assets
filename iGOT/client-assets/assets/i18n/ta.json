@@ -12,7 +12,7 @@
     "events": "நிகழ்வுகள்",
     "seeAll": "அனைத்தையும் பார்க்கவும்",
     "mdoPortal": "எம். டி. ஓ இணையதளம்",
-    "cbpPortal": "சிபிபி இணையதளம்",
+    "cbpPortal": "சிபி இணையதளம்",
     "cbcPortal": "சிபிசி இணையதளம்",
     "spvPortal": "எஸ். பி. வி இணையதளம்",
     "fracDictionary": "ஃபிராக் அகராதி",
@@ -75,10 +75,10 @@
     "courses": "படிப்புகள்",
     "programs": "திட்டங்கள்",
     "blendedProgram": "கலப்பு நிரல்",
-    "trendingAcrossDepartments": "துறை முழுவதும் போக்கு",
+    "trendingAcrossDepartments": "துறைகளில் போக்கு",
     "learningUnder30Minutes": "30 நிமிடங்களுக்குள் கற்றல்",
     "certificationsOfTheWeek": "வாரத்தின் சான்றிதழ்கள்",
-    "recentlyAdded": "Recently added-TA"
+    "recentlyAdded": "சமீபத்தில் சேர்க்கப்பட்டது"
   },
   "appnavbar": {
     "searchforLearningContents": "கற்றல் உள்ளடக்கங்களைத் தேடுங்கள்",
@@ -127,7 +127,7 @@
     "settingSubtitle": "உங்கள் அனைத்து விருப்பங்களையும் நிர்வகிக்கவும்",
     "quickLinks": "விரைவான இணைப்புகள்",
     "cbcPortaldesc": "திறன் மேம்பாட்டு ஆணையம்",
-    "cbpPortaldesc": "இங்கே சிபிபிகளை உருவாக்கி நிர்வகிக்கவும்",
+    "cbpPortaldesc": "இங்கு CPகளை உருவாக்கி நிர்வகிக்கவும்",
     "mdoPortaldesc": "எம். டி. ஓ பயனர் அணுகல், பணி ஆணைகள் மற்றும் நிகழ்வுகளை நிர்வகிக்கவும்",
     "fracDictionarydesc": "பாத்திரங்கள், செயல்பாடுகள் மற்றும் திறன்களின் கட்டமைப்பின் அகராதி.",
     "spvPortaldesc": "எம். டி. ஓ. க்களை உருவாக்கி நிர்வகிக்கவும்",
@@ -278,7 +278,14 @@
     "noDataFound": "தரவு எதுவும் கிடைக்கவில்லை!",
     "unableToFetchData": "சில பிழைகள் காரணமாக கலந்துரையாடல் தகவலைப் பெற முடியவில்லை.",
     "recentCompetencies": "சமீபத்தில் தொடர்புடைய திறன்கள்",
-    "search": "தேடல்"
+    "search": "தேடல்",
+    "all": "அனைத்தும்",
+    "behavioural": "நடத்தை",
+    "functional": "செயல்பாட்டு",
+    "domain": "களம்",
+    "viewMore": "மேலும் காண்க",
+    "viewLess": "குறைவாகப் பார்க்கவும்",
+    "issued": "வெளியிடப்பட்டது"
   },
   "competencyCardDetails": {
     "passbookList": "பாஸ் புக் பட்டியல்",
@@ -365,9 +372,9 @@
     "Skills": "திறன்கள்.",
     "preRequisites": "முன் நிபந்தனைகள்",
     "Topics": "தலைப்புகள்",
-    "subTheme": "Sub theme-TA",
-    "theme": "Theme-TA",
-    "area": "Area-TA"
+    "subTheme": "துணை கருப்பொருள்",
+    "theme": "கருப்பொருள்",
+    "area": "பரப்பளவு."
   },
   "ratingsummary": {
     "ratings": "மதிப்பீடுகள்",
@@ -965,10 +972,10 @@
     "noKarmaPoints": "கர்மா புள்ளிகள் பற்றிய தகவல் எதுவும் கிடைக்கவில்லை",
     "bonus": "போனஸ்",
     "tooltip": "கர்மா புள்ளிகள் என்பது ஐஜிஓடியில் உயர் கற்றல் ஈடுபாட்டிற்கான வெகுமதியாகும். மேலும் தகவலுக்கு, கர்மா பாயிண்ட்ஸ் அடிக்கடி கேட்கப்படும் கேள்விகளைப் பார்வையிடவும்.",
-    "courseCompletion": "Course Completion-TA",
-    "courseRating": "Course Rating-TA",
-    "firstLogin": "First Login-TA",
-    "firstEnrollment": "First Enrollment-TA"
+    "courseCompletion": "பாடநெறி நிறைவு",
+    "courseRating": "பாடநெறி மதிப்பீடு",
+    "firstLogin": "முதலில் உள்நுழையவும்",
+    "firstEnrollment": "முதல் பதிவு"
   },
   "appKarmapointsPanel": {
     "earn": "சம்பாதியுங்கள்.",
@@ -1017,7 +1024,7 @@
   "home": {
     "learnHub": "கற்றல் மையத்திற்குச் செல்லவும்",
     "updateTitle": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும்",
-    "updateMobile": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும். இது உங்கள் மொபைல் எண்ணைக் கொண்டு எளிதாக உள்நுழையவும், உங்கள் மொபைலில் முக்கியமான விழிப்பூட்டல்களைப் பெறவும் உதவும்.",
+    "updateMobile": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும். இது உங்கள் மொபைல் எண்ணுடன் எளிதாக உள்நுழையவும், உங்கள் கைபேசியில் முக்கியமான விழிப்பூட்டல்களைப் பெறவும் உதவும்.",
     "whyItIsImp": "அது ஏன் முக்கியமானது?",
     "networkHub": "பிணைய மையத்திற்குச் செல்லவும்",
     "suggestedForYou": "உங்களுக்காக பரிந்துரைக்கப்பட்டது",
@@ -1097,8 +1104,8 @@
     "otherPortals": "நீங்கள் அணுகக்கூடிய பிற இணையதளங்கள்",
     "mdoPortal": "எம். டி. ஓ இணையதளம்",
     "manageMdoUserAccess,WorkOrdersAndEvents.": "எம். டி. ஓ பயனர் அணுகல், வேலை ஆர்டர்கள் மற்றும் நிகழ்வுகளை நிர்வகிக்கவும்.",
-    "cbpPortal": "சிபிபி இணையதளம்",
-    "createAndManageCbpsHere.": "இங்கே சிபிபிகளை உருவாக்கி நிர்வகிக்கவும்.",
+    "cbpPortal": "சிபி இணையதளம்",
+    "createAndManageCbpsHere.": "இங்கு சி. பி. க்களை உருவாக்கி நிர்வகிக்கவும்.",
     "spvPortal": "எஸ். பி. வி இணையதளம்",
     "createAndManageSpv'sHere.": "இங்கு எஸ். பி. வி. க்களை உருவாக்கி நிர்வகிக்கவும்."
   },
@@ -1289,7 +1296,8 @@
     "schoolNamePlaceholder": "பள்ளியின் பெயரை உள்ளிடவும்",
     "otherGraduationDegreePlaceholder": "பிற பட்டப்படிப்பு பட்டங்களை உள்ளிடவும்",
     "instituteNamePlaceholder": "நிறுவனத்தின் பெயரை உள்ளிடவும்",
-    "otherPostGraduationDegreePlaceholder": "பிற முதுகலை பட்டப்படிப்பை உள்ளிடவும்"
+    "otherPostGraduationDegreePlaceholder": "பிற முதுகலை பட்டப்படிப்பை உள்ளிடவும்",
+    "inReview!": "விமர்சனம்!"
   },
   "profileDropdown": {
     "signOut": "உள்நுழையுங்கள்",
@@ -1676,7 +1684,7 @@
     "mLinkRegisterHere": "இங்கு பதிவு செய்யுங்கள்",
     "mHomeLearnHub": "கற்றல் மையத்திற்குச் செல்லவும்",
     "mHomeUpdateTitle": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும்",
-    "mHomeUpdateMobile": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும். இது உங்கள் மொபைல் எண்ணைக் கொண்டு எளிதாக உள்நுழையவும், உங்கள் மொபைலில் முக்கியமான விழிப்பூட்டல்களைப் பெறவும் உதவும்.",
+    "mHomeUpdateMobile": "உங்கள் மொபைல் எண்ணை புதுப்பிக்கவும். இது உங்கள் மொபைல் எண்ணுடன் எளிதாக உள்நுழையவும், உங்கள் கைபேசியில் முக்கியமான விழிப்பூட்டல்களைப் பெறவும் உதவும்.",
     "mHomeWhyItIsImp": "அது ஏன் முக்கியமானது?",
     "mHomeSuggestedForYou": "உங்களுக்காக பரிந்துரைக்கப்பட்டது",
     "mHomeConnect": "இணைக்கவும்",

@@ -215,7 +215,9 @@
         "noviews": "No views",
         "resume": "Resume",
         "start": "Start",
-        "viewCertificate": "View Certificate"
+        "viewCertificate": "View Certificate",
+        "overDue": "Over due",
+        "deadline": "Deadline"
     }, 
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
@@ -251,6 +253,7 @@
     "competencydetails": {
         "competencyType": "Competency type:",
         "competencyArea:": "Competency area:",
+        "competencyArea": "Competency area",
         "allCbps": "All associated CBPs",
         "cbpsFor": "CBPs for",
         "noCbps": "No CBPs found!",
@@ -280,7 +283,14 @@
         "noDataFound": "No data found!",
         "unableToFetchData": "Unable to fetch discussion info due to some error.",
         "recentCompetencies": "Recently associated competencies",
-        "search": "Search"
+        "search": "Search",
+        "all": "All",
+        "behavioural": "Behavioural",
+        "functional": "Functional",
+        "domain": "Domain",
+        "viewMore": "View more",
+        "viewLess": "View less",
+        "issued": "Issued on"
     },
     "competencyCardDetails": {
         "passbookList": "Passbook list",
@@ -324,7 +334,9 @@
         "days": "Days",
         "kindlyCheckLocationDetails": "Kindly check the location details and plan in advance.",
         "batchLocation": "Batch location",
-        "view": "View"
+        "view": "View",
+        "sureToWithdrawConfirm": "Are you sure you want to withdraw your request?",
+        "withdrawConfirmDesc": "You will miss the learning opportunity if you withdraw your enrolment."
     },
     "contentSharing": {
         "header": "Share with Karmayogis",
@@ -340,7 +352,7 @@
         "error": "Something went wrong. Please try after sometime",
         "dulicateUser": "User is already selected",
         "dulicateEmail": "Email is already selected"
-
+        
     },
     "apptocsinglepage": {
         "overview": "Overview",
@@ -604,7 +616,47 @@
         "startAssesmentNow": "Start assessment now",
         "youExceededAttempt": "You have exceeded the maximum allowed attempt",
         "summary": "Summary",
-        "pointsToNote": "Points to note"
+        "pointsToNote": "Points to note",
+        "noNegativeMarking": "No negative marking",
+        "assessmentWillHaveTimeDuration": "Assessment will have time duration",
+        "skippedQuestionCanBeAttemptedAgainBeforeSubmitting": "Skipped question can be attempted again before submitting",
+        "nextQuestion": "NEXT QUESTION",
+        "previous": "PREVIOUS",
+        "nextSection": "Next Section",
+        "questions": "Questions",
+        "question": "Question",
+        "of": "of",
+        "explanation": "Explanation",
+        "option": "Option",
+        "hint": "Hint",
+        "checkAnswer": "Check Answer",
+        "instructions": "Instructions",
+        "attemptAllQuestions": "Attempt all questions to finish assessment",
+        "finishAssessment": "Finish assessment",
+        "percentageToPass": "Percentage to pass",
+        "totalQuestions": "Total questions",
+        "completed": "Completed",
+        "incomplete": "Incomplete",
+        "notStarted": "Not Started",
+        "selected": "Selected",
+        "submitQuiz": "Submit Quiz",
+        "answeredMsg": "Do you want to submit?",
+        "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?",
+        "markedMsg": "You still have some questions marked for later! Do you still want to submit?"
+    },
+    "quizresult": {
+        "score": "score",
+        "hurray": "Hurray!",
+        "passMsg1": "You have aced the assessment, with flying colours.",
+        "passMsg2": "Congratulations on successfully passing the assessment. Good job!",
+        "passMsg3": "You have the opportunity to try again and do better next time. Keep going!",
+        "passMdg4": "Well done, Keep learning!",
+        "bePatienWhileWeCalculate": "Be patient please, while we calculate your result!",
+        "submittedSucessfull": "Assessment has been submitted successfully. Please check back after some time for the result",
+        "retry": "Retry",
+        "pleaseContactSystemAdmin": "Please contact system admin",
+        "yourPerformanceSummary": "Your Performance Summary",
+        "retakeAssessment": "Retake assessment"
     },
     "network": {
         "networkHome": "Network home",
@@ -625,7 +677,11 @@
     },
     "connectionPeopleCard": {
         "connect": "Connect",
-        "connectionSent": "Connection sent"
+        "connectionSent": "Connection sent",
+        "connectionSentSuccessfully": "Connection sent successfully!",
+        "connectionReceived": "Connection received",
+        "connected": "Connected"
+
     },
     "connectionHoverCard": {
         "networkProfile" : "Network Profile"
@@ -718,7 +774,7 @@
         "startDiscussQues":"Question is mandatory",
         "descMandatory":"Description is mandatory",
         "btnSubmitPost":"Submit post",
-        "comments":"comments",
+        "comments":"Comments",
         "yourAnswerHere":"Your answer here",
         "thisIsMandatory":"This is mandatory",
         "postReply":"Post reply",
@@ -1292,7 +1348,8 @@
         "schoolNamePlaceholder": "Enter School Name",
         "otherGraduationDegreePlaceholder": "Enter Other Graduation Degree",
         "instituteNamePlaceholder": "Enter Institute Name",
-        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree"
+        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree",
+        "inReview!": "In Review!"
     },
     "profileDropdown": {
         "signOut": "Sign-out",
@@ -1427,7 +1484,8 @@
         "moderatedProgram": "Moderated Program",
         "moderatedAssessment": "Moderated Assessment",
         "blendedProgram": "Blended Program",
-        "curatedProgram": "Curated Program"
+        "curatedProgram": "Curated Program",
+        "curatedCollections": "Curated Collections"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
@@ -1555,7 +1613,7 @@
     },
     "dialogconfirm" : {
         "yes" : "Yes",
-        "no": "NO"
+        "no": "No"
     },
     "dialogbox": {
         "whatIsActivity?": "What is an activity?",

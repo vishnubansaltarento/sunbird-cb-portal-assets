@@ -12,7 +12,7 @@
     "events": "घटनाएँ",
     "seeAll": "सब देखें।",
     "mdoPortal": "एम. डी. ओ. पोर्टल",
-    "cbpPortal": "सीबीपी पोर्टल",
+    "cbpPortal": "सीपी पोर्टल",
     "cbcPortal": "सीबीसी पोर्टल",
     "spvPortal": "एस. पी. वी. पोर्टल",
     "fracDictionary": "फ्रैक शब्दकोश",
@@ -75,10 +75,10 @@
     "courses": "पाठ्यक्रम",
     "programs": "कार्यक्रम",
     "blendedProgram": "मिश्रित कार्यक्रम",
-    "trendingAcrossDepartments": "पूरे विभाग में रुझान",
+    "trendingAcrossDepartments": "विभागों में रुझान",
     "learningUnder30Minutes": "30 मिनट से कम समय में सीखना",
     "certificationsOfTheWeek": "सप्ताह के प्रमाणन",
-    "recentlyAdded": "Recently added-HI"
+    "recentlyAdded": "हाल ही में जोड़ा गया"
   },
   "appnavbar": {
     "searchforLearningContents": "सीखने की सामग्री खोजें",
@@ -127,7 +127,7 @@
     "settingSubtitle": "अपनी सभी प्राथमिकताओं को प्रबंधित करें",
     "quickLinks": "त्वरित लिंक",
     "cbcPortaldesc": "क्षमता निर्माण आयोग",
-    "cbpPortaldesc": "सी. बी. पी. यहाँ बनाएँ और प्रबंधित करें",
+    "cbpPortaldesc": "यहाँ सीपी बनाएँ और प्रबंधित करें",
     "mdoPortaldesc": "एम. डी. ओ. उपयोगकर्ता पहुँच, कार्य आदेश और आयोजनों का प्रबंधन करें",
     "fracDictionarydesc": "भूमिकाओं, गतिविधियों और दक्षताओं के ढांचे का शब्दकोश।",
     "spvPortaldesc": "एम. डी. ओ. बनाएँ और प्रबंधित करें",
@@ -213,7 +213,9 @@
     "noviews": "कोई दृश्य नहीं",
     "resume": "फिर से शुरू करें",
     "start": "आरंभ करें।",
-    "viewCertificate": "प्रमाणपत्र देखें"
+    "viewCertificate": "प्रमाणपत्र देखें",
+    "overDue": "Over due-HI",
+    "deadline": "Deadline-HI"
   },
   "allproviderscomponent": {
     "popularProviders": "लोकप्रिय प्रदाता",
@@ -249,6 +251,7 @@
   "competencydetails": {
     "competencyType": "योग्यता प्रकारः",
     "competencyArea:": "योग्यता क्षेत्रः",
+    "competencyArea": "Competency area-HI",
     "allCbps": "सभी संबद्ध सी. बी. पी.",
     "cbpsFor": "सी. बी. पी. के लिए",
     "noCbps": "कोई सी. बी. पी. नहीं मिला!",
@@ -278,7 +281,14 @@
     "noDataFound": "कोई डेटा नहीं मिला!",
     "unableToFetchData": "किसी त्रुटि के कारण चर्चा की जानकारी प्राप्त करने में असमर्थ।",
     "recentCompetencies": "हाल ही में संबंधित दक्षताएँ",
-    "search": "खोजें।"
+    "search": "खोजें।",
+    "all": "सभी",
+    "behavioural": "व्यवहार संबंधी",
+    "functional": "कार्यात्मक",
+    "domain": "डोमेन",
+    "viewMore": "अधिक देखें",
+    "viewLess": "कम देखें",
+    "issued": "जारी किया गया"
   },
   "competencyCardDetails": {
     "passbookList": "पासबुक सूची",
@@ -322,7 +332,9 @@
     "days": "दिन।",
     "kindlyCheckLocationDetails": "कृपया स्थान विवरण की जांच करें और पहले से योजना बनाएं।",
     "batchLocation": "बैच का स्थान",
-    "view": "देखें"
+    "view": "देखें",
+    "sureToWithdrawConfirm": "Are you sure you want to withdraw your request?-HI",
+    "withdrawConfirmDesc": "You will miss the learning opportunity if you withdraw your enrolment.-HI"
   },
   "contentSharing": {
     "header": "कर्मयोगियों के साथ साझा करें",
@@ -365,9 +377,9 @@
     "Skills": "कौशल",
     "preRequisites": "पूर्व-आवश्यकताएँ",
     "Topics": "विषय-वस्तु",
-    "subTheme": "Sub theme-HI",
-    "theme": "Theme-HI",
-    "area": "Area-HI"
+    "subTheme": "उप विषय",
+    "theme": "विषय वस्तु",
+    "area": "क्षेत्र"
   },
   "ratingsummary": {
     "ratings": "रेटिंग्स",
@@ -601,7 +613,47 @@
     "startAssesmentNow": "मूल्यांकन अभी शुरू करें",
     "youExceededAttempt": "आपने अधिकतम स्वीकृत प्रयास को पार कर लिया है।",
     "summary": "सारांश",
-    "pointsToNote": "ध्यान देने योग्य बिंदु"
+    "pointsToNote": "ध्यान देने योग्य बिंदु",
+    "noNegativeMarking": "No negative marking-HI",
+    "assessmentWillHaveTimeDuration": "Assessment will have time duration-HI",
+    "skippedQuestionCanBeAttemptedAgainBeforeSubmitting": "Skipped question can be attempted again before submitting-HI",
+    "nextQuestion": "NEXT QUESTION-HI",
+    "previous": "PREVIOUS-HI",
+    "nextSection": "Next Section-HI",
+    "questions": "Questions-HI",
+    "question": "Question-HI",
+    "of": "of-HI",
+    "explanation": "Explanation-HI",
+    "option": "Option-HI",
+    "hint": "Hint-HI",
+    "checkAnswer": "Check Answe-HI",
+    "instructions": "Instructions-HI",
+    "attemptAllQuestions": "Attempt all questions to finish assessment-HI",
+    "finishAssessment": "Finish assessment-HI",
+    "percentageToPass": "Percentage to pass-HI",
+    "totalQuestions": "Total questions-HI",
+    "completed": "Completed-HI",
+    "incomplete": "Incomplete-HI",
+    "notStarted": "Not Started-HI",
+    "selected": "Selected-HI",
+    "submitQuiz": "Submit Quiz-HI",
+    "answeredMsg": "Do you want to submit?-HI",
+    "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?-HI",
+    "markedMsg": "You still have some questions marked for later! Do you still want to submit?-HI"
+  },
+  "quizresult": {
+      "score": "score-HI",
+      "hurray": "Hurray-HI!",
+      "passMsg1": "You have aced the assessment, with flying colours.-HI",
+      "passMsg2": "Congratulations on successfully passing the assessment. Good job!-HI",
+      "passMsg3": "You have the opportunity to try again and do better next time. Keep going!-HI",
+      "passMdg4": "Well done, Keep learning!-HI",
+      "bePatienWhileWeCalculate": "Be patient please, while we calculate your result!-HI",
+      "submittedSucessfull": "Assessment has been submitted successfully. Please check back after some time for the result-HI",
+      "retry": "Retry-HI",
+      "pleaseContactSystemAdmin": "Please contact system admin-HI",
+      "yourPerformanceSummary": "Your Performance Summary-HI",
+      "retakeAssessment": "Retake assessment-HI"
   },
   "network": {
     "networkHome": "नेटवर्क घर",
@@ -622,7 +674,10 @@
   },
   "connectionPeopleCard": {
     "connect": "जुड़ें।",
-    "connectionSent": "कनेक्शन भेजा गया"
+    "connectionSent": "कनेक्शन भेजा गया",
+    "connectionSentSuccessfully": "Connection sent successfully!-HI",
+    "connectionReceived": "Connection received-HI",
+    "connected": "Connected-HI"
   },
   "connectionHoverCard": {
     "networkProfile": "नेटवर्क प्रोफाइल"
@@ -965,10 +1020,10 @@
     "noKarmaPoints": "कर्म बिंदुओं की कोई जानकारी उपलब्ध नहीं है",
     "bonus": "बोनस",
     "tooltip": "आई. जी. ओ. टी. में उच्च शिक्षा के लिए कर्म अंक एक पुरस्कार है। अधिक जानकारी के लिए, कर्मा पॉइंट्स एफ. ए. क्यू. पर जाएँ।",
-    "courseCompletion": "Course Completion-HI",
-    "courseRating": "Course Rating-HI",
-    "firstLogin": "First Login-HI",
-    "firstEnrollment": "First Enrollment-HI"
+    "courseCompletion": "पाठ्यक्रम समापन",
+    "courseRating": "पाठ्यक्रम मूल्यांकन",
+    "firstLogin": "पहले लॉगइन करें",
+    "firstEnrollment": "पहला नामांकन"
   },
   "appKarmapointsPanel": {
     "earn": "कमाई करें।",
@@ -1097,8 +1152,8 @@
     "otherPortals": "अन्य पोर्टल जिन तक आपकी पहुंच है",
     "mdoPortal": "एमडीओ पोर्टल",
     "manageMdoUserAccess,WorkOrdersAndEvents.": "एम. डी. ओ. उपयोगकर्ता पहुँच, कार्य आदेश और कार्यक्रमों का प्रबंधन करें।",
-    "cbpPortal": "सीबीपी पोर्टल",
-    "createAndManageCbpsHere.": "यहाँ सी. बी. पी. बनाएँ और प्रबंधित करें।",
+    "cbpPortal": "सीपी पोर्टल",
+    "createAndManageCbpsHere.": "यहाँ सी. पी. बनाएँ और प्रबंधित करें।",
     "spvPortal": "एस. पी. वी. पोर्टल",
     "createAndManageSpv'sHere.": "यहाँ एस. पी. वी. बनाएँ और प्रबंधित करें।"
   },
@@ -1289,7 +1344,8 @@
     "schoolNamePlaceholder": "विद्यालय का नाम दर्ज करें",
     "otherGraduationDegreePlaceholder": "अन्य स्नातक डिग्री दर्ज करें",
     "instituteNamePlaceholder": "संस्थान का नाम दर्ज करें",
-    "otherPostGraduationDegreePlaceholder": "अन्य स्नातकोत्तर डिग्री दर्ज करें"
+    "otherPostGraduationDegreePlaceholder": "अन्य स्नातकोत्तर डिग्री दर्ज करें",
+    "inReview!": "समीक्षा में!"
   },
   "profileDropdown": {
     "signOut": "साइन आउट करें",
@@ -1422,7 +1478,8 @@
     "standaloneAssessment": "स्वतंत्र मूल्यांकन",
     "moderatedCourses": "मध्यम पाठ्यक्रम",
     "blendedProgram": "मिश्रित कार्यक्रम",
-    "curatedProgram": "क्यूरेटेड कार्यक्रम"
+    "curatedProgram": "क्यूरेटेड कार्यक्रम",
+    "curatedCollections": "Curated Collections-HI"
   },
   "utilslogout": {
     "logoutNow": "अभी लॉगआउट करें",
@@ -1572,7 +1629,7 @@
     "p12ManageGrievance": "शिकायत निवारण तंत्र का प्रबंधन करता है",
     "dialogWhatAreCompetencies": "योग्यताएँ क्या हैं?",
     "p13CompetenciesCombination": "योग्यताएं दृष्टिकोण, कौशल और ज्ञान का एक संयोजन है जो किसी व्यक्ति को किसी दिए गए कार्य में सफलतापूर्वक किसी कार्य या गतिविधि को करने में सक्षम बनाता है और भूमिकाएं उन तक पहुंचने के लिए प्रारंभिक बिंदु हैं।",
-    "p14CompetencyTypes": "दक्षता तीन प्रकार की होती हैः व्यवहार, कार्यात्मक और डोमेन।",
+    "p14CompetencyTypes": "तीन प्रकार की क्षमताएँ होती हैंः व्यवहार, कार्यात्मक और डोमेन।",
     "p15CompetenciesHelp": "योग्यताएँ मदद करती हैंः",
     "p16ProvideInfo": "एक भूमिका से व्यक्तिगत आवश्यकताओं पर जानकारी प्रदान करना",
     "p17IdentifyLearning": "सरकारी अधिकारियों के लिए सीखने और विकास की जरूरतों की पहचान करना।",

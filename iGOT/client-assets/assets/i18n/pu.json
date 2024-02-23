@@ -12,7 +12,7 @@
     "events": "ਘਟਨਾਵਾਂ",
     "seeAll": "ਸਭ ਕੁਝ ਦੇਖੋ",
     "mdoPortal": "ਐੱਮਡੀਓ ਪੋਰਟਲ",
-    "cbpPortal": "ਸੀ. ਬੀ. ਪੀ. ਪੋਰਟਲ",
+    "cbpPortal": "ਸੀਪੀ ਪੋਰਟਲ",
     "cbcPortal": "ਸੀ. ਬੀ. ਸੀ ਪੋਰਟਲ",
     "spvPortal": "ਐੱਸਪੀਵੀ ਪੋਰਟਲ",
     "fracDictionary": "ਫਰੈਕ ਡਿਕਸ਼ਨਰੀ",
@@ -75,9 +75,10 @@
     "courses": "ਕੋਰਸ",
     "programs": "ਪ੍ਰੋਗਰਾਮ",
     "blendedProgram": "ਮਿਸ਼ਰਤ ਪ੍ਰੋਗਰਾਮ",
-    "trendingAcrossDepartment": "ਵਿਭਾਗ ਭਰ ਵਿੱਚ ਰੁਝਾਨ",
-    "learningUnder30Min": "30 ਮਿੰਟ ਤੋਂ ਘੱਟ ਸਮੇਂ ਵਿੱਚ ਸਿੱਖਣਾ",
-    "certificationsOfTheWeek": "ਹਫ਼ਤੇ ਦੇ ਪ੍ਰਮਾਣ ਪੱਤਰ"
+    "trendingAcrossDepartments": "ਸਾਰੇ ਵਿਭਾਗਾਂ ਵਿੱਚ ਰੁਝਾਨ",
+    "learningUnder30Minutes": "30 ਮਿੰਟ ਤੋਂ ਘੱਟ ਸਮੇਂ ਵਿੱਚ ਸਿੱਖਣਾ",
+    "certificationsOfTheWeek": "ਹਫ਼ਤੇ ਦੇ ਪ੍ਰਮਾਣ ਪੱਤਰ",
+    "recentlyAdded": "ਹਾਲ ਹੀ ਵਿੱਚ ਜੋਡ਼ਿਆ ਗਿਆ"
   },
   "appnavbar": {
     "searchforLearningContents": "ਸਿੱਖਣ ਦੀ ਸਮੱਗਰੀ ਲਈ ਖੋਜ ਕਰੋ",
@@ -126,7 +127,7 @@
     "settingSubtitle": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਤਰਜੀਹਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
     "quickLinks": "ਤੇਜ਼ ਲਿੰਕ",
     "cbcPortaldesc": "ਸਮਰੱਥਾ ਨਿਰਮਾਣ ਕਮਿਸ਼ਨ",
-    "cbpPortaldesc": "ਇੱਥੇ ਸੀ. ਬੀ. ਪੀ. ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ",
+    "cbpPortaldesc": "ਇੱਥੇ ਸੀਪੀ ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ",
     "mdoPortaldesc": "ਐਮ. ਡੀ. ਓ. ਉਪਭੋਗਤਾ ਪਹੁੰਚ, ਵਰਕ ਆਰਡਰ ਅਤੇ ਪ੍ਰੋਗਰਾਮਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
     "fracDictionarydesc": "ਭੂਮਿਕਾਵਾਂ, ਗਤੀਵਿਧੀਆਂ ਅਤੇ ਯੋਗਤਾਵਾਂ ਦੇ ਢਾਂਚੇ ਦਾ ਸ਼ਬਦਕੋਸ਼।",
     "spvPortaldesc": "ਐੱਮ. ਡੀ. ਓ. ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ",
@@ -277,7 +278,14 @@
     "noDataFound": "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ!",
     "unableToFetchData": "ਕਿਸੇ ਗਲਤੀ ਕਾਰਨ ਚਰਚਾ ਦੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ।",
     "recentCompetencies": "ਹਾਲ ਹੀ ਵਿੱਚ ਸਬੰਧਤ ਯੋਗਤਾਵਾਂ",
-    "search": "ਖੋਜ ਕਰੋ"
+    "search": "ਖੋਜ ਕਰੋ",
+    "all": "ਸਾਰੇ",
+    "behavioural": "ਵਿਵਹਾਰਕ",
+    "functional": "ਕਾਰਜਸ਼ੀਲ",
+    "domain": "ਡੋਮੇਨ",
+    "viewMore": "ਹੋਰ ਵੇਖੋ",
+    "viewLess": "ਘੱਟ ਵੇਖੋ",
+    "issued": "ਜਾਰੀ ਕੀਤਾ ਗਿਆ"
   },
   "competencyCardDetails": {
     "passbookList": "ਪਾਸਬੁੱਕ ਸੂਚੀ",
@@ -363,7 +371,10 @@
     "studyMaterials": "ਅਧਿਐਨ ਸਮੱਗਰੀ",
     "Skills": "ਹੁਨਰ",
     "preRequisites": "ਪੂਰਵ-ਜ਼ਰੂਰਤਾਂ",
-    "Topics": "ਵਿਸ਼ੇ"
+    "Topics": "ਵਿਸ਼ੇ",
+    "subTheme": "ਸਬ ਥੀਮ",
+    "theme": "ਥੀਮ",
+    "area": "ਖੇਤਰ"
   },
   "ratingsummary": {
     "ratings": "ਰੇਟਿੰਗ",
@@ -960,7 +971,11 @@
     "showAll": "ਸਭ ਵੇਖੋ",
     "noKarmaPoints": "ਕੋਈ ਕਰਮ ਬਿੰਦੂ ਜਾਣਕਾਰੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।",
     "bonus": "ਬੋਨਸ",
-    "tooltip": "ਕਰਮਾ ਪੁਆਇੰਟ ਆਈ. ਜੀ. ਓ. ਟੀ. ਵਿਖੇ ਉੱਚ ਸਿੱਖਿਆ ਦੀ ਰੁਝੇਵਿਆਂ ਲਈ ਇੱਕ ਇਨਾਮ ਹੈ। ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਕਰਮਾ ਪੁਆਇੰਟਸ FAQs 'ਤੇ ਜਾਓ।"
+    "tooltip": "ਕਰਮਾ ਪੁਆਇੰਟ ਆਈ. ਜੀ. ਓ. ਟੀ. ਵਿਖੇ ਉੱਚ ਸਿੱਖਿਆ ਦੀ ਰੁਝੇਵਿਆਂ ਲਈ ਇੱਕ ਇਨਾਮ ਹੈ। ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਕਰਮਾ ਪੁਆਇੰਟਸ FAQs 'ਤੇ ਜਾਓ।",
+    "courseCompletion": "ਕੋਰਸ ਦੀ ਸਮਾਪਤੀ",
+    "courseRating": "ਕੋਰਸ ਰੇਟਿੰਗ",
+    "firstLogin": "ਪਹਿਲਾ ਲੌਗਇਨ",
+    "firstEnrollment": "ਪਹਿਲੀ ਭਰਤੀ"
   },
   "appKarmapointsPanel": {
     "earn": "ਕਮਾਈ ਕਰੋ",
@@ -1088,11 +1103,11 @@
   "homeotherportals": {
     "otherPortals": "ਹੋਰ ਪੋਰਟਲ ਜਿਨ੍ਹਾਂ ਤੱਕ ਤੁਹਾਡੀ ਪਹੁੰਚ ਹੈ",
     "mdoPortal": "ਐੱਮਡੀਓ ਪੋਰਟਲ",
-    "manageMdoUserAccess,WorkOrdersAndEvents": "ਐੱਮ. ਡੀ. ਓ. ਉਪਭੋਗਤਾ ਪਹੁੰਚ, ਵਰਕ ਆਰਡਰ ਅਤੇ ਪ੍ਰੋਗਰਾਮਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ।",
-    "cbpPortal": "ਸੀ. ਬੀ. ਪੀ. ਪੋਰਟਲ",
-    "createAndManageCbpsHere.": "ਇੱਥੇ ਸੀ. ਬੀ. ਪੀ. ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।",
+    "manageMdoUserAccess,WorkOrdersAndEvents.": "ਐੱਮ. ਡੀ. ਓ. ਉਪਭੋਗਤਾ ਪਹੁੰਚ, ਵਰਕ ਆਰਡਰ ਅਤੇ ਪ੍ਰੋਗਰਾਮਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ।",
+    "cbpPortal": "ਸੀਪੀ ਪੋਰਟਲ",
+    "createAndManageCbpsHere.": "ਇੱਥੇ ਸੀਪੀ ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।",
     "spvPortal": "ਐੱਸਪੀਵੀ ਪੋਰਟਲ",
-    "createAndManageSpvsHere.": "ਇੱਥੇ ਐੱਸਪੀਵੀ ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।"
+    "createAndManageSpv'sHere.": "ਇੱਥੇ ਐੱਸਪੀਵੀ ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।"
   },
   "profileCardStats": {
     "inProgress": "ਪ੍ਰਗਤੀ ਵਿੱਚ",
@@ -1254,7 +1269,7 @@
     "saveDetails": "ਵੇਰਵੇ ਸੰਭਾਲੋ",
     "mandatoryDetails": "ਲਾਜ਼ਮੀ ਵੇਰਵੇ",
     "verifiedKarmayogi": "ਇੱਕ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੇ ਲਾਜ਼ਮੀ ਵੇਰਵੇ ਭਰ ਲੈਂਦੇ ਹੋ ਅਤੇ ਆਪਣੀ ਸੰਸਥਾ ਤੋਂ ਮਨਜ਼ੂਰੀ ਲੈਣ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਇੱਕ ਪ੍ਰਮਾਣਿਤ ਕਰਮਯੋਗੀ ਵਜੋਂ ਮਾਨਤਾ ਦਿੱਤੀ ਜਾਵੇਗੀ।",
-    "rejectedKarmayogiMsg": "ਪ੍ਰਮਾਣਿਤ ਕਰਮਯੋਗੀ ਦੀ ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤਬਦੀਲੀਆਂ ਕਰਨ ਤੋਂ ਬਾਅਦ ਦੁਬਾਰਾ ਬੇਨਤੀ ਕਰੋ।",
+    "rejectedKarmayogiMsg": "ਪ੍ਰਮਾਣਿਤ ਕਰਮਯੋਗੀ ਬੇਨਤੀ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤਬਦੀਲੀਆਂ ਕਰਨ ਤੋਂ ਬਾਅਦ ਦੁਬਾਰਾ ਬੇਨਤੀ ਕਰੋ।",
     "officePinCode": "ਆਫਿਸ ਪਿੰਨ ਕੋਡ",
     "ehrmsID": "ਈਐੱਚਆਰਐੱਮਐੱਸ ਆਈਡੀ",
     "ehrmsSystem": "ਈਐੱਚਆਰਐੱਮਐੱਸ ਸਿਸਟਮ",
@@ -1281,7 +1296,8 @@
     "schoolNamePlaceholder": "ਸਕੂਲ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
     "otherGraduationDegreePlaceholder": "ਹੋਰ ਗ੍ਰੈਜੂਏਸ਼ਨ ਡਿਗਰੀ ਦਾਖਲ ਕਰੋ",
     "instituteNamePlaceholder": "ਸੰਸਥਾ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
-    "otherPostGraduationDegreePlaceholder": "ਹੋਰ ਪੋਸਟ ਗ੍ਰੈਜੂਏਸ਼ਨ ਡਿਗਰੀ ਦਰਜ ਕਰੋ"
+    "otherPostGraduationDegreePlaceholder": "ਹੋਰ ਪੋਸਟ ਗ੍ਰੈਜੂਏਸ਼ਨ ਡਿਗਰੀ ਦਰਜ ਕਰੋ",
+    "inReview!": "ਸਮੀਖਿਆ ਵਿੱਚ!"
   },
   "profileDropdown": {
     "signOut": "ਸਾਈਨ-ਆਊਟ ਕਰੋ",
@@ -1511,7 +1527,7 @@
     "platformWalkthrough": "ਪਲੇਟਫਾਰਮ ਵਾਕਥਰੂ",
     "roleAndActivitiesDescription": "ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਭੂਮਿਕਾਵਾਂ ਅਤੇ ਗਤੀਵਿਧੀਆਂ ਦਰਜ ਕਰੋ।",
     "topicsDescription": "ਆਪਣੀ ਦਿਲਚਸਪੀ ਦੇ ਵਿਸ਼ੇ ਚੁਣੋ।",
-    "currentCompetenciesDescription": "ਉਨ੍ਹਾਂ 'ਮੌਜੂਦਾ ਯੋਗਤਾਵਾਂ' ਦੀ ਚੋਣ ਕਰੋ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਤੁਸੀਂ ਕੁਸ਼ਲ ਹੋ।",
+    "currentCompetenciesDescription": "ਉਹਨਾਂ 'ਮੌਜੂਦਾ ਯੋਗਤਾਵਾਂ' ਦੀ ਚੋਣ ਕਰੋ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਤੁਸੀਂ ਕੁਸ਼ਲ ਹੋ।",
     "desiredCompetenciesDescription": "ਉਹ ਯੋਗਤਾਵਾਂ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਹਾਸਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।",
     "platformWalkthroughDescription": "ਆਈ. ਜੀ. ਓ. ਟੀ. ਪਲੇਟਫਾਰਮ ਵਾਕਥਰੂ ਦੇਖੋ"
   },
@@ -2649,7 +2665,7 @@
     "mStaticSelfAttestCompetency": "ਸਵੈ-ਤਸਦੀਕ ਯੋਗਤਾ",
     "mStaticFromWorkOrder": "ਵਰਕ ਆਰਡਰ ਤੋਂ",
     "mStaticAddToDesired": "ਆਪਣੀ ਲੋਡ਼ੀਂਦੀ ਯੋਗਤਾ ਸ਼ਾਮਲ ਕਰੋ",
-    "mStaticLevelBasedOnEvaluation": "ਮੁੱਲਾਂਕਣ ਦੇ ਅਧਾਰ ਉੱਤੇ ਪੱਧਰ",
+    "mStaticLevelBasedOnEvaluation": "ਮੁੱਲਾਂਕਣ ਉੱਤੇ ਅਧਾਰਤ ਪੱਧਰ",
     "mStaticCompetencyLevelGap": "ਯੋਗਤਾ ਪੱਧਰ ਦਾ ਅੰਤਰ",
     "mStaticRecommendedFromWatDescription": "ਸਿਫਾਰਸ਼ਾਂ ਤੁਹਾਡੀ ਸਥਿਤੀ 'ਤੇ ਅਧਾਰਤ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਵਰਕ ਅਲਾਟਮੈਂਟ ਆਰਡਰ ਤੋਂ ਆ ਰਹੀਆਂ ਹਨ।",
     "mStaticWorkOrder": "ਕੰਮ ਦਾ ਕ੍ਰਮ",

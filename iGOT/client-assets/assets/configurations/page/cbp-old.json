@@ -145,9 +145,9 @@
                   {
                     "key": "continueLearning",
                     "logo": "school",
-                    "title": "Learn",
+                    "title": "Learn1",
                     "stripBackground": "assets/instances/eagle/background/learn.svg",
-                    "titleDescription": "Continue learning",
+                    "titleDescription": "Continue learning1",
                     "stripConfig": {
                       "cardSubType": "standard"
                     },
@@ -163,7 +163,7 @@
                         "queryParams": {
                           "orgdetails": "orgName,email",
                           "licenseDetails": "name,description,url",
-                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,avgRating,license,programDuration",
+                          "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration",
                           "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
                         }
                       }
@@ -318,8 +318,7 @@
                             "creatorLogo",
                             "duration",
                             "version",
-                            "programDuration",
-                            "avgRating"
+                            "programDuration"
                           ]
                         }
                       }
@@ -786,7 +785,7 @@
     "profileStats": [
       {
           "icon":"/assets/icons/home/video-play.svg",
-          "label":"In Progress",
+          "label":"In progress",
           "enable": true,
           "key": "inProgress",
           "value": 0 
@@ -807,7 +806,7 @@
       },
       {
           "icon":"/assets/icons/home/inProgress.svg",
-          "label":"In Progress",
+          "label":"In progress",
           "enable": false,
           "key": "inProgress",
           "value": 0 
@@ -916,28 +915,28 @@
     {
       "id":1,
       "order":1,
-      "sectionHeading": "hubs",
+      "sectionHeading": "Hubs",
       "active": true,
       "slug": "hub"
     },
     {
       "id":2,
       "order":2,
-      "sectionHeading": "relatedLinks",
+      "sectionHeading": "Related Links",
       "active": true,
       "slug": "link"
     },
     {
       "id":3,
       "order":3,
-      "sectionHeading": "support",
+      "sectionHeading": "Support",
       "active": true,
       "slug": "support"
     },
     {
       "id":4,
       "order":4,
-      "sectionHeading": "aboutUs",
+      "sectionHeading": "About us",
       "active": true,
       "slug": "about"
     }
@@ -961,11 +960,6 @@
     {
       "id":4,
       "section":"profile",
-      "active": true
-    },
-    {
-      "id":5,
-      "section":"language",
       "active": true
     }
   ],
@@ -998,95 +992,15 @@
       }
     }
   },
-  "homeStrips":  [
-    {
-      "order": 1,
-      "strips": [
-        {
-          "active": true,
-          "key": "cbpPlan",
-          "logo": "school",
-          "title": "My iGOT",
-          "customeClass": "mr-5",
-          "stripTitleLink": {
-            "link": "",
-            "icon": ""
-          },	
-          "loader": true,
-          "loaderConfig": {
-            "cardSubType": "card-standard-skeleton"
-          },
-          "sliderConfig": {
-            "showNavs": true,
-            "showDots": true,
-            "maxWidgets": 12
-          },
-          "stripBackground": "",
-          "titleDescription": "My Learning",
-          "stripConfig": {
-            "cardSubType": "card-standard"
-          },
-          "viewMoreUrl": {
-            "path": "/page/cbp",
-            "viewMoreText": "Show all",
-            "queryParams": {
-              "key": "cbpPlan"
-            },
-            "loaderConfig": {
-              "cardSubType": "card-standard-skeleton"
-            },
-            "stripConfig": {
-              "cardSubType": "card-standard"
-            }
-          },
-          "tabs": [
-            {
-              "label": "All",
-              "value": "all",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You don’t have any new course in progress."
-            },
-            {
-              "label": "Upcoming",
-              "value": "upcoming",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date is within 30 days."
-            },
-            {
-              "label": "Overdue",
-              "value": "overdue",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date has passed here."
-            }
-          ],
-          "filters": [],
-          "request": {
-            "cbpList": {
-              "path": "/apis/proxies/v8/user/v1/cbplan/<userId>"
-            }
-          }
-        }
-      ]
-    },
-
-    {
-    "order":2,
+  "homeStrips":  [{
+    "order":1,
     "strips": [
       {        
         "active": true,
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
-        "customeClass": "mr-5",
+        "customeClass": "mr-8",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1096,9 +1010,9 @@
           "cardSubType": "card-portrait-skeleton"
         },
         "sliderConfig": {
-          "showNavs" : true,
+          "showNavs" : false,
           "showDots": false,
-          "maxWidgets": 12
+          "maxWidgets": 2
         },
         "stripBackground": "",
         "titleDescription": "My Learning",
@@ -1110,23 +1024,17 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "continueLearning"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait"
           }
         },
         "tabs": [
           {
-            "label": "In Progress",
+            "label": "In progress",
             "value": "inprogress",
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You don’t have any new course in progress."
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your in progress content here."
           },
           {
             "label": "Completed",
@@ -1134,8 +1042,8 @@
             "computeDataOnClick": false,
             "showTabDataCount": true,
             "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find your Completed Courses/Program here."
+            "maxWidgets": 2,
+            "nodataMsg": "You will find your completed content here."
           }
         ],
         "filters": [],
@@ -1152,13 +1060,13 @@
         }
       }      
     ]},{
-    "order":3,
+    "order":2,
     "strips": [
       {        
         "active": true,
         "key": "trendingInDepartment",
         "logo": "school",
-        "title": "Trending in your Department",
+        "title": "Trending in your department",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1169,7 +1077,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending in your Department",
+        "titleDescription": "Trending in your department",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1177,13 +1085,7 @@
           "path": "/app/seeAll",
           "viewMoreText": "Show all",
           "queryParams": {
-            "key": "trendingInDepartment"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
+            "key": "continueLearning"
           }
         },
         "loader": true,
@@ -1256,104 +1158,101 @@
       }
       
     ]},{
-      "order":4,
-      "strips": [
-        {        
-          "active": true,
-          "key": "recentlyAdded",
-          "logo": "school",
-          "title": "Recently Added",
-          "stripTitleLink": {
-            "link": "",
-            "icon": ""
-          },
-          "sliderConfig": {
-            "showNavs" : true,
-            "showDots": true,
-            "maxWidgets": 12
-          },
-          "stripBackground": "",
-          "titleDescription": "Recently Added",
-          "stripConfig": {
-            "cardSubType": "standard"
-          },
-          "viewMoreUrl": {
-            "path": "/app/seeAll",
-            "viewMoreText": "Show all",
-            "queryParams": {
-              "key": "recentlyAdded"
-            },
-            "loaderConfig": {
-              "cardSubType": "card-portrait-click-skeleton"
-            },
-            "stripConfig": {
-              "cardSubType": "card-portrait-click"
-            }
-          },
-          "loader": true,
-          "loaderConfig": {
-            "cardSubType": "card-standard-skeleton"
-          },
-          "tabs": [
-          ],
-          "filters": [],
-          "request": {
-            "searchV6": {
-              "request": {
-                "filters": [
-                  {
-                    "primaryCategory": [
-                      "Course"
-                    ],
-                    "contentType": [
-                      "Course"
-                    ]
-                  }
+    "order":3,
+    "strips": [
+      {        
+        "active": true,
+        "key": "blendedPrograms",
+        "logo": "school",
+        "title": "Blended Program",
+        "stripTitleLink": {
+          "link": "",
+          "icon": ""
+        },
+        "sliderConfig": {
+          "showNavs" : true,
+          "showDots": true,
+          "maxWidgets": 12
+        },
+        "loader": true,
+        "loaderConfig": {
+          "cardSubType": "card-standard-skeleton"
+        },
+        "stripBackground": "",
+        "titleDescription": "Blended Program",
+        "stripConfig": {
+          "cardSubType": "standard"
+        },
+        "viewMoreUrl": {
+          "path": "/app/seeAll",
+          "viewMoreText": "Show all",
+          "queryParams": {
+            "key": "blendedPrograms"
+          }
+        },
+        "tabs": [],
+        "filters": [],
+        "request": {
+          "searchV6": {
+            "request": {
+              "filters": {
+                "primaryCategory": [
+                  "Blended Program"
                 ],
-                "query": "",
-                "sort_by": {
-                  "lastUpdatedOn": "desc"
-                },
-                "fields": [
-                  "name",
-                  "appIcon",
-                  "instructions",
-                  "description",
-                  "purpose",
-                  "mimeType",
-                  "gradeLevel",
-                  "identifier",
-                  "medium",
-                  "pkgVersion",
-                  "board",
-                  "subject",
-                  "resourceType",
-                  "primaryCategory",
-                  "contentType",
-                  "channel",
-                  "organisation",
-                  "trackable",
-                  "license",
-                  "posterImage",
-                  "idealScreenSize",
-                  "learningMode",
-                  "creatorLogo",
-                  "duration",
-                  "avgRating"
-                ]
-              }
+                "contentType": [
+                  "Course"
+                ],
+                "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
+              },
+              "offset": 0,
+              "limit": 12,
+              "query": "",
+              "sort_by": {
+                "lastUpdatedOn": "desc"
+              },
+              "fields": [
+                "name",
+                "appIcon",
+                "instructions",
+                "description",
+                "purpose",
+                "mimeType",
+                "gradeLevel",
+                "identifier",
+                "medium",
+                "pkgVersion",
+                "board",
+                "subject",
+                "resourceType",
+                "primaryCategory",
+                "contentType",
+                "channel",
+                "organisation",
+                "trackable",
+                "license",
+                "posterImage",
+                "idealScreenSize",
+                "learningMode",
+                "creatorLogo",
+                "duration",
+                "version",
+                "programDuration",
+                "avgRating",
+                "additionalTags"
+              ]
             }
           }
         }
-        
-      ]},{
-      "order":5,
+      }
+     
+    ]},{
+      "order":4,
     "strips": [
       {
         "active": true,
         "key": "trendingAcrossDepartment",
         "logo": "school",
-        "title": "Trending across Departments",
+        "title": "Trending across department",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1364,7 +1263,7 @@
           "maxWidgets": 12
         },
         "stripBackground": "",
-        "titleDescription": "Trending across Departments",
+        "titleDescription": "Trending across department",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1373,12 +1272,6 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "trendingAcrossDepartment"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
           }
         },
         "loader": true,
@@ -1451,13 +1344,13 @@
       }
       
     ]},{
-      "order":6,
+      "order":5,
     "strips": [
       {        
         "active": true,
         "key": "learnUnder30Min",
         "logo": "school",
-        "title": "Learning under 30 minutes",
+        "title": "Learning under 30 min",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1472,7 +1365,7 @@
           "cardSubType": "card-standard-skeleton"
         },
         "stripBackground": "",
-        "titleDescription": "Learning under 30 minutes",
+        "titleDescription": "Learning under 30 min",
         "stripConfig": {
           "cardSubType": "standard"
         },
@@ -1481,12 +1374,6 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "learnUnder30Min"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1507,110 +1394,14 @@
         }
       }
       
-    ]},
-    {
-      "order":7,
-      "strips": [
-        {        
-          "active": true,
-          "key": "blendedPrograms",
-          "logo": "school",
-          "title": "Blended Program",
-          "stripTitleLink": {
-            "link": "",
-            "icon": ""
-          },
-          "sliderConfig": {
-            "showNavs" : true,
-            "showDots": true,
-            "maxWidgets": 12
-          },
-          "loader": true,
-          "loaderConfig": {
-            "cardSubType": "card-standard-skeleton"
-          },
-          "stripBackground": "",
-          "titleDescription": "Blended Program",
-          "stripConfig": {
-            "cardSubType": "standard"
-          },
-          "viewMoreUrl": {
-            "path": "/app/seeAll",
-            "viewMoreText": "Show all",
-            "queryParams": {
-              "key": "blendedPrograms"
-            },
-            "loaderConfig": {
-              "cardSubType": "card-portrait-click-skeleton"
-            },
-            "stripConfig": {
-              "cardSubType": "card-portrait-click"
-            }
-          },
-          "tabs": [],
-          "filters": [],
-          "request": {
-            "searchV6": {
-              "request": {
-                "filters": {
-                  "primaryCategory": [
-                    "Blended Program"
-                  ],
-                  "contentType": [
-                    "Course"
-                  ],
-                  "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
-                },
-                "offset": 0,
-                "limit": 12,
-                "query": "",
-                "sort_by": {
-                  "lastUpdatedOn": "desc"
-                },
-                "fields": [
-                  "name",
-                  "appIcon",
-                  "instructions",
-                  "description",
-                  "purpose",
-                  "mimeType",
-                  "gradeLevel",
-                  "identifier",
-                  "medium",
-                  "pkgVersion",
-                  "board",
-                  "subject",
-                  "resourceType",
-                  "primaryCategory",
-                  "contentType",
-                  "channel",
-                  "organisation",
-                  "trackable",
-                  "license",
-                  "posterImage",
-                  "idealScreenSize",
-                  "learningMode",
-                  "creatorLogo",
-                  "duration",
-                  "version",
-                  "programDuration",
-                  "avgRating",
-                  "additionalTags"
-                ]
-              }
-            }
-          }
-        }
-       
-      ]},
-    {
-      "order":8,
+    ]},{
+      "order":6,
     "strips": [
       {
         "active": true,
         "key": "certificationsOfWeek",
         "logo": "school",
-        "title": "Certifications of the Week",
+        "title": "Certifications of the week",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -1618,12 +1409,11 @@
         "sliderConfig": {
           "showNavs" : true,
           "showDots": true,
-          "maxWidgets": 12,
-          "cerificateCardMargin": true
+          "maxWidgets": 12
         },
         "loader": true,
         "stripBackground": "",
-        "titleDescription": "Certifications of the Week",
+        "titleDescription": "Certifications of the week",
         "stripConfig": {
           "cardSubType": "card-wide-v2"
         },
@@ -1635,12 +1425,6 @@
           "viewMoreText": "Show all",
           "queryParams": {
             "key": "certificationsOfWeek"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
           }
         },
         "tabs": [],
@@ -1654,7 +1438,7 @@
                     ],
                     "organisation": "across"
                 },
-                "limit": 5
+                "limit": 12
             },
             "responseKey": "certifications"
           }
@@ -1775,73 +1559,15 @@
   "sliderData": [
     {
       "active": true,
-      "banners":{
-        "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png"
-      },
-      "redirectUrl": "/app/organisation/dopt",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
-    },
-    {
-      "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/l.png"
       },
       "redirectUrl": "/app/globalsearch",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
-    },
-    {
-      "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png"
-      },
-      "redirectUrl": "/app/globalsearch",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": "" 
-    },
-
-    {
-      "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/3/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png"
-      },
-      "redirectUrl": "",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1879,13 +1605,8 @@
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f6df809-6930-44f4-abcf-c8297363d3e0.png",
-      "clientName": "Department of Expenditure",
-      "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Expenditure%20/all-CBP"
-    },
-    {
-      "clientImageUrl": "assets/icons/top-providers/dopt.png",
       "clientName": "Department of Personnel and Training DoPT",
-      "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Personnel%20and%20Training%20DoPT/all-CBP"
+      "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Department%20of%20Expenditure%20/all-CBP"
     },
     {
       "clientImageUrl": "assets/icons/top-providers/7f8cab8e-9d22-44ba-a41e-83b907e5a5f0.jpeg",

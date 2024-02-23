@@ -416,7 +416,7 @@
         "enrollError": "You can't enroll into this blended program.",
         "NA": "NA",
         "selfPaced": "Self-paced",
-        "instructorLed": "instructor-led",
+        "instructorLed": "Instructor Led",
         "timeQuestions": "Time Questions",
         "questions": "questions",
         "failed":"Failed",
@@ -436,8 +436,8 @@
         "prev": "Prev",
         "next": "Next",
         "tryAgain": "Try Again",
-        "mostTrending": "Most trending"
-
+        "mostTrending": "Most trending",
+        "selfLearning": "Self learning"
     },
     "ratingsummary": {
         "ratings": "ratings",

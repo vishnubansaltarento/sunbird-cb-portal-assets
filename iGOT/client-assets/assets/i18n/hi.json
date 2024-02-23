@@ -380,7 +380,12 @@
     "interactive": "Interactive Content(s) - HI",
     "finalAssessment": "Final assessment(s) - HI",
     "practiceAssessment": "Practice test(s) - HI",
-    "otherItem": "Other Item(s) - HI"
+    "otherItem": "Other Item(s) - HI",
+    "selfLearning": "Self learning - HI",
+    "instructorLed": "Instructor Led - HI",
+    "rateNow":"Rate Now - HI",
+    "editRating":"Edit Rating - HI",
+    "overallProgress": "Overall Progress - HI"
   },
   "ratingsummary": {
     "ratings": "रेटिंग्स",

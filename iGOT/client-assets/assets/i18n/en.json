@@ -616,7 +616,47 @@
         "startAssesmentNow": "Start assessment now",
         "youExceededAttempt": "You have exceeded the maximum allowed attempt",
         "summary": "Summary",
-        "pointsToNote": "Points to note"
+        "pointsToNote": "Points to note",
+        "noNegativeMarking": "No negative marking",
+        "assessmentWillHaveTimeDuration": "Assessment will have time duration",
+        "skippedQuestionCanBeAttemptedAgainBeforeSubmitting": "Skipped question can be attempted again before submitting",
+        "nextQuestion": "NEXT QUESTION",
+        "previous": "PREVIOUS",
+        "nextSection": "Next Section",
+        "questions": "Questions",
+        "question": "Question",
+        "of": "of",
+        "explanation": "Explanation",
+        "option": "Option",
+        "hint": "Hint",
+        "checkAnswer": "Check Answer",
+        "instructions": "Instructions",
+        "attemptAllQuestions": "Attempt all questions to finish assessment",
+        "finishAssessment": "Finish assessment",
+        "percentageToPass": "Percentage to pass",
+        "totalQuestions": "Total questions",
+        "completed": "Completed",
+        "incomplete": "Incomplete",
+        "notStarted": "Not Started",
+        "selected": "Selected",
+        "submitQuiz": "Submit Quiz",
+        "answeredMsg": "Do you want to submit?",
+        "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?",
+        "markedMsg": "You still have some questions marked for later! Do you still want to submit?"
+    },
+    "quizresult": {
+        "score": "score",
+        "hurray": "Hurray!",
+        "passMsg1": "You have aced the assessment, with flying colours.",
+        "passMsg2": "Congratulations on successfully passing the assessment. Good job!",
+        "passMsg3": "You have the opportunity to try again and do better next time. Keep going!",
+        "passMdg4": "Well done, Keep learning!",
+        "bePatienWhileWeCalculate": "Be patient please, while we calculate your result!",
+        "submittedSucessfull": "Assessment has been submitted successfully. Please check back after some time for the result",
+        "retry": "Retry",
+        "pleaseContactSystemAdmin": "Please contact system admin",
+        "yourPerformanceSummary": "Your Performance Summary",
+        "retakeAssessment": "Retake assessment"
     },
     "network": {
         "networkHome": "Network home",
@@ -1444,7 +1484,8 @@
         "moderatedProgram": "Moderated Program",
         "moderatedAssessment": "Moderated Assessment",
         "blendedProgram": "Blended Program",
-        "curatedProgram": "Curated Program"
+        "curatedProgram": "Curated Program",
+        "curatedCollections": "Curated Collections"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
@@ -1572,7 +1613,7 @@
     },
     "dialogconfirm" : {
         "yes" : "Yes",
-        "no": "NO"
+        "no": "No"
     },
     "dialogbox": {
         "whatIsActivity?": "What is an activity?",

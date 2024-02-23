@@ -966,7 +966,7 @@
     {
       "id":5,
       "section":"language",
-      "active": true
+      "active": true 
     }
   ],
   "homeConfig": {

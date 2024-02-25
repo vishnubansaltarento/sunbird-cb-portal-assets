@@ -5,16 +5,16 @@
     "nudgeDelayInSec": 10,
       "data" : [
         {
-          "startTime": 6,
+          "startTime": 5,
           "endTime": 10,
-          "greet": "Good morning <userName>!",
+          "greet": "Namaste, <userName>!",
           "textColor": "#000000",
           "info": [
-            "Get a fresh start, explore something new.",
-            "Start your day by exploring new horizons.",
-            "Stimulate your mind with a bite-sized learning session.",
-            "Challenge boundaries and learn something new.",
-            "Early bird! Time to make those brain cells shine."
+            "Rise and shine, start your day with a dose of knowledge.",
+            "Get a head start with a burst of learning.",
+            "Morning learning, morning growth! Make the most of your hours by expanding your skills.",
+            "Brighten your morning with learning! Seize the day and unlock your potential.",
+            "Elevate your morning routine, with a quick dose of learning. Did you know iGOT has 850+ courses?"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Morning_Bg.svg",
@@ -28,15 +28,15 @@
         },
         {
           "startTime": 10,
-          "endTime": 13,
-          "greet": "Hey <userName>!",
+          "endTime": 14,
+          "greet": "Namaste, <userName>!",
           "textColor": "#000000",
           "info": [
-            "Take a snack break with a quick standalone assessment!",
-            "Recharge with a quick snack, and expand your skill sets.",
-            "Pause and reflect on your progress with a quick skills evaluation.",
-            "Take a mid-morning break, and refresh your skills.",
-            "Take a snack break with a quick look at your Karma Points!"
+            "Explore our new courses and expand your knowledge today.",
+            "Working hard? Take a break, update your profile – if you haven’t.",
+            "Unlock new achievements by mastering challenging topics.",
+            "Hooray! 50 lakh+ courses conquered by our amazing 30 lakh+ iGOT learners! Let's keep the learning spirit alive!",
+            "Be a catalyst for growth! Spread the word about iGOT to your colleagues and ignite their learning journey! Together, we can achieve more!"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Morning_Bg.svg",
@@ -49,16 +49,16 @@
           ]
         },
         {
-          "startTime": 13,
-          "endTime": 17,
-          "greet": "Had a good lunch <userName>!",
+          "startTime": 14,
+          "endTime": 16,
+          "greet": "Namaste, <userName>!",
           "textColor": "#000000",
           "info": [
-            "Time to top up some new domain skills!",
-            "Now feed your brain with a bite of new knowledge.",
-            "Lunch and learn - the perfect combo!",
-            "Now it's time to power up your functional skills!",
-            "Here's some food for the mind."
+            "Had lunch? Now feed your mind with a bite of knowledge.",
+            "Time to check what courses are trending in across ministries and departments!",
+            "Make the most of your afternoon: invest in skill building, and explore our courses for personal and professional growth.",
+            "Together, we've achieved 70 lakh+ course enrolments! Here's to many more milestones ahead!",
+            "Share the learning love! Motivate your colleagues to explore iGOT and expand their skill sets."
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Afternoon_Bg.svg",
@@ -71,16 +71,16 @@
           ]
         },
         {
-          "startTime": 17,
+          "startTime": 16,
           "endTime": 19,
-          "greet": "It's chai o'clock <userName>!",
+          "greet": "Namaste, <userName>!",
           "textColor": "#000000",
           "info": [
-            "Time to share your ideas at the Discussion Forum!",
-            "Let's brew up some new learnings!",
-            "Grab a chai and crack a course.",
-            "Let’s snack on samosas and learn something innovative.",
-            "Time for some leadership courses!"
+            "Invest in yourself. Do a mandatory course on the iGOT mobile app.",
+            "Finished work? Join the iGOT social media community – on LinkedIn, X, YouTube, Instagram, Facebook and Spotify.",
+            "Congratulations! You belong to the world’s largest community of government e-Learners.",
+            "Chai o'clock! Stay ahead in your career journey.",
+            "Lead by example! Show your colleagues the power of learning with iGOT."
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Afternoon_Bg.svg",
@@ -94,15 +94,37 @@
         },
         {
           "startTime": 19,
-          "endTime": 6,
-          "greet": "Good Night <userName>!",
+          "endTime": 23,
+          "greet": "Namaste, <userName>!",
           "textColor": "#FFFFFF",
           "info": [
-            "Done for the day? Check your progress at the 'In Progress' section.",
-            "Still up? Great time to check out Trending Courses!",
-            "While the world sleeps, our Chatbot is awake - go ahead, chat!",
-            "Relaxing after dinner? Watch Karmayogi Talks!",
-            "Still awake? Check your Karma Points!"
+            "Invest your evening in career growth. Explore new iGOT courses.",
+            "Relaxing after dinner? Watch Karmayogi Talks at the Events Hub",
+            "Check your learning hours",
+            "Evening enlightenment awaits! Unwind with valuable lessons – transform your evenings into a sanctuary of knowledge.",
+            "Keep shining with your dedication!"
+          ],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg",
+            "/assets/images/RepublicDay-2024/Evening_icon.svg"
+          ]
+        },
+        {
+          "startTime": 23,
+          "endTime": 5,
+          "greet": "Namaste, <userName>!",
+          "textColor": "#FFFFFF",
+          "info": [
+            "Utilize quiet hours for personal development.Start a course now!",
+            "Invest in your growth while the world sleeps. Do a Domain course.",
+            "Late-night learners, your time is now!",
+            "Golden hours for golden insights! Harness the power of late nights to absorb knowledge like never before.",
+            "The world sleeps, but knowledge never rests. Make every moment count with iGOT’s career enhancing resources"
           ],
           "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",

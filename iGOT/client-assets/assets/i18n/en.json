@@ -1222,7 +1222,8 @@
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
         "recentlyAdded": "Recently added",
-        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here"
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
+        "today'sEvents": "Today's Events"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",

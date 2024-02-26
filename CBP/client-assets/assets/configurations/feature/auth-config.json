@@ -201,9 +201,9 @@
     "widgetData": {
       "logo": true,
       "newMenu": true,
-      "menusList":[
+      "menusList": [
         {
-          "menuCategory":"Curate",
+          "menuCategory": "Curate",
           "requiredRoles": [
             "admin",
             "super-admin",
@@ -234,23 +234,22 @@
                 "editor",
                 "admin"
               ]
-            },  
-            
-        {
-          "name": "My Content",
-          "key": "moderatedCourse",
-          "fragment": false,
-          "render": true,
-          "badges": {
-            "enabled": false,
-            "uri": ""
-          },
-          "enabled": true,
-          "routerLink": "/author/cbp/moderated-course-home",
-          "requiredRoles": [
-            "content_publisher"
-          ]
-        },
+            },
+            {
+              "name": "Publish Moderated Content",
+              "key": "moderatedCourse",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/moderated-course-home",
+              "requiredRoles": [
+                "content_publisher"
+              ]
+            },
             {
               "name": "All Content",
               "key": "cbp",
@@ -274,7 +273,7 @@
           ]
         },
         {
-          "menuCategory":"Manage",
+          "menuCategory": "Manage",
           "requiredRoles": [
             "admin",
             "super-admin",

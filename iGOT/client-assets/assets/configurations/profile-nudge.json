@@ -126,14 +126,14 @@
             "Golden hours for golden insights! Harness the power of late nights to absorb knowledge like never before.",
             "The world sleeps, but knowledge never rests. Make every moment count with iGOT’s career enhancing resources"
           ],
-          "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
-          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",
+          "backgroupImage": "/assets/images/RepublicDay-2024/Night_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Night_Bg.svg",
           "centerImage": [
-            "/assets/images/RepublicDay-2024/Evening_icon.svg",
-            "/assets/images/RepublicDay-2024/Evening_icon.svg",
-            "/assets/images/RepublicDay-2024/Evening_icon.svg",
-            "/assets/images/RepublicDay-2024/Evening_icon.svg",
-            "/assets/images/RepublicDay-2024/Evening_icon.svg"
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg"
           ]
         }              
       ]

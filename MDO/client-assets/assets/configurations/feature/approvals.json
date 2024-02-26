@@ -46,7 +46,7 @@
       "enabled": true
     },
     {
-      "name": "Domicile medium (Mother Tongue)",
+      "name": "Mother Tongue",
       "key": "domicileMedium",
       "enabled": true
     },
@@ -66,7 +66,7 @@
       "enabled": true
     },
     {
-      "name": "Other languages known",
+      "name": "Other Known Languages",
       "key": "knownLanguages",
       "enabled": true
     },
@@ -141,7 +141,7 @@
       "enabled": true
     },
     {
-      "name": "Date of joining",
+      "name": "Date of Joining",
       "key": "dojOfService",
       "enabled": true
     },
@@ -186,17 +186,17 @@
       "enabled": true
     },
     {
-      "name": "Designation",
+      "name": "Other Designation",
       "key": "designationOther",
       "enabled": true
     },
     {
-      "name": "Name other",
+      "name": "Other Organisation Name",
       "key": "nameOther",
       "enabled": true
     },
     {
-      "name": "Type of organisation",
+      "name": "Type of Organisation",
       "key": "organisationType",
       "enabled": true
     },
@@ -206,7 +206,7 @@
       "enabled": true
     },
     {
-      "name": "Name",
+      "name": "Organisation Name",
       "key": "name",
       "enabled": true
     },
@@ -221,7 +221,7 @@
       "enabled": true
     },
     {
-      "name": "Industry Other",
+      "name": "Other Industry",
       "key": "industryOther",
       "enabled": true
     },
@@ -236,7 +236,7 @@
       "enabled": true
     },
     {
-      "name": "Date of joining",
+      "name": "Date of Joining",
       "key": "doj",
       "enabled": true
     },

@@ -1555,11 +1555,21 @@
         "learningResource": "Learning Resource",
         "standaloneAssessment": "Standalone Assessment",
         "moderatedCourse": "Moderated Course",
+        "moderatedCourses": "Moderated Courses",
         "moderatedProgram": "Moderated Program",
         "moderatedAssessment": "Moderated Assessment",
         "blendedProgram": "Blended Program",
         "curatedProgram": "Curated Program",
-        "curatedCollections": "Curated Collections"
+        "curatedCollections": "Curated Collections",
+        "upcoming7Days": "Upcoming 7 Days",
+        "upcoming30Days": "Upcoming 30 Days",
+        "upcoming3Months": "Upcoming 3 Months",
+        "upcoming6Months": "Upcoming 6 Months",
+        "lastWeek": "Last week",
+        "lastMonth": "Last month",
+        "last3Months": "Last 3 months",
+        "last6Months": "Last 6 months",
+        "lastYear": "Last year"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

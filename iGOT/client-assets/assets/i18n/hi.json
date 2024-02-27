@@ -1498,10 +1498,22 @@
     "course": "कोर्स",
     "learningResource": "अधिगम संसाधन",
     "standaloneAssessment": "स्वतंत्र मूल्यांकन",
+    "moderatedCourse": "मध्यम पाठ्यक्रम",
     "moderatedCourses": "मध्यम पाठ्यक्रम",
+    "moderatedProgram": "Moderated Program-HI",
+    "moderatedAssessment": "Moderated Assessment-HI",
     "blendedProgram": "मिश्रित कार्यक्रम",
     "curatedProgram": "क्यूरेटेड कार्यक्रम",
-    "curatedCollections": "Curated Collections-HI"
+    "curatedCollections": "Curated Collections-HI",
+    "upcoming7Days": "Upcoming 7 Days-HI",
+    "upcoming30Days": "Upcoming 30 Days-HI",
+    "upcoming3Months": "Upcoming 3 Months-HI",
+    "upcoming6Months": "Upcoming 6 Months-HI",
+    "lastWeek": "Last week-HI",
+    "lastMonth": "Last month-HI",
+    "last3Months": "Last 3 months-HI",
+    "last6Months": "Last 6 months-HI",
+    "lastYear": "Last year-HI"
   },
   "utilslogout": {
     "logoutNow": "अभी लॉगआउट करें",

@@ -66,7 +66,8 @@
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
         "settings": "Settings",
-        "noDataFound":"No data found!"
+        "noDataFound":"No data found!",
+        "somethingWentWrong": "Something went wrong, please try again later!"
     },
     "seeAllHome": {
         "myLearning": "My Learning",
@@ -354,7 +355,6 @@
         "error": "Something went wrong. Please try after sometime",
         "dulicateUser": "User is already selected",
         "dulicateEmail": "Email is already selected"
-        
     },
     "apptocsinglepage": {
         "overview": "Overview",
@@ -1472,9 +1472,13 @@
         "resendOTPAfter": "Resend OTP after",
         "resendOTP": "Resend OTP",
         "verifyOTP": "Verify OTP",
+        "pleaseEnterValidOtp": "Please enter a valid OTP.",
+        "anOtpHasBeenSentToEmail": "An OTP has been sent to your email address (valid for 15 minutes)",
+        "anOtpHasBeenSentToMobile": "An OTP has been sent to your mobile number (valid for 15 minutes)",
         "mobileNumber": "Mobile Number",
         "pleaseEnterMobileNumber": "Please enter your mobile number",
         "validMobilenumber": "Please enter a valid 10 digit mobile number",
+        "pleaseEnterValidMobileNumber": "Please enter a valid mobile number",
         "mobileOtp": "Mobile otp is required",
         "centerOrState": "Center/State",
         "center": "Center",

@@ -65,7 +65,8 @@
     "knowledgeResources": "ज्ञान संसाधन",
     "dashboard": "डैशबोर्ड",
     "settings": "विन्यास",
-    "noDataFound": "कोई डेटा नहीं मिला!"
+    "noDataFound": "कोई डेटा नहीं मिला!",
+    "somethingWentWrong": "Something went wrong, please try again later!-HI"
   },
   "seeAllHome": {
     "myLearning": "मेरी सीख",
@@ -1416,9 +1417,13 @@
     "resendOTPAfter": "इसके बाद पुनः ओ. टी. पी. भेजें",
     "resendOTP": "ओ. टी. पी. फिर से भेजें",
     "verifyOTP": "ओ. टी. पी. सत्यापित करें",
+    "pleaseEnterValidOtp": "Please enter a valid OTP.-HI",
+    "anOtpHasBeenSentToEmail": "An OTP has been sent to your email address (valid for 15 minutes)-HI",
+    "anOtpHasBeenSentToMobile": "An OTP has been sent to your mobile number (valid for 15 minutes)-HI",
     "mobileNumber": "मोबाइल नंबर",
     "pleaseEnterMobileNumber": "कृपया अपना मोबाइल नंबर दर्ज करें",
     "validMobilenumber": "कृपया एक वैध 10 अंकों का मोबाइल नंबर दर्ज करें",
+    "pleaseEnterValidMobileNumber": "Please enter a valid mobile number-HI",
     "mobileOtp": "मोबाइल ओटीपी की आवश्यकता है",
     "centerOrState": "केंद्र/राज्य",
     "center": "केंद्र",

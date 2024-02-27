@@ -116,7 +116,8 @@
         "allCompetencies": "All Competencies",
         "allCbps": "All CBPs",
         "curatedCollections": "Curated collections",
-        "search": "Search"
+        "search": "Search",
+        "allProviders": "All providers"
     },
     "cardshublist": {
         "more": "More",
@@ -923,7 +924,7 @@
         "comingSoon": "Feature coming soon."
     },
     "privacySettings": {
-        "privacyHeader": "privacy Settings",
+        "privacyHeader": "Privacy Settings",
         "comingSoon": "Feature coming soon."
     },
     "settingLeftMenu": {
@@ -1223,7 +1224,8 @@
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
         "recentlyAdded": "Recently added",
-        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here"
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
+        "today'sEvents": "Today's events"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",

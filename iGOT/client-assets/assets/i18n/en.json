@@ -161,7 +161,8 @@
         "exploreByCompetency": "Explore by competency",
         "exploreByProvider": "Explore by provider",
         "curatedCollections": "Curated collections",
-        "moderatedCourses": "Moderated courses"
+        "moderatedCourses": "Moderated courses",
+        "moderatedContent": "Moderated content"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",

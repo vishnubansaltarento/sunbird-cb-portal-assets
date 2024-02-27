@@ -636,7 +636,8 @@
         "enrolled": "Enrolled",
         "rejected": "Rejected",
         "totalApplied": "Total applied",
-        "batchSize": "Batch size"
+        "batchSize": "Batch size",
+        "totalEnrolled": "Total Enrolled"
     },
     "certificatedialog": {
         "downloadCertificate": "Download Certificate",

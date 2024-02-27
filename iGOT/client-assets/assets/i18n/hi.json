@@ -360,9 +360,7 @@
     "description": "वर्णन",
     "authorsAndCurators": "लेखक और संरक्षक",
     "author": "लेखक",
-    "authors": "Authors - HI",
     "curator": "क्यूरेटर",
-    "curators": "Curators - HI",
     "programDirectorFacilitators": "कार्यक्रम निदेशक और सुविधा प्रदाता",
     "facilitator": "सुविधा प्रदाता",
     "competencies": "योग्यताएँ",
@@ -389,9 +387,9 @@
     "noCompetenciesFound": "No competencies found - HI",
     "module": "Module(s) - HI",
     "video": "Video(s) - HI",
-    "pdf":"PDF's - HI",
-    "audio":"Audio(s) - HI",
-    "webPage":"Web Page(s) - HI",
+    "pdf": "PDF's - HI",
+    "audio": "Audio(s) - HI",
+    "webPage": "Web Page(s) - HI",
     "courses": "Course(s) - HI",
     "interactive": "Interactive Content(s) - HI",
     "finalAssessment": "Final assessment(s) - HI",
@@ -401,7 +399,11 @@
     "instructorLed": "Instructor Led - HI",
     "rateNow":"Rate Now - HI",
     "editRating":"Edit Rating - HI",
-    "overallProgress": "Overall Progress - HI"
+    "overallProgress": "Overall Progress - HI",
+    "curators": "Curators - HI",
+    "authors": "Authors - HI",
+    "share": "Share - HI",
+    "about": "के बारे में"
   },
   "ratingsummary": {
     "ratings": "रेटिंग्स",
@@ -583,7 +585,8 @@
     "enrolled": "नामांकन किया।",
     "rejected": "अस्वीकृत।",
     "totalApplied": "कुल लागू किया गया",
-    "batchSize": "बैच का आकार"
+    "batchSize": "बैच का आकार",
+    "totalEnrolled": "Total Enrolled - HI"
   },
   "certificatedialog": {
     "downloadCertificate": "प्रमाणपत्र डाउनलोड करें",

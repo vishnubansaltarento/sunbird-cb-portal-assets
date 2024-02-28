@@ -166,14 +166,14 @@
         "exploreByProvider": "Explore by provider",
         "curatedCollections": "Curated collections",
         "moderatedCourses": "Moderated courses",
-        "moderatedContent": "Moderated content"
+        "moderatedContents": "Moderated contents"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",
         "blendedPrograms": "Blended Programs",
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
-        "moderatedCourses": "Moderated Content",
+        "moderatedCourses": "Moderated Contents",
         "standaloneAssessment": "Standalone Assessment",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",

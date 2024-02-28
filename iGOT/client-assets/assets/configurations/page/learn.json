@@ -1045,8 +1045,14 @@
     },
     {
       "icon": "video_library",
-      "name": "Moderated courses",
-      "route": "/app/globalsearch"
+      "name": "Moderated content",
+      "route": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "",
+        "p": "Trending",
+        "f": "{\"primaryCategory\": [\"Moderated Course\",\"Moderated Program\",\"Moderated Assessment\"], \"contentType\": [\"Moderated Courses\"]}"
+      }
     }
   ]
 }

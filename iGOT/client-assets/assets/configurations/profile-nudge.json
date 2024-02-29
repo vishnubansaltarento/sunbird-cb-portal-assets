@@ -5,13 +5,11 @@
     "nudgeDelayInSec": 10,
       "data" : [
         {
-          "startTime": 6,
+          "startTime": 5,
           "endTime": 10,
           "greet": "slot1Greet",
           "textColor": "#000000",
-          "info": [
-            "slot1Info1", "slot1Info2", "slot1Info3", "slot1Info4", "slot1Info5"
-          ],
+          "info": ["slot1Info1", "slot1Info2", "slot1Info3", "slot1Info4", "slot1Info5"],
           "backgroupImage": "/assets/images/RepublicDay-2024/Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Morning_Bg.svg",
           "centerImage": [
@@ -24,12 +22,10 @@
         },
         {
           "startTime": 10,
-          "endTime": 13,
-          "greet": "slot2Greet",
+          "endTime": 14,
+          "greet": "slot1Greet",
           "textColor": "#000000",
-          "info": [
-            "slot2Info1", "slot2Info2", "slot2Info3", "slot2Info4", "slot2Info5"
-          ],
+          "info": ["slot2Info1", "slot2Info2", "slot2Info3", "slot2Info4", "slot2Info5"],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Morning_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Morning_Bg.svg",
           "centerImage": [
@@ -41,13 +37,11 @@
           ]
         },
         {
-          "startTime": 13,
-          "endTime": 17,
-          "greet": "slot3Greet",
+          "startTime": 14,
+          "endTime": 16,
+          "greet": "slot1Greet",
           "textColor": "#000000",
-          "info": [
-            "slot3Info1", "slot3Info2", "slot3Info3", "slot3Info4", "slot3Info5"
-          ],
+          "info": ["slot3Info1", "slot3Info2", "slot3Info3", "slot3Info4", "slot3Info5"],
           "backgroupImage": "/assets/images/RepublicDay-2024/Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Afternoon_Bg.svg",
           "centerImage": [
@@ -59,13 +53,11 @@
           ]
         },
         {
-          "startTime": 17,
+          "startTime": 16,
           "endTime": 19,
-          "greet": "slot4Greet",
+          "greet": "slot1Greet",
           "textColor": "#000000",
-          "info": [
-            "slot4Info1", "slot4Info2", "slot4Info3", "slot4Info4", "slot4Info5"
-          ],
+          "info": ["slot4Info1", "slot4Info2", "slot4Info3", "slot4Info4", "slot4Info5"],
           "backgroupImage": "/assets/images/RepublicDay-2024/Late_Afternoon_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Late_Afternoon_Bg.svg",
           "centerImage": [
@@ -78,12 +70,10 @@
         },
         {
           "startTime": 19,
-          "endTime": 6,
-          "greet": "slot5Greet",
+          "endTime": 23,
+          "greet": "slot1Greet",
           "textColor": "#FFFFFF",
-          "info": [
-            "slot5Info1", "slot5Info2", "slot5Info3", "slot5Info4", "slot5Info5"
-          ],
+          "info": ["slot5Info1", "slot5Info2", "slot5Info3", "slot5Info4", "slot5Info5"],
           "backgroupImage": "/assets/images/RepublicDay-2024/Evening_Bg.svg",
           "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Evening_Bg.svg",
           "centerImage": [
@@ -92,6 +82,22 @@
             "/assets/images/RepublicDay-2024/Evening_icon.svg",
             "/assets/images/RepublicDay-2024/Evening_icon.svg",
             "/assets/images/RepublicDay-2024/Evening_icon.svg"
+          ]
+        },
+        {
+          "startTime": 23,
+          "endTime": 5,
+          "greet": "slot1Greet",
+          "textColor": "#FFFFFF",
+          "info": ["slot6Info1", "slot6Info2", "slot6Info3", "slot6Info4", "slot6Info5"],
+          "backgroupImage": "/assets/images/RepublicDay-2024/Night_Bg.svg",
+          "mobileBackgroupImage": "/assets/images/RepublicDay-2024/Mobile_Night_Bg.svg",
+          "centerImage": [
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg",
+            "/assets/images/RepublicDay-2024/Night_icon.svg"
           ]
         }              
       ]

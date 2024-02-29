@@ -91,7 +91,17 @@
           "ischecked": false
         },
         {
-          "name": "moderatedCourses",
+          "name": "moderatedCourse",
+          "count": 0,
+          "ischecked": false
+        },
+        {
+          "name": "moderatedProgram",
+          "count": 0,
+          "ischecked": false
+        },
+        {
+          "name": "moderatedAssessment",
           "count": 0,
           "ischecked": false
         },

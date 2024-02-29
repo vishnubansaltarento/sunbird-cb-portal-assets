@@ -12484,7 +12484,55 @@
           "name": "ZONAL MANAGER",
           "description": "ZONAL MANAGER"
         }
-      ]
-        
-      
+    ],
+    "webistelanguages": [
+      {
+        "value": "English",
+        "key": "en"
+      },
+      {
+        "value": "हिंदी",
+        "key": "hi"
+      },
+      {
+        "value": "தமிழ்",
+        "key": "ta"
+      },
+      {
+        "value": "తెలుగు",
+        "key": "te"
+      },
+      {
+        "value": "অসমীয়া",
+        "key": "as"
+      },
+      {
+        "value": "বাংলা",
+        "key": "be"
+      },
+      {
+        "value": "ગુજરાતી",
+        "key": "gu"
+      },
+      {
+        "value": "ಕನ್ನಡ",
+        "key": "ka"
+      },
+      {
+        "value": "മലയാളം",
+        "key": "ml"
+      },
+      {
+        "value": "मराठी",
+        "key": "mr"
+      },
+      {
+        "value": "ଓଡିଆ",
+        "key": "od"
+      },
+      {
+        "value": "ਪੰਜਾਬੀ",
+        "key": "pu"
+      }
+    ] 
 }

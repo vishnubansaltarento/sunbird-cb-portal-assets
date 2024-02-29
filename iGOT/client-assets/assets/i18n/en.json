@@ -12,7 +12,7 @@
         "events": "Events",
         "seeAll": "See all",
         "mdoPortal": "MDO Portal",
-        "cbpPortal": "CBP Portal",
+        "cbpPortal": "CP Portal",
         "cbcPortal": "CBC Portal",
         "spvPortal": "SPV Portal",
         "fracDictionary": "Frac Dictionary",
@@ -37,7 +37,8 @@
         "update":"Update",
         "showAll": "Show all",
         "loadMore": "Load more...",
-        "gyaanKarmayogi": "Gyaan Karmayogi"
+        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "dueBy": "Due by"
     },
     "msg": {
         "noEvent" : "No Event",
@@ -65,7 +66,8 @@
         "knowledgeResources": "knowledge Resources",
         "dashboard": "Dashboard",
         "settings": "Settings",
-        "noDataFound":"No data found!"
+        "noDataFound":"No data found!",
+        "somethingWentWrong": "Something went wrong, please try again later!"
     },
     "seeAllHome": {
         "myLearning": "My Learning",
@@ -75,10 +77,10 @@
         "courses": "Courses",
         "programs": "Programs",
         "blendedProgram": "Blended Program",
-        "trendingAcrossDepartment": "Trending across department",
-        "learningUnder30Min": "Learning under 30 min",
-        "certificationsOfTheWeek": "Certifications of the week"
-
+        "trendingAcrossDepartments": "Trending across departments",
+        "learningUnder30Minutes": "Learning under 30 min",
+        "certificationsOfTheWeek": "Certifications of the week",
+        "recentlyAdded": "Recently added"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -114,7 +116,9 @@
         "updateProfile": "Update Profile",
         "allCompetencies": "All Competencies",
         "allCbps": "All CBPs",
-        "curatedCollections": "Curated collections"
+        "curatedCollections": "Curated collections",
+        "search": "Search",
+        "allProviders": "All providers"
     },
     "cardshublist": {
         "more": "More",
@@ -128,12 +132,15 @@
         "settingSubtitle": "Manage all your preferences hessssre",
         "quickLinks": "Quick links",
         "cbcPortaldesc": "Capacity Building Commission",
-        "cbpPortaldesc": "Create and manage CBPs here",
+        "cbpPortaldesc": "Create and manage CPs here",
         "mdoPortaldesc": "Manage MDO user access, work orders and events",
         "fracDictionarydesc": "The dictionary of framework of roles, activities and competencies.",
         "spvPortaldesc": "Create and manage MDOs",
         "competency": "Competency",
-        "identifyYourCompetency": "Identify your competency requirements, and competency gaps."
+        "identifyYourCompetency": "Identify your competency requirements, and competency gaps.",
+        "comingSoon": "Coming soon",
+        "career": "Career",
+        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise."
     },
     "footer": {
         "hubs": "Hubs",
@@ -166,7 +173,7 @@
         "blendedPrograms": "Blended Programs",
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
-        "moderatedCourses": "Moderated Courses",
+        "moderatedCourses": "Moderated Content",
         "standaloneAssessment": "Standalone Assessment",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
@@ -182,7 +189,10 @@
         "recommendedForYou": "Recommended for you",
         "programs": "Programs",
         "programsForYou": "Programs for you.",
-        "basedOnYourInterests": "Based on your interests"
+        "basedOnYourInterests": "Based on your interests",
+        "getReadyForLearningAdventure": "Get ready for your next learning adventure",
+        "clickHere": "Click here",
+        "toEnrollNextCourse": " to enroll in your next course now!"
     },
     "cbpPlanFeed": {
         "title": "My iGOT",
@@ -208,7 +218,9 @@
         "noviews": "No views",
         "resume": "Resume",
         "start": "Start",
-        "viewCertificate": "View Certificate"
+        "viewCertificate": "View Certificate",
+        "overDue": "Over due",
+        "deadline": "Deadline"
     }, 
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
@@ -244,6 +256,7 @@
     "competencydetails": {
         "competencyType": "Competency type:",
         "competencyArea:": "Competency area:",
+        "competencyArea": "Competency area",
         "allCbps": "All associated CBPs",
         "cbpsFor": "CBPs for",
         "noCbps": "No CBPs found!",
@@ -273,7 +286,14 @@
         "noDataFound": "No data found!",
         "unableToFetchData": "Unable to fetch discussion info due to some error.",
         "recentCompetencies": "Recently associated competencies",
-        "search": "Search"
+        "search": "Search",
+        "all": "All",
+        "behavioural": "Behavioural",
+        "functional": "Functional",
+        "domain": "Domain",
+        "viewMore": "View more",
+        "viewLess": "View less",
+        "issued": "Issued on"
     },
     "competencyCardDetails": {
         "passbookList": "Passbook list",
@@ -317,21 +337,24 @@
         "days": "Days",
         "kindlyCheckLocationDetails": "Kindly check the location details and plan in advance.",
         "batchLocation": "Batch location",
-        "view": "View"
+        "view": "View",
+        "sureToWithdrawConfirm": "Are you sure you want to withdraw your request?",
+        "withdrawConfirmDesc": "You will miss the learning opportunity if you withdraw your enrolment."
     },
     "contentSharing": {
         "header": "Share with Karmayogis",
-        "note": "Note: Emails will be sent only to registered karmayogis.",
-        "remaingCharacter": "characters",
+        "note": "Note: Emails will be sent only to registered Karmayogis.",
+        "remaingEmails": "emails",
         "copyLink": "Copy link",
         "send": "Send",
         "placehoderText": "To: Add an email",
         "success": "Emails successfully shared with registered Karmayogis",
         "maxLimit": "Maximum email limit reached",
-        "invalidEmail": "Invalid email",
+        "invalidEmail": "Please enter a valid email address",
         "linkCopied": "Link copied",
-        "error": "Something went wrong. Please try after sometime"
-
+        "error": "Something went wrong. Please try after sometime",
+        "dulicateUser": "User is already selected",
+        "dulicateEmail": "Email is already selected"
     },
     "apptocsinglepage": {
         "overview": "Overview",
@@ -340,12 +363,20 @@
         "discussion": "Discussion",
         "summary": "Summary",
         "description": "Description",
+        "viewMore": "view more",
+        "viewLess": "view less",
         "authorsAndCurators": "Authors and curators",
         "author": "Author",
+        "authors": "Authors",
         "curator": "Curator",
+        "curators": "Curators",
         "programDirectorFacilitators": "Program director & facilitators",
         "facilitator": "Facilitator",
         "competencies": "Competencies",
+        "competenciesTooltip": "Competency: Set of demonstrable characteristics and skills that enable and improve the efficiency of performing a job. Behavioural competencies describe the key values and strengths that help an official perform effectively in a range of roles. Domain competencies are defined for a specific MDO (for example, the Ministry of Personnel or the Department of Biotechnology) but that does not mean that others will not need them. Functional competencies are common among many domains, cutting across MDOs, as well as roles and activities.",
+        "noCompetencyFound": "No competencies found",
+        "certificateEarned": "Certificate earned",
+        "anySuggestions": "Do you have any questions, suggestions or, ideas in your mind? Post it.",
         "competency": "Competency",
         "type": "Type",
         "ratingsReviews": "Ratings and reviews",
@@ -358,7 +389,73 @@
         "studyMaterials": "Study materials",
         "Skills": "Skills",
         "preRequisites": "Pre-Requisites",
-        "Topics": "Topics"
+        "Topics": "Topics",
+        "subTheme": "Sub theme",
+        "theme": "Theme",
+        "area": "Area",
+        "batchStartsIn": "This batch starts in",
+        "modules": "Module(s)",
+        "videos": "Video(s)",
+        "interactiveContent": "Interactive Content(s)",
+        "practiceTest": "Practice test(s)",
+        "otherItems": "Other Item(s)",
+        "mostEnrolled": "Most enrolled",
+        "lastUpdatedOn": "Last updated on",
+        "about": "About",
+        "noCompetenciesFound": "No competencies found",
+        "noTagsFound": "No tags found",
+        "discussionLabel": "Do you have any questions, suggestions or, ideas in your mind? Post it",
+        "startDiscussion": "Start discussion",
+        "showAll": "Show all",
+        "tags":"Tags",
+        "rateNow":"Rate Now",
+        "editRating":"Edit Rating",
+        "enroll": "Enroll",
+        "resume":"Resume",
+        "start":"Start",
+        "startAgain":"Start again",
+        "takeTest":"Take Test",
+        "view": "View",
+        "overallProgress":"Overall Progress",
+        "share":"Share",
+        "items": "items",
+        "certificate":"Certificate",
+        "batchStartIn": "This batch starts in",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "by": "By",
+        "batch":"Batch",
+        "batchSize": "Batch size",
+        "totalApplied": "Total applied",
+        "totalEnrolled": "Total enrolled",
+        "batchStartChoose": "Please Choose a batch to start course",
+        "requestToEnroll": "Request to enroll",
+        "enrollError": "You can't enroll into this blended program.",
+        "NA": "NA",
+        "selfPaced": "Self-paced",
+        "instructorLed": "Instructor Led",
+        "timeQuestions": "Time Questions",
+        "questions": "questions",
+        "failed":"Failed",
+        "pass": "Pass",
+        "resultMessage": "You have the opportunity to try again and do better next time. Keep going!",
+        "resultSuccessMessage": "Congratulations on successfully passing the assessment. Good job!",
+        "resultSuccessMessage2": "You have aced the assessment, with flying colours.",
+        "assessmentSubmitMessage": "Assessment has been submitted successfully. Please check back after some time for the result",
+        "connectToAdmin": "Please contact system admin",
+        "resultSuccessMessage3": "Well done, Keep learning!",
+        "question":"Question",
+        "skip": "Skip",
+        "blankExplanation": "Explanation for blank",
+        "flagToolTip": "You can use this Flag icon to postpone attempting a particular question. The flagged question will be highlighted in orange, as a reminder, when you attempt it later.",
+        "explanation": "Explanation",
+        "submit": "Submit",
+        "prev": "Prev",
+        "next": "Next",
+        "tryAgain": "Try Again",
+        "mostTrending": "Most trending",
+        "selfLearning": "Self learning"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -515,7 +612,57 @@
         "showMore": "Show More",
         "showLess": "Show Less",
         "authors": "Authors",
-        "curatorcontact": "Curator/Contact"
+        "curatorcontact": "Curator/Contact",
+        "submitQuiz":"Submit Quiz",
+        "submitConfirmation": "Do you want to submit?",
+        "passed":"Passed",
+        "keepLearning":"Well done, Keep learning!",
+        "congratulations":"Congratulations on successfully passing the assessment, Good job!",
+        "totalQuestions":"Total Questions",
+        "questions":"questions",
+        "performanceSummary":"Your Performance Summary",
+        "acedAssessment":"You have aced the assessment, with flying colours",
+        "tryAgainMessage":"You have the opportunity to try again and do better next time. Keep going!",
+        "submitConfirmationMissedQuestion":"Oops! it looks like a few questions were missed, are you sure you want to submit?",
+        "tryAgain":"Try Again",
+        "failed":"Failed",
+        "previous":"Previous",
+        "next":"Next",
+        "submit":"Submit",
+        "markAsComplete":"Mark as Complete",
+        "completed":"Completed",
+        "flag":"Flag",
+        "question":"Question",
+        "skip": "Skip",
+        "blankExplanation": "Explanation for blank",
+        "flagToolTip": "You can use this Flag icon to postpone attempting a particular question. The flagged question will be highlighted in orange, as a reminder, when you attempt it later.",
+        "explanation": "Explanation",
+        "showAnswer": "Show Answer",
+        "notAnswered": "Not Answered",
+        "finishAssessment": "Finish Assessment",
+        "answered":"Answered",
+        "flagged":"Flagged",
+        "topProgress":"Progress is updated after few minute",
+        "startAssessment":"Start assessment",
+        "startAssessmentSummary1":"Unlimited Retakes are allowed",
+        "startAssessmentSummary2":"If the given time is runs out answer will be autosubmitted",
+        "startAssessmentSummary3":"Skipped questions can be attempted again before submitting",
+        "startAssessmentSummary4":"No negative marking",
+        "startAssessmentSummary5":"Recommend this course to your friends",
+        "rateCourse": "Rate This Course",
+        "rate": "Rate",
+        "editRating":"Edit Rating",
+        "share":"Share",
+        "maxAllowedRetake":"You have exceeded the maximum allowed attempt",
+        "questionCorrectAnswered": "questions correct answered",
+        "questionWrongAnswered": "questions wrong answered",
+        "questionUnAnswered":"unanswered",
+        "calculateResult":"Be patient please, while we calculate your result!",
+        "m": "m",
+        "h": "h",
+        "s" : "s",
+        "items":"items",
+        "finish": "Finish"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",
@@ -540,7 +687,8 @@
         "enrolled": "Enrolled",
         "rejected": "Rejected",
         "totalApplied": "Total applied",
-        "batchSize": "Batch size"
+        "batchSize": "Batch size",
+        "totalEnrolled": "Total Enrolled"
     },
     "certificatedialog": {
         "downloadCertificate": "Download Certificate",
@@ -592,7 +740,47 @@
         "startAssesmentNow": "Start assessment now",
         "youExceededAttempt": "You have exceeded the maximum allowed attempt",
         "summary": "Summary",
-        "pointsToNote": "Points to note"
+        "pointsToNote": "Points to note",
+        "noNegativeMarking": "No negative marking",
+        "assessmentWillHaveTimeDuration": "Assessment will have time duration",
+        "skippedQuestionCanBeAttemptedAgainBeforeSubmitting": "Skipped question can be attempted again before submitting",
+        "nextQuestion": "NEXT QUESTION",
+        "previous": "PREVIOUS",
+        "nextSection": "Next Section",
+        "questions": "Questions",
+        "question": "Question",
+        "of": "of",
+        "explanation": "Explanation",
+        "option": "Option",
+        "hint": "Hint",
+        "checkAnswer": "Check Answer",
+        "instructions": "Instructions",
+        "attemptAllQuestions": "Attempt all questions to finish assessment",
+        "finishAssessment": "Finish assessment",
+        "percentageToPass": "Percentage to pass",
+        "totalQuestions": "Total questions",
+        "completed": "Completed",
+        "incomplete": "Incomplete",
+        "notStarted": "Not Started",
+        "selected": "Selected",
+        "submitQuiz": "Submit Quiz",
+        "answeredMsg": "Do you want to submit?",
+        "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?",
+        "markedMsg": "You still have some questions marked for later! Do you still want to submit?"
+    },
+    "quizresult": {
+        "score": "score",
+        "hurray": "Hurray!",
+        "passMsg1": "You have aced the assessment, with flying colours.",
+        "passMsg2": "Congratulations on successfully passing the assessment. Good job!",
+        "passMsg3": "You have the opportunity to try again and do better next time. Keep going!",
+        "passMdg4": "Well done, Keep learning!",
+        "bePatienWhileWeCalculate": "Be patient please, while we calculate your result!",
+        "submittedSucessfull": "Assessment has been submitted successfully. Please check back after some time for the result",
+        "retry": "Retry",
+        "pleaseContactSystemAdmin": "Please contact system admin",
+        "yourPerformanceSummary": "Your Performance Summary",
+        "retakeAssessment": "Retake assessment"
     },
     "network": {
         "networkHome": "Network home",
@@ -613,7 +801,11 @@
     },
     "connectionPeopleCard": {
         "connect": "Connect",
-        "connectionSent": "Connection sent"
+        "connectionSent": "Connection sent",
+        "connectionSentSuccessfully": "Connection sent successfully!",
+        "connectionReceived": "Connection received",
+        "connected": "Connected"
+
     },
     "connectionHoverCard": {
         "networkProfile" : "Network Profile"
@@ -636,7 +828,7 @@
         "curatedEvents": "Curated events",
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
-        "karmayogitalks": "Karmayogi Talks"
+        "karmayogiTalks": "Karmayogi Talks"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -702,11 +894,11 @@
         "sidepanelCategories":"Categories",
         "sidepanelTags":"Tags",
         "sidepanelMyDiscuss":"My Discussions",
-        "startDiscuss":"Start Discusion",
+        "startDiscuss":"Start Discussion",
         "startDiscussQues":"Question is mandatory",
         "descMandatory":"Description is mandatory",
         "btnSubmitPost":"Submit post",
-        "comments":"comments",
+        "comments":"Comments",
         "yourAnswerHere":"Your answer here",
         "thisIsMandatory":"This is mandatory",
         "postReply":"Post reply",
@@ -782,7 +974,7 @@
         "comingSoon": "Feature coming soon."
     },
     "privacySettings": {
-        "privacyHeader": "privacy Settings",
+        "privacyHeader": "Privacy Settings",
         "comingSoon": "Feature coming soon."
     },
     "settingLeftMenu": {
@@ -955,7 +1147,11 @@
         "showAll": "Show all",
         "noKarmaPoints": "No karma points information available",
         "bonus": "BONUS",
-        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs."
+        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs.",
+        "courseCompletion": "Course Completion",
+        "courseRating": "Course Rating",
+        "firstLogin": "First Login",
+        "firstEnrollment": "First Enrollment"
     },
     "appKarmapointsPanel": {
         "earn": "Earn",
@@ -971,7 +1167,10 @@
         "rateThis": ", rate this course!",
         "rateTip": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE.",
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
-        "acbpTip": "This is an ACBP course. Please note that it is mandatory to follow the schedule; this is linked to your Karma Points. Please refer to the FAQs for more details."
+        "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",
+        "completeBeforeText": "Congrats! You've completed the course and earned",
+        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
     },
     "publicHome": {
         "mainSectionContent":"Learn. Network. Grow your career.",
@@ -998,7 +1197,7 @@
         "igotWalkthrough":"Gain skills to rocket your career growth. Connect with civil servants and experts to learn and discover new opportunities in the Indian civil services.",
         "growSection":"Learn. Network. Take your career growth to the next level."
     },
-    "home":{
+    "home": {
         "learnHub":"Go to learn hub",
         "updateTitle":"Update your mobile number",
         "updateMobile":"Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1052,7 +1251,7 @@
         "discussionMonthsAgo":"months ago",
         "networkRecentReq":"Recent requests",
         "networkBuildConn":"Built your connections within your department and other departments.",
-        "networkFindConn":"Find COnnections",
+        "networkFindConn":"Find Connections",
         "topProviderSliders":"Top providers powering your learning",
         "nudgesText":"Update your mobile number",
         "nudgesButton":"Update",
@@ -1074,7 +1273,18 @@
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
+        "today'sEvents": "Today's events"
+    },
+    "homeotherportals": {
+        "otherPortals": "Other Portals You Have Access To",
+        "mdoPortal": "MDO portal",
+        "manageMdoUserAccess,WorkOrdersAndEvents.": "Manage MDO user access, work orders and events.",
+        "cbpPortal": "CP portal",
+        "createAndManageCbpsHere.": "Create and manage CPs here.",
+        "spvPortal": "SPV portal",
+        "createAndManageSpv'sHere.": "Create and manage SPV's here."
     },
     "profileCardStats": {
         "inProgress": "In Progress",
@@ -1263,7 +1473,8 @@
         "schoolNamePlaceholder": "Enter School Name",
         "otherGraduationDegreePlaceholder": "Enter Other Graduation Degree",
         "instituteNamePlaceholder": "Enter Institute Name",
-        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree"
+        "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree",
+        "inReview!": "In Review!"
     },
     "profileDropdown": {
         "signOut": "Sign-out",
@@ -1312,9 +1523,13 @@
         "resendOTPAfter": "Resend OTP after",
         "resendOTP": "Resend OTP",
         "verifyOTP": "Verify OTP",
+        "pleaseEnterValidOtp": "Please enter a valid OTP.",
+        "anOtpHasBeenSentToEmail": "An OTP has been sent to your email address (valid for 15 minutes)",
+        "anOtpHasBeenSentToMobile": "An OTP has been sent to your mobile number (valid for 15 minutes)",
         "mobileNumber": "Mobile Number",
         "pleaseEnterMobileNumber": "Please enter your mobile number",
         "validMobilenumber": "Please enter a valid 10 digit mobile number",
+        "pleaseEnterValidMobileNumber": "Please enter a valid mobile number",
         "mobileOtp": "Mobile otp is required",
         "centerOrState": "Center/State",
         "center": "Center",
@@ -1394,9 +1609,22 @@
         "course": "Course",
         "learningResource": "Learning Resource",
         "standaloneAssessment": "Standalone Assessment",
+        "moderatedCourse": "Moderated Course",
         "moderatedCourses": "Moderated Courses",
+        "moderatedProgram": "Moderated Program",
+        "moderatedAssessment": "Moderated Assessment",
         "blendedProgram": "Blended Program",
-        "curatedProgram": "Curated Program"
+        "curatedProgram": "Curated Program",
+        "curatedCollections": "Curated Collections",
+        "upcoming7Days": "Upcoming 7 Days",
+        "upcoming30Days": "Upcoming 30 Days",
+        "upcoming3Months": "Upcoming 3 Months",
+        "upcoming6Months": "Upcoming 6 Months",
+        "lastWeek": "Last week",
+        "lastMonth": "Last month",
+        "last3Months": "Last 3 months",
+        "last6Months": "Last 6 months",
+        "lastYear": "Last year"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
@@ -1524,7 +1752,7 @@
     },
     "dialogconfirm" : {
         "yes" : "Yes",
-        "no": "NO"
+        "no": "No"
     },
     "dialogbox": {
         "whatIsActivity?": "What is an activity?",
@@ -1699,7 +1927,7 @@
         "mHomeDiscussionMonthsAgo":"months ago",
         "mHomeNetworkRecentReq":"Recent requests",
         "mHomeNetworkBuildConn":"Built your connections within your department and other departments.",
-        "mHomeNetworkFindConn":"Find COnnections",
+        "mHomeNetworkFindConn":"Find Connections",
         "mHomeTopProviderSliders":"Top providers powering your learning",
         "mHomeScannerDownload":"Download",
         "mHomeScannerIgotKarmyogiApp":"iGOT Karmayogi mobile app",

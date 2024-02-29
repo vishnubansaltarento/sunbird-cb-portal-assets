@@ -26,6 +26,7 @@
   "rootOrg": "igot",
   "defaultFontSize": "theme-igot",
   "defaultLocale": "",
+  "isMultilingualEnabled": false,
   "defaultThemeClass": "theme-igot",
   "details": {
     "appName": "Karmayogi Bharat"

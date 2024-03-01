@@ -1483,7 +1483,17 @@
         "otherGraduationDegreePlaceholder": "Enter Other Graduation Degree",
         "instituteNamePlaceholder": "Enter Institute Name",
         "otherPostGraduationDegreePlaceholder": "Enter Other Post Graduation Degree",
-        "inReview!": "In Review!"
+        "inReview!": "In Review!",
+        "updatePrimaryEmail": "Update primary email",
+        "EnterNewEmail": "Enter new email",
+        "pleaseEnterEmail": "Please enter your email",
+        "enterValidEmail": "Please enter a valid email",
+        "typeHere": "Type here",
+        "enterOTP":"Enter OTP",
+        "cancel": "Cancel",
+        "submit": "Submit",
+        "resend": "Resend"
+
     },
     "profileDropdown": {
         "signOut": "Sign-out",

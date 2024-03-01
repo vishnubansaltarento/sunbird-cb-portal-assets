@@ -1372,7 +1372,16 @@
     "otherGraduationDegreePlaceholder": "अन्य स्नातक डिग्री दर्ज करें",
     "instituteNamePlaceholder": "संस्थान का नाम दर्ज करें",
     "otherPostGraduationDegreePlaceholder": "अन्य स्नातकोत्तर डिग्री दर्ज करें",
-    "inReview!": "समीक्षा में!"
+    "inReview!": "समीक्षा में!",
+    "updatePrimaryEmail": "Update primary email -hi",
+    "EnterNewEmail": "Enter new email -hi",
+    "pleaseEnterEmail": "Please enter your email -hi",
+    "enterValidEmail": "Please enter a valid email -hi",
+    "typeHere": "Type here -hi",
+    "enterOTP":"Enter OTP -hi",
+    "cancel": "Cancel -hi",
+    "submit": "Submit -hi",
+    "resend": "Resend -hi"
   },
   "profileDropdown": {
     "signOut": "साइन आउट करें",

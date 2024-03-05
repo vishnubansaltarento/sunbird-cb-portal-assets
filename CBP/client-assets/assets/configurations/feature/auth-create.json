@@ -207,7 +207,7 @@
     "id": "course",
     "isCollection": true,
     "name": "Course",
-    "description": "Create <b>Course</b> and <b>Moderated</b> course with a collection of modules and resources.",
+    "description": "Create <b>Course</b> and <b>Moderated course</b> with a collection of modules and resources.",
     "icon": "video_library",
     "contentType": "Course",
     "available": true,
@@ -290,7 +290,7 @@
     "id": "learningPath",
     "isCollection": true,
     "name": "Program",
-    "description": "Create <b>Curated</b>, <b>Moderated<b>, <b>Invite only</b> and <b>Blended Program</b> with curation of open courses (Means which is accessible to all). <b>Note:</b>  Only in Moderated Program, you can add Moderated Courses as well.",
+    "description": "Create <b>Curated</b>, <b>Moderated</b>, <b>Invite only</b> and <b>Blended Program</b> with curation of open courses (Means which is accessible to all). <b>Note:</b>  Only in Moderated Program, you can add Moderated Courses as well.",
     "icon": "library_books",
     "contentType": "Course",
     "available": true,
@@ -431,7 +431,7 @@
     "primaryCategory": "Standalone Assessment",
     "possion": 3,
     "details": {
-      "title": "Welcome to the assessement creation.",
+      "title": "Welcome to the assessment creation.",
       "createTitle": "Assessment",
       "subTitle": "Create Standalone and Moderated assessment.",
       "points": []

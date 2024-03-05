@@ -21,10 +21,10 @@
         "enabled": false
     },
     {
-        "name": "CBP Report",
+        "name": "Content Report",
         "type": "course-report",
         "reportType": "Detailed data report",
-        "downloadReportFileName":"CBPReport",
+        "downloadReportFileName":"ContentReport",
         "enabled": true
     },
     {
@@ -59,7 +59,7 @@
         "name": "Content Competency Mapping Report",
         "type": "kcm-report",
         "reportType": "Detailed data report",
-        "downloadReportFileName":"ContentCompetencyMappingReport",
+        "downloadReportFileName":"ContentCompetencyMapping",
         "enabled": true
     }
 ]

@@ -93,7 +93,7 @@
                         "enabled": false,
                         "uri": ""
                     },
-                    "enabled": true,
+                    "enabled": false,
                     "customRouting": false,
                     "paramaterName": "",
                     "routerLink": "/author/competencies"

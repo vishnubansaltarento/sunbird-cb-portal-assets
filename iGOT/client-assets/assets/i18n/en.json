@@ -2969,5 +2969,9 @@
         "mStaticTimings": "9:00 AM to 5:00 PM",
         "mStaticNationalprogram": "National Program for Civil Services Capacity Building",
         "mStaticWelcomeintrotext": "National Programme for Civil Services Capacity Building, aptly named as Mission Karmayogi, aims to create a professional, well-trained and future-looking civil service."
+    },
+    "gyaanKarmayogi":{
+        "title":"Gyaan Karmayogi",
+        "description":"Discover resources to boost your progress and enhance your learning experience and professional performance."
     }
 }

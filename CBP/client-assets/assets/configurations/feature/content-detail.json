@@ -84,7 +84,7 @@
                         "enabled": false,
                         "uri": ""
                     },
-                    "enabled": false,
+                    "enabled": true,
                     "customRouting": true,
                     "paramaterName": "contentId",
                     "routerLink": "/author/content-detail/<param>/insights"

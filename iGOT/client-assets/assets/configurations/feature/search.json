@@ -81,37 +81,37 @@
           "ischecked": false
         },
         {
-          "name": "learningResource",
+          "name": "Learning Resource",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "standaloneAssessment",
+          "name": "Standalone Assessment",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "moderatedCourse",
+          "name": "Moderated Course",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "moderatedProgram",
+          "name": "Moderated Program",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "moderatedAssessment",
+          "name": "Moderated Assessment",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "blendedProgram",
+          "name": "Blended Program",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "curatedProgram",
+          "name": "Curated Program",
           "count": 0,
           "ischecked": false
         }

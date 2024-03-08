@@ -1781,6 +1781,16 @@
         "weeks": "weeks",
         "leaderboard": "Leaderboard"
     },
+    "learnerLeaderboard": {
+        "toolTip": "The learner leaderboard is calculated based on the Karma Points earned in a month and updated on the 1st of every month.",
+        "title": "Top Karmayogis in your department:",
+        "yourAreIn": "You were in",
+        "positionMastMonth": "position last month.",
+        "overlayText1": "Your dedication to learning is impressive! Congratulations on reaching the",
+        "overlayText2": "rank this month, which is",
+        "overlayText3": "levels higher than your previous ranking.",
+        "rank": "rank"
+    },
     "hubsdesc": {
         "learnDesc": "Sharpen your skills with hundreds-of online courses.",
         "discussDesc": "Have a question? Have an Idea? discuss with your peers.",

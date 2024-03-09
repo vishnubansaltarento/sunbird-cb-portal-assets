@@ -1776,6 +1776,25 @@
     {
       "active": true,
       "banners":{
+        "l": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/6/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png"
+      },
+      "redirectUrl": "/app/toc/do_113999610240630784110/overview",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    },
+    {
+      "active": true,
+      "banners":{
         "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
         "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",

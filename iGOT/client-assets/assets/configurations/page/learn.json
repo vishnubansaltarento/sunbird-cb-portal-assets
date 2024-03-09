@@ -164,7 +164,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Moderated Courses.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">Moderated Courses, Moderated Programs and Moderated Assessments for you.</p>"
                         }
                       }
                     },
@@ -1045,8 +1045,14 @@
     },
     {
       "icon": "video_library",
-      "name": "Moderated courses",
-      "route": "/app/globalsearch"
+      "name": "Moderated contents",
+      "route": "/app/globalsearch",
+      "queryParams": {
+        "tab": "Learn",
+        "q": "",
+        "p": "Trending",
+        "f": "{\"primaryCategory\": [\"Moderated Course\",\"Moderated Program\",\"Moderated Assessment\"], \"contentType\": [\"Moderated Courses\"]}"
+      }
     }
   ]
 }

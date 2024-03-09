@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>resource</title>
+    <g id="Assesst-for-download-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skeleton-Review-see-all" transform="translate(-791, -518)" fill-rule="nonzero">
+            <g id="resource" transform="translate(791, 518)">
+                <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M4,1.33333333 C3.26666667,1.33333333 2.67333333,1.93333333 2.67333333,2.66666667 L2.66666667,13.3333333 C2.66666667,14.0666667 3.26,14.6666667 3.99333333,14.6666667 L12,14.6666667 C12.7333333,14.6666667 13.3333333,14.0666667 13.3333333,13.3333333 L13.3333333,5.88666667 C13.3333333,5.53333333 13.1933333,5.19333333 12.94,4.94666667 L9.72,1.72666667 C9.47333333,1.47333333 9.13333333,1.33333333 8.78,1.33333333 L4,1.33333333 Z M8.66666667,5.33333333 L8.66666667,2.33333333 L12.3333333,6 L9.33333333,6 C8.96666667,6 8.66666667,5.7 8.66666667,5.33333333 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

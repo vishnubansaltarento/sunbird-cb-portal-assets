@@ -457,7 +457,8 @@
         "next": "Next",
         "tryAgain": "Try Again",
         "mostTrending": "Most trending",
-        "selfLearning": "Self learning"
+        "selfLearning": "Self learning",
+        "completedCourse": "You completed this course on"
     },
     "ratingsummary": {
         "ratings": "ratings",

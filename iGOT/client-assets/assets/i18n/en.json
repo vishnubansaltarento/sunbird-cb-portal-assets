@@ -420,7 +420,7 @@
         "view": "View",
         "overallProgress":"Overall Progress",
         "share":"Share",
-        "items": "items",
+        "items": "Items",
         "certificate":"Certificate",
         "batchStartIn": "This batch starts in",
         "days": "Days",
@@ -457,8 +457,7 @@
         "next": "Next",
         "tryAgain": "Try Again",
         "mostTrending": "Most trending",
-        "selfLearning": "Self learning",
-        "completedCourse": "You completed this course on"
+        "selfLearning": "Self learning"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -664,8 +663,9 @@
         "m": "m",
         "h": "h",
         "s" : "s",
-        "items":"items",
-        "finish": "Finish"
+        "items":"Items",
+        "finish": "Finish",
+        "showAnswerAlert":"Please give your answer before showing the answer"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",

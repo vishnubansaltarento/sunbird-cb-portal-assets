@@ -663,7 +663,8 @@
     "h": "एच.",
     "s": "एस.",
     "items": "वस्तुएँ",
-    "finish": "समाप्त करें।"
+    "finish": "समाप्त करें।",
+    "showAnswerAlert":"Please give your answer before showing the answer-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "अंतिम बार अद्यतन किया गया",

@@ -662,7 +662,8 @@
     "h": "એચ.",
     "s": "એસ.",
     "items": "વસ્તુઓ",
-    "finish": "સમાપ્ત કરો"
+    "finish": "સમાપ્ત કરો",
+    "showAnswerAlert":"Please give your answer before showing the answer-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "છેલ્લું અપડેટ થયું",

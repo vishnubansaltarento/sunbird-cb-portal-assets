@@ -644,7 +644,7 @@
         "finishAssessment": "Finish Assessment",
         "answered":"Answered",
         "flagged":"Flagged",
-        "topProgress":"Progress is updated after few minute",
+        "topProgress":"Track your progress here (Updates within a minute).",
         "startAssessment":"Start assessment",
         "startAssessmentSummary1":"Unlimited Retakes are allowed",
         "startAssessmentSummary2":"If the given time is runs out answer will be autosubmitted",

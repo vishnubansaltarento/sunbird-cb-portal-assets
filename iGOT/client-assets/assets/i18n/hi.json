@@ -1048,7 +1048,8 @@
     "courseCompletion": "पाठ्यक्रम समापन",
     "courseRating": "पाठ्यक्रम मूल्यांकन",
     "firstLogin": "पहले लॉगइन करें",
-    "firstEnrollment": "पहला नामांकन"
+    "firstEnrollment": "पहला नामांकन",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -HI"
   },
   "appKarmapointsPanel": {
     "earn": "कमाई करें।",

@@ -1814,25 +1814,6 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
-      },
-      "redirectUrl": "/app/globalsearch",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
-    },
-    {
-      "active": true,
-      "banners": {
         "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
         "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
@@ -1848,26 +1829,6 @@
         "f": "{}"
       },
       "title": "" 
-    },
-
-    {
-      "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/3/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png"
-      },
-      "redirectUrl": "",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
     }
   ],
   "clientList": [

@@ -455,7 +455,8 @@
     "next": "अगला",
     "tryAgain": "फिर से कोशिश करें।",
     "mostTrending": "सबसे अधिक चलन में",
-    "selfLearning": "स्वयं सीखना"
+    "selfLearning": "स्वयं सीखना",
+    "completedCourse": "You completed this course on - HI"
   },
   "ratingsummary": {
     "ratings": "रेटिंग्स",
@@ -642,7 +643,7 @@
     "finishAssessment": "मूल्यांकन समाप्त करें",
     "answered": "जवाब दिया।",
     "flagged": "फ्लैग किया गया",
-    "topProgress": "प्रगति को कुछ मिनटों के बाद अद्यतन किया जाता है",
+    "topProgress": "Track your progress here (Updates within a minute)-HI",
     "startAssessment": "मूल्यांकन शुरू करें",
     "startAssessmentSummary1": "अनलिमिटेड रीटेक की अनुमति है।",
     "startAssessmentSummary2": "यदि दिया गया समय समाप्त हो जाता है तो उत्तर स्वतः प्रस्तुत किया जाएगा।",
@@ -662,7 +663,8 @@
     "h": "एच.",
     "s": "एस.",
     "items": "वस्तुएँ",
-    "finish": "समाप्त करें।"
+    "finish": "समाप्त करें।",
+    "showAnswerAlert":"Please give your answer before showing the answer-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "अंतिम बार अद्यतन किया गया",
@@ -810,6 +812,9 @@
   },
   "connectionHoverCard": {
     "networkProfile": "नेटवर्क प्रोफाइल"
+  },
+  "janKarmayogi": {
+    "JanTitle": "To enhance the capacity of government officials at the last mile through functional, behavioral and domain competency courses, and other learning resources, to ensure efficient, transparent, and responsive services to citizens.- hi"
   },
   "event": {
     "labelTodayEvent": "आज की घटनाएँ",
@@ -1152,7 +1157,8 @@
     "courseCompletion": "पाठ्यक्रम समापन",
     "courseRating": "पाठ्यक्रम मूल्यांकन",
     "firstLogin": "पहले लॉगइन करें",
-    "firstEnrollment": "पहला नामांकन"
+    "firstEnrollment": "पहला नामांकन",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -HI"
   },
   "appKarmapointsPanel": {
     "earn": "कमाई करें।",

@@ -1150,7 +1150,8 @@
     "courseCompletion": "కోర్సు పూర్తి",
     "courseRating": "కోర్సు రేటింగ్",
     "firstLogin": "మొదటి లాగిన్",
-    "firstEnrollment": "మొదటి నమోదు"
+    "firstEnrollment": "మొదటి నమోదు",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -TE"
   },
   "appKarmapointsPanel": {
     "earn": "సంపాదించండి.",

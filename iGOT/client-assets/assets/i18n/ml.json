@@ -1150,7 +1150,8 @@
     "courseCompletion": "കോഴ്സ് പൂർത്തീകരണം",
     "courseRating": "കോഴ്സ് റേറ്റിംഗ്",
     "firstLogin": "ആദ്യം ലോഗിൻ ചെയ്യുക",
-    "firstEnrollment": "ആദ്യ എൻറോൾമെന്റ്"
+    "firstEnrollment": "ആദ്യ എൻറോൾമെന്റ്",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -ML"
   },
   "appKarmapointsPanel": {
     "earn": "സമ്പാദിക്കുക.",

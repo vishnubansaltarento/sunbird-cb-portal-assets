@@ -642,7 +642,7 @@
     "finishAssessment": "મૂલ્યાંકન પૂર્ણ કરો",
     "answered": "જવાબ આપ્યો",
     "flagged": "ધ્વજાંકિત",
-    "topProgress": "થોડી મિનિટો પછી પ્રગતિ અપડેટ થાય છે",
+    "topProgress": "Track your progress here (Updates within a minute)-GU",
     "startAssessment": "મૂલ્યાંકન શરૂ કરો",
     "startAssessmentSummary1": "અમર્યાદિત રીટેકની મંજૂરી છે",
     "startAssessmentSummary2": "જો આપેલો સમય પૂરો થઈ જશે તો જવાબ આપમેળે સબમિટ થઈ જશે.",
@@ -662,7 +662,8 @@
     "h": "એચ.",
     "s": "એસ.",
     "items": "વસ્તુઓ",
-    "finish": "સમાપ્ત કરો"
+    "finish": "સમાપ્ત કરો",
+    "showAnswerAlert":"Please give your answer before showing the answer-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "છેલ્લું અપડેટ થયું",
@@ -1152,7 +1153,8 @@
     "courseCompletion": "અભ્યાસક્રમ પૂર્ણ કરો",
     "courseRating": "અભ્યાસક્રમનું મૂલ્યાંકન",
     "firstLogin": "પ્રથમ પ્રવેશ",
-    "firstEnrollment": "પ્રથમ નોંધણી"
+    "firstEnrollment": "પ્રથમ નોંધણી",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -GU"
   },
   "appKarmapointsPanel": {
     "earn": "કમાણી કરો",

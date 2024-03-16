@@ -815,6 +815,9 @@
     "connectionHoverCard": {
         "networkProfile" : "Network Profile"
     },
+    "janKarmayogi": {
+        "JanTitle": "To enhance the capacity of government officials at the last mile through functional, behavioral and domain competency courses, and other learning resources, to ensure efficient, transparent, and responsive services to citizens."
+    },
     "event": {
         "labelTodayEvent" : "Today's Events",
         "noEvent" : "No Event",
@@ -1152,11 +1155,12 @@
         "showAll": "Show all",
         "noKarmaPoints": "No karma points information available",
         "bonus": "BONUS",
-        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs.",
+        "tooltip": "Karma Points are a reward for a high learning engagement activity at iGOT. This section displays your point collection history for the past three months only. For more information visit Karma Points FAQs.",
         "courseCompletion": "Course Completion",
         "courseRating": "Course Rating",
         "firstLogin": "First Login",
-        "firstEnrollment": "First Enrollment"
+        "firstEnrollment": "First Enrollment",
+        "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only."
     },
     "appKarmapointsPanel": {
         "earn": "Earn",

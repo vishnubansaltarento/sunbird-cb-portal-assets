@@ -1150,7 +1150,8 @@
     "courseCompletion": "ପାଠ୍ଯ଼କ୍ରମ ସମାପ୍ତି",
     "courseRating": "ପାଠ୍ଯ଼କ୍ରମ ମୂଲ୍ଯ଼ାଯ଼ନ",
     "firstLogin": "ପ୍ରଥମେ ଲଗ୍ଇନ୍ କରନ୍ତୁ",
-    "firstEnrollment": "ପ୍ରଥମ ପଞ୍ଜୀକରଣ"
+    "firstEnrollment": "ପ୍ରଥମ ପଞ୍ଜୀକରଣ",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -OD"
   },
   "appKarmapointsPanel": {
     "earn": "ରୋଜଗାର କରନ୍ତୁ।",

@@ -1153,7 +1153,8 @@
     "courseCompletion": "અભ્યાસક્રમ પૂર્ણ કરો",
     "courseRating": "અભ્યાસક્રમનું મૂલ્યાંકન",
     "firstLogin": "પ્રથમ પ્રવેશ",
-    "firstEnrollment": "પ્રથમ નોંધણી"
+    "firstEnrollment": "પ્રથમ નોંધણી",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -GU"
   },
   "appKarmapointsPanel": {
     "earn": "કમાણી કરો",

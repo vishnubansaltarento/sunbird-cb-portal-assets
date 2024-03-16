@@ -1152,7 +1152,8 @@
     "courseCompletion": "কোর্স সমাপ্তি",
     "courseRating": "কোর্স রেটিং",
     "firstLogin": "প্রথমে লগইন করুন",
-    "firstEnrollment": "প্রথম নথিভুক্তিকরণ"
+    "firstEnrollment": "প্রথম নথিভুক্তিকরণ",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -BE"
   },
   "appKarmapointsPanel": {
     "earn": "উপার্জন করুন।",

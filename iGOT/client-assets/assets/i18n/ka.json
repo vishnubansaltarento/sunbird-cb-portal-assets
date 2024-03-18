@@ -1150,7 +1150,8 @@
     "courseCompletion": "ಕೋರ್ಸ್ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ",
     "courseRating": "ಕೋರ್ಸ್ ರೇಟಿಂಗ್",
     "firstLogin": "ಮೊದಲ ಲಾಗಿನ್",
-    "firstEnrollment": "ಮೊದಲ ನೋಂದಣಿ"
+    "firstEnrollment": "ಮೊದಲ ನೋಂದಣಿ",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -KA"
   },
   "appKarmapointsPanel": {
     "earn": "ಗಳಿಸಿ.",

@@ -48,9 +48,9 @@
         "yourActionIsSuccessful": "Your action is successful",
         "noSearchResultFound":"No search results found!",
         "noUserFound" : "No users found!",
-        "showAll":"Show All",
-        "peopleYouMayKnow":"People you may know",
-        "seeMore":"See More",
+        "showAll": "Show All",
+        "peopleYouMayKnow": "People you may know",
+        "seeMore": "See More",
         "noConnectionFound":"No connection found",
         "searchResult":"Search Results !",
         "moRecommUser" : "No recommended users!",
@@ -457,7 +457,8 @@
         "next": "Next",
         "tryAgain": "Try Again",
         "mostTrending": "Most trending",
-        "selfLearning": "Self learning"
+        "selfLearning": "Self learning",
+        "completedCourse": "You completed this course on"
     },
     "ratingsummary": {
         "ratings": "ratings",

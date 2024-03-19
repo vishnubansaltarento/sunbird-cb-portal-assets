@@ -1651,7 +1651,8 @@
         "lastMonth": "Last month",
         "last3Months": "Last 3 months",
         "last6Months": "Last 6 months",
-        "lastYear": "Last year"
+        "lastYear": "Last year",
+        "invite-onlyProgram": "Invite only Program"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

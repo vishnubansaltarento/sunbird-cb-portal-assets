@@ -1150,7 +1150,8 @@
     "courseCompletion": "পাঠ্যক্ৰমৰ সমাপ্তি",
     "courseRating": "পাঠ্যক্ৰমৰ ৰেটিং",
     "firstLogin": "প্ৰথমে লগইন কৰক",
-    "firstEnrollment": "প্ৰথম পঞ্জীয়ন"
+    "firstEnrollment": "প্ৰথম পঞ্জীয়ন",
+    "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only. -AS"
   },
   "appKarmapointsPanel": {
     "earn": "উপার্জন কৰক",

@@ -420,7 +420,7 @@
         "view": "View",
         "overallProgress":"Overall Progress",
         "share":"Share",
-        "items": "items",
+        "items": "Items",
         "certificate":"Certificate",
         "batchStartIn": "This batch starts in",
         "days": "Days",
@@ -644,7 +644,7 @@
         "finishAssessment": "Finish Assessment",
         "answered":"Answered",
         "flagged":"Flagged",
-        "topProgress":"Progress is updated after few minute",
+        "topProgress":"Track your progress here (Updates within a minute).",
         "startAssessment":"Start assessment",
         "startAssessmentSummary1":"Unlimited Retakes are allowed",
         "startAssessmentSummary2":"If the given time is runs out answer will be autosubmitted",
@@ -663,8 +663,9 @@
         "m": "m",
         "h": "h",
         "s" : "s",
-        "items":"items",
-        "finish": "Finish"
+        "items":"Items",
+        "finish": "Finish",
+        "showAnswerAlert":"Please give your answer before showing the answer"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",
@@ -813,6 +814,9 @@
     },
     "connectionHoverCard": {
         "networkProfile" : "Network Profile"
+    },
+    "janKarmayogi": {
+        "JanTitle": "To enhance the capacity of government officials at the last mile through functional, behavioral and domain competency courses, and other learning resources, to ensure efficient, transparent, and responsive services to citizens."
     },
     "event": {
         "labelTodayEvent" : "Today's Events",
@@ -1151,11 +1155,12 @@
         "showAll": "Show all",
         "noKarmaPoints": "No karma points information available",
         "bonus": "BONUS",
-        "tooltip": "Karma Points are a reward for high learning engagement at iGOT. For more information, visit Karma Points FAQs.",
+        "tooltip": "Karma Points are a reward for a high learning engagement activity at iGOT. This section displays your point collection history for the past three months only. For more information visit Karma Points FAQs.",
         "courseCompletion": "Course Completion",
         "courseRating": "Course Rating",
         "firstLogin": "First Login",
-        "firstEnrollment": "First Enrollment"
+        "firstEnrollment": "First Enrollment",
+        "karmaPointHistoryMessage": "Karma Points history is available for last 3 months only."
     },
     "appKarmapointsPanel": {
         "earn": "Earn",
@@ -1646,7 +1651,8 @@
         "lastMonth": "Last month",
         "last3Months": "Last 3 months",
         "last6Months": "Last 6 months",
-        "lastYear": "Last year"
+        "lastYear": "Last year",
+        "invite-onlyProgram": "Invite only Program"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

@@ -20,6 +20,7 @@
       "activities"
     ],
     "enabled": true,
+    "isStandalone": true,
     "possion": 4,
     "details": {
       "title": "Welcome to the resource creation section.",
@@ -62,7 +63,11 @@
         "enabled": true
       }
     ],
-    "resourceSubtitle": "Select what type of resource  you want to add."
+    "resourceSubtitle": "Select what type of resource  you want to add.",
+    "showFor": [
+      "Course",
+      "Blended Program"
+    ]
   },
   {
     "id": "upload",

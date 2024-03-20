@@ -658,6 +658,8 @@
         "maxAllowedRetake":"You have exceeded the maximum allowed attempt",
         "questionCorrectAnswered": "questions correct answered",
         "questionWrongAnswered": "questions wrong answered",
+        "questionCorrectAnsweredSingle": "question correct answered",
+        "questionWrongAnsweredSingle": "question wrong answered",
         "questionUnAnswered":"unanswered",
         "calculateResult":"Be patient please, while we calculate your result!",
         "m": "m",
@@ -665,7 +667,9 @@
         "s" : "s",
         "items":"Items",
         "finish": "Finish",
-        "showAnswerAlert":"Please give your answer before showing the answer"
+        "showAnswerAlert":"Please give your answer before showing the answer",
+        "openPDF":"Open PDF",
+        "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",

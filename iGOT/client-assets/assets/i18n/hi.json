@@ -657,6 +657,8 @@
     "maxAllowedRetake": "आपने अधिकतम स्वीकृत प्रयास को पार कर लिया है।",
     "questionCorrectAnswered": "प्रश्नों के सही उत्तर दिए गए",
     "questionWrongAnswered": "गलत जवाब दिए गए सवाल",
+    "questionCorrectAnsweredSingle": "question correct answered-HI",
+    "questionWrongAnsweredSingle": "question wrong answered-HI",
     "questionUnAnswered": "अनुत्तरित",
     "calculateResult": "कृपया धैर्य रखें, जब हम आपके परिणाम की गणना करते हैं!",
     "m": "एम.",
@@ -664,7 +666,9 @@
     "s": "एस.",
     "items": "वस्तुएँ",
     "finish": "समाप्त करें।",
-    "showAnswerAlert":"Please give your answer before showing the answer-HI"
+    "showAnswerAlert":"Please give your answer before showing the answer-HI",
+    "openPDF":"Open PDF-HI",
+    "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "अंतिम बार अद्यतन किया गया",

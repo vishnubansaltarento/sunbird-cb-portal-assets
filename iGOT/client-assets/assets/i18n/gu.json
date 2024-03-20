@@ -656,6 +656,8 @@
     "maxAllowedRetake": "તમે મહત્તમ માન્ય પ્રયાસને વટાવી દીધો છે",
     "questionCorrectAnswered": "પ્રશ્નોના સાચા જવાબ",
     "questionWrongAnswered": "પ્રશ્નોના ખોટા જવાબ",
+    "questionCorrectAnsweredSingle": "question correct answered-GU",
+    "questionWrongAnsweredSingle": "question wrong answered-GU",
     "questionUnAnswered": "અનુત્તરિત",
     "calculateResult": "કૃપા કરીને ધીરજ રાખો, જ્યારે અમે તમારા પરિણામની ગણતરી કરીએ છીએ!",
     "m": "એમ.",
@@ -663,7 +665,9 @@
     "s": "એસ.",
     "items": "વસ્તુઓ",
     "finish": "સમાપ્ત કરો",
-    "showAnswerAlert":"Please give your answer before showing the answer-HI"
+    "showAnswerAlert":"Please give your answer before showing the answer-GU",
+    "openPDF":"Open PDF-GU",
+    "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-GU"
   },
   "apptoc": {
     "lastUpdatedOn": "છેલ્લું અપડેટ થયું",

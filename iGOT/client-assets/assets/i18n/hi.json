@@ -547,6 +547,7 @@
     "noActiveBatches": "कोई सक्रिय बैच नहीं!!!",
     "batchWillStart": "बैच शुरू हो जाएगा।",
     "takeTest": "टेस्ट लें।",
+    "takeTestAgain": "Take test again - HI",
     "requestUnderReview": "अनुरोध की समीक्षा चल रही है",
     "register": "रजिस्टर करें।",
     "contentExpiredDeleted": "सामग्री समाप्त हो गई है या हटा दी गई है।",

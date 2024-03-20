@@ -549,6 +549,7 @@
         "noActiveBatches": "No Active Batches!!.",
         "batchWillStart": "Batch will start",
         "takeTest": "Take test",
+        "takeTestAgain": "Take test again",
         "requestUnderReview": "Request under review",
         "register": "Register",
         "contentExpiredDeleted": "The content is expired or deleted.",

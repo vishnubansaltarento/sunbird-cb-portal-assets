@@ -669,7 +669,10 @@
     "finish": "समाप्त करें।",
     "showAnswerAlert":"Please give your answer before showing the answer-HI",
     "openPDF":"Open PDF-HI",
-    "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-HI"
+    "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-HI",
+    "assessmentBackConfirm": "Are you sure you want to exit the assessment-HI",
+    "assessmentBackConfirmBtn": "Confirm-HI",
+    "assessmentBackCancelBtn": "Cancel-HI"
   },
   "apptoc": {
     "lastUpdatedOn": "अंतिम बार अद्यतन किया गया",

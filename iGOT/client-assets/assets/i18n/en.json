@@ -672,7 +672,10 @@
         "finish": "Finish",
         "showAnswerAlert":"Please give your answer before showing the answer",
         "openPDF":"Open PDF",
-        "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved"
+        "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved",
+        "assessmentBackConfirm": "Are you sure you want to exit the assessment",
+        "assessmentBackConfirmBtn": "Confirm",
+        "assessmentBackCancelBtn": "Cancel"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",

@@ -671,7 +671,10 @@
     "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-GU",
     "assessmentBackConfirm": "Are you sure you want to exit the assessment-GU",
     "assessmentBackConfirmBtn": "Confirm-GU",
-    "assessmentBackCancelBtn": "Cancel-GU"
+    "assessmentBackCancelBtn": "Cancel-GU",
+    "up": "Up-GU",
+    "reply": "Reply-GU",
+    "cancel": "Cancel-GU"
   },
   "apptoc": {
     "lastUpdatedOn": "છેલ્લું અપડેટ થયું",

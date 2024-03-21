@@ -701,7 +701,7 @@
         "rejected": "Rejected",
         "totalApplied": "Total applied",
         "batchSize": "Batch size",
-        "totalEnrolled": "Total Enrolled"
+        "totalEnrolled": "Total enrolled"
     },
     "certificatedialog": {
         "downloadCertificate": "Download Certificate",
@@ -1183,7 +1183,7 @@
         "firstEnrollTip": "Note: This is only applicable for your first enrolment.",
         "courseCompleteTip" : "Every course completion automatically gets you 5 Karma Points.",
         "byCompleting": "by completing this course.",
-        "rateThis": ", rate this course!",
+        "rateThis": ", rate this content!",
         "rateTip": "Your course rating serves as a valuable recommendation to Karmayogis, so go ahead and RATE.",
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
         "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",

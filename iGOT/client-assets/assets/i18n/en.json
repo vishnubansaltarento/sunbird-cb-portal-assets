@@ -675,7 +675,10 @@
         "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved",
         "assessmentBackConfirm": "Are you sure you want to exit the assessment",
         "assessmentBackConfirmBtn": "Confirm",
-        "assessmentBackCancelBtn": "Cancel"
+        "assessmentBackCancelBtn": "Cancel",
+        "up": "Up",
+        "reply": "Reply",
+        "cancel": "Cancel"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",

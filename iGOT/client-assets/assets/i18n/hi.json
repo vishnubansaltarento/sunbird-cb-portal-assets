@@ -38,8 +38,10 @@
     "showAll": "सब दिखाएँ",
     "loadMore": "अधिक लोड करें।",
     "gyaanKarmayogi": "ज्ञान कर्मयोगी",
+    "janKarmayogi": "जन कर्मयोगी",
     "dueBy": "द्वारा देय"
   },
+ 
   "msg": {
     "noEvent": "कोई घटना नहीं",
     "successfullyEnrolled": "सफलतापूर्वक नामांकित",
@@ -822,7 +824,7 @@
     "networkProfile": "नेटवर्क प्रोफाइल"
   },
   "janKarmayogi": {
-    "JanTitle": "To enhance the capacity of government officials at the last mile through functional, behavioral and domain competency courses, and other learning resources, to ensure efficient, transparent, and responsive services to citizens.- hi"
+    "JanTitle": "नागरिकों को कुशल , पारदर्शी और उत्तरदायी सेवाएं सुनिश्चित करने के लिए कार्यात्मक , व्यवहार और क्षेत्र योग्यता पाठ्यक्रमों और अन्य शिक्षण संसाधनों के माध्यम से अंतिम छोर पर सरकारी अधिकारियों की क्षमता को बढ़ाना ।"
   },
   "event": {
     "labelTodayEvent": "आज की घटनाएँ",

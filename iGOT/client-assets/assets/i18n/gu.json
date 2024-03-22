@@ -38,7 +38,11 @@
     "showAll": "બધા બતાવો",
     "loadMore": "વધુ લોડ કરો.",
     "gyaanKarmayogi": "જ્ઞાન કર્મયોગી",
-    "dueBy": "જેના કારણે"
+    "dueBy": "જેના કારણે",
+    "janKarmayogi": "જન કર્મયોગી"
+  },
+  "janKarmayogi": {
+    "JanTitle": "નાગરિકોને કાર્યક્ષમ , પારદર્શક અને પ્રતિભાવશીલ સેવાઓ સુનિશ્ચિત કરવા માટે કાર્યાત્મક , વર્તણૂકીય અને ક્ષેત્રિય યોગ્યતા અભ્યાસક્રમો અને અન્ય શિક્ષણ સંસાધનો દ્વારા છેલ્લા માઈલ સુધી સરકારી અધિકારીઓની ક્ષમતા વધારવી."
   },
   "msg": {
     "noEvent": "કોઈ પ્રસંગ નથી",
@@ -546,6 +550,7 @@
     "noActiveBatches": "કોઈ સક્રિય બૅચેસ નથી!!!",
     "batchWillStart": "બૅચ શરૂ થશે",
     "takeTest": "પરીક્ષણ કરો",
+    "takeTestAgain": "Take test again - GU",
     "requestUnderReview": "વિનંતીની સમીક્ષા ચાલી રહી છે",
     "register": "નોંધણી કરો",
     "contentExpiredDeleted": "સામગ્રીની સમયસીમા સમાપ્ત થઈ ગઈ છે અથવા કાઢી નાખવામાં આવી છે.",
@@ -656,6 +661,8 @@
     "maxAllowedRetake": "તમે મહત્તમ માન્ય પ્રયાસને વટાવી દીધો છે",
     "questionCorrectAnswered": "પ્રશ્નોના સાચા જવાબ",
     "questionWrongAnswered": "પ્રશ્નોના ખોટા જવાબ",
+    "questionCorrectAnsweredSingle": "question correct answered-GU",
+    "questionWrongAnsweredSingle": "question wrong answered-GU",
     "questionUnAnswered": "અનુત્તરિત",
     "calculateResult": "કૃપા કરીને ધીરજ રાખો, જ્યારે અમે તમારા પરિણામની ગણતરી કરીએ છીએ!",
     "m": "એમ.",
@@ -663,7 +670,16 @@
     "s": "એસ.",
     "items": "વસ્તુઓ",
     "finish": "સમાપ્ત કરો",
-    "showAnswerAlert":"Please give your answer before showing the answer-HI"
+    "showAnswerAlert":"Please give your answer before showing the answer-GU",
+    "openPDF":"Open PDF-GU",
+    "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved-GU",
+    "assessmentBackConfirm": "Are you sure you want to exit the assessment-GU",
+    "assessmentBackConfirmBtn": "Confirm-GU",
+    "assessmentBackCancelBtn": "Cancel-GU",
+    "up": "Up-GU",
+    "reply": "Reply-GU",
+    "cancel": "Cancel-GU",
+    "replay": "Replay-GU"
   },
   "apptoc": {
     "lastUpdatedOn": "છેલ્લું અપડેટ થયું",

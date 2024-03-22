@@ -780,7 +780,7 @@
         "incomplete": "Incomplete",
         "notStarted": "Not Started",
         "selected": "Selected",
-        "submitQuiz": "Submit Quiz",
+        "submitQuiz": "Submit",
         "answeredMsg": "Do you want to submit?",
         "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?",
         "markedMsg": "You still have some questions marked for later! Do you still want to submit?"
@@ -791,7 +791,7 @@
         "passMsg1": "You have aced the assessment, with flying colours.",
         "passMsg2": "Congratulations on successfully passing the assessment. Good job!",
         "passMsg3": "You have the opportunity to try again and do better next time. Keep going!",
-        "passMdg4": "Well done, Keep learning!",
+        "passMdg4": "Well done, keep learning!",
         "bePatienWhileWeCalculate": "Be patient please, while we calculate your result!",
         "submittedSucessfull": "Assessment has been submitted successfully. Please check back after some time for the result",
         "retry": "Retry",

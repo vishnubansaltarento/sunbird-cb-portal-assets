@@ -678,7 +678,8 @@
         "assessmentBackCancelBtn": "Cancel",
         "up": "Up",
         "reply": "Reply",
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "replay": "Replay"
     },
     "apptoc":{
         "lastUpdatedOn": "Last updated on",

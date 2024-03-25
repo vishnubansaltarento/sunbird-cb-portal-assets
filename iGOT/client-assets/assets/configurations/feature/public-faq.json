@@ -241,6 +241,56 @@
                     "value": "mechanismForcalculatingKpDesc"
                 }                
             ]
+        },
+        {
+            "fragment": "LearnerLeaderboard",
+            "title": "learnerLeaderboard",
+            "contents": [
+                {
+                    "heading": "whatLearnerLeader",
+                    "value": "whatLearnerLeaderDes"
+                },
+                {
+                    "heading": "purposeOfLeaderboard",
+                    "value": "purposeOfLeaderboardDesc"
+                },
+                {
+                    "heading": "howCanCalculate",
+                    "value": "howCanCalculateDesc"
+                },
+                {
+                    "heading": "whenItUpdates",
+                    "value": "whenItUpdatesDes"
+                },
+                {
+                    "heading": "willItVisibleToAll",
+                    "value": "willItVisibleToAllDesc"
+                },
+                {
+                    "heading": "howItHelps",
+                    "value": "howItHelpsDesc"
+                },
+                {
+                    "heading": "whatDisplayInLeaderboard",
+                    "value": "whatDisplayInLeaderboardDesc"
+                },
+                {
+                    "heading": "willGiveRealTimeUpdate",
+                    "value": "willGiveRealTimeUpdateDesc"
+                },
+                {
+                    "heading": "otherTool",
+                    "value": "otherToolDesc"
+                },
+                {
+                    "heading": "howNotifyToLeaner",
+                    "value": "howNotifyToLeanerDesc"
+                },
+                {
+                    "heading": "howItRaked",
+                    "value": "howItRakedDesc"
+                }
+            ]
         }
 
    ]

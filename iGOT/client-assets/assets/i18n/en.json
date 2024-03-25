@@ -458,7 +458,8 @@
         "tryAgain": "Try Again",
         "mostTrending": "Most trending",
         "selfLearning": "Self learning",
-        "completedCourse": "You completed this course on"
+        "completedCourse": "You completed this course on",
+        "provider": "Provider"
     },
     "ratingsummary": {
         "ratings": "ratings",

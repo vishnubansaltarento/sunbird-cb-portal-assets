@@ -459,7 +459,9 @@
     "next": "આગળ",
     "tryAgain": "ફરી પ્રયાસ કરો",
     "mostTrending": "સૌથી વધુ ટ્રેન્ડ",
-    "selfLearning": "સ્વ-શિક્ષણ"
+    "selfLearning": "સ્વ-શિક્ષણ",
+    "completedCourse": "You completed this course on-GU",
+    "provider": "Provider-GU"
   },
   "ratingsummary": {
     "ratings": "રેટિંગ્સ",

@@ -1538,7 +1538,9 @@
         "enterOTP":"Enter OTP",
         "cancel": "Cancel",
         "submit": "Submit",
-        "resend": "Resend"
+        "resend": "Resend",
+        "getOTP": "Get OPT",
+        "updateEamilConfirmation": "Your email is now updated."
 
     },
     "profileDropdown": {

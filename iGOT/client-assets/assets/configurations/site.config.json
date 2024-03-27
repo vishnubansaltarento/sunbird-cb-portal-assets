@@ -26,6 +26,7 @@
   "rootOrg": "igot",
   "defaultFontSize": "theme-igot",
   "defaultLocale": "",
+  "isMultilingualEnabled": true,
   "defaultThemeClass": "theme-igot",
   "details": {
     "appName": "Karmayogi Bharat"
@@ -438,7 +439,7 @@
     {
       "path": "/page/learn",
       "active": true,
-      "hubname": "learn",
+      "hubname": "Learn",
       "desc": "Sharpen your skills with hundreds-of online courses.",
       "icon": "school",
       "accessKey": "L",
@@ -450,7 +451,7 @@
     {
       "path": "/app/discuss/home",
       "active": true,
-      "hubname": "discuss",
+      "hubname": "Discuss",
       "desc": "Have a question? Have an Idea? discuss with your peers.",
       "icon": "forum",
       "accessKey": "D",
@@ -468,9 +469,19 @@
       "order": 3
     },
     {
+      "path": "/app/jan-karmayogi",
+      "active": true,
+      "hubname": "Jan Karmayogi",
+      "desc": "Find the latest policies, circulars and all available knowledge resources.",
+      "icon": "Jan-karmayogi",
+      "accessKey": "D",
+      "permission": [],
+      "order": 3
+    },
+    {
       "path": "/app/network-v2",
       "active": true,
-      "hubname": "network",
+      "hubname": "Network",
       "desc": "Connect with interesting people, see what they are upto.",
       "icon": "group",
       "accessKey": "N",
@@ -12826,54 +12837,66 @@
       "description": "ZONAL MANAGER"
     }
   ],
-  "webistelanguages": [
+  "websitelanguages": [
     {
       "value": "English",
-      "key": "en"
+      "key": "en",
+      "active": true
     },
     {
       "value": "हिंदी",
-      "key": "hi"
+      "key": "hi",
+      "active": true
     },
     {
       "value": "தமிழ்",
-      "key": "ta"
+      "key": "ta",
+      "active": false
     },
     {
       "value": "తెలుగు",
-      "key": "te"
+      "key": "te",
+      "active": false
     },
     {
       "value": "অসমীয়া",
-      "key": "as"
+      "key": "as",
+      "active": false
     },
     {
       "value": "বাংলা",
-      "key": "be"
+      "key": "be",
+      "active": false
     },
     {
       "value": "ગુજરાતી",
-      "key": "gu"
+      "key": "gu",
+      "active": true
     },
     {
       "value": "ಕನ್ನಡ",
-      "key": "ka"
+      "key": "ka",
+      "active": false
     },
     {
       "value": "മലയാളം",
-      "key": "ml"
+      "key": "ml",
+      "active": false
     },
     {
       "value": "मराठी",
-      "key": "mr"
+      "key": "mr",
+      "active": false
     },
     {
       "value": "ଓଡିଆ",
-      "key": "od"
+      "key": "od",
+      "active": false
     },
     {
       "value": "ਪੰਜਾਬੀ",
-      "key": "pu"
+      "key": "pu",
+      "active": false
     }
   ]
 }

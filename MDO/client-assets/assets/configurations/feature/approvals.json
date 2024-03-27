@@ -176,7 +176,7 @@
       "enabled": true
     },
     {
-      "name": "Description",
+      "name": "Organisation Description",
       "key": "description",
       "enabled": true
     },
@@ -211,7 +211,7 @@
       "enabled": true
     },
     {
-      "name": "Location",
+      "name": "Country",
       "key": "location",
       "enabled": true
     },

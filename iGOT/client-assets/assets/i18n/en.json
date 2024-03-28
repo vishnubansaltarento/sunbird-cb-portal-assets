@@ -1913,6 +1913,7 @@
         "overlayText1": "Your dedication to learning is impressive! Congratulations on reaching the",
         "overlayText2": "rank this month, which is",
         "overlayText3": "levels higher than your previous ranking.",
+        "overlayText3WithSingular": "level higher than your previous ranking.",
         "rank": "rank"
     },
     "hubsdesc": {

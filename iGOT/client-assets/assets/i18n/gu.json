@@ -675,7 +675,7 @@
     "finish": "સમાપ્ત કરો",
     "showAnswerAlert": "મહેરબાની કરીને જવાબ આપતા પહેલા તમારો જવાબ આપો .",
     "openPDF": "પીડીએફ ખોલો",
-    "openScorm": "આ સામગ્રી એક જ વારમાં પૂર્ણ થવી જોઈએ ; અન્યથા , તમારી પ્રગતિ સાચવવામાં આવશે નહીં .",
+    "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model. -GU",
     "assessmentBackConfirm": "શું તમને ખાતરી છે કે તમે મૂલ્યાંકનમાંથી બહાર નીકળવા માંગો છો ?",
     "assessmentBackConfirmBtn": "પુષ્ટિ કરો",
     "assessmentBackCancelBtn": "રદ કરો",

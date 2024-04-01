@@ -673,7 +673,7 @@
     "finish": "संपवा.",
     "showAnswerAlert": "कृपया उत्तर दाखवण्यापूर्वी तुमचे उत्तर द्या .",
     "openPDF": "पीडीएफ उघडा",
-    "openScorm": "ही सामग्री एकाच वेळी पूर्ण करणे आवश्यक आहे ; अन्यथा , तुमची प्रगती जतन केली जाणार नाही .",
+    "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model. -MR",
     "assessmentBackConfirm": "तुम्हाला मूल्यांकनातून बाहेर पडायचे आहे याची तुम्हाला खात्री आहे का ?",
     "assessmentBackConfirmBtn": "पुष्टी करा",
     "assessmentBackCancelBtn": "रद्द करा",

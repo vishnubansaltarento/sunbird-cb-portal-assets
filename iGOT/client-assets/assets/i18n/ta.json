@@ -673,7 +673,7 @@
     "finish": "முடிக்கவும்.",
     "showAnswerAlert": "பதிலைக் காண்பிப்பதற்கு முன்பு உங்கள் பதிலைக் கொடுங்கள் .",
     "openPDF": "PDF ஐத் திறக்கவும்",
-    "openScorm": "இந்த உள்ளடக்கம் ஒரே நேரத்தில் முடிக்கப்பட வேண்டும் ; இல்லையெனில் , உங்கள் முன்னேற்றம் சேமிக்கப்படாது .",
+    "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model. -TA",
     "assessmentBackConfirm": "நீங்கள் மதிப்பீட்டில் இருந்து வெளியேற விரும்புகிறீர்களா ?",
     "assessmentBackConfirmBtn": "உறுதிப்படுத்தல்",
     "assessmentBackCancelBtn": "ரத்து செய்யுங்கள்",

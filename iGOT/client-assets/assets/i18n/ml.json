@@ -673,7 +673,7 @@
     "finish": "പൂർത്തിയാക്കുക",
     "showAnswerAlert": "ഉത്തരം കാണിക്കുന്നതിന് മുമ്പ് ദയവായി നിങ്ങളുടെ ഉത്തരം നൽകുക",
     "openPDF": "പിഡിഎഫ് തുറക്കുക",
-    "openScorm": "ഈ ഉള്ളടക്കം ഒറ്റയടിക്ക് പൂർത്തിയാക്കണം ; അല്ലാത്തപക്ഷം നിങ്ങളുടെ പുരോഗതി സംരക്ഷിക്കപ്പെടില്ല .",
+    "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model. -ML",
     "assessmentBackConfirm": "മൂല്യനിർണ്ണയത്തിൽ നിന്ന് പുറത്തുകടക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ ?",
     "assessmentBackConfirmBtn": "സ്ഥിരീകരിക്കുക",
     "assessmentBackCancelBtn": "റദ്ദാക്കുക",

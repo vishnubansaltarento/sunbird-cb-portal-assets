@@ -674,7 +674,7 @@
         "showAnswerAlert":"Please give your answer before showing the answer",
         "openPDF":"Open PDF",
         "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model.",
-        "assessmentBackConfirm": "Are you sure you want to exit the assessment",
+        "assessmentBackConfirm": "Are you sure you want to exit the assessment ?",
         "assessmentBackConfirmBtn": "Confirm",
         "assessmentBackCancelBtn": "Cancel",
         "up": "Up",

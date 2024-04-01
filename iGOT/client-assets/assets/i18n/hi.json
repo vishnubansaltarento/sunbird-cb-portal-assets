@@ -650,7 +650,7 @@
     "topProgress": "Track your progress here (Updates within a minute)-HI",
     "startAssessment": "मूल्यांकन शुरू करें",
     "startAssessmentSummary1": "अनलिमिटेड रीटेक की अनुमति है।",
-    "startAssessmentSummary2": "यदि दिया गया समय समाप्त हो जाता है तो उत्तर स्वतः प्रस्तुत किया जाएगा।",
+    "startAssessmentSummary2": "If the given time runs out, the answer will be auto-submitted -HI",
     "startAssessmentSummary3": "छोड़ दिए गए प्रश्नों को जमा करने से पहले फिर से प्रयास किया जा सकता है।",
     "startAssessmentSummary4": "कोई नकारात्मक अंकन नहीं",
     "startAssessmentSummary5": "अपने दोस्तों को इस पाठ्यक्रम की सिफारिश करें।",

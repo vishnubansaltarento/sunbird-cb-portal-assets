@@ -650,7 +650,7 @@
         "topProgress":"Track your progress here (Updates within a minute).",
         "startAssessment":"Start assessment",
         "startAssessmentSummary1":"Unlimited Retakes are allowed",
-        "startAssessmentSummary2":"If the given time is runs out answer will be autosubmitted",
+        "startAssessmentSummary2":"If the given time runs out, the answer will be auto-submitted",
         "startAssessmentSummary3":"Skipped questions can be attempted again before submitting",
         "startAssessmentSummary4":"No negative marking",
         "startAssessmentSummary5":"Recommend this course to your friends",

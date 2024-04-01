@@ -650,7 +650,7 @@
     "topProgress": "முன்னேற்றம் சில நிமிடங்களுக்குப் பிறகு புதுப்பிக்கப்படுகிறது",
     "startAssessment": "மதிப்பீட்டைத் தொடங்குங்கள்",
     "startAssessmentSummary1": "வரம்பற்ற ரீடேக்குகள் அனுமதிக்கப்படுகின்றன.",
-    "startAssessmentSummary2": "கொடுக்கப்பட்ட நேரம் முடிந்துவிட்டால் பதில் தானாகவே சமர்ப்பிக்கப்படும்.",
+    "startAssessmentSummary2": "If the given time runs out, the answer will be auto-submitted -TA",
     "startAssessmentSummary3": "விலக்கப்பட்ட கேள்விகளை சமர்ப்பிப்பதற்கு முன்பு மீண்டும் முயற்சி செய்யலாம்.",
     "startAssessmentSummary4": "எதிர்மறை குறியீடு இல்லை",
     "startAssessmentSummary5": "இந்த பாடத்திட்டத்தை உங்கள் நண்பர்களுக்கு பரிந்துரைக்கவும்.",

@@ -652,7 +652,7 @@
     "topProgress": "কয়েক মিনিটের পর অগ্রগতি আপডেট করা হয়।",
     "startAssessment": "মূল্যায়ন শুরু করুন",
     "startAssessmentSummary1": "সীমাহীন রিটেক অনুমোদিত",
-    "startAssessmentSummary2": "প্রদত্ত সময় শেষ হয়ে গেলে উত্তরটি স্বয়ংক্রিয়ভাবে জমা দেওয়া হবে।",
+    "startAssessmentSummary2": "If the given time runs out, the answer will be auto-submitted -BE",
     "startAssessmentSummary3": "বাদ দেওয়া প্রশ্নগুলি জমা দেওয়ার আগে আবার চেষ্টা করা যেতে পারে।",
     "startAssessmentSummary4": "কোনও নেগেটিভ মার্কিং নেই",
     "startAssessmentSummary5": "আপনার বন্ধুদের কাছে এই কোর্সটি সুপারিশ করুন",

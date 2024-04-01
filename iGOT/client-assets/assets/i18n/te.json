@@ -651,7 +651,7 @@
     "topProgress": "కొన్ని నిమిషాల తర్వాత పురోగతి నవీకరించబడుతుంది",
     "startAssessment": "అంచనా వేయడం ప్రారంభించండి",
     "startAssessmentSummary1": "అపరిమిత రీటేక్లు అనుమతించబడతాయి",
-    "startAssessmentSummary2": "ఇచ్చిన సమయం అయిపోతే సమాధానం స్వయంచాలకంగా సమర్పించబడుతుంది",
+    "startAssessmentSummary2": "If the given time runs out, the answer will be auto-submitted -TE",
     "startAssessmentSummary3": "దాటవేసిన ప్రశ్నలను సమర్పించే ముందు మళ్లీ ప్రయత్నించవచ్చు.",
     "startAssessmentSummary4": "నెగిటివ్ మార్కింగ్ లేదు",
     "startAssessmentSummary5": "మీ స్నేహితులకు ఈ కోర్సును సిఫారసు చేయండి",

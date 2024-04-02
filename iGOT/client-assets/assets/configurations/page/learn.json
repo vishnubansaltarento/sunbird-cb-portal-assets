@@ -682,7 +682,7 @@
                 "strips": [
                   {
                     "key": "recommendedCourses",
-                    "title": "Recommended for you",
+                    "title": "recommendedForYou",
                     "info": {
                       "mode": "below",
                       "visibilityMode": "hidden",

@@ -1,0 +1,16 @@
+{
+  "reports": {
+    "buckets": [
+      {
+        "name": "Survey Questions",
+        "key": "SurveyQuestionsReport.zip",
+        "enable": true
+      },
+      {
+        "name": "Survey Status",
+        "key": "SurveyStatusReport.zip",
+        "enable": true
+      }
+    ]
+  }
+}

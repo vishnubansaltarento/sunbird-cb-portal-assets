@@ -8,7 +8,7 @@
       },
       {
         "name": "Survey Status",
-        "key": "SurveyStatusReport.zip",
+        "key": "SurveyCompletedSubmissionsReport.zip",
         "enable": true
       }
     ]

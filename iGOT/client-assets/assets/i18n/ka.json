@@ -627,7 +627,7 @@
     "questions": "ಪ್ರಶ್ನೆಗಳು",
     "performanceSummary": "ನಿಮ್ಮ ಕಾರ್ಯಕ್ಷಮತೆಯ ಸಾರಾಂಶ",
     "acedAssessment": "ನೀವು ಹಾರುವ ಬಣ್ಣಗಳೊಂದಿಗೆ ಮೌಲ್ಯಮಾಪನವನ್ನು ಸಾಧಿಸಿದ್ದೀರಿ.",
-    "tryAgainMessage": "ಚಿಂತಿಸಬೇಡಿ , ನೀವು ಯಾವಾಗಲೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಬಹುದು .",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-KA",
     "submitConfirmationMissedQuestion": "ಅಯ್ಯೋ! ಕೆಲವು ಪ್ರಶ್ನೆಗಳು ತಪ್ಪಿದಂತೆ ತೋರುತ್ತಿದೆ, ನೀವು ಖಚಿತವಾಗಿ ಸಲ್ಲಿಸಲು ಬಯಸುತ್ತೀರಾ?",
     "tryAgain": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
     "failed": "ವಿಫಲವಾಗಿದೆ.",
@@ -788,7 +788,7 @@
   },
   "quizresult": {
     "score": "ಸ್ಕೋರ್",
-    "hurray": "ಹುರ್ರೇ!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-KA",
     "passMsg1": "ನೀವು ಹಾರುವ ಬಣ್ಣಗಳೊಂದಿಗೆ ಮೌಲ್ಯಮಾಪನವನ್ನು ಸಾಧಿಸಿದ್ದೀರಿ.",
     "passMsg2": "ಮೌಲ್ಯಮಾಪನದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಉತ್ತೀರ್ಣರಾದವರಿಗೆ ಅಭಿನಂದನೆಗಳು. ಒಳ್ಳೆಯ ಕೆಲಸ!",
     "passMsg3": "ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಲು ಮತ್ತು ಮುಂದಿನ ಬಾರಿ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ನಿಮಗೆ ಅವಕಾಶವಿದೆ. ಮುಂದುವರಿಯಿರಿ!",

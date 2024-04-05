@@ -627,7 +627,7 @@
     "questions": "ചോദ്യങ്ങൾ",
     "performanceSummary": "നിങ്ങളുടെ പ്രകടനത്തിൻറെ സംഗ്രഹം",
     "acedAssessment": "പറക്കുന്ന നിറങ്ങളോടെ നിങ്ങൾ മൂല്യനിർണ്ണയം നടത്തിയിട്ടുണ്ട്.",
-    "tryAgainMessage": "വിഷമിക്കേണ്ട , നിങ്ങൾക്ക് എപ്പോഴും വീണ്ടും ശ്രമിക്കാം .",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-ML",
     "submitConfirmationMissedQuestion": "അയ്യോ! കുറച്ച് ചോദ്യങ്ങൾ നഷ്ടമായതായി തോന്നുന്നു, നിങ്ങൾക്ക് സമർപ്പിക്കാൻ ആഗ്രഹമുണ്ടെന്ന് ഉറപ്പാണോ?",
     "tryAgain": "വീണ്ടും ശ്രമിക്കുക.",
     "failed": "പരാജയപ്പെട്ടു.",
@@ -788,7 +788,7 @@
   },
   "quizresult": {
     "score": "സ്കോർ",
-    "hurray": "ഹുറേ!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-ML",
     "passMsg1": "പറക്കുന്ന നിറങ്ങളോടെ നിങ്ങൾ മൂല്യനിർണ്ണയം പൂർത്തിയാക്കി.",
     "passMsg2": "മൂല്യനിർണ്ണയത്തിൽ വിജയകരമായി വിജയിച്ചതിന് അഭിനന്ദനങ്ങൾ. നല്ല ജോലി!",
     "passMsg3": "വീണ്ടും ശ്രമിക്കാനും അടുത്ത തവണ മികച്ച പ്രകടനം നടത്താനും നിങ്ങൾക്ക് അവസരമുണ്ട്. തുടരുക!",

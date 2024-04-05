@@ -629,7 +629,7 @@
     "questions": "પ્રશ્નો",
     "performanceSummary": "તમારા પ્રદર્શનનો સારાંશ",
     "acedAssessment": "તમે ઉડતા રંગો સાથે મૂલ્યાંકન કર્યું છે.",
-    "tryAgainMessage": "ચિંતા ન કરો , તમે હંમેશા ફરી પ્રયાસ કરી શકો છો .",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-GU",
     "submitConfirmationMissedQuestion": "અરેરે! એવું લાગે છે કે કેટલાક પ્રશ્નો ચૂકી ગયા છે, શું તમને ખાતરી છે કે તમે સબમિટ કરવા માંગો છો?",
     "tryAgain": "ફરી પ્રયાસ કરો",
     "failed": "નિષ્ફળતા મળી",
@@ -790,7 +790,7 @@
   },
   "quizresult": {
     "score": "સ્કોર",
-    "hurray": "હુર્રે!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-GU",
     "passMsg1": "તમે ઉડતા રંગો સાથે મૂલ્યાંકન કર્યું છે.",
     "passMsg2": "મૂલ્યાંકન સફળતાપૂર્વક પાસ કરવા બદલ અભિનંદન. સારું કામ!",
     "passMsg3": "તમારી પાસે ફરી પ્રયાસ કરવાની અને આગલી વખતે વધુ સારું કરવાની તક છે. આગળ વધતા રહો!",

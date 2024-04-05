@@ -627,7 +627,7 @@
     "questions": "প্ৰশ্নসমূহ",
     "performanceSummary": "আপোনাৰ প্ৰদৰ্শনৰ সাৰাংশ",
     "acedAssessment": "আপুনি উৰণীয়া ৰঙৰ সৈতে মূল্যায়ন কৰিছে।",
-    "tryAgainMessage": "চিন্তা নকৰিব , আপুনি সদায় পুনৰ চেষ্টা কৰিব পাৰে ।",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-AS",
     "submitConfirmationMissedQuestion": "অ 'প্ছ! এনে লাগিছে যেন কেইটামান প্ৰশ্ন বাদ পৰিছে, আপুনি নিশ্চিতভাৱে দাখিল কৰিব বিচাৰে নেকি?",
     "tryAgain": "পুনৰ চেষ্টা কৰক",
     "failed": "বিফল হৈছিল।",
@@ -788,7 +788,7 @@
   },
   "quizresult": {
     "score": "স্ক \"ৰ",
-    "hurray": "হুৰে!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-AS",
     "passMsg1": "আপুনি উৰণীয়া ৰঙৰ সৈতে মূল্যায়ন কৰিছে।",
     "passMsg2": "মূল্যায়নত সফলতাৰে উত্তীৰ্ণ হোৱাৰ বাবে অভিনন্দন জনালোঁ। ভাল কাম!",
     "passMsg3": "আপোনাৰ ওচৰত পুনৰ চেষ্টা কৰাৰ আৰু পৰৱৰ্তী সময়ত ভাল কৰাৰ সুযোগ আছে। আগবাঢ়ি যাওক!",

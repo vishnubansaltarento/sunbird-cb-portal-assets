@@ -39,5 +39,100 @@
                 }
             }
         ]
+    },
+    "stripConfig" :  { 
+        
+      "order": 1,
+      "strips": [ {      
+        "active": true,
+        "key": "recentlyAdded",
+        "logo": "school",
+        "title": "Recently Added",
+        "stripTitleLink": {
+          "link": "",
+          "icon": ""
+        },
+        "sliderConfig": {
+          "showNavs" : false,
+          "showDots": false,
+          "maxWidgets": 3
+        },
+        "stripBackground": "",
+        "titleDescription": "Recently Added",
+        "stripConfig": {
+          "cardSubType": "card-standard-1"
+        },
+        "viewMoreUrl": {
+          "path": "/app/seeAll",
+          "viewMoreText": "Show all",
+          "queryParams": {
+            "key": "recentlyAdded"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-portrait-click-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-portrait-click"
+          }
+        },
+        "loader": true,
+        "loaderConfig": {
+          "cardSubType": "card-standard-skeleton"
+        },
+        "tabs": [
+        ],
+        "filters": [],
+        "request": {
+          "searchV6": {
+            "request": {
+              "filters": [
+                {
+                    "primaryCategory": [
+                        "Learning Resource"
+                    ],
+                    "contentType": [
+                        "Resource"
+                    ],
+
+            "mimeType": "application/pdf"
+                }
+              ],
+              "query": "",
+              "limit": 3,
+              "sort_by": {
+                "lastUpdatedOn": "desc"
+              },
+              "fields": [
+                "name",
+                "appIcon",
+                "instructions",
+                "description",
+                "purpose",
+                "mimeType",
+                "gradeLevel",
+                "identifier",
+                "medium",
+                "pkgVersion",
+                "board",
+                "subject",
+                "resourceType",
+                "primaryCategory",
+                "contentType",
+                "channel",
+                "organisation",
+                "trackable",
+                "license",
+                "posterImage",
+                "idealScreenSize",
+                "learningMode",
+                "creatorLogo",
+                "duration",
+                "avgRating"
+              ]
+            }
+          }
+        }
+    }
+]
     }
 }

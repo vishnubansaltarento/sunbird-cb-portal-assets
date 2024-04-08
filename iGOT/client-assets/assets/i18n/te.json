@@ -628,7 +628,7 @@
     "questions": "ప్రశ్నలు",
     "performanceSummary": "మీ పనితీరు సారాంశం",
     "acedAssessment": "మీరు ఎగిరే రంగులతో అంచనాను సాధించారు.",
-    "tryAgainMessage": "చింతించకండి , మీరు ఎల్లప్పుడూ మళ్లీ ప్రయత్నించవచ్చు .",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-TE",
     "submitConfirmationMissedQuestion": "అయ్యో! కొన్ని ప్రశ్నలు తప్పిపోయినట్లు అనిపిస్తోంది, మీరు ఖచ్చితంగా సమర్పించాలనుకుంటున్నారా?",
     "tryAgain": "మళ్లీ ప్రయత్నించండి.",
     "failed": "విఫలమైంది.",
@@ -789,7 +789,7 @@
   },
   "quizresult": {
     "score": "స్కోరు",
-    "hurray": "హడావిడి!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-TE",
     "passMsg1": "మీరు ఎగిరే రంగులతో అంచనాను సాధించారు.",
     "passMsg2": "మదింపులో విజయవంతంగా ఉత్తీర్ణత సాధించినందుకు అభినందనలు. మంచి ఉద్యోగం!",
     "passMsg3": "మళ్ళీ ప్రయత్నించడానికి మరియు తదుపరిసారి మెరుగ్గా చేయడానికి మీకు అవకాశం ఉంది. కొనసాగించండి!",

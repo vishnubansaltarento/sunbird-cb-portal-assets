@@ -627,7 +627,7 @@
     "questions": "सवाल-जवाब",
     "performanceSummary": "आपके प्रदर्शन का सारांश",
     "acedAssessment": "आपने उड़ते हुए रंगों के साथ मूल्यांकन किया है।",
-    "tryAgainMessage": "चिंता मत करो , आप हमेशा फिर से कोशिश कर सकते हैं ।",
+    "tryAgainMessage": "No worries! Your next try is a chance to do even better.-HI",
     "submitConfirmationMissedQuestion": "उफ़! ऐसा लगता है कि कुछ प्रश्न छूट गए हैं, क्या आप निश्चित रूप से प्रस्तुत करना चाहते हैं?",
     "tryAgain": "फिर से कोशिश करें।",
     "failed": "असफल रहा।",
@@ -788,7 +788,7 @@
   },
   "quizresult": {
     "score": "अंक",
-    "hurray": "जल्दी करो!",
+    "hurray": "Hurray! You have aced the assessment, with flying colours.-HU",
     "passMsg1": "आपने उड़ते हुए रंगों के साथ मूल्यांकन किया है।",
     "passMsg2": "मूल्यांकन में सफलतापूर्वक उत्तीर्ण होने के लिए बधाई। अच्छा काम है!",
     "passMsg3": "आपके पास फिर से प्रयास करने और अगली बार बेहतर करने का अवसर है। चलते रहो!",

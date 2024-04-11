@@ -4,6 +4,174 @@
         "widgetSubType": "leftMenu",
         "widgetData": {
             "logo": true,
+            "menusList": [
+                {
+                  "menuCategory": "Home",
+                  "requiredRoles": [
+                    "admin",
+                    "mdo_admin",
+                    "wat_member",
+                    "mdo_leader"
+                  ],
+                  "subMenu": [
+                    {
+                      "name": "Home",
+                      "key": "Home",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/welcome",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "wat_member",
+                        "mdo_leader"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "menuCategory": "Users",
+                  "requiredRoles": [
+                    "admin",
+                    "mdo_admin",
+                    "mdo_leader"
+                  ],
+                  "subMenu": [
+                    {
+                      "name": "All Users",
+                      "key": "users",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/users",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    },
+                    {
+                      "name": "Approvals",
+                      "key": "approvals",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/approvals/pending",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "menuCategory": "Manage",
+                  "requiredRoles": [
+                    "admin",
+                    "mdo_admin",
+                    "mdo_leader"
+                  ],
+                  "subMenu": [
+                    {
+                      "name": "Roles and access",
+                      "key": "roles-access",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/roles-access",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    },
+                    {
+                      "name": "Organisation profile",
+                      "key": "orgProfile",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/setup",
+                      "requiredRoles": [
+                        "isInstuteOrg"
+                      ]
+                    },
+                    {
+                      "name": "Blended program",
+                      "key": "blended-approvals",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/blended-approvals",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    },
+                    {
+                      "name": "Reports",
+                      "key": "reports-section",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/reports-section",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    },
+                    {
+                      "name": "Training Plan",
+                      "key": "training-plan-dashboard",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/training-plan-dashboard",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    }
+                  ]
+                }
+              ],
             "menus": [
                 {
                     "name": "Home",

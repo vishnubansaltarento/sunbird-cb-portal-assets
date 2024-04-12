@@ -43,7 +43,7 @@
                   ],
                   "subMenu": [
                     {
-                      "name": "All Users",
+                      "name": "All users",
                       "key": "users",
                       "fragment": false,
                       "render": true,

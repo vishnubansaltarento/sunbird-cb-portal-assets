@@ -105,7 +105,7 @@
         "dashboard": "Dashboard",
         "dashboardSubtitle": "All your data represented as simple visualizations.",
         "settings": "Settings",
-        "settingSubtitle": "Manage all your preferences hessssre",
+        "settingSubtitle": "Manage all your preferences here.",
         "interests": "Interests",
         "interestsSubtitle": "Manage topics of your interest and personalize your experience",
         "quickLinks": "Quick links",
@@ -130,7 +130,7 @@
         "dashboard": "Dashboard",
         "dashboardSubtitle": "All your data represented as simple visualizations.",
         "settings": "Settings",
-        "settingSubtitle": "Manage all your preferences hessssre",
+        "settingSubtitle": "Manage all your preferences here.",
         "quickLinks": "Quick links",
         "cbcPortaldesc": "Capacity Building Commission",
         "cbpPortaldesc": "Create and manage contents here",
@@ -627,7 +627,7 @@
         "questions":"questions",
         "performanceSummary":"Your Performance Summary",
         "acedAssessment":"You have aced the assessment, with flying colours",
-        "tryAgainMessage":"Don't worry, you can always try again.",
+        "tryAgainMessage":"No worries! Your next try is a chance to do even better.",
         "submitConfirmationMissedQuestion":"Oops! it looks like a few questions were missed, are you sure you want to submit?",
         "tryAgain":"Try Again",
         "failed":"Failed",
@@ -650,7 +650,7 @@
         "topProgress":"Track your progress here (Updates within a minute).",
         "startAssessment":"Start assessment",
         "startAssessmentSummary1":"Unlimited Retakes are allowed",
-        "startAssessmentSummary2":"If the given time is runs out answer will be autosubmitted",
+        "startAssessmentSummary2":"If the given time runs out, the answer will be auto submitted",
         "startAssessmentSummary3":"Skipped questions can be attempted again before submitting",
         "startAssessmentSummary4":"No negative marking",
         "startAssessmentSummary5":"Recommend this course to your friends",
@@ -673,8 +673,8 @@
         "finish": "Finish",
         "showAnswerAlert":"Please give your answer before showing the answer",
         "openPDF":"Open PDF",
-        "openScorm": "This content must be completed in one go; otherwise, your progress will not be saved",
-        "assessmentBackConfirm": "Are you sure you want to exit the assessment",
+        "openScorm": "The content provider has presented the content in the SCORM* format, and must be completed in one go; otherwise your progress will not be saved. \n\n *Sharable Content Object Reference Model.",
+        "assessmentBackConfirm": "Are you sure you want to exit the assessment ?",
         "assessmentBackConfirmBtn": "Confirm",
         "assessmentBackCancelBtn": "Cancel",
         "up": "Up",
@@ -788,7 +788,7 @@
     },
     "quizresult": {
         "score": "score",
-        "hurray": "Hurray!",
+        "hurray": "Hurray! You have aced the assessment, with flying colours.",
         "passMsg1": "You have aced the assessment, with flying colours.",
         "passMsg2": "Congratulations on successfully passing the assessment. Good job!",
         "passMsg3": "You have the opportunity to try again and do better next time. Keep going!",
@@ -1538,7 +1538,9 @@
         "enterOTP":"Enter OTP",
         "cancel": "Cancel",
         "submit": "Submit",
-        "resend": "Resend"
+        "resend": "Resend",
+        "getOTP": "Get OTP",
+        "updateEamilConfirmation": "Your email is now updated."
 
     },
     "profileDropdown": {
@@ -1911,6 +1913,7 @@
         "overlayText1": "Your dedication to learning is impressive! Congratulations on reaching the",
         "overlayText2": "rank this month, which is",
         "overlayText3": "levels higher than your previous ranking.",
+        "overlayText3WithSingular": "level higher than your previous ranking.",
         "rank": "rank"
     },
     "hubsdesc": {

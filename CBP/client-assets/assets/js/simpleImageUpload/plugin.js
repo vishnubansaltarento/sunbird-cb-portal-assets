@@ -62,8 +62,8 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 						data: imageData,
 					}).done(function (imageResponse) {
 						var ele = editor.document.createElement('img')
-						var artifactUrl = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotqa", "https://cbp.karmayogiqa.nic.in/assets/public")
-						ele.setAttribute('src', artifactUrl)
+						var artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotqa", artifactUrl)
+						ele.setAttribute('src', artifactUrlUpdated)
 						ele.setAttribute('height', '100')
 						ele.setAttribute('width', '100')
 						editor.insertElement(ele)

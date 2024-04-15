@@ -150,7 +150,8 @@
         "aboutUs": "About us",
         "frequentlyAskedQuestions": "Frequently asked questions",
         "contactUs": "Contact Us",
-        "copyright": "Copyright"
+        "copyright": "Copyright",
+        "privacyPolicy":"Privacy Policy"
     },
     "platformrating": {
         "howLikelyRecommend": "How likely are you to recommend iGOT Karmayogi to your colleagues?",
@@ -1613,7 +1614,8 @@
         "terms": "Terms of Service",
         "signup": "SIGN UP",
         "haveAccount": "Already have an account?",
-        "signin": "Sign in here"
+        "signin": "Sign in here",
+        "privacyPolicy":"Privacy Policy"
     },
     "publicrequest": {
         "requestTo": "Request to add",
@@ -1773,6 +1775,44 @@
         "p43ContentPublishedOnPlatform": "All content published on Karmayogi platform is provided by various Ministries, Departments and other public and authorised private organisations. The concerned course publishers ensure the accuracy and currency of the content on this platform. Many courses provided by various departments relate to policies, rules, guidelines as applicable on the date of publication of the course.  All courses publishers strive to keep the most updated content, however the latest position of any law, rules, guidelines etc. may be accessed from the website of the concerned Ministries.",
         "p44GovernmentResponsibility": "In no event will the Government of India or Karmayogi Bharat SPV be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this platform. The platform makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability of the published content. Links to other websites that have been included on this platform are provided for convenience only.",
         "p45Iagree": "I Agree"
+    },
+    "privacypolicy": {
+        "privacyPolicy":"Privacy Policy",
+        "p1Utilizing": "When utilizing the iGOT Karmayogi mobile application or accessing the iGOT Karmayogi website (referred to collectively as 'iGOT Karmayogi'), certain personal information is gathered from and about you. We are dedicated to safeguarding the security of this information and ensuring your privacy. This document ('Privacy Policy') delineates the specifics of the personal information collected, the methods of collection, the entities responsible for collection, and the purposes for which it is utilized.",
+        "p2Voluntary": "To utilize iGOT Karmayogi, you must provide your voluntary, specific, informed, unequivocal, and unambiguous consent to the processing of your personal data for the purposes specified in this Privacy Policy. By installing the Application, you indicate your agreement to the terms outlined in this Privacy Policy. Subsequently, your continued use of iGOT Karmayogi indicates your ongoing acceptance of the provisions of this Privacy Policy.",
+        "p3Subject": "This Privacy Policy is subject to periodic revisions, and you will be informed of all such modifications. To continue utilizing iGOT Karmayogi, you must consent to the revised terms of the Privacy Policy through explicit affirmative action by updating the App with the revised Privacy Policy.",
+        "introduction": "Introduction",
+        "p4GovernsTheWay": "This Privacy Policy governs the way Karmayogi Bharat collects, uses, maintains, and discloses information collected from users (each, a 'User') of the iGOT mobile application ('App'). It applies to the App and all products and services offered by Karmayogi Bharat. The policy aims to maintain compliance with Digital Personal Data Protection Act, 2023 and adherence to the security guidelines of Ministry of Electronics and Information Technology, Government of India.",
+        "dataCollection": "Data Collection",
+        "p5Personal": "We may collect personal identification information from users in various ways, including, but not limited to, when users install the App, register an account within the App, or interact with the App's features. Users may be asked for, as appropriate, name, email address, phone number, address/location and other relevant information about their service with the Government of India as the application is meant for the use of Government officials only and their individuals working for government on contract. The information collected shall be used only for the purpose of reporting and monitoring usage and consumption of courses on the platform by their respective departments.",
+        "dataUsage": "Data Usage",
+        "p6Collect": "We may collect and use users' personal information for the following purposes: ",
+        "p7UserExperience": "To personalize user experience: We may use information in the aggregate to understand how our users as a group use the services and resources provided in the App.",
+        "p8ImproveOurApp": "To improve our App: We continually strive to improve our App offerings based on the information and feedback we receive from users.",
+        "p9PeriodicEmails": "To send periodic emails: We may use the email address to respond to inquiries, questions, and/or other requests.",
+        "p10PhoneNumbers":"Phone numbers may be used for sending communications such as SMS, Whatsapp messages, mobile push notifications etc regarding iGOT platform.",
+        "dataProtection": "Data Protection",
+        "p11Adopt": "We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of users' personal information stored in the App.",
+        "p12Information": "All information available with Karmayogi Bharat is classified (based on existing classification of Manual on paper records issued by Ministry of Home Affairs, 1994 and National Information Security Policy and Guidelines 2014 issued by Ministry of Home Affairs as updated from time to time).",
+        "p13System": "System does not share/ disclose any information of the user collected at the time of sign up with any individual or organization (public or private) unless and until it is required by law or it is authorized by the account holder with his/her consent.",
+        "dataRetention": "Data Retention",
+        "p14PersonalData": "All personal data collected from you under Clause 4 will be retained for as long as your account remains in existence.",
+        "p15NotWithStanding" : "Not with standing anything contained herein, iGOT Karmayogi shall retain any personal data or any records pertaining to the processing of personal data for legal and compliance purpose and for logs maintenance.",
+        "thirdPartyServices": "Third-Party Services",
+        "p16ThirdParty":"We may use third-party service providers to help us operate our business and the App or administer activities on our behalf, such as sending out newsletters or surveys with approved agencies of Government of India. We may share your information with these third parties for those limited purposes provided that you have given us your permission.",
+        "changesToThisPrivacyPolicy": "Changes to This Privacy Policy",
+        "p17Karmayogi": "Karmayogi Bharat has the discretion to update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications.",
+        "yourAcceptanceOfTheseTerms":"Your Acceptance of These Terms",
+        "p18ByUsingThisApp": "By using this App, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our App. Your continued use of the App following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.",
+        "grievances": "Grievances",
+        "p19IfYouHave":"If you have any grievances in respect of any act or omission by iGOT Karmayogi in the performance of its obligations in relation to your personal data or the exercise of your rights under the provisions of the Digital Personal Data Protection Act, 2023, and the rules made thereunder, you may address your complaint to the Grievance Officer whose business contact information is as follows:",
+        "designation": "Designation: Grievance Officer.",
+        "department": "Department: Karmayogi Bharat under Department of Personnel and Training (DoPT)",
+        "p20Email": "Email: cto-karmayogi@gov.in",
+        "p21TheGrievance" : "The grievance redressal officer will acknowledge receipt of your grievance within 48 hours and shall dispose of your grievance within 2 weeks of such receipt.",
+        "p22IfYouBelieveThat" : "If you believe that your grievance was not adequately addressed by the grievance officer you shall be free to make a complaint to the Data Protection Board in accordance with the procedure prescribed in this regard.",
+        "contactingUs": "Contacting Us",
+        "p23IfYouHaveAnyQuestions":"If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at mission.karmayogi@gov.in."
     },
     "profilehome": {
         "welcomeMsg": "Welcome to the Portal",

@@ -48,6 +48,7 @@
         "key": "recentlyAdded",
         "logo": "school",
         "title": "Recently Added",
+        "disableTranslate": true,
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -60,24 +61,24 @@
         "stripBackground": "",
         "titleDescription": "Recently Added",
         "stripConfig": {
-          "cardSubType": "card-standard-1"
+          "cardSubType": "card-resource"
         },
         "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
+          "path": "/app/gyaan-karmayogi/view-all",
+          "viewMoreText": "View All",
           "queryParams": {
             "key": "recentlyAdded"
           },
           "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
+            "cardSubType": "card-resource-skeleton"
           },
           "stripConfig": {
-            "cardSubType": "card-portrait-click"
+            "cardSubType": "card-resource"
           }
         },
         "loader": true,
         "loaderConfig": {
-          "cardSubType": "card-standard-skeleton"
+          "cardSubType": "card-resource-skeleton"
         },
         "tabs": [
         ],
@@ -85,52 +86,24 @@
         "request": {
           "searchV6": {
             "request": {
-              "filters": [
-                {
-                    "primaryCategory": [
-                        "Learning Resource"
-                    ],
+                "filters": {
                     "contentType": [
                         "Resource"
                     ],
-
-            "mimeType": "application/pdf"
-                }
-              ],
-              "query": "",
-              "limit": 3,
-              "sort_by": {
-                "lastUpdatedOn": "desc"
-              },
-              "fields": [
-                "name",
-                "appIcon",
-                "instructions",
-                "description",
-                "purpose",
-                "mimeType",
-                "gradeLevel",
-                "identifier",
-                "medium",
-                "pkgVersion",
-                "board",
-                "subject",
-                "resourceType",
-                "primaryCategory",
-                "contentType",
-                "channel",
-                "organisation",
-                "trackable",
-                "license",
-                "posterImage",
-                "idealScreenSize",
-                "learningMode",
-                "creatorLogo",
-                "duration",
-                "avgRating"
-              ]
-            }
-          }
+                    
+            "mimeType": ["application/pdf","video/mp4"],
+                    "resourceCategory":"Event"
+                },
+                "query": "",
+                "limit": 50,
+                "sort_by": {
+                    "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                ]
+            },
+            "query": ""
+        }
         }
     }
 ]

@@ -1806,13 +1806,17 @@
         "p18ByUsingThisApp": "By using this App, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our App. Your continued use of the App following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.",
         "grievances": "Grievances",
         "p19IfYouHave":"If you have any grievances in respect of any act or omission by iGOT Karmayogi in the performance of its obligations in relation to your personal data or the exercise of your rights under the provisions of the Digital Personal Data Protection Act, 2023, and the rules made thereunder, you may address your complaint to the Grievance Officer whose business contact information is as follows:",
-        "designation": "Designation: Grievance Officer.",
-        "department": "Department: Karmayogi Bharat under Department of Personnel and Training (DoPT)",
-        "p20Email": "Email: cto-karmayogi@gov.in",
+        "designation": "Designation:",
+        "grievanceOfficer": "Grievance Officer.",
+        "department": "Department:",
+        "karmayogiDopt":"Karmayogi Bharat under Department of Personnel and Training (DoPT)",
+        "p20Email": "Email:",
+        "cto":"cto-karmayogi@gov.in",
         "p21TheGrievance" : "The grievance redressal officer will acknowledge receipt of your grievance within 48 hours and shall dispose of your grievance within 2 weeks of such receipt.",
         "p22IfYouBelieveThat" : "If you believe that your grievance was not adequately addressed by the grievance officer you shall be free to make a complaint to the Data Protection Board in accordance with the procedure prescribed in this regard.",
         "contactingUs": "Contacting Us",
-        "p23IfYouHaveAnyQuestions":"If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at mission.karmayogi@gov.in."
+        "p23IfYouHaveAnyQuestions":"If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at ",
+        "p24Mission":"mission.karmayogi@gov.in."
     },
     "profilehome": {
         "welcomeMsg": "Welcome to the Portal",

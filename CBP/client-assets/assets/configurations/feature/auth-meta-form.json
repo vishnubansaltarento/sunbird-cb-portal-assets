@@ -5747,7 +5747,7 @@
     },
     "type": "string"
   },
-  "sector": {
+  "sectorId": {
     "defaultValue": {
       "Learning Resource": [
         {
@@ -5784,7 +5784,79 @@
     },
     "type": "string"
   },
-  "subSector": {
+  "sectorName": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {
+      "Learning Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "CourseUnit": [],
+      "Course": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": []
+    },
+    "showFor": {
+      "Learning Resource": []
+    },
+    "type": "string"
+  },
+  "subSectorId": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {},
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "CourseUnit": [],
+      "Course": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": []
+    },
+    "showFor": {
+      "Learning Resource": []
+    },
+    "type": "string"
+  },
+  "subSectorName": {
     "defaultValue": {
       "Learning Resource": [
         {

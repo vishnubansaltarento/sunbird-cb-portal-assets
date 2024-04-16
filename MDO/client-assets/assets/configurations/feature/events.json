@@ -51,7 +51,7 @@
                         "uri": ""
                     },
                     "enabled": true,
-                    "routerLink": "/app/home/approvals"
+                    "routerLink": "/app/home/approvals/pending"
                 },
                 {
                     "name": "Blended program",

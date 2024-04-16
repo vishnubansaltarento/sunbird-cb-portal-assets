@@ -1776,14 +1776,14 @@
     {
       "active": true,
       "banners":{
-        "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/6/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png"
       },
-      "redirectUrl": "/app/organisation/dopt",
+      "redirectUrl": "/app/curatedCollections/do_1137524714202480641252",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1794,15 +1794,15 @@
     },
     {
       "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
+      "banners":{
+        "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png"
       },
-      "redirectUrl": "/app/globalsearch",
+      "redirectUrl": "/app/organisation/dopt",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1829,26 +1829,6 @@
         "f": "{}"
       },
       "title": "" 
-    },
-
-    {
-      "active": true,
-      "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/3/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/3/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/3/l.png"
-      },
-      "redirectUrl": "",
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
     }
   ],
   "clientList": [

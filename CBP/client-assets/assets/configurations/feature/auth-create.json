@@ -479,7 +479,7 @@
     "primaryCategory": "Standalone Assessment",
     "possion": 3,
     "details": {
-      "title": "Welcome to the assessement creation.",
+      "title": "Welcome to the assessment creation.",
       "createTitle": "Assessment",
       "subTitle": "Create Standalone and Moderated assessment.",
       "points": []

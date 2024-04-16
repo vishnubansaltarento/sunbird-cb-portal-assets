@@ -1,0 +1,6 @@
+{
+  "downloadSampleFilePath": "/assets/common/user-approvals-upload-sample.xlsx",
+  "downloadAsFileName": "user-approvals-upload-sample.xlsx",
+  "defaultValuesFilePath": "/assets/common/user-approvals-upload-default-values.xlsx",
+  "defaultValuesFileName": "user-approvals-upload-default-values.xlsx"
+}

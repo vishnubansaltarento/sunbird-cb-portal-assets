@@ -67,7 +67,7 @@
                       "uri": ""
                   },
                   "enabled": true,
-                  "routerLink": "/app/home/approvals",
+                  "routerLink": "/app/home/approvals/pending",
                   "requiredRoles": [
                       "admin",
                       "mdo_admin",

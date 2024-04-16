@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/action/search_24px Copy</title>
+    <g id="Assesst-for-download-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skeleton-Review-see-all" transform="translate(-655, -518)">
+            <g id="Icons/action/search_24px-Copy" transform="translate(655, 518)">
+                <polygon id="Path-Copy" points="0 0 16 0 16 16 0 16"></polygon>
+                <path d="M12,2.66666667 L4,2.66666667 C3.26666667,2.66666667 2.66666667,3.26666667 2.66666667,4 L2.66666667,12 C2.66666667,12.7333333 3.26666667,13.3333333 4,13.3333333 L12,13.3333333 C12.7333333,13.3333333 13.3333333,12.7333333 13.3333333,12 L13.3333333,4 C13.3333333,3.26666667 12.7333333,2.66666667 12,2.66666667 Z M10.6666667,6 L8.66666667,6 L8.66666667,9.66666667 C8.66666667,10.6 7.93333333,11.3333333 7,11.3333333 C6.06666667,11.3333333 5.33333333,10.6 5.33333333,9.66666667 C5.33333333,8.73333333 6.06666667,8 7,8 C7.4,8 7.73333333,8.13333333 8,8.33333333 L8,4.66666667 L10.6666667,4.66666667 L10.6666667,6 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

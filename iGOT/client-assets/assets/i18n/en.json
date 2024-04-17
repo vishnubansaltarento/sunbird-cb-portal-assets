@@ -39,7 +39,8 @@
         "loadMore": "Load more...",
         "gyaanKarmayogi": "Gyaan Karmayogi",
         "janKarmayogi":"Jan Karmayogi",
-        "dueBy": "Due by"
+        "dueBy": "Due by",
+        "viewAll": "View All"
     },
     "msg": {
         "noEvent" : "No Event",
@@ -1326,7 +1327,8 @@
         "today'sEvents": "Today's events",
         "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any new course in progress.",
         "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content for which the due date is within 30 days.",
-        "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here."
+        "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
+        "viewAll": "View All"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1967,6 +1969,10 @@
         "careerDesc": "Explore career options, grow in the path of your choice.",
         "competenciesDesc": "Add your competencies, see what others are adding.",
         "eventsDesc": "Add your events."
+    }, 
+    "gyaanKarmayogi":{
+        "title":"Gyaan Karmayogi",
+        "description":"Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services."
     },
     "mobileApp": {}
 }

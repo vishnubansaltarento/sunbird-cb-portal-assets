@@ -1919,5 +1919,9 @@
     "competenciesDesc": "अपनी क्षमताओं को जोड़ें, देखें कि अन्य क्या जोड़ रहे हैं।",
     "eventsDesc": "अपने कार्यक्रम जोड़ें।"
   },
+  "gyaanKarmayogi":{
+    "title":"ज्ञान कर्मयोगी",
+    "description":"Discover resources to boost your progress and enhance your learning experience and professional performance."
+  },
   "mobileApp": {}
 }

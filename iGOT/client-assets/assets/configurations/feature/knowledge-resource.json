@@ -39,5 +39,73 @@
                 }
             }
         ]
+    },
+    "stripConfig" :  { 
+        
+      "order": 1,
+      "strips": [ {      
+        "active": true,
+        "key": "recentlyAdded",
+        "logo": "school",
+        "title": "Recently Added",
+        "disableTranslate": true,
+        "stripTitleLink": {
+          "link": "",
+          "icon": ""
+        },
+        "sliderConfig": {
+          "showNavs" : false,
+          "showDots": false,
+          "maxWidgets": 3
+        },
+        "stripBackground": "",
+        "titleDescription": "Recently Added",
+        "stripConfig": {
+          "cardSubType": "card-resource"
+        },
+        "viewMoreUrl": {
+          "path": "/app/gyaan-karmayogi/view-all",
+          "viewMoreText": "View All",
+          "queryParams": {
+            "key": "recentlyAdded"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-resource-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-resource"
+          }
+        },
+        "loader": true,
+        "loaderConfig": {
+          "cardSubType": "card-resource-skeleton"
+        },
+        "tabs": [
+        ],
+        "filters": [],
+        "request": {
+          "searchV6": {
+            "request": {
+                "filters": {
+                    "contentType": [
+                        "Resource"
+                    ],
+                    
+            "mimeType": ["application/pdf","video/mp4"],
+                    "resourceCategory":"Event"
+                },
+                "query": "",
+                "limit": 50,
+                "sort_by": {
+                    "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                ]
+            },
+            "query": ""
+        }
+        }
+    }
+]
     }
 }

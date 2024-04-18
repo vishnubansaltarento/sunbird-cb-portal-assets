@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Event",
+        "value": "Event",
+        "enabled": true
+    },
+    {
+        "name": "Podcast",
+        "value": "Podcast",
+        "enabled": true
+    },
+    {
+        "name": "Others",
+        "value": "Others",
+        "enabled": true
+    }
+]

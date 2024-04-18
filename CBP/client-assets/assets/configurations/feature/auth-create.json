@@ -1,9 +1,9 @@
 [
   {
-    "id": "resource",
+    "id": "learningResource",
     "name": "Resource",
-    "description": "Smallest learning entity",
-    "icon": "call_to_action",
+    "description": "Create standalone resources.",
+    "icon": "playlist_add_check",
     "contentType": "Resource",
     "primaryCategory": "Learning Resource",
     "mimeType": "application/html",
@@ -19,7 +19,55 @@
       "assessment",
       "activities"
     ],
-    "enabled": false
+    "enabled": true,
+    "isStandalone": true,
+    "possion": 4,
+    "details": {
+      "title": "Welcome to the resource creation section.",
+      "createTitle": "Resource information",
+      "subTitle": "A few key points for creating a robust resource:",
+      "points": [
+        {
+          "icon": "error_outline",
+          "text": "For seamless view create resource (Video, PDF, MP3, MP4)  with proper taxonomy."
+        },
+        {
+          "icon": "error_outline",
+          "text": "In the resource thumbnail, please use 16:9 ratio images with high -resolution."
+        },
+        {
+          "icon": "error_outline",
+          "text": "Please write a proper title & description for the resource."
+        }
+      ]
+    },
+    "resourceList": [
+      {
+        "name": "PDF",
+        "mimetype": "application/pdf",
+        "enabled": true
+      },
+      {
+        "name": "MP4",
+        "mimetype": "video/mp4",
+        "enabled": true
+      },
+      {
+        "name": "MP3",
+        "mimetype": "audio/mpeg",
+        "enabled": true
+      },
+      {
+        "name": "Youtube",
+        "mimetype": "text/x-url",
+        "enabled": true
+      }
+    ],
+    "resourceSubtitle": "Select what type of resource  you want to add.",
+    "showFor": [
+      "Course",
+      "Blended Program"
+    ]
   },
   {
     "id": "upload",
@@ -354,7 +402,7 @@
     "description": "Create workshops and trainings.",
     "icon": "local_library",
     "contentType": "Training Path",
-    "available": true,
+    "available": false,
     "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [],
@@ -367,7 +415,7 @@
     "description": "Create quick micro content.",
     "icon": "view_carousel",
     "contentType": "Bites Path",
-    "available": true,
+    "available": false,
     "enabled": false,
     "mimeType": "application/vnd.ekstep.content-collection",
     "hasRole": [],

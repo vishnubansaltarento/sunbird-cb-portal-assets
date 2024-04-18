@@ -269,6 +269,24 @@
                 "editor",
                 "content_creator"
               ]
+            },
+            {
+              "name": "Standalone Resource",
+              "key": "cbp",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/standalone-resource",
+              "queryParams": "published",
+              "requiredRoles": [
+                "content_reviewer",
+                "content_creator",
+                "spv_publisher"
+              ]
             }
           ]
         },

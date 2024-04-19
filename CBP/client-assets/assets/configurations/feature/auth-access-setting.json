@@ -12,6 +12,6 @@
     {
         "name": "Custom User",
         "value": "customeUser",
-        "enabledFor": ["Program"]
+        "enabledFor": ["Program","Standalone Assessment"]
     }
 ]

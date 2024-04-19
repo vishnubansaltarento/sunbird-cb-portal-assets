@@ -90,9 +90,10 @@
                     "contentType": [
                         "Resource"
                     ],
-                    
-            "mimeType": ["application/pdf","video/mp4"],
-                    "resourceCategory":"Event"
+                    "mimeType": [
+                      "application/pdf",
+                      "video/mp4"
+                    ]
                 },
                 "query": "",
                 "limit": 50,
@@ -107,5 +108,23 @@
         }
     }
 ]
-    }
+    },
+    "facetReqData": {
+      "request": {
+          "filters": {
+              "status": ["Live"]
+          },
+          "fields": ["identifier", "courseCategory", "status"],
+          "offset": 0,
+          "limit": 0,
+          "sort_by": {
+              "lastUpdatedOn": "desc"
+          },
+          "facets": [
+            "resourceCategory",
+            "sectorName",
+            "subSectorName"
+          ]
+      }
+  }
 }

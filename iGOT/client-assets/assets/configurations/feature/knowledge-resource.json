@@ -92,7 +92,9 @@
                     ],
                     "mimeType": [
                       "application/pdf",
-                      "video/mp4"
+                      "video/mp4",
+                      "text/x-url",
+                      "audio/mpeg"
                     ]
                 },
                 "query": "",

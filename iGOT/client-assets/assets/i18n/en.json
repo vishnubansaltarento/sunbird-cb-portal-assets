@@ -1972,7 +1972,24 @@
     }, 
     "gyaanKarmayogi":{
         "title":"Gyaan Karmayogi",
-        "description":"Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services."
+        "description":"Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services.",
+        "filterBy":"Filter by",
+        "sectors":"Sectors",
+        "allSector":"All Sector",
+        "sector":"Sector",
+        "placeholder":"Search in Gyaan Karmayogi",
+        "search":"Search",
+        "subSector":"Sub sector",
+        "subSectors":"Sub-sectors",
+        "category":"Category",
+        "categories":"Categories",
+        "apply":"Apply",
+        "cancel": "Cancel",
+        "clearAll":"Clear all",
+        "resourceType":"Resource Type",
+        "share":"Share",
+        "download": "Download",
+        "applyNow": "Apply now"
     },
     "mobileApp": {}
 }

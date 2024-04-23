@@ -300,7 +300,8 @@
         "content_creator",
         "content-creator",
         "content_reviewer",
-        "cbp_admin"
+        "cbp_admin",
+        "spv_publisher"
       ],
       "show": true,
       "status": "live",

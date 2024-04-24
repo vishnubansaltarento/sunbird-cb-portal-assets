@@ -118,7 +118,8 @@
     "allCbps": "सभी सीबीपी",
     "curatedCollections": "क्यूरेटेड संग्रह",
     "search": "खोजें।",
-    "allProviders": "सभी प्रदाता"
+    "allProviders": "सभी प्रदाता",
+    "gyaanKarmayogi": "Gyaan Karmayogi"
   },
   "cardshublist": {
     "more": "अधिक",
@@ -1919,9 +1920,27 @@
     "competenciesDesc": "अपनी क्षमताओं को जोड़ें, देखें कि अन्य क्या जोड़ रहे हैं।",
     "eventsDesc": "अपने कार्यक्रम जोड़ें।"
   },
-  "gyaanKarmayogi":{
-    "title":"ज्ञान कर्मयोगी",
-    "description":"Discover resources to boost your progress and enhance your learning experience and professional performance."
+  "gyaanKarmayogi": {
+    "title": "ज्ञान कर्मयोगी",
+    "description": "शासन और सार्वजनिक सेवाओं के क्षेत्र में विभिन्न हितधारकों से नीतिगत दस्तावेजों, मामले के अध्ययन, सर्वोत्तम प्रथाओं और अन्य सीखने के संसाधनों का ज्ञान भंडार।",
+    "filterBy": "के द्वारा फ़िल्टर करें",
+    "sectors": "सेक्टर",
+    "allSector": "सभी क्षेत्र",
+    "sector": "सेक्टर",
+    "placeholder": "ज्ञान कर्मयोगी में खोजें",
+    "search": "खोजें।",
+    "subSector": "उप-क्षेत्र",
+    "subSectors": "उप-क्षेत्र",
+    "category": "श्रेणी",
+    "categories": "श्रेणियाँ",
+    "apply": "आवेदन करें।",
+    "cancel": "रद्द करें",
+    "clearAll": "सब साफ़ करें",
+    "resourceType": "संसाधन प्रकार",
+    "share": "शेयर करें।",
+    "download": "डाउनलोड करें",
+    "applyNow": "अभी आवेदन करें",
+    "viewAll": "सभी देखें"
   },
   "mobileApp": {}
 }

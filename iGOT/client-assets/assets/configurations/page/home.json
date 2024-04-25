@@ -232,7 +232,6 @@
             }
           }
         ],
-        
         [
           {
             "dimensions": {},
@@ -284,7 +283,9 @@
                             "contentType": [
                               "Course"
                             ],
-                            "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
+                            "batches.endDate": {
+                              ">=": "new Date().toISOString().substring(0,10)"
+                            }
                           },
                           "offset": 0,
                           "limit": 20,
@@ -780,163 +781,162 @@
       ]
     }
   },
-  "profileCard":{
+  "profileCard": {
     "enableCard": true,
     "displayOnlyStats": false,
     "profileStats": [
       {
-          "icon":"/assets/icons/home/video-play.svg",
-          "label":"In Progress",
-          "enable": true,
-          "key": "inProgress",
-          "value": 0 
+        "icon": "/assets/icons/home/video-play.svg",
+        "label": "In Progress",
+        "enable": true,
+        "key": "inProgress",
+        "value": 0
       },
       {
-          "icon":"/assets/icons/home/certificate.svg",
-          "label":"Certificate",
-          "enable": true,
-          "key": "certificate",
-          "value": 0 
+        "icon": "/assets/icons/home/certificate.svg",
+        "label": "Certificate",
+        "enable": true,
+        "key": "certificate",
+        "value": 0
       },
       {
-          "icon":"/assets/icons/home/time.svg",
-          "label":"Learning hours",
-          "enable": true,
-          "key": "learningHours",
-          "value": 0 
+        "icon": "/assets/icons/home/time.svg",
+        "label": "Learning hours",
+        "enable": true,
+        "key": "learningHours",
+        "value": 0
       },
       {
-          "icon":"/assets/icons/home/inProgress.svg",
-          "label":"In Progress",
-          "enable": false,
-          "key": "inProgress",
-          "value": 0 
+        "icon": "/assets/icons/home/inProgress.svg",
+        "label": "In Progress",
+        "enable": false,
+        "key": "inProgress",
+        "value": 0
       }
     ],
     "weeklyClaps": {
       "enableCard": true,
       "displayOnlyHeader": true,
       "weekList": [
-      {
-      "label":"W1",
-      "enable": true,
-      "key": "w1",
-      "activeWeek": false
-      },
-      {
-          "label":"W2",
+        {
+          "label": "W1",
+          "enable": true,
+          "key": "w1",
+          "activeWeek": false
+        },
+        {
+          "label": "W2",
           "enable": true,
           "key": "w2",
           "activeWeek": false
-      },
-      {
-          "label":"W3",
+        },
+        {
+          "label": "W3",
           "enable": true,
           "key": "w3",
           "activeWeek": false
-      },
-      {
-          "label":"W4",
+        },
+        {
+          "label": "W4",
           "enable": true,
           "key": "w4",
           "activeWeek": true
-      }
-  ]
+        }
+      ]
     }
   },
   "weeklyClaps": {
-      "enableCard": true,
-      "weekList": [
+    "enableCard": true,
+    "weekList": [
       {
-      "label":"W1",
-      "enable": true,
-      "key": "w1",
-      "activeWeek": false
+        "label": "W1",
+        "enable": true,
+        "key": "w1",
+        "activeWeek": false
       },
       {
-          "label":"W2",
-          "enable": true,
-          "key": "w2",
-          "activeWeek": false
+        "label": "W2",
+        "enable": true,
+        "key": "w2",
+        "activeWeek": false
       },
       {
-          "label":"W3",
-          "enable": true,
-          "key": "w3",
-          "activeWeek": false
+        "label": "W3",
+        "enable": true,
+        "key": "w3",
+        "activeWeek": false
       },
       {
-          "label":"W4",
-          "enable": true,
-          "key": "w4",
-          "activeWeek": true
+        "label": "W4",
+        "enable": true,
+        "key": "w4",
+        "activeWeek": true
       }
-  ]
+    ]
   },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",
       "alt": "Linkedin",
-      "icon" : "linkedin",
+      "icon": "linkedin",
       "active": true
     },
     {
       "url": "https://x.com/iGOTKarmayogi?t=OUEVuskmXbrTNdPuIBaHuw&s=09",
       "alt": "Twitter",
-      "icon" : "Combined Shape",
+      "icon": "Combined Shape",
       "active": true
     },
     {
       "url": "https://instagram.com/karmayogibharat?igshid=MzRlODBiNWFlZA==",
       "alt": "Instagram",
-      "icon" : "instagram",
+      "icon": "instagram",
       "active": true
     },
     {
       "url": "https://www.facebook.com/profile.php?id=100089782863897&mibextid=ZbWKwL",
       "alt": "Facebook",
-      "icon" : "facebook",
+      "icon": "facebook",
       "active": true
     },
     {
       "url": "https://youtube.com/@karmayogibharat?feature=shared",
       "alt": "Youtube",
-      "icon" : "youtube",
+      "icon": "youtube",
       "active": true
     },
     {
       "url": "https://open.spotify.com/user/31cr3bizg7gpg5vytxl4bzyhw43a?si=5up31eyNSl-Y4Svr_Kfr7g&utm_source=copy-link&utm_medium=copy-link&nd=1&_branch_match_id=1242771130436995949&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1g%2BqyEsqywiKyHdJAgBCVoQFIAAAAA%3D%3D",
       "alt": "Spotify",
-      "icon" : "spotify",
+      "icon": "spotify",
       "active": true
     }
-  
   ],
   "footerSectionConfig": [
     {
-      "id":1,
-      "order":1,
+      "id": 1,
+      "order": 1,
       "sectionHeading": "hubs",
       "active": true,
       "slug": "hub"
     },
     {
-      "id":2,
-      "order":2,
+      "id": 2,
+      "order": 2,
       "sectionHeading": "relatedLinks",
       "active": true,
       "slug": "link"
     },
     {
-      "id":3,
-      "order":3,
+      "id": 3,
+      "order": 3,
       "sectionHeading": "support",
       "active": true,
       "slug": "support"
     },
     {
-      "id":4,
-      "order":4,
+      "id": 4,
+      "order": 4,
       "sectionHeading": "aboutUs",
       "active": true,
       "slug": "about"
@@ -944,40 +944,40 @@
   ],
   "topRightNavConfig": [
     {
-      "id":1,
-      "section":"download",
+      "id": 1,
+      "section": "download",
       "active": true
     },
     {
-      "id":2,
-      "section":"font-setting",
+      "id": 2,
+      "section": "font-setting",
       "active": true
     },
     {
-      "id":3,
-      "section":"help",
+      "id": 3,
+      "section": "help",
       "active": true
     },
     {
-      "id":4,
-      "section":"profile",
+      "id": 4,
+      "section": "profile",
       "active": true
     },
     {
-      "id":5,
-      "section":"language",
+      "id": 5,
+      "section": "language",
       "active": true
     }
   ],
   "homeConfig": {
     "insightOnRight": {
-      "active" : false
+      "active": false
     },
-    "leftSection" : {
-      "active":  true
+    "leftSection": {
+      "active": true
     },
     "rightSection": {
-      "active":  true
+      "active": true
     },
     "discussHub": {
       "active": true,
@@ -998,7 +998,7 @@
       }
     }
   },
-  "homeStrips":  [
+  "homeStrips": [
     {
       "order": 1,
       "strips": [
@@ -1011,7 +1011,7 @@
           "stripTitleLink": {
             "link": "",
             "icon": ""
-          },	
+          },
           "loader": true,
           "loaderConfig": {
             "cardSubType": "card-standard-skeleton"
@@ -1077,188 +1077,85 @@
         }
       ]
     },
-
     {
-    "order":2,
-    "strips": [
-      {        
-        "active": true,
-        "key": "continueLearning",
-        "logo": "school",
-        "title": "My Learning",
-        "customeClass": "mr-5",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-portrait-skeleton"
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": false,
-          "maxWidgets": 12
-        },
-        "stripBackground": "",
-        "titleDescription": "My Learning",
-        "stripConfig": {
-          "cardSubType": "card-portrait"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "continueLearning"
+      "order": 2,
+      "strips": [
+        {
+          "active": true,
+          "key": "continueLearning",
+          "logo": "school",
+          "title": "My Learning",
+          "customeClass": "mr-5",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
           },
+          "loader": true,
           "loaderConfig": {
             "cardSubType": "card-portrait-skeleton"
           },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": false,
+            "maxWidgets": 12
+          },
+          "stripBackground": "",
+          "titleDescription": "My Learning",
           "stripConfig": {
             "cardSubType": "card-portrait"
-          }
-        },
-        "tabs": [
-          {
-            "label": "In Progress",
-            "value": "inprogress",
-            "computeDataOnClick": false,
-            "showTabDataCount": true,
-            "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You don’t have any new course in progress."
           },
-          {
-            "label": "Completed",
-            "value": "completed",
-            "computeDataOnClick": false,
-            "showTabDataCount": true,
-            "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find your Completed Courses/Program here."
-          }
-        ],
-        "filters": [],
-        "request": {
-          "enrollmentList": {
-            "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
             "queryParams": {
-              "orgdetails": "orgName,email",
-              "licenseDetails": "name,description,url",
-              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
-              "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
-            }
-          }
-        }
-      }      
-    ]},{
-    "order":3,
-    "strips": [
-      {        
-        "active": true,
-        "key": "trendingInDepartment",
-        "logo": "school",
-        "title": "Trending in your Department",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": true,
-          "maxWidgets": 12
-        },
-        "stripBackground": "",
-        "titleDescription": "Trending in your Department",
-        "stripConfig": {
-          "cardSubType": "standard"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "trendingInDepartment"
-          },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
-          }
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-standard-skeleton"
-        },
-        "tabs": [
-          {
-            "label": "Courses",
-            "value": "courses",
-            "computeDataOnClick": false,
-            "computeDataOnClickKey": "",
-            "requestRequired": true,
-            "showTabDataCount": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find trending courses here.",
-            "request": {
-              "trendingSearch": {
-                "request": {
-                    "filters": {
-                      "contextType": [
-                        "courses"
-                      ],
-                      "organisation": "<orgID>"
-                    },
-                    "limit": 12
-                }
-              }
+              "key": "continueLearning"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait"
             }
           },
-          {
-            "label": "Programs",
-            "value": "programs",
-            "computeDataOnClick": false,
-            "computeDataOnClickKey": "",
-            "requestRequired": true,
-            "showTabDataCount": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find trending programs here.",
-            "request": {
-              "trendingSearch": {
-                "request": {
-                    "filters": {
-                      "contextType": [
-                        "programs"
-                      ],
-                      "organisation": "<orgID>"
-                    },
-                    "limit": 12
-                }
+          "tabs": [
+            {
+              "label": "In Progress",
+              "value": "inprogress",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any new course in progress."
+            },
+            {
+              "label": "Completed",
+              "value": "completed",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find your Completed Courses/Program here."
+            }
+          ],
+          "filters": [],
+          "request": {
+            "enrollmentList": {
+              "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+              "queryParams": {
+                "orgdetails": "orgName,email",
+                "licenseDetails": "name,description,url",
+                "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
+                "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
               }
             }
           }
-        ],
-        "filters": [],
-        "request": {
-          "trendingSearch": {
-            "request": {
-                  "filters": {
-                    "contextType": [
-                      "programs",
-                      "courses"
-                    ],
-                    "organisation": "across"
-                },
-                "limit": 12
-            }
-          }
         }
-      }
-      
-    ]},{
-      "order":4,
+      ]
+    },
+    {
+      "order": 3,
       "strips": [
-        {        
+        {
           "active": true,
           "key": "recentlyAdded",
           "logo": "school",
@@ -1268,7 +1165,7 @@
             "icon": ""
           },
           "sliderConfig": {
-            "showNavs" : true,
+            "showNavs": true,
             "showDots": true,
             "maxWidgets": 12
           },
@@ -1295,6 +1192,116 @@
             "cardSubType": "card-standard-skeleton"
           },
           "tabs": [
+            {
+              "label": "Courses",
+              "value": "courses",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find recently added courses here.",
+              "request": {
+                "searchV6": {
+                  "request": {
+                    "filters": {
+                      "primaryCategory": [
+                        "Course"
+                      ],
+                      "contentType": [
+                        "Course"
+                      ]
+                    },
+                    "query": "",
+                    "sort_by": {
+                      "lastUpdatedOn": "desc"
+                    },
+                    "fields": [
+                      "name",
+                      "appIcon",
+                      "instructions",
+                      "description",
+                      "purpose",
+                      "mimeType",
+                      "gradeLevel",
+                      "identifier",
+                      "medium",
+                      "pkgVersion",
+                      "board",
+                      "subject",
+                      "resourceType",
+                      "primaryCategory",
+                      "contentType",
+                      "channel",
+                      "organisation",
+                      "trackable",
+                      "license",
+                      "posterImage",
+                      "idealScreenSize",
+                      "learningMode",
+                      "creatorLogo",
+                      "duration",
+                      "avgRating"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "label": "Programs",
+              "value": "programs",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find recently added programs here.",
+              "request": {
+                "searchV6": {
+                  "request": {
+                    "filters": {
+                      "primaryCategory": [
+                        "Curated Program"
+                      ],
+                      "contentType": [
+                        "Course"
+                      ]
+                    },
+                    "query": "",
+                    "sort_by": {
+                      "lastUpdatedOn": "desc"
+                    },
+                    "fields": [
+                      "name",
+                      "appIcon",
+                      "instructions",
+                      "description",
+                      "purpose",
+                      "mimeType",
+                      "gradeLevel",
+                      "identifier",
+                      "medium",
+                      "pkgVersion",
+                      "board",
+                      "subject",
+                      "resourceType",
+                      "primaryCategory",
+                      "contentType",
+                      "channel",
+                      "organisation",
+                      "trackable",
+                      "license",
+                      "posterImage",
+                      "idealScreenSize",
+                      "learningMode",
+                      "creatorLogo",
+                      "duration",
+                      "avgRating"
+                    ]
+                  }
+                }
+              }
+            }
           ],
           "filters": [],
           "request": {
@@ -1303,11 +1310,14 @@
                 "filters": [
                   {
                     "primaryCategory": [
-                      "Course"
+                      "Curated Program"
                     ],
                     "contentType": [
                       "Course"
-                    ]
+                    ],
+                    "batches.endDate": {
+                      ">=": "new Date().toISOString().substring(0,10)"
+                    }
                   }
                 ],
                 "query": "",
@@ -1345,173 +1355,280 @@
             }
           }
         }
-        
-      ]},{
-      "order":5,
-    "strips": [
-      {
-        "active": true,
-        "key": "trendingAcrossDepartment",
-        "logo": "school",
-        "title": "Trending across Departments",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": true,
-          "maxWidgets": 12
-        },
-        "stripBackground": "",
-        "titleDescription": "Trending across Departments",
-        "stripConfig": {
-          "cardSubType": "standard"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "trendingAcrossDepartment"
+      ]
+    },
+    {
+      "order": 4,
+      "strips": [
+        {
+          "active": true,
+          "key": "trendingInDepartment",
+          "logo": "school",
+          "title": "Trending in your Department",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
           },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
           },
+          "stripBackground": "",
+          "titleDescription": "Trending in your Department",
           "stripConfig": {
-            "cardSubType": "card-portrait-click"
-          }
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-standard-skeleton"
-        },
-        "tabs": [
-          {
-            "label": "Courses",
-            "value": "courses",
-            "computeDataOnClick": false,
-            "computeDataOnClickKey": "",
-            "requestRequired": true,
-            "showTabDataCount": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find trending courses here.",
-            "request": {
-              "trendingSearch": {
-                "request": {
-                    "filters": {
-                      "contextType": [
-                        "courses"
-                      ],
-                      "organisation": "across"
-                    },
-                    "limit": 12
-                }
-              }
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "trendingInDepartment"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
             }
           },
-          {
-            "label": "Programs",
-            "value": "programs",
-            "computeDataOnClick": false,
-            "computeDataOnClickKey": "",
-            "requestRequired": true,
-            "showTabDataCount": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find trending programs here.",
-            "request": {
-              "trendingSearch": {
-                "request": {
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "tabs": [
+            {
+              "label": "Courses",
+              "value": "courses",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find trending courses here.",
+              "request": {
+                "trendingSearch": {
+                  "request": {
                     "filters": {
                       "contextType": [
-                          "programs"
+                        "courses"
                       ],
-                      "organisation": "across"
+                      "organisation": "<orgID>"
                     },
                     "limit": 12
+                  }
+                }
+              }
+            },
+            {
+              "label": "Programs",
+              "value": "programs",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find trending programs here.",
+              "request": {
+                "trendingSearch": {
+                  "request": {
+                    "filters": {
+                      "contextType": [
+                        "programs"
+                      ],
+                      "organisation": "<orgID>"
+                    },
+                    "limit": 12
+                  }
                 }
               }
             }
-          }
-        ],
-        "filters": [],
-        "request": {
-          "trendingSearch": {
-            "request": {
-                  "filters": {
-                    "contextType": [
-                        "programs",
-                        "courses"
-                    ],
-                    "organisation": "across"
+          ],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                    "programs",
+                    "courses"
+                  ],
+                  "organisation": "across"
                 },
                 "limit": 12
+              }
             }
           }
         }
-      }
-      
-    ]},{
-      "order":6,
-    "strips": [
-      {        
-        "active": true,
-        "key": "learnUnder30Min",
-        "logo": "school",
-        "title": "Learning under 30 minutes",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": true,
-          "maxWidgets": 12
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-standard-skeleton"
-        },
-        "stripBackground": "",
-        "titleDescription": "Learning under 30 minutes",
-        "stripConfig": {
-          "cardSubType": "standard"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "learnUnder30Min"
+      ]
+    },
+    {
+      "order": 5,
+      "strips": [
+        {
+          "active": true,
+          "key": "trendingAcrossDepartment",
+          "logo": "school",
+          "title": "Trending across Departments",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
           },
-          "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
           },
+          "stripBackground": "",
+          "titleDescription": "Trending across Departments",
           "stripConfig": {
-            "cardSubType": "card-portrait-click"
-          }
-        },
-        "tabs": [],
-        "filters": [],
-        "request": {
-          "trendingSearch": {
-            "request": {
-              "filters": {
-                "contextType": [
-                  "under_30_mins"
-                ],
-                "organisation": "across"
-              },
-              "limit": 12
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "trendingAcrossDepartment"
             },
-            "responseKey": "under_30_mins"
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "tabs": [
+            {
+              "label": "Courses",
+              "value": "courses",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find trending courses here.",
+              "request": {
+                "trendingSearch": {
+                  "request": {
+                    "filters": {
+                      "contextType": [
+                        "courses"
+                      ],
+                      "organisation": "across"
+                    },
+                    "limit": 12
+                  }
+                }
+              }
+            },
+            {
+              "label": "Programs",
+              "value": "programs",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find trending programs here.",
+              "request": {
+                "trendingSearch": {
+                  "request": {
+                    "filters": {
+                      "contextType": [
+                        "programs"
+                      ],
+                      "organisation": "across"
+                    },
+                    "limit": 12
+                  }
+                }
+              }
+            }
+          ],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                    "programs",
+                    "courses"
+                  ],
+                  "organisation": "across"
+                },
+                "limit": 12
+              }
+            }
           }
         }
-      }
-      
-    ]},
+      ]
+    },
     {
-      "order":7,
+      "order": 6,
       "strips": [
-        {        
+        {
+          "active": true,
+          "key": "learnUnder30Min",
+          "logo": "school",
+          "title": "Learning under 30 minutes",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "stripBackground": "",
+          "titleDescription": "Learning under 30 minutes",
+          "stripConfig": {
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "learnUnder30Min"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                    "under_30_mins"
+                  ],
+                  "organisation": "across"
+                },
+                "limit": 12
+              },
+              "responseKey": "under_30_mins"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "strips": [
+        {
           "active": true,
           "key": "blendedPrograms",
           "logo": "school",
@@ -1521,7 +1638,7 @@
             "icon": ""
           },
           "sliderConfig": {
-            "showNavs" : true,
+            "showNavs": true,
             "showDots": true,
             "maxWidgets": 12
           },
@@ -1559,7 +1676,9 @@
                   "contentType": [
                     "Course"
                   ],
-                  "batches.endDate": { ">=": "new Date().toISOString().substring(0,10)" }
+                  "batches.endDate": {
+                    ">=": "new Date().toISOString().substring(0,10)"
+                  }
                 },
                 "offset": 0,
                 "limit": 12,
@@ -1601,67 +1720,68 @@
             }
           }
         }
-       
-      ]},
+      ]
+    },
     {
-      "order":8,
-    "strips": [
-      {
-        "active": true,
-        "key": "certificationsOfWeek",
-        "logo": "school",
-        "title": "Certifications of the Week",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "sliderConfig": {
-          "showNavs" : true,
-          "showDots": true,
-          "maxWidgets": 12,
-          "cerificateCardMargin": true
-        },
-        "loader": true,
-        "stripBackground": "",
-        "titleDescription": "Certifications of the Week",
-        "stripConfig": {
-          "cardSubType": "card-wide-v2"
-        },
-        "loaderConfig": {
-          "cardSubType": "card-wide-v2-skelton"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "certificationsOfWeek"
+      "order": 8,
+      "strips": [
+        {
+          "active": true,
+          "key": "certificationsOfWeek",
+          "logo": "school",
+          "title": "Certifications of the Week",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "cerificateCardMargin": true
+          },
+          "loader": true,
+          "stripBackground": "",
+          "titleDescription": "Certifications of the Week",
+          "stripConfig": {
+            "cardSubType": "card-wide-v2"
           },
           "loaderConfig": {
-            "cardSubType": "card-portrait-click-skeleton"
+            "cardSubType": "card-wide-v2-skelton"
           },
-          "stripConfig": {
-            "cardSubType": "card-portrait-click"
-          }
-        },
-        "tabs": [],
-        "filters": [],
-        "request": {
-          "trendingSearch": {
-            "request": {
-                  "filters": {
-                    "contextType": [
-                        "certifications"
-                    ],
-                    "organisation": "across"
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "certificationsOfWeek"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                    "certifications"
+                  ],
+                  "organisation": "across"
                 },
                 "limit": 5
-            },
-            "responseKey": "certifications"
+              },
+              "responseKey": "certifications"
+            }
           }
         }
-      }
-    ]
-  }],
+      ]
+    }
+  ],
   "hubsData": {
     "widgets": [
       [
@@ -1775,7 +1895,7 @@
   "sliderData": [
     {
       "active": true,
-      "banners":{
+      "banners": {
         "l": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
         "m": "assets/instances/eagle/banners/orgs/new-banner/6/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
@@ -1794,7 +1914,7 @@
     },
     {
       "active": true,
-      "banners":{
+      "banners": {
         "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
         "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
@@ -1828,7 +1948,7 @@
         "lang": "en",
         "f": "{}"
       },
-      "title": "" 
+      "title": ""
     }
   ],
   "clientList": [
@@ -1956,9 +2076,7 @@
       "clientImageUrl": "assets/icons/top-providers/fcde4c60-7ccd-456e-a5df-260dcfa2d3ee.png",
       "clientName": "Morarji Desai National Institute of Yoga (MDNIY)",
       "clientUrl": "https://portal.igotkarmayogi.gov.in/app/learn/browse-by/provider/Morarji%20Desai%20National%20Institute%20of%20Yoga%20%28MDNIY%29/all-CBP"
-  
     }
   ],
   "enableLazyLoading": true
-
 }

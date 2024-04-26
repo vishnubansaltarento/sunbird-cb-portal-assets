@@ -1,75 +1,75 @@
 {
-    "banner": {
-        "widgetType": "slider",
-        "widgetSubType": "sliderBanners",
-        "style": {
-            "border-radius": "12px"
-        },
-        "widgetData": [
-            {
-                "banners": {
-                    "l": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg",
-                    "m": "assets/instances/eagle/banners/hubs/jan-karmayogi/m.jpg",
-                    "s": "assets/instances/eagle/banners/hubs/jan-karmayogi/s.jpg",
-                    "xl": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg",
-                    "xs": "assets/instances/eagle/banners/hubs/jan-karmayogi/s.jpg",
-                    "xxl": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg"
-                }
-            }
-        ]
+  "banner": {
+    "widgetType": "slider",
+    "widgetSubType": "sliderBanners",
+    "style": {
+      "border-radius": "12px"
     },
-    "janStip":  {
-      "active": true,
-      "key": "janPlan",
-      "logo": "school",
-      "title": "JanTitle",
-      "customeClass": "mr-5 cbpwidth",
-      "stripTitleLink": {
-        "link": "",
-        "icon": ""
-      },	
-      "loader": true,
+    "widgetData": [
+      {
+        "banners": {
+          "l": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg",
+          "m": "assets/instances/eagle/banners/hubs/jan-karmayogi/m.jpg",
+          "s": "assets/instances/eagle/banners/hubs/jan-karmayogi/s.jpg",
+          "xl": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg",
+          "xs": "assets/instances/eagle/banners/hubs/jan-karmayogi/s.jpg",
+          "xxl": "assets/instances/eagle/banners/hubs/jan-karmayogi/l.jpg"
+        }
+      }
+    ]
+  },
+  "janStip": {
+    "active": true,
+    "key": "janPlan",
+    "logo": "school",
+    "title": "JanTitle",
+    "customeClass": "mr-5 cbpwidth",
+    "stripTitleLink": {
+      "link": "",
+      "icon": ""
+    },
+    "loader": true,
+    "loaderConfig": {
+      "cardSubType": "card-portrait-click-skeleton"
+    },
+    "sliderConfig": {
+      "showNavs": true,
+      "showDots": false,
+      "maxWidgets": 12
+    },
+    "stripBackground": "",
+    "titleDescription": "My Learning",
+    "stripConfig": {
+      "cardSubType": "card-portrait-click"
+    },
+    "viewMoreUrl": {
+      "path": "/page/cbp",
+      "viewMoreText": "Show all",
+      "queryParams": {
+        "key": "cbpPlan"
+      },
       "loaderConfig": {
         "cardSubType": "card-portrait-click-skeleton"
       },
-      "sliderConfig": {
-        "showNavs": true,
-        "showDots": false,
-        "maxWidgets": 12
-      },
-      "stripBackground": "",
-      "titleDescription": "My Learning",
       "stripConfig": {
         "cardSubType": "card-portrait-click"
-      },
-      "viewMoreUrl": {
-        "path": "/page/cbp",
-        "viewMoreText": "Show all",
-        "queryParams": {
-          "key": "cbpPlan"
-        },
-        "loaderConfig": {
-          "cardSubType": "card-portrait-click-skeleton"
-        },
-        "stripConfig": {
-          "cardSubType": "card-portrait-click"
-        }
-      },
-      "tabs": [],
-      "filters": [],
-      "request": {
-        "searchv6": {
-          "path": "/apis/proxies/v8/sunbirdigot/search"
-        }
       }
     },
-    "doIdList":  [
-      "do_1138431041701724161194",
-      "do_1136238739591168001278",
-      "do_1134129320914944001272",
-      "do_113854667716444160153",
-      "do_113813348177903616119",
-      "do_1140060347152629761237",
-      "do_114012381000466432117"
-    ]
+    "tabs": [],
+    "filters": [],
+    "request": {
+      "searchv6": {
+        "path": "/apis/proxies/v8/sunbirdigot/search"
+      }
+    }
+  },
+  "doIdList": [
+    "do_1138431041701724161194",
+    "do_1136238739591168001278",
+    "do_1134129320914944001272",
+    "do_113854667716444160153",
+    "do_113813348177903616119",
+    "do_1140060347152629761237",
+    "do_114012381000466432117"
+  ]
 }

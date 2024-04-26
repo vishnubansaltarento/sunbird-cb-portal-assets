@@ -1314,10 +1314,7 @@
                     ],
                     "contentType": [
                       "Course"
-                    ],
-                    "batches.endDate": {
-                      ">=": "new Date().toISOString().substring(0,10)"
-                    }
+                    ]
                   }
                 ],
                 "query": "",

@@ -1990,7 +1990,8 @@
         "resourceType":"Resource Type",
         "share":"Share",
         "download": "Download",
-        "applyNow": "Apply now"
+        "applyNow": "Apply now",
+        "viewAll":"View All"
     },
     "mobileApp": {},
     "profileInfo": {

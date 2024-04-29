@@ -2108,7 +2108,8 @@
       "Course": [],
       "Program": [],
       "Curated Program": [],
-      "Blended Program": []
+      "Blended Program": [],
+      "Learning Resource": []
     },
     "type": "string"
   },
@@ -2577,7 +2578,8 @@
       "Course": [],
       "Program": [],
       "Curated Program": [],
-      "Blended Program": []
+      "Blended Program": [],
+      "Learning Resource": []
     },
     "type": "array"
   },
@@ -3885,7 +3887,8 @@
       "Course": [],
       "Program": [],
       "Curated Program": [],
-      "Blended Program": []
+      "Blended Program": [],
+      "Learning Resource": []
     },
     "type": "array"
   },

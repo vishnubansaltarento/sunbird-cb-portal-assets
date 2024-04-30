@@ -2073,7 +2073,7 @@
     "applyNow": "अभी आवेदन करें",
     "viewAll": "सभी देखें"
   },
-    "profileInfo": {
+  "profileInfo": {
     "profileNotVerified": "प्रोफ़ाइल सत्यापित नहीं है",
     "makeTransferRequest": "स्थानांतरण अनुरोध करें",
     "withdrawTransferRequest": "स्थानांतरण अनुरोध वापस लें",
@@ -2097,7 +2097,7 @@
     "otherDetails": "अन्य विवरण",
     "employeeId": "कर्मचारी आईडी",
     "email": "ईमेल करें।",
-    "getOTP": "ओ. टी. पी. प्राप्त करें",
+    "getOTP": "ओटीपी लें ",
     "mobileNumber": "मोबाइल नंबर",
     "gender": "लिंग",
     "dob": "जन्म तिथि",
@@ -2157,7 +2157,23 @@
     "OTPSentSuccess": "ओ. टी. पी. सत्यापन सफलतापूर्वक किया गया!",
     "OTPVerifyFailed": "ओ. टी. पी. सत्यापन विफल! कृपया बाद में फिर से प्रयास करें!",
     "withdrawTransferSuccess": "स्थानांतरण अनुरोध सफलतापूर्वक वापस ले लिया गया!",
-    "withdrawTransferFailed": "स्थानांतरण अनुरोध को वापस लेने में असमर्थ, कृपया बाद में फिर से प्रयास करें!"
+    "withdrawTransferFailed": "स्थानांतरण अनुरोध को वापस लेने में असमर्थ, कृपया बाद में फिर से प्रयास करें!",
+    "invalidEmail": "कृपया एक वैध ईमेल पता दर्ज करें",
+    "pleaseEnterValidMobileNumber": "कृपया एक वैध मोबाइल नंबर दर्ज करें",
+    "invalidPinCode": "कृपया एक वैध पिनकोड दर्ज करें",
+    "start": "शुरू करें",
+    "userName": "यूजर नेम",
+    "password": "पासवर्ड",
+    "showAll": "सब दिखाएँ",
+    "upcomingAssessments": "आगामी आकलन",
+    "yourStats": "आपके आँकड़े",
+    "myDiscussions": "मेरी चर्चाएँ",
+    "myLearnings": "मेरी सीखें",
+    "assessmentDataFail": "मूल्यांकन डेटा प्राप्त करने में असमर्थ, कृपया बाद में फिर से प्रयास करें!",
+    "insightsDataFail": "अंतर्दृष्टि डेटा प्राप्त करने में असमर्थ, कृपया बाद में फिर से प्रयास करें!",
+    "discussionsDataFail": "चर्चा का डेटा प्राप्त करने में असमर्थ, कृपया बाद में फिर से प्रयास करें!",
+    "hideCredentials": "मेरे प्रमाण-पत्र छुपाएँ",
+    "viewCredentials": "मेरे प्रमाण-पत्र देखें"
   },
   "mobileApp": {}
 }

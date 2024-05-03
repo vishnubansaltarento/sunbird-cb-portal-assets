@@ -279,7 +279,7 @@
                 "enabled": false,
                 "uri": ""
               },
-              "enabled": true,
+              "enabled": false,
               "routerLink": "/author/cbp/standalone-resource",
               "queryParams": "published",
               "requiredRoles": [

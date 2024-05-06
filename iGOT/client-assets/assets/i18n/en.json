@@ -2091,7 +2091,14 @@
         "insightsDataFail": "Unable to get Insights data, please try again later!",
         "discussionsDataFail": "Unable to get discussions data, please try again later!",
         "hideCredentials": "Hide my credentials",
-        "viewCredentials": "View my credentials"
+        "viewCredentials": "View my credentials",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other",
+        "general": "General",
+        "obc": "OBC",
+        "sc": "SC",
+        "st": "ST"
     },
     "mobileApp": {}
 }

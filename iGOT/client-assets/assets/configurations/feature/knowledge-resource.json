@@ -128,5 +128,17 @@
             "subSectorName"
           ]
       }
-  }
+  },
+  "allowedCategories": [
+    "events",
+    "podcasts",
+    "webinars",
+    "case study",
+    "whitepaper",
+    "article",
+    "blog",
+    "best practices",
+    "policies",
+    "others"
+  ]
 }

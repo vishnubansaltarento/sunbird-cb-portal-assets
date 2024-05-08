@@ -267,5 +267,5 @@
       "toolTipText": "completeTip"
     }
   ],
-  "ScormProgressThreshold": 20
+  "ScormProgressThreshold": 40
 }

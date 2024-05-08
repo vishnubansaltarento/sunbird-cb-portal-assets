@@ -2,51 +2,51 @@
     {
         "name": "Events",
         "value": "Events",
-        "enabledFor": ["video/mp4","audio/mpeg","text/x-url"]
+        "enabledFor": ["MP4","MP3","Youtube"]
     },
     {
         "name": "Podcasts",
         "value": "Podcasts",
-        "enabledFor": ["video/mp4","audio/mpeg","text/x-url"]
+        "enabledFor": ["MP4","MP3","Youtube"]
     },
     {
         "name": "Webinars",
         "value": "Webinars",
-        "enabledFor": ["video/mp4","audio/mpeg","text/x-url"]
+        "enabledFor": ["MP4","MP3","Youtube"]
     },
     {
         "name": "Case study",
         "value": "Case study",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Whitepaper",
         "value": "Whitepaper",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Article",
         "value": "Article",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Blog",
         "value": "Blog",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Best Practices",
         "value": "Best Practices",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Policies",
         "value": "Policies",
-        "enabledFor": ["application/pdf"]
+        "enabledFor": ["PDF","Link"]
     },
     {
         "name": "Others",
         "value": "Others",
-        "enabledFor": ["video/mp4","application/pdf","audio/mpeg","text/x-url"]
+        "enabledFor": ["MP4","PDF","MP3","Youtube","Link"]
     }
 ]

@@ -45,6 +45,11 @@
         "enabledFor": ["PDF","Link"]
     },
     {
+        "name": "Karmayogi Talks",
+        "value": "Karmayogi Talks",
+        "enabledFor": ["Youtube"]
+    },
+    {
         "name": "Others",
         "value": "Others",
         "enabledFor": ["MP4","PDF","MP3","Youtube","Link"]

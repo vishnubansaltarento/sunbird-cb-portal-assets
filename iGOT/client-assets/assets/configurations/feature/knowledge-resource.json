@@ -128,5 +128,18 @@
             "subSectorName"
           ]
       }
-  }
+  },
+  "allowedCategories": [
+    "events",
+    "podcasts",
+    "webinars",
+    "case study",
+    "karmayogi talks",
+    "whitepaper",
+    "article",
+    "blog",
+    "best practices",
+    "policies",
+    "others"
+  ]
 }

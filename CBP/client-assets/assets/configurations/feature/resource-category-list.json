@@ -1,17 +1,57 @@
 [
     {
-        "name": "Event",
-        "value": "Event",
-        "enabled": true
+        "name": "Events",
+        "value": "Events",
+        "enabledFor": ["MP4","MP3","Youtube"]
     },
     {
-        "name": "Podcast",
-        "value": "Podcast",
-        "enabled": true
+        "name": "Podcasts",
+        "value": "Podcasts",
+        "enabledFor": ["MP4","MP3","Youtube"]
+    },
+    {
+        "name": "Webinars",
+        "value": "Webinars",
+        "enabledFor": ["MP4","MP3","Youtube"]
+    },
+    {
+        "name": "Case study",
+        "value": "Case study",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Whitepaper",
+        "value": "Whitepaper",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Article",
+        "value": "Article",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Blog",
+        "value": "Blog",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Best Practices",
+        "value": "Best Practices",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Policies",
+        "value": "Policies",
+        "enabledFor": ["PDF","Link"]
+    },
+    {
+        "name": "Karmayogi Talks",
+        "value": "Karmayogi Talks",
+        "enabledFor": ["Youtube"]
     },
     {
         "name": "Others",
         "value": "Others",
-        "enabled": true
+        "enabledFor": ["MP4","PDF","MP3","Youtube","Link"]
     }
 ]

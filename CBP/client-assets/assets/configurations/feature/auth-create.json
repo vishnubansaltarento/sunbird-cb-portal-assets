@@ -61,6 +61,11 @@
         "name": "Youtube",
         "mimetype": "text/x-url",
         "enabled": true
+      },
+      {
+        "name": "Link",
+        "mimetype": "text/x-url",
+        "enabled": false
       }
     ],
     "resourceSubtitle": "Select what type of resource  you want to add.",

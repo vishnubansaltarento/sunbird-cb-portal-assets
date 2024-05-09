@@ -65,7 +65,7 @@
       {
         "name": "Link",
         "mimetype": "text/x-url",
-        "enabled": true
+        "enabled": false
       }
     ],
     "resourceSubtitle": "Select what type of resource  you want to add.",

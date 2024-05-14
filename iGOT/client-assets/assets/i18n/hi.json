@@ -1687,7 +1687,8 @@
     "last3Months": "पिछले 3 महीने",
     "last6Months": "पिछले 6 महीने",
     "lastYear": "पिछले साल",
-    "invite-onlyProgram": "केवल कार्यक्रम आमंत्रित करें"
+    "invite-onlyProgram": "केवल कार्यक्रम आमंत्रित करें",
+    "invite-onlyAssessment": "केवल आकलन आमंत्रित करें"
   },
   "utilslogout": {
     "logoutNow": "अभी लॉगआउट करें",

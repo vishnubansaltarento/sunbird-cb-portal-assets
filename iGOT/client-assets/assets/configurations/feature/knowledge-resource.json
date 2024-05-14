@@ -39,5 +39,107 @@
                 }
             }
         ]
+    },
+    "stripConfig" :  { 
+        
+      "order": 1,
+      "strips": [ {      
+        "active": true,
+        "key": "recentlyAdded",
+        "logo": "school",
+        "title": "Recently Added",
+        "disableTranslate": true,
+        "stripTitleLink": {
+          "link": "",
+          "icon": ""
+        },
+        "sliderConfig": {
+          "showNavs" : false,
+          "showDots": false,
+          "maxWidgets": 3
+        },
+        "stripBackground": "",
+        "titleDescription": "Recently Added",
+        "stripConfig": {
+          "cardSubType": "card-resource"
+        },
+        "viewMoreUrl": {
+          "path": "/app/gyaan-karmayogi/view-all",
+          "viewMoreText": "View All",
+          "queryParams": {
+            "key": "recentlyAdded"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-resource-skeleton"
+          },
+          "stripConfig": {
+            "cardSubType": "card-resource"
+          }
+        },
+        "loader": true,
+        "loaderConfig": {
+          "cardSubType": "card-resource-skeleton"
+        },
+        "tabs": [
+        ],
+        "filters": [],
+        "request": {
+          "searchV6": {
+            "request": {
+                "filters": {
+                    "contentType": [
+                        "Resource"
+                    ],
+                    "mimeType": [
+                      "application/pdf",
+                      "video/mp4",
+                      "text/x-url",
+                      "audio/mpeg"
+                    ]
+                },
+                "query": "",
+                "limit": 50,
+                "sort_by": {
+                    "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                ]
+            },
+            "query": ""
+        }
+        }
     }
+]
+    },
+    "facetReqData": {
+      "request": {
+          "filters": {
+              "status": ["Live"]
+          },
+          "fields": ["identifier", "courseCategory", "status"],
+          "offset": 0,
+          "limit": 0,
+          "sort_by": {
+              "lastUpdatedOn": "desc"
+          },
+          "facets": [
+            "resourceCategory",
+            "sectorName",
+            "subSectorName"
+          ]
+      }
+  },
+  "allowedCategories": [
+    "events",
+    "podcasts",
+    "webinars",
+    "case study",
+    "karmayogi talks",
+    "whitepaper",
+    "article",
+    "blog",
+    "best practices",
+    "policies and acts",
+    "others"
+  ]
 }

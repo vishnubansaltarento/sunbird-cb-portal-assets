@@ -71,17 +71,22 @@
     {
       "values": [
         {
-          "name": "program",
-          "count": 0,
-          "ischecked": false
-        },
-        {
           "name": "course",
           "count": 0,
           "ischecked": false
         },
         {
-          "name": "Learning Resource",
+          "name": "Curated Program",
+          "count": 0,
+          "ischecked": false
+        },
+        {
+          "name": "Blended Program",
+          "count": 0,
+          "ischecked": false
+        },
+        {
+          "name": "Invite-Only Program",
           "count": 0,
           "ischecked": false
         },
@@ -104,17 +109,8 @@
           "name": "Moderated Assessment",
           "count": 0,
           "ischecked": false
-        },
-        {
-          "name": "Blended Program",
-          "count": 0,
-          "ischecked": false
-        },
-        {
-          "name": "Curated Program",
-          "count": 0,
-          "ischecked": false
         }
+
       ],
       "name": "primaryCategory",
       "displayname": "contentType"

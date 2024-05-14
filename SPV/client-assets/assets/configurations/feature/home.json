@@ -192,6 +192,22 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
+                },
+                {
+                    "name": "Sectors",
+                    "key": "sectors",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/sectors",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
         }

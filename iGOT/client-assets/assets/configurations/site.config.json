@@ -459,7 +459,7 @@
       "order": 2
     },
     {
-      "path": "/app/knowledge-resource/all",
+      "path": "/app/gyaan-karmayogi",
       "active": true,
       "hubname": "Gyaan Karmayogi",
       "desc": "Find the latest policies, circulars and all available knowledge resources.",

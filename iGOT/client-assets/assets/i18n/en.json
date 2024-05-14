@@ -39,12 +39,8 @@
         "loadMore": "Load more...",
         "gyaanKarmayogi": "Gyaan Karmayogi",
         "janKarmayogi": "Jan Karmayogi",
-<<<<<<< HEAD
-        "dueBy": "Due by"
-=======
         "dueBy": "Due by",
         "viewAll": "View All"
->>>>>>> 86d2adda50896759fff2bfbe126cc95fdf883b3f
     },
     "msg": {
         "noEvent": "No Event",

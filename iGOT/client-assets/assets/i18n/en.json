@@ -1694,7 +1694,8 @@
         "last3Months": "Last 3 months",
         "last6Months": "Last 6 months",
         "lastYear": "Last year",
-        "invite-onlyProgram": "Invite only Program"
+        "invite-onlyProgram": "Invite only Program",
+        "invite-onlyAssessment": "Invite only Assessment"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",
@@ -1978,7 +1979,7 @@
         "sector": "Sector",
         "placeholder": "Search in Gyaan Karmayogi",
         "search": "Search",
-        "subSector": "Sub sector",
+        "subSector": "Sub-sector",
         "subSectors": "Sub-sectors",
         "category": "Category",
         "categories": "Categories",

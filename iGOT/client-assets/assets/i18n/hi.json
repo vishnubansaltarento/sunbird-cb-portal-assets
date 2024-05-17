@@ -548,6 +548,7 @@
     "takeAssessment": "आकलन लें",
     "enroll": "नामांकन करें",
     "youAreNotInvited": "आप इस कार्यक्रम के लिए आमंत्रित नहीं हैं ।",
+    "youAreNotInvitedForAssessment": "आप इस आकलन के लिए आमंत्रित नहीं हैं ।",
     "noActiveBatches": "कोई सक्रिय बैच नहीं!!!",
     "batchWillStart": "बैच शुरू हो जाएगा।",
     "takeTest": "टेस्ट लें।",

@@ -549,6 +549,7 @@
         "takeAssessment": "Take Assessment",
         "enroll": "Enroll",
         "youAreNotInvited": "You are not invited for this Program.",
+        "youAreNotInvitedForAssessment": "You are not invited for this Assessment.",
         "noActiveBatches": "No Active Batches!!.",
         "batchWillStart": "Batch will start",
         "takeTest": "Take test",

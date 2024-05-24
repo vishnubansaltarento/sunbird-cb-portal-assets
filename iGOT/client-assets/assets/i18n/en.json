@@ -170,7 +170,8 @@
         "exploreByProvider": "Explore by provider",
         "curatedCollections": "Curated collections",
         "moderatedCourses": "Moderated courses",
-        "moderatedContents": "Moderated contents"
+        "moderatedContents": "Moderated contents",
+        "mdoChannels": "MDO channels"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",

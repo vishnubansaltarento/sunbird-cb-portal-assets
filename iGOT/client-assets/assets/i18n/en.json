@@ -119,7 +119,7 @@
         "allCbps": "All CBPs",
         "curatedCollections": "Curated collections",
         "search": "Search",
-        "allProviders": "All providers",
+        "allProviders": "All Providers",
         "gyaanKarmayogi": "Gyaan Karmayogi"
     },
     "cardshublist": {
@@ -170,7 +170,8 @@
         "exploreByProvider": "Explore by provider",
         "curatedCollections": "Curated collections",
         "moderatedCourses": "Moderated courses",
-        "moderatedContents": "Moderated contents"
+        "moderatedContents": "Moderated contents",
+        "mdoChannels": "MDO channels"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",
@@ -229,15 +230,15 @@
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
         "noProvidersFound": "No providers found!",
-        "allProviders": "All providers",
+        "allProviders": "All Providers",
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
         "search": "Search"
     },
     "providerallcbp": {
-        "allCbps": "All CBPs",
-        "fromProvider": "CBPs from this provider",
+        "allCbps": "All Contents",
+        "fromProvider": "Contents from this provider",
         "loadMore": "Load more",
         "ascending": "Ascending",
         "descending": "Descending",

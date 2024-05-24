@@ -227,6 +227,14 @@
         "overDue": "Over due",
         "deadline": "Deadline"
     },
+    "allChannelsComponent": {
+        "noChannelsFound": "No channels found!",
+        "allChannels": "All Channels",
+        "sortBy": "Sort by",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "search": "Search Channels"
+    },
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
         "noProvidersFound": "No providers found!",

@@ -43,7 +43,7 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 			// }
 			// fileReader.readAsDataURL(fileToLoad)
 			// fileDialog.val('');
-
+			fileDialog.val('');
 			$.ajax({
 				url: contentCreateUrl,
 				type: 'POST',

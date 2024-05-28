@@ -119,7 +119,7 @@
         "allCbps": "All CBPs",
         "curatedCollections": "Curated collections",
         "search": "Search",
-        "allProviders": "All providers",
+        "allProviders": "All Providers",
         "gyaanKarmayogi": "Gyaan Karmayogi"
     },
     "cardshublist": {
@@ -229,15 +229,15 @@
     "allproviderscomponent": {
         "popularProviders": "Popular providers",
         "noProvidersFound": "No providers found!",
-        "allProviders": "All providers",
+        "allProviders": "All Providers",
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
         "search": "Search"
     },
     "providerallcbp": {
-        "allCbps": "All CBPs",
-        "fromProvider": "CBPs from this provider",
+        "allCbps": "All Contents",
+        "fromProvider": "Contents from this provider",
         "loadMore": "Load more",
         "ascending": "Ascending",
         "descending": "Descending",
@@ -2012,6 +2012,10 @@
         "designation": "Designation",
         "chooseADesignation": "Choose a designation",
         "rejected": "Rejected",
+        "pending": "Pending",
+        "viewReason": "View reason",
+        "approvalStatus": "Approval Status",
+        "viewApprovalStatus": "View Approval Status",
         "requestDesignation": "Request My Designation",
         "cancel": "Cancel",
         "sendForApproval": "Send for Approval",
@@ -2066,7 +2070,7 @@
         "requestSent": "Request sent successfully!",
         "transferRequestSent": "Transfer request sent successfully!",
         "transferRequestFailed": "Unable to do transfer request, please try again later!",
-        "withdrawRequestSuccess": "Withdraw request done successfully!",
+        "withdrawRequestSuccess": "Your request has been withdrawn successfully",
         "unableWithdrawRequest": "Unable to withdraw request, please try again later!",
         "userNameUpdated": "User name updated successfully!",
         "userNameUpdateFailed": "Unable to update name, please try later!",

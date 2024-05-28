@@ -2070,7 +2070,7 @@
         "requestSent": "Request sent successfully!",
         "transferRequestSent": "Transfer request sent successfully!",
         "transferRequestFailed": "Unable to do transfer request, please try again later!",
-        "withdrawRequestSuccess": "Withdraw request done successfully!",
+        "withdrawRequestSuccess": "Your request has been withdrawn successfully",
         "unableWithdrawRequest": "Unable to withdraw request, please try again later!",
         "userNameUpdated": "User name updated successfully!",
         "userNameUpdateFailed": "Unable to update name, please try later!",

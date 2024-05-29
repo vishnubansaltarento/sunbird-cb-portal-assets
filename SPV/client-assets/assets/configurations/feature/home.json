@@ -4,6 +4,40 @@
         "widgetSubType": "leftMenu",
         "widgetData": {
             "logo": true,
+            "menusList":[
+                {
+                    "menuCategory": "Manage",
+                    "submenu": true,
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "STATE_ADMIN",
+                        "spv_admin",
+                        "state_admin"
+                    ],
+                    "subMenu": [
+                      {
+                        "name": "Content Request",
+                        "key": "Manage",
+                        "fragment": false,
+                        "render": true,
+                        "badges": {
+                          "enabled": false,
+                          "uri": ""
+                        },
+                        "enabled": true,
+                        "routerLink": "/app/home/request-list",
+                        "requiredRoles": [
+                            "SPV_ADMIN",
+                            "STATE_ADMIN",
+                            "spv_admin",
+                            "state_admin"
+                        ]
+                      }
+                   
+                   
+                    ]
+                  }
+            ],
             "menus": [
                 {
                     "name": "Directory",
@@ -208,8 +242,27 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
-                }
+                },
+                {
+                    "name": "Content Request",
+                    "key": "Manage",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                      "enabled": false,
+                      "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/all-request",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "STATE_ADMIN",
+                        "spv_admin",
+                        "state_admin"
+                    ]
+                  }
             ]
+          
         }
     }
 }

@@ -171,7 +171,8 @@
         "curatedCollections": "Curated collections",
         "moderatedCourses": "Moderated courses",
         "moderatedContents": "Moderated contents",
-        "mdoChannels": "MDO channels"
+        "mdoChannels": "MDO channels",
+        "karmaPrograms": "Karma programs"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",

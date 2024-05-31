@@ -1041,15 +1041,6 @@
           },
           "tabs": [
             {
-              "label": "All",
-              "value": "all",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You don’t have any new course in progress."
-            },
-            {
               "label": "Upcoming",
               "value": "upcoming",
               "computeDataOnClick": false,
@@ -1066,6 +1057,24 @@
               "requestRequired": false,
               "maxWidgets": 12,
               "nodataMsg": "You will see all the content for which the due date has passed here."
+            },
+            {
+              "label": "Completed",
+              "value": "completed",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "No Data Msg Completed"
+            },
+            {
+              "label": "All",
+              "value": "all",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any content in progress."
             }
           ],
           "filters": [],

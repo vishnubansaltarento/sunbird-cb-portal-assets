@@ -1056,7 +1056,7 @@
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date is within 30 days."
+              "nodataMsg": "You will see all the content that needs to be completed within the next 30 days."
             },
             {
               "label": "Overdue",
@@ -1065,7 +1065,7 @@
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date has passed here."
+              "nodataMsg": "You will see here all the content for which the due date has passed."
             }
           ],
           "filters": [],

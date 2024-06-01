@@ -1326,8 +1326,10 @@
         "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
         "today'sEvents": "Today's events",
         "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any new course in progress.",
-        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content for which the due date is within 30 days.",
+        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content that needs to be completed within the next 30 days.",
+        "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "You will see all the content that needs to be completed within the next 30 days.",
         "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
+        "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
         "viewAll": "View All"
     },
     "homeotherportals": {

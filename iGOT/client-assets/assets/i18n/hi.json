@@ -1324,9 +1324,10 @@
     "recentlyAdded": "नए जोड़े गए",
     "youWillFindYourCompletedCourses/programHere": "आपको यहां अपने पूरे किए गए कोर्स/कार्यक्रम मिलेंगे।",
     "today'sEvents": "आज के इवेंट्स",
-    "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई नया कोर्स प्रगति पर नहीं है।",
+    "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई सामग्री प्रगति पर नहीं है।",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "आपको वह सभी कंटेन्ट दिखेंगे जिसकी नियत तारीख 30 दिनों के भीतर है।",
-    "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "आपको वह सभी कंटेन्ट दिखेंगे जिसके लिए नियत तिथि यहाँ बीत चुकी है।"
+    "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "आपको वह सभी कंटेन्ट दिखेंगे जिसके लिए नियत तिथि यहाँ बीत चुकी है।",
+    "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।"
   },
   "homeotherportals": {
     "otherPortals": "अन्य पोर्टल जिन तक आपकी पहुंच है",

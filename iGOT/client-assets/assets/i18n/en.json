@@ -233,7 +233,8 @@
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "Search Channels"
+        "search": "Search Channels",
+        "allPrograms": "All Programs"
     },
     "allproviderscomponent": {
         "popularProviders": "Popular providers",

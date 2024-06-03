@@ -16,7 +16,7 @@
     "widgetSubType": "gridLayout",
     "widgetType": "layout",
     "widgetData": {
-      "widgets": [        
+      "widgets": [
         [
           {
             "dimensions": {},
@@ -71,7 +71,7 @@
               "widgetSubType": "contentStripMultiple",
               "widgetData": {
                 "strips": [
-                  {        
+                  {
                     "active": true,
                     "key": "continueLearning",
                     "logo": "school",
@@ -86,7 +86,7 @@
                       "cardSubType": "card-portrait-skeleton"
                     },
                     "sliderConfig": {
-                      "showNavs" : false,
+                      "showNavs": false,
                       "showDots": false,
                       "maxWidgets": 2
                     },
@@ -253,7 +253,9 @@
                             "contentType": [
                               "Course"
                             ],
-                            "batches.enrollmentEndDate": { ">=": "new Date().toISOString().substring(0,10)" }
+                            "batches.enrollmentEndDate": {
+                              ">=": "new Date().toISOString().substring(0,10)"
+                            }
                           },
                           "offset": 0,
                           "limit": 20,
@@ -349,7 +351,7 @@
                               "Curated Program"
                             ],
                             "contentType": [
-                                "Course"
+                              "Course"
                             ]
                           },
                           "offset": 0,
@@ -963,7 +965,7 @@
                         "q": "",
                         "p": "Trending",
                         "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}",
-                        "key":"latest"
+                        "key": "latest"
                       }
                     },
                     "stripConfig": {
@@ -1030,22 +1032,26 @@
   "ExploreButtons": [
     {
       "icon": "extension",
+      "image": "",
       "name": "Explore by competency",
       "route": "/app/learn/browse-by/competency/all-competencies"
     },
     {
       "icon": "scatter_plot",
+      "image": "",
       "name": "Explore by provider",
       "route": "/app/learn/browse-by/provider/all-providers"
     },
     {
       "icon": "video_library",
+      "image": "",
       "name": "Curated collections",
       "route": "/app/curatedCollections/home"
     },
     {
       "icon": "video_library",
       "name": "Moderated contents",
+      "image": "",
       "route": "/app/globalsearch",
       "queryParams": {
         "tab": "Learn",
@@ -1055,12 +1061,14 @@
       }
     },
     {
-      "icon": "scatter_plot",
+      "icon": "",
+      "image": "/assets/images/micro-sites/mdo_channel.svg",
       "name": "MDO channels",
       "route": "/app/learn/mdo-channels/all-channels"
     },
     {
-      "icon": "scatter_plot",
+      "icon": "video_library",
+      "image": "",
       "name": "Karma programs",
       "route": "/app/learn/karma-programs/all-programs"
     }

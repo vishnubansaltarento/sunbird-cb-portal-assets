@@ -171,7 +171,8 @@
         "curatedCollections": "Curated collections",
         "moderatedCourses": "Moderated courses",
         "moderatedContents": "Moderated contents",
-        "mdoChannels": "MDO channels"
+        "mdoChannels": "MDO channels",
+        "karmaPrograms": "Karma programs"
     },
     "contentstripmultiple": {
         "continueLearning": "Continue Learning",
@@ -1336,8 +1337,10 @@
         "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
         "today'sEvents": "Today's events",
         "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any new course in progress.",
-        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content for which the due date is within 30 days.",
+        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content that needs to be completed within the next 30 days.",
+        "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "You will see all the content that needs to be completed within the next 30 days.",
         "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
+        "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
         "viewAll": "View All"
     },
     "homeotherportals": {
@@ -2080,7 +2083,7 @@
         "requestSent": "Request sent successfully!",
         "transferRequestSent": "Transfer request sent successfully!",
         "transferRequestFailed": "Unable to do transfer request, please try again later!",
-        "withdrawRequestSuccess": "Withdraw request done successfully!",
+        "withdrawRequestSuccess": "Your request has been withdrawn successfully",
         "unableWithdrawRequest": "Unable to withdraw request, please try again later!",
         "userNameUpdated": "User name updated successfully!",
         "userNameUpdateFailed": "Unable to update name, please try later!",
@@ -2111,7 +2114,7 @@
         "viewCredentials": "View my credentials",
         "male": "Male",
         "female": "Female",
-        "other": "Other",
+        "others": "Others",
         "general": "General",
         "obc": "OBC",
         "sc": "SC",

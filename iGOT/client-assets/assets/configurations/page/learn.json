@@ -1058,6 +1058,11 @@
       "icon": "scatter_plot",
       "name": "MDO channels",
       "route": "/app/learn/mdo-channels/all-channels"
+    },
+    {
+      "icon": "scatter_plot",
+      "name": "Karma programs",
+      "route": "/app/learn/karma-programs/all-programs"
     }
   ]
 }

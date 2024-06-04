@@ -2188,7 +2188,7 @@
             "filters": [],
             "request": {
                 "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "channels": {
+                "playlistSearch": {
                     "request": {
                       "filterCriteriaMap": {
                           "type":"program"

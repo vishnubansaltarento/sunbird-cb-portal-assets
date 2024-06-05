@@ -42,9 +42,8 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 			// 	console.log('newImage', newImage)
 			// }
 			// fileReader.readAsDataURL(fileToLoad)
-
-
-
+			// fileDialog.val('');
+			fileDialog.val('');
 			$.ajax({
 				url: contentCreateUrl,
 				type: 'POST',
@@ -62,13 +61,17 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 						data: imageData,
 					}).done(function (imageResponse) {
 						var ele = editor.document.createElement('img')
-						var artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotqa", artifactUrl)
+						var artifactUrlUpdated = imageResponse.result.artifactUrl.replace("https://static.karmayogiprod.nic.in/igotbm", artifactUrl)
 						ele.setAttribute('src', artifactUrlUpdated)
 						ele.setAttribute('height', '100')
 						ele.setAttribute('width', '100')
 						editor.insertElement(ele)
 						editor.document.getById('loader').remove()
-					})
+						fileDialog.val('');
+					}).fail(function () {
+						console.log('in error');
+						fileDialog.val('');
+					});
 				}
 
 			})

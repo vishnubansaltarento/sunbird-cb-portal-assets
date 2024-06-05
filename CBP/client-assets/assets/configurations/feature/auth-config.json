@@ -409,6 +409,44 @@
               },
               "enabled": false,
               "routerLink": "/app/info/about"
+            },
+            {
+              "name": "All Request",
+              "key": "allRequest",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/request-content",
+              "requiredRoles": [
+                "admin",
+                "super-admin",
+                "content-admin",
+                "editor",
+                "content_creator"
+              ]
+            },
+            {
+              "name": "My Request",
+              "key": "myRequest",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/my-request-content",
+              "requiredRoles": [
+                "admin",
+                "super-admin",
+                "content-admin",
+                "editor",
+                "content_creator"
+              ]
             }
           ]
         }

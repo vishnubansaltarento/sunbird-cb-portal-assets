@@ -88,22 +88,6 @@
                   ]
                 },
                 {
-                  "menuCategory": "Organisation profile",
-                  "submenu": false,
-                  "key": "orgProfile",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/setup",
-                  "requiredRoles": [
-                    "isInstuteOrg"
-                  ]
-                },
-                {
                   "menuCategory": "Blended program",
                   "submenu": false,
                   "key": "blended-approvals",

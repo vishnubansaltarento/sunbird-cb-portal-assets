@@ -230,6 +230,7 @@
     },
     "allChannelsComponent": {
         "noChannelsFound": "No channels found!",
+        "noProgramsFound": "No programs found!",
         "allChannels": "All Channels",
         "sortBy": "Sort by",
         "ascending": "Ascending",

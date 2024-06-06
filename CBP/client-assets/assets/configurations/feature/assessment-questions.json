@@ -5,7 +5,19 @@
         "objectType": "Question",
         "primaryCategory": "Multiple Choice Question"
     },
+    "mcq-sca-tf" : {
+        "code": "question",
+        "mimeType": "application/vnd.sunbird.question",
+        "objectType": "Question",
+        "primaryCategory": "Multiple Choice Question"
+    },
     "mcq-mca" : {
+        "code": "question",
+        "mimeType": "application/vnd.sunbird.question",
+        "objectType": "Question",
+        "primaryCategory": "Multiple Choice Question"
+    },
+    "mcq-mca-w" : {
         "code": "question",
         "mimeType": "application/vnd.sunbird.question",
         "objectType": "Question",

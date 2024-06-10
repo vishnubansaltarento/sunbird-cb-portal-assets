@@ -419,7 +419,7 @@
                 "enabled": false,
                 "uri": ""
               },
-              "enabled": false,
+              "enabled": true,
               "routerLink": "/author/cbp/request-content",
               "requiredRoles": [
                 "admin",
@@ -438,7 +438,7 @@
                 "enabled": false,
                 "uri": ""
               },
-              "enabled": false,
+              "enabled": true,
               "routerLink": "/author/cbp/my-request-content",
               "requiredRoles": [
                 "admin",

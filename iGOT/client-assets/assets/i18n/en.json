@@ -701,7 +701,8 @@
         "up": "Up",
         "reply": "Reply",
         "cancel": "Cancel",
-        "replay": "Replay"
+        "replay": "Replay",
+        "submitTheTest": "Submit The Test"
     },
     "apptoc": {
         "lastUpdatedOn": "Last updated on",

@@ -164,7 +164,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Moderated Courses, Moderated Programs and Moderated Assessments for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$moderatedHtml$$</p>"
                         }
                       }
                     },
@@ -225,7 +225,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Blended programs for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$blendedProgramsHtml$$</p>"
                         }
                       }
                     },
@@ -325,7 +325,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Curated Programs.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$curatedPrograms$$</p>"
                         }
                       }
                     },
@@ -413,7 +413,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Mandatory courses for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$mandatoryCoursesHtml$$</p>"
                         }
                       }
                     },
@@ -509,7 +509,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Featured courses</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$featuredCourses$$</p>"
                         }
                       }
                     },
@@ -600,7 +600,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Standalone Assessment</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$standaloneAssessment$$</p>"
                         }
                       }
                     },
@@ -696,7 +696,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Recommended for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$recommendedForYou$$</p>"
                         }
                       }
                     },
@@ -799,7 +799,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your interests.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$basedOnYourInterests$$</p>"
                         }
                       }
                     },
@@ -896,7 +896,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Programs for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$programsForYou$$</p>"
                         }
                       }
                     },
@@ -954,7 +954,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Recently added for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$recentlyAddedHtml$$</p>"
                         }
                       }
                     },

@@ -472,7 +472,7 @@
     "id": "standaloneAssessment",
     "isCollection": true,
     "name": "Assessment",
-    "description": "Create <b>Standalone</b>, <b>Moderated Assessments</b> and <b>Invite Only Assessments</b>.",
+    "description": "Create <b>Standalone</b>, <b>Moderated Assessments</b> and <b>Invite Only Assessments</b> with question and option weightage functionality.",
     "icon": "playlist_add_check",
     "contentType": "Collection",
     "available": true,
@@ -486,7 +486,7 @@
     "details": {
       "title": "Welcome to the assessment creation.",
       "createTitle": "Assessment",
-      "subTitle": "Create Standalone, Moderated assessment and Invite Only Assessments.",
+      "subTitle": "Create standalone, Moderated and Invite only assessment with question and option weightage functionality.",
       "points": []
     },
     "toolTipinfo": "On selection of 'All users', the created assessment will be tagged as 'Standalone assessment' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created assessment will be tagged as 'Moderated assessment' and will be accessible to the selected MDO's users or verified users.On selection of 'Custom users', the created assessment will be tagged as 'Invite Only Assessment' and will be accessible to the invited users only.",

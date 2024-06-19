@@ -1910,7 +1910,7 @@
         "xxl": "assets/instances/eagle/banners/orgs/new-banner/9/xl.jpeg"
       },
       "redirectUrl": "",
-      "openInNewTab": true,
+      "openInNewTab": false,
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",

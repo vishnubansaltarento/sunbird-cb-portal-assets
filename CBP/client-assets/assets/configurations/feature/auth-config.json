@@ -387,6 +387,21 @@
               ]
             },
             {
+              "name": "Karma Programs",
+              "key": "karma-programs",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/karma-programs",
+              "requiredRoles": [
+                "content_creator"
+              ]
+            },
+            {
               "name": "Policies",
               "key": "policies",
               "fragment": false,

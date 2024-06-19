@@ -43,6 +43,7 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 			// }
 			// fileReader.readAsDataURL(fileToLoad)
 			// fileDialog.val('');
+			fileDialog.val('');
 			$.ajax({
 				url: contentCreateUrl,
 				type: 'POST',
@@ -75,7 +76,11 @@ CKEDITOR.plugins.add('simpleImageUpload', {
 						ele.setAttribute('width', '100')
 						editor.insertElement(ele)
 						editor.document.getById('loader').remove()
-					})
+						fileDialog.val('');
+					}).fail(function () {
+						console.log('in error');
+						fileDialog.val('');
+					});
 				}
 
 			})

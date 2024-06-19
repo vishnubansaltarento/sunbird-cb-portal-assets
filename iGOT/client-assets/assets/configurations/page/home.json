@@ -1041,22 +1041,13 @@
           },
           "tabs": [
             {
-              "label": "All",
-              "value": "all",
-              "computeDataOnClick": false,
-              "showTabDataCount": true,
-              "requestRequired": false,
-              "maxWidgets": 12,
-              "nodataMsg": "You don’t have any new course in progress."
-            },
-            {
               "label": "Upcoming",
               "value": "upcoming",
               "computeDataOnClick": false,
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date is within 30 days."
+              "nodataMsg": "You will see all the content that needs to be completed within the next 30 days."
             },
             {
               "label": "Overdue",
@@ -1065,7 +1056,25 @@
               "showTabDataCount": true,
               "requestRequired": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will see all the content for which the due date has passed here."
+              "nodataMsg": "You will see here all the content for which the due date has passed."
+            },
+            {
+              "label": "Completed",
+              "value": "completed",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "No Data Msg Completed"
+            },
+            {
+              "label": "All",
+              "value": "all",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any content in progress."
             }
           ],
           "filters": [],
@@ -1893,14 +1902,15 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/6/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/6/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/6/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/7/l.jpg"
       },
-      "redirectUrl": "/app/curatedCollections/do_1137524714202480641252",
+      "redirectUrl": "https://ncrb.gov.in/uploads/SankalanPortal/Index.html",
+      "openInNewTab": true,
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1912,14 +1922,14 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "m": "assets/instances/eagle/banners/orgs/new-banner/4/m.png",
-        "s": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png",
-        "xs": "assets/instances/eagle/banners/orgs/new-banner/4/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/4/l.png"
+        "l": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg",
+        "m": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg",
+        "s": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg",
+        "xs": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg",
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/8/l.jpg"
       },
-      "redirectUrl": "/app/organisation/dopt",
+      "redirectUrl": "",
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
@@ -1927,7 +1937,7 @@
         "f": "{}"
       },
       "title": ""
-    },
+    },    
     {
       "active": true,
       "banners": {

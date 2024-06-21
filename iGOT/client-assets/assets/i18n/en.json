@@ -228,7 +228,7 @@
         "deadline": "Deadline"
     },
     "allproviderscomponent": {
-        "popularProviders": "Popular providers",
+        "popularProviders": "Featured providers",
         "noProvidersFound": "No providers found!",
         "allProviders": "All Providers",
         "sortBy": "Sort by",
@@ -2007,7 +2007,7 @@
         "myKarmaPoints": "My Karma Points",
         "viewMyCertificates": "View My Certificates",
         "primaryDetails": "Primary Details",
-        "pdTooltipMsg": "These details go to your MDO Admin for approval",
+        "pdTooltipMsg": "These details go to your MDO for approval. Please fill these details to view your iGOT plan.",
         "edit": "Edit",
         "withdrawRequest": "Withdraw Request",
         "pdTooltipWarnMsg": "You can't edit when you requested for Transfer request",
@@ -2038,7 +2038,7 @@
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
-        "withdrawWarnMsg": "Are you sure you want to withdraw your transfer request?",
+        "withdrawWarnMsg": "Are you sure you want to withdraw your request?",
         "yes": "Yes",
         "no": "No",
         "submitRequest": "Submit request",

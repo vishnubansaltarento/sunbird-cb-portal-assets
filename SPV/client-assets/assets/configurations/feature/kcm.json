@@ -1,0 +1,106 @@
+{
+    "mainHeading": "Karmayogi Competency Model (KCM)",
+    "topsection": {
+        "heading": "SPV Help Center: Video Guides and Tips",
+        "steps": [
+            {
+                "index": 1,
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit orci in ultricies aliquam. Maecenas tempus fermentum mi, at laoreet elit ultricies eget."
+            },
+            {
+                "index": 1,
+                "title": "Lorem 2ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit orci in ultricies aliquam. Maecenas tempus fermentum mi, at laoreet elit ultricies eget."
+            }
+        ],
+        "guideVideo": {
+            "type": "video/mp4",
+            "url": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4",
+            "enabled": false
+        }
+    },
+    "frameworkConfig": [
+        {
+            "frameworkId": "organisation_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "org",
+                    "icon": "settings",
+                    "color": "#1d2327"
+                },
+                {
+                    "index": 2,
+                    "category": "designation",
+                    "icon": "person",
+                    "color": "#541675"
+                },
+                {
+                    "index": 3,
+                    "category": "competency",
+                    "icon": "extension",
+                    "color": "#0074b6"
+                }
+            ]
+        },
+        {
+            "frameworkId": "cats_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "settings",
+                    "color": "rgb(168, 168, 168)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "extension",
+                    "color": "rgb(168, 168, 168)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(168, 168, 168)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 4,
+                    "category": "org",
+                    "icon": "extension",
+                    "color": "rgb(168, 168, 168)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                }
+            ]
+        },
+        {
+            "frameworkId": "kcm_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "person",
+                    "color": "#"
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "settings",
+                    "color": "#F57E3B"
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "#743CA5"
+                }
+            ]
+        }
+    ]
+}

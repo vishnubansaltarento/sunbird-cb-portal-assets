@@ -260,10 +260,10 @@
     },
     {
       "displayButton": "Start again",
-      "textBeforeIcon": "completeBeforeText",
+      "textBeforeIcon": "earn",
       "points": "5",
       "textAfterPoints": "karmaPoints",
-      "textAfterIcon": "",
+      "textAfterIcon": "completeAfterText",
       "toolTipText": "completeTip"
     }
   ],

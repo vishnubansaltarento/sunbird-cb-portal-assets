@@ -16,7 +16,7 @@
                     ],
                     "subMenu": [
                       {
-                        "name": "Content Request",
+                        "name": "All Request",
                         "key": "Manage",
                         "fragment": false,
                         "render": true,
@@ -244,7 +244,7 @@
                     ]
                 },
                 {
-                    "name": "Content Request",
+                    "name": "All Request",
                     "key": "Manage",
                     "fragment": false,
                     "render": true,

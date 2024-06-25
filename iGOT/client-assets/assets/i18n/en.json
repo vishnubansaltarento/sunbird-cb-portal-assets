@@ -210,7 +210,8 @@
         "title": "My iGOT",
         "all": "All",
         "upcoming": "Upcoming",
-        "overdue": "Overdue"
+        "overdue": "Overdue",
+        "completed": "Completed"
     },
     "cardcontentv2": {
         "viewDetails": "View details",
@@ -237,7 +238,7 @@
         "search": "Search Channels"
     },
     "allproviderscomponent": {
-        "popularProviders": "Popular providers",
+        "popularProviders": "Featured providers",
         "noProvidersFound": "No providers found!",
         "allProviders": "All Providers",
         "sortBy": "Sort by",
@@ -1228,7 +1229,8 @@
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
         "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",
         "completeBeforeText": "Congrats! You've completed the course and earned",
-        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
+        "completeAfterText": "for each course you complete, with a limit of four non-My iGOT courses per month.",
+        "completeTip": "For every My iGOT and ACBP course you complete, you will earn 15 Karma Points and for every other course you compete, you earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
         "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
     },
     "publicHome": {
@@ -1335,10 +1337,13 @@
         "recentlyAdded": "Recently added",
         "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
         "today'sEvents": "Today's events",
-        "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any new course in progress.",
-        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content for which the due date is within 30 days.",
+        "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any content in progress.",
+        "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content that needs to be completed within the next 30 days.",
+        "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "You will see all the content that needs to be completed within the next 30 days.",
         "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
-        "viewAll": "View All"
+        "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
+        "viewAll": "View All",
+        "noDataMsgCompleted": "You will see all the completed content here."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1949,15 +1954,15 @@
         "selectLevel": "Select level"
     },
     "weeklyclaps": {
-        "whatIsWeeklyClaps": "What is Weekly Claps?",
-        "weeklyClapsDesc": "Weekly Claps are a fun way to track your engagement on the platform. They reflect your commitment and activity levels.",
-        "whatToDo": "What should I do to maintain the claps?",
+        "whatIsWeeklyClaps": "What are Weekly Claps?",
+        "weeklyClapsDesc": "Weekly Claps are a fun way to track your engagement on the platform. They reflect your commitment and activity level.",
+        "whatToDo": "How can I maintain my Weekly Claps?",
         "spendAtLeast": "Simply spend a minimum of ",
         "60mins": "60 minutes",
-        "engageWithPlatform": "engaging on the platform each week to maintain your claps.",
-        "whyDidILoose": "Why did I lose my claps?",
-        "ifYouFallShort": "If you engage less than ",
-        "engageRequired": "in a week, your claps count resets to Zero.",
+        "engageWithPlatform": "engaging on the platform each week to keep your claps.",
+        "whyDidILoose": "Why did I lose my Weekly Claps?",
+        "ifYouFallShort": "If you engage for less than ",
+        "engageRequired": "in a week, your Weekly Claps counter resets to zero.",
         "weeklyClapsTitle": "Weekly Claps",
         "weeks": "weeks",
         "leaderboard": "Leaderboard"
@@ -2012,7 +2017,7 @@
         "myKarmaPoints": "My Karma Points",
         "viewMyCertificates": "View My Certificates",
         "primaryDetails": "Primary Details",
-        "pdTooltipMsg": "These details go to your MDO Admin for approval",
+        "pdTooltipMsg": "These details go to your MDO for approval. Please fill these details to view your iGOT plan.",
         "edit": "Edit",
         "withdrawRequest": "Withdraw Request",
         "pdTooltipWarnMsg": "You can't edit when you requested for Transfer request",
@@ -2043,7 +2048,7 @@
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
-        "withdrawWarnMsg": "Are you sure you want to withdraw your transfer request?",
+        "withdrawWarnMsg": "Are you sure you want to withdraw your request?",
         "yes": "Yes",
         "no": "No",
         "submitRequest": "Submit request",
@@ -2111,7 +2116,7 @@
         "viewCredentials": "View my credentials",
         "male": "Male",
         "female": "Female",
-        "other": "Other",
+        "others": "Others",
         "general": "General",
         "obc": "OBC",
         "sc": "SC",

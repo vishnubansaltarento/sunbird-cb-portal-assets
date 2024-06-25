@@ -703,7 +703,10 @@
         "cancel": "Cancel",
         "replay": "Replay",
         "submitTheTest": "Submit the test",
-        "optional": "optional"
+        "optional": "optional",
+        "instructionOne": "I have read and understood all the instructions. I understand that using unfair means of any sort for any advantage will lead to immediate disqualification. The decision of ",
+        "instructionTwo": "iGOTkarmayogi.gov.in",
+        "instructionThree": "  will be final in these matters."
     },
     "apptoc": {
         "lastUpdatedOn": "Last updated on",

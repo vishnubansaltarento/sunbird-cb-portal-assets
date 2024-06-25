@@ -49,7 +49,7 @@
                     "index": 1,
                     "category": "competencyarea",
                     "icon": "settings",
-                    "color": "rgb(168, 168, 168)",
+                    "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": false,
                     "iconEnabled": false
                 },
@@ -57,7 +57,7 @@
                     "index": 2,
                     "category": "theme",
                     "icon": "extension",
-                    "color": "rgb(168, 168, 168)",
+                    "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false
                 },
@@ -65,7 +65,7 @@
                     "index": 3,
                     "category": "subtheme",
                     "icon": "extension",
-                    "color": "rgb(168, 168, 168)",
+                    "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false
                 },
@@ -73,7 +73,7 @@
                     "index": 4,
                     "category": "org",
                     "icon": "extension",
-                    "color": "rgb(168, 168, 168)",
+                    "color": "rgb(115, 115, 115)",
                     "createBtnEnabled": true,
                     "iconEnabled": false
                 }
@@ -86,19 +86,19 @@
                     "index": 1,
                     "category": "competencyarea",
                     "icon": "person",
-                    "color": "#"
+                    "color": "rgb(115, 115, 115)"
                 },
                 {
                     "index": 2,
                     "category": "theme",
                     "icon": "settings",
-                    "color": "#F57E3B"
+                    "color": "rgb(115, 115, 115)"
                 },
                 {
                     "index": 3,
                     "category": "subtheme",
                     "icon": "extension",
-                    "color": "#743CA5"
+                    "color": "rgb(115, 115, 115)"
                 }
             ]
         }

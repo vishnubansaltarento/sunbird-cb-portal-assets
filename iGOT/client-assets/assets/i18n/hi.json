@@ -68,7 +68,8 @@
     "dashboard": "डैशबोर्ड",
     "settings": "सेटिंग",
     "noDataFound": "कोई डेटा नहीं मिला!",
-    "somethingWentWrong": "कुछ गलत हुआ, कृपया बाद में फिर से प्रयास करें!"
+    "somethingWentWrong": "कुछ गलत हुआ, कृपया बाद में फिर से प्रयास करें!",
+    "seeAllPendingRequests": "सभी लंबित अनुरोध देखें"
   },
   "seeAllHome": {
     "myLearning": "मेरा सीखना",
@@ -119,7 +120,10 @@
     "curatedCollections": "क्यूरेटेड संग्रह",
     "search": "खोजें।",
     "allProviders": "सभी प्रोवाईडर",
-    "gyaanKarmayogi": "ज्ञान कर्मयोगी"
+    "gyaanKarmayogi": "ज्ञान कर्मयोगी",
+    "frequentlyAskedQuestions": "अक्सर पूछे जाने वाले प्रश्न",
+    "contactUs": "हमसे संपर्क करें",
+    "tipForLearners": "छात्रों के लिए सुझाव"
   },
   "cardshublist": {
     "more": "अधिक",
@@ -195,7 +199,8 @@
     "basedOnYourInterests": "आपकी रुचियों के आधार पर",
     "getReadyForLearningAdventure": "अपने अगले सीखने के रोमांच के लिए तैयार हो जाएँ।",
     "clickHere": "यहाँ क्लिक करें",
-    "toEnrollNextCourse": "अपने अगले पाठ्यक्रम में अभी नामांकन करने के लिए!"
+    "toEnrollNextCourse": "अपने अगले पाठ्यक्रम में अभी नामांकन करने के लिए!",
+    "moderatedHtml": "आपके लिए मध्यम पाठ्यक्रम, मध्यम कार्यक्रम और मध्यम मूल्यांकन।"
   },
   "cbpPlanFeed": {
     "title": "मेरा आईगॉट",
@@ -682,7 +687,12 @@
     "up": "ऊपर।",
     "reply": "जवाब दें।",
     "cancel": "रद्द करें",
-    "replay": "पुनः चलाएँ"
+    "replay": "पुनः चलाएँ",
+    "submitTheTest": "Submit the test hi",
+    "optional": "optional hi",
+    "instructionOne": "I have read and understood all the instructions. I understand that using unfair means of any sort for any advantage will lead to immediate disqualification. The decision of hi",
+    "instructionTwo": "iGOTkarmayogi.gov.in hi",
+    "instructionThree": "  will be final in these matters. hi"
   },
   "apptoc": {
     "lastUpdatedOn": "हाल में अपडेट किया गया",
@@ -786,7 +796,26 @@
     "submitQuiz": "जमा करें",
     "answeredMsg": "क्या आप जमा करना चाहते हैं?",
     "unansweredMsg": "उफ़! ऐसा लगता है कि कुछ प्रश्न छूट गए हैं, क्या आप फिर भी जमा करना चाहते हैं?",
-    "markedMsg": "आपके पास अभी भी कुछ प्रश्न हैं जिन्हें बाद में प्रयास करने के लिए चिह्नित किया गया है! क्या आप अभी भी जमा करना चाहते हैं?"
+    "markedMsg": "आपके पास अभी भी कुछ प्रश्न हैं जिन्हें बाद में प्रयास करने के लिए चिह्नित किया गया है! क्या आप अभी भी जमा करना चाहते हैं?",
+    "notAnswered": "जवाब नहीं दिया गया",
+    "answered": "जवाब दिया।",
+    "marked": "चिह्नित किया गया",
+    "notVisited": "Not Visited hi",
+    "saveNext": "Save & Next hi",
+    "legend": "Legend hi",
+    "submitted": "Submitted hi",
+    "marks": "Marks hi",
+    "clearResponse": "Clear Response hi",
+    "markForReviewNext": "Mark for Review & next hi",
+    "warningNoteForAssessmentSubmit": "Do you want to submit your test finally. After submitting test, you will have to start the test from beginning. hi",
+    "submitYes": "Yes hi",
+    "submitNo": "No hi",
+    "back": "Back hi",
+    "submitTest": "Submit Test hi",
+    "backToAssessment": "Back to assessment hi",
+    "section": "Section",
+    "noOfQuestions": "No of Questions hi",
+    "markedForReview": "Marked for Review hi"
   },
   "quizresult": {
     "score": "अंक",
@@ -800,7 +829,23 @@
     "retry": "पुनः प्रयास करें।",
     "pleaseContactSystemAdmin": "कृपया सिस्टम ऐड्मिन से संपर्क करें",
     "yourPerformanceSummary": "आपके प्रदर्शन का सारांश",
-    "retakeAssessment": "आकलन दोबारा करें"
+    "retakeAssessment": "आकलन दोबारा करें",
+    "insights": "अंतर्दृष्टि",
+    "reattemptTest": "Reattempt Test hi",
+    "subject": "Subject hi",
+    "yourScore": "Your Score hi",
+    "timeTaken": "Time Taken hi",
+    "attempted": "Attempted hi",
+    "correct": "Correct hi",
+    "accuracy": "Accuracy hi",
+    "wrong": "Wrong hi",
+    "questions": "प्रश्न",
+    "status": "स्थिति",
+    "questionTagging": "Question Tagging hi",
+    "viewAll": "सभी देखें",
+    "collapse": "Collapse hi",
+    "all":"सभी",
+    "unattempted": "Unattempted"
   },
   "network": {
     "networkHome": "नेटवर्क होम",
@@ -1219,7 +1264,9 @@
     "completeBeforeText": "बधाई! आपने कोर्स पूरा कर लिया है और जमा किया है।",
     "completeAfterText": "आपके द्वारा पूरे किए गए प्रत्येक कोर्स के लिए, हर महीने अधिकतम चार गैर-माई आईगॉट कोर्स !",
     "completeTip": "प्रत्येक माई आईगॉट और एसीबीपी कोर्स पूरा करने के लिए, आपको 15 कर्मा पॉइंट्स मिलते हैं।  प्रत्येक महीने में अधिकतम चार अन्य कोर्स पूरा करने पर आपको 5 कर्मा पॉइंट्स मिलते हैं। सीखना शुरू करें और अपने कर्मा को बढ़ते हुए देखें !",
-    "acbpCompleteTip": "कोर्स पूरा करने से आपको 15 कर्मा पॉइंट्स मिलते हैं। इसके अलावा, सभी अंतिम आकलनों को सफलतापूर्वक पूरा करने से आपको 5 अतिरिक्त कर्मा पॉइंट्स मिलते हैं।"
+    "acbpCompleteTip": "कोर्स पूरा करने से आपको 15 कर्मा पॉइंट्स मिलते हैं। इसके अलावा, सभी अंतिम आकलनों को सफलतापूर्वक पूरा करने से आपको 5 अतिरिक्त कर्मा पॉइंट्स मिलते हैं।",
+    "fKarmaPoints": "5 कर्म बिंदु",
+    "courseEnrollement": "आपके पहले पाठ्यक्रम नामांकन के लिए!"
   },
   "publicHome": {
     "mainSectionContent": "सीखें। नेटवर्क करें। अपने करियर को आगे बढ़ाएँ।",
@@ -1552,7 +1599,8 @@
     "getStarted": "'शुरू करो' दौरा",
     "myLearning": "मेरा सीखना",
     "viewProfile": "प्रोफ़ाइल देखें",
-    "learningHistory": "लर्निंग हिस्ट्री"
+    "learningHistory": "लर्निंग हिस्ट्री",
+    "tipsLearners": "छात्रों के लिए सुझाव"
   },
   "requestDialog": {
     "designationRequest": "पदनाम जोड़ने का अनुरोध",

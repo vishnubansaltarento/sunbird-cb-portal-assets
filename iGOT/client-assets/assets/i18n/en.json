@@ -69,7 +69,8 @@
         "dashboard": "Dashboard",
         "settings": "Settings",
         "noDataFound": "No data found!",
-        "somethingWentWrong": "Something went wrong, please try again later!"
+        "somethingWentWrong": "Something went wrong, please try again later!",
+        "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
         "myLearning": "My Learning",
@@ -120,7 +121,10 @@
         "curatedCollections": "Curated collections",
         "search": "Search",
         "allProviders": "All Providers",
-        "gyaanKarmayogi": "Gyaan Karmayogi"
+        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "frequentlyAskedQuestions": "Frequently asked questions",
+        "contactUs": "Contact Us",
+        "tipForLearners": "Tips For Learners"
     },
     "cardshublist": {
         "more": "More",
@@ -198,7 +202,8 @@
         "basedOnYourInterests": "Based on your interests",
         "getReadyForLearningAdventure": "Get ready for your next learning adventure",
         "clickHere": "Click here",
-        "toEnrollNextCourse": " to enroll in your next course now!"
+        "toEnrollNextCourse": " to enroll in your next course now!",
+        "moderatedHtml": "Moderated Courses, Moderated Programs and Moderated Assessments for you."
     },
     "cbpPlanFeed": {
         "title": "My iGOT",
@@ -231,11 +236,13 @@
     },
     "allChannelsComponent": {
         "noChannelsFound": "No channels found!",
+        "noProgramsFound": "No programs found!",
         "allChannels": "All Channels",
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "Search Channels"
+        "search": "Search Channels",
+        "allPrograms": "All Programs"
     },
     "allproviderscomponent": {
         "popularProviders": "Featured providers",
@@ -694,7 +701,12 @@
         "up": "Up",
         "reply": "Reply",
         "cancel": "Cancel",
-        "replay": "Replay"
+        "replay": "Replay",
+        "submitTheTest": "Submit the test",
+        "optional": "optional",
+        "instructionOne": "I have read and understood all the instructions. I understand that using unfair means of any sort for any advantage will lead to immediate disqualification. The decision of ",
+        "instructionTwo": "iGOTkarmayogi.gov.in",
+        "instructionThree": "  will be final in these matters."
     },
     "apptoc": {
         "lastUpdatedOn": "Last updated on",
@@ -798,7 +810,26 @@
         "submitQuiz": "Submit",
         "answeredMsg": "Do you want to submit?",
         "unansweredMsg": "Oops! It looks like a few questions were missed, are you sure you want to submit?",
-        "markedMsg": "You still have some questions marked for later! Do you still want to submit?"
+        "markedMsg": "You still have some questions marked for later! Do you still want to submit?",
+        "notAnswered": "Not Answered",
+        "answered": "Answered",
+        "marked": "Marked",
+        "notVisited": "Not Visited",
+        "saveNext": "Save & Next",
+        "legend": "Legend",
+        "submitted": "Submitted",
+        "marks": "Marks",
+        "clearResponse": "Clear Response",
+        "markForReviewNext": "Mark for Review & next",
+        "warningNoteForAssessmentSubmit": "Do you want to submit your test finally. After submitting test, you will have to start the test from beginning.",
+        "submitYes": "Yes",
+        "submitNo": "No",
+        "back": "Back",
+        "submitTest": "Submit Test",
+        "backToAssessment": "Back to assessment",
+        "section": "Section",
+        "noOfQuestions": "No of Questions",
+        "markedForReview": "Marked for Review"
     },
     "quizresult": {
         "score": "score",
@@ -812,7 +843,25 @@
         "retry": "Retry",
         "pleaseContactSystemAdmin": "Please contact system admin",
         "yourPerformanceSummary": "Your Performance Summary",
-        "retakeAssessment": "Retake assessment"
+        "retakeAssessment": "Retake assessment",
+        "myOverallPerformanceSummary": "My Overall performance summary",
+        "mySectionwiseSummary": "My Sectionwise summary",
+        "insights": "Insights",
+        "reattemptTest": "Reattempt Test",
+        "subject": "Subject",
+        "yourScore": "Your Score",
+        "timeTaken": "Time Taken",
+        "attempted": "Attempted",
+        "correct": "Correct",
+        "accuracy": "Accuracy",
+        "wrong": "Wrong",
+        "questions": "Questions",
+        "status": "Status",
+        "questionTagging": "Question Tagging",
+        "viewAll": "View All",
+        "collapse": "Collapse",
+        "all":"All",
+        "unattempted": "Unattempted"
     },
     "network": {
         "networkHome": "Network home",
@@ -1231,7 +1280,9 @@
         "completeBeforeText": "Congrats! You've completed the course and earned",
         "completeAfterText": "for each course you complete, with a limit of four non-My iGOT courses per month.",
         "completeTip": "For every My iGOT and ACBP course you complete, you will earn 15 Karma Points and for every other course you compete, you earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
-        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points."
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",        
+        "fKarmaPoints": "5 Karma Points",
+        "courseEnrollement": "for your 1st course enrolment!"
     },
     "publicHome": {
         "mainSectionContent": "Learn. Network. Grow your career.",
@@ -1567,7 +1618,8 @@
         "getStarted": "'Get Started' tour",
         "myLearning": "My Learning",
         "viewProfile": "View Profile",
-        "learningHistory": "Learning History"
+        "learningHistory": "Learning History",
+        "tipsLearners": "Tips For Learners"
     },
     "requestDialog": {
         "designationRequest": "Request to add designation",

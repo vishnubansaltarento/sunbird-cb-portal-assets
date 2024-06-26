@@ -16,7 +16,7 @@
     "widgetSubType": "gridLayout",
     "widgetType": "layout",
     "widgetData": {
-      "widgets": [        
+      "widgets": [
         [
           {
             "dimensions": {},
@@ -71,7 +71,7 @@
               "widgetSubType": "contentStripMultiple",
               "widgetData": {
                 "strips": [
-                  {        
+                  {
                     "active": true,
                     "key": "continueLearning",
                     "logo": "school",
@@ -86,7 +86,7 @@
                       "cardSubType": "card-portrait-skeleton"
                     },
                     "sliderConfig": {
-                      "showNavs" : false,
+                      "showNavs": false,
                       "showDots": false,
                       "maxWidgets": 2
                     },
@@ -164,7 +164,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Moderated Courses, Moderated Programs and Moderated Assessments for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$moderatedHtml$$</p>"
                         }
                       }
                     },
@@ -225,7 +225,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Blended programs for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$blendedProgramsHtml$$</p>"
                         }
                       }
                     },
@@ -253,7 +253,9 @@
                             "contentType": [
                               "Course"
                             ],
-                            "batches.enrollmentEndDate": { ">=": "new Date().toISOString().substring(0,10)" }
+                            "batches.enrollmentEndDate": {
+                              ">=": "new Date().toISOString().substring(0,10)"
+                            }
                           },
                           "offset": 0,
                           "limit": 20,
@@ -323,7 +325,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Curated Programs.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$curatedPrograms$$</p>"
                         }
                       }
                     },
@@ -349,7 +351,7 @@
                               "Curated Program"
                             ],
                             "contentType": [
-                                "Course"
+                              "Course"
                             ]
                           },
                           "offset": 0,
@@ -411,7 +413,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Mandatory courses for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$mandatoryCoursesHtml$$</p>"
                         }
                       }
                     },
@@ -507,7 +509,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Featured courses</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$featuredCourses$$</p>"
                         }
                       }
                     },
@@ -598,7 +600,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Standalone Assessment</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$standaloneAssessment$$</p>"
                         }
                       }
                     },
@@ -694,7 +696,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Recommended for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$recommendedForYou$$</p>"
                         }
                       }
                     },
@@ -797,7 +799,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Based on your interests.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$basedOnYourInterests$$</p>"
                         }
                       }
                     },
@@ -894,7 +896,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Programs for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$programsForYou$$</p>"
                         }
                       }
                     },
@@ -952,7 +954,7 @@
                         "widgetType": "element",
                         "widgetSubType": "elementHtml",
                         "widgetData": {
-                          "html": "<p class=\"ws-mat-primary-text\">Recently added for you.</p>"
+                          "html": "<p class=\"ws-mat-primary-text\">$$recentlyAddedHtml$$</p>"
                         }
                       }
                     },
@@ -963,7 +965,7 @@
                         "q": "",
                         "p": "Trending",
                         "f": "{\"primaryCategory\": [\"Course\"], \"contentType\": [\"Course\"]}",
-                        "key":"latest"
+                        "key": "latest"
                       }
                     },
                     "stripConfig": {
@@ -1030,22 +1032,26 @@
   "ExploreButtons": [
     {
       "icon": "extension",
+      "image": "",
       "name": "Explore by competency",
       "route": "/app/learn/browse-by/competency/all-competencies"
     },
     {
       "icon": "scatter_plot",
+      "image": "",
       "name": "Explore by provider",
       "route": "/app/learn/browse-by/provider/all-providers"
     },
     {
       "icon": "video_library",
+      "image": "",
       "name": "Curated collections",
       "route": "/app/curatedCollections/home"
     },
     {
       "icon": "video_library",
       "name": "Moderated contents",
+      "image": "",
       "route": "/app/globalsearch",
       "queryParams": {
         "tab": "Learn",
@@ -1055,12 +1061,14 @@
       }
     },
     {
-      "icon": "scatter_plot",
+      "icon": "",
+      "image": "/assets/images/micro-sites/mdo_channel.svg",
       "name": "MDO channels",
       "route": "/app/learn/mdo-channels/all-channels"
     },
     {
-      "icon": "scatter_plot",
+      "icon": "video_library",
+      "image": "",
       "name": "Karma programs",
       "route": "/app/learn/karma-programs/all-programs"
     }

@@ -2169,8 +2169,8 @@
                       "topic"
                   ],
                   "orderBy": "createdOn",
-                  "orderDirection": "desc"
-                  
+                  "orderDirection": "desc",
+                  "searchString": ""
               }
             }
         }

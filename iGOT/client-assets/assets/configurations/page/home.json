@@ -933,7 +933,7 @@
         "key": "continueLearning",
         "logo": "school",
         "title": "My Learning",
-        "customeClass": "mr-5",
+        "customeClass": "",
         "stripTitleLink": {
           "link": "",
           "icon": ""
@@ -945,7 +945,8 @@
         "sliderConfig": {
           "showNavs": true,
           "showDots": false,
-          "maxWidgets": 12
+          "maxWidgets": 12,
+          "showNavsSpacing": true
         },
         "stripBackground": "",
         "titleDescription": "My Learning",

@@ -245,7 +245,7 @@
         "allPrograms": "All Programs"
     },
     "allproviderscomponent": {
-        "popularProviders": "Popular providers",
+        "popularProviders": "Featured providers",
         "noProvidersFound": "No providers found!",
         "allProviders": "All Providers",
         "sortBy": "Sort by",
@@ -702,7 +702,7 @@
         "reply": "Reply",
         "cancel": "Cancel",
         "replay": "Replay",
-        "submitTheTest": "Submit The Test"
+        "submitTheTest": "Submit the test"
     },
     "apptoc": {
         "lastUpdatedOn": "Last updated on",
@@ -1237,8 +1237,9 @@
         "assessmentTip": "Here's 5 extra Karma Points for successfully completing all final assessments",
         "acbpTip": "Additionally, passing all final assessments will earn you an extra 5 Karma Points. Remember, it's essential to stick to the schedule outlined in your Capacity Building Plan, as it directly impacts your Karma Points. For further details, please refer to the FAQs.",
         "completeBeforeText": "Congrats! You've completed the course and earned",
-        "completeTip": "Course completion earns you 5 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
-        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
+        "completeAfterText": "for each course you complete, with a limit of four non-My iGOT courses per month.",
+        "completeTip": "For every My iGOT and ACBP course you complete, you will earn 15 Karma Points and for every other course you compete, you earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",        
         "fKarmaPoints": "5 Karma Points",
         "courseEnrollement": "for your 1st course enrolment!"
     },
@@ -2027,7 +2028,7 @@
         "myKarmaPoints": "My Karma Points",
         "viewMyCertificates": "View My Certificates",
         "primaryDetails": "Primary Details",
-        "pdTooltipMsg": "These details go to your MDO Admin for approval",
+        "pdTooltipMsg": "These details go to your MDO for approval. Please fill these details to view your iGOT plan.",
         "edit": "Edit",
         "withdrawRequest": "Withdraw Request",
         "pdTooltipWarnMsg": "You can't edit when you requested for Transfer request",
@@ -2058,7 +2059,7 @@
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
-        "withdrawWarnMsg": "Are you sure you want to withdraw your transfer request?",
+        "withdrawWarnMsg": "Are you sure you want to withdraw your request?",
         "yes": "Yes",
         "no": "No",
         "submitRequest": "Submit request",

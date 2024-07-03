@@ -7494,5 +7494,98 @@
       "Blended Program": []
     },
     "type": "string"
+  },
+  "demand_id": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Curated Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Curated Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": ""
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {},
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+    },
+    "showFor": {
+    },
+    "type": "string"
   }
 }

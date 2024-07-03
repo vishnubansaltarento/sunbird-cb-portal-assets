@@ -621,7 +621,9 @@
         "paidContent": "Paid Content",
         "free": "Free",
         "view": "View",
-        "cbpDeadLine": "CBP plan deadline"
+        "cbpDeadLine": "CBP plan deadline",
+        "redirect":"Redirect",
+        "objectives":"Objectives"
     },
     "playerbrief": {
         "download": "Download",

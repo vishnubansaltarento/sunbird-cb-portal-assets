@@ -2359,6 +2359,70 @@
             }
         }
       ]
+    },
+    {
+      "strips": [
+        {
+            "active": true,
+            "key": "topContents",
+            "logo": "school",
+            "disableTranslate": true,
+            "title": "Providers",
+            "stripTitleLink": {
+                "link": "",
+                "icon": ""
+            },
+            "sliderConfig": {
+                "showNavs": true,
+                "showDots": true,
+                "maxWidgets": 12,
+                "showNavsSpacing": true
+            },
+            "stripBackground": "",
+            "titleDescription": "Recently Added",
+            "stripConfig": {
+                "cardSubType": "card-providers-lib"
+            },
+            "viewMoreUrl": {
+                "path": "/app/learn/providers/all-providers",
+                "viewMoreText": "Show all",
+                "queryParams": {
+                    "key": ""
+                },
+                "loaderConfig": {
+                    "cardSubType": "card-portrait-lib-skeleton"
+                },
+                "stripConfig": {
+                    "cardSubType": "card-portrait-lib"
+                }
+            },
+            "loader": true,
+            "loaderConfig": {
+                "cardSubType": "card-providers-lib-skeleton"
+            },
+            "tabs": [],
+            "filters": [],
+            "request": {
+                "apiUrl": "/apis/proxies/v8/playList/v2/search",
+                "playlistSearch": {
+                    "request": {
+                      "filterCriteriaMap": {
+                          "type":"program"
+                      },
+                      "pageNumber": 0,
+                      "pageSize": 20,
+                      "orderBy": "createdOn",
+                      "orderDirection": "ASC",
+                      "facets": [
+                          "category",
+                          "orgId"
+                      ]
+                  }
+ 
+                }
+            }
+        }
+      ]
     }
   ],
   "enableLazyLoading": true

@@ -260,7 +260,23 @@
                         "spv_admin",
                         "state_admin"
                     ]
-                  }
+                  },
+                {
+                    "name": "KCM mapping",
+                    "key": "KCM",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/kcm-mapping",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
+                }
             ]
           
         }

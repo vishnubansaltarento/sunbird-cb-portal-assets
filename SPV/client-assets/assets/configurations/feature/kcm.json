@@ -92,13 +92,17 @@
                     "index": 2,
                     "category": "theme",
                     "icon": "settings",
-                    "color": "rgb(115, 115, 115)"
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
                 },
                 {
                     "index": 3,
                     "category": "subtheme",
                     "icon": "extension",
-                    "color": "rgb(115, 115, 115)"
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
                 }
             ]
         }

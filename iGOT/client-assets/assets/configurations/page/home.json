@@ -2235,6 +2235,551 @@
   ],
   "newHomeStrip": [
     {
+      "order": 1,
+      "stripType":"withOutPils",
+      "stripVisable":"mobile",
+      "strips": [
+        {
+            "active": true,
+            "key": "scheduledAssessment",
+            "logo": "school",
+            "disableTranslate": true,
+            "title": "Scheduled Assessment",
+            "stripTitleLink": {
+                "link": "",
+                "icon": ""
+            },
+            "sliderConfig": {
+                "showNavs": true,
+                "showDots": true,
+                "maxWidgets": 5,
+                "showNavsSpacing": true
+            },
+            "stripBackground": "",
+            "titleDescription": "Scheduled Assessment",
+            "stripConfig": {
+                "cardSubType": "card-scheduled-assessment"
+            },
+            "loader": true,
+            "loaderConfig": {
+                "cardSubType": "card-scheduled-assessment-skeleton"
+            },
+            "tabs": [],
+            "filters": [],
+            "request": {
+              "searchV6": {
+                "request": {
+                  "filters": {
+                    "primaryCategory": [
+                      "Standalone Assessment"
+                    ],
+                    "courseCategory": "Invite-Only Assessment",
+                    "contentType": [
+                      "Course"
+                    ]
+                  },
+                  "query": "",
+                  "sort_by": {
+                    "lastUpdatedOn": "desc"
+                  },
+                  "fields": [
+                    "name",
+                    "appIcon",
+                    "instructions",
+                    "description",
+                    "purpose",
+                    "mimeType",
+                    "gradeLevel",
+                    "identifier",
+                    "medium",
+                    "pkgVersion",
+                    "board",
+                    "subject",
+                    "resourceType",
+                    "primaryCategory",
+                    "contentType",
+                    "channel",
+                    "organisation",
+                    "trackable",
+                    "license",
+                    "posterImage",
+                    "idealScreenSize",
+                    "learningMode",
+                    "creatorLogo",
+                    "duration",
+                    "avgRating"
+                  ]
+                }
+              }
+            }
+        }
+      ]
+    },
+    {
+      "order": 1,
+      "stripType":"withPils",
+      "stripVisable":"responsive",
+      "strips": [
+        {
+          "active": true,
+          "key": "cbpPlan",
+          "logo": "school",
+          "title": "my Space",
+          "customeClass": "mr-5",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-lib-skeleton"
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "My Learning",
+          "stripConfig": {
+            "cardSubType": "card-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/page/cbp",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "cbpPlan"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-standard-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-standard"
+            }
+          },
+          "tabs": [
+            {
+              "label": "My iGOT Plans",
+              "value": "myIgotPlans",
+              "pillsData": [
+                {
+                  "label": "Upcoming",
+                  "value": "upcoming",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see all the content that needs to be completed within the next 30 days."
+                },
+                {
+                  "label": "Overdue",
+                  "value": "overdue",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                },
+                {
+                  "label": "Completed",
+                  "value": "completed",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "No Data Msg Completed"
+                },
+                {
+                  "label": "All",
+                  "value": "all",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You don’t have any content in progress."
+                }
+              ]
+            }
+          ],
+          "filters": [],
+          "request": {
+            "cbpList": {
+              "path": "/apis/proxies/v8/user/v1/cbplan/<userId>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "stripType":"withOutPils",
+      "stripVisable":"mobile",
+      "strips": [
+        {
+          "active": true,
+          "key": "continueLearning",
+          "logo": "school",
+          "title": "My Learning",
+          "customeClass": "mr-5",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-progress-portrait-lib-skeleton"
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": false,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "My Learning",
+          "stripConfig": {
+            "cardSubType": "card-progress-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "continueLearning"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-progress-portrait-lib-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-progress-portrait-lib"
+            }
+          },
+          "tabs": [
+            {
+              "label": "In Progress",
+              "value": "inprogress",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any new course in progress."
+            },
+            {
+              "label": "Completed",
+              "value": "completed",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find your Completed Courses/Program here."
+            }
+          ],
+          "filters": [],
+          "request": {
+            "enrollmentList": {
+              "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+              "queryParams": {
+                "orgdetails": "orgName,email",
+                "licenseDetails": "name,description,url",
+                "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
+                "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "stripType":"withPils",
+      "stripVisable":"responsive",
+      "strips": [
+        {
+          "active": true,
+          "key": "forYou",
+          "logo": "school",
+          "title": "For you",
+          "type":"forYou",
+          "disableTranslate": true,
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "For you",
+          "stripConfig": {
+            "cardSubType": "card-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "recentlyAdded"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-lib-skeleton"
+          },
+          "tabs": [
+            {
+
+              "label": "Trending across Departments",
+              "value": "trendingAcrossDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+
+              "label": "Trending in your Department",
+              "value": "trendingInDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+
+            {
+
+              "label": "Recently Added",
+              "value": "recentlyAdded",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find recently added courses here.",
+                  "request": {
+                    "searchV6": {
+                      "request": {
+                        "filters": {
+                          "primaryCategory": [
+                            "Course"
+                          ],
+                          "contentType": [
+                            "Course"
+                          ]
+                        },
+                        "query": "",
+                        "sort_by": {
+                          "lastUpdatedOn": "desc"
+                        },
+                        "fields": [
+                          "name",
+                          "appIcon",
+                          "instructions",
+                          "description",
+                          "purpose",
+                          "mimeType",
+                          "gradeLevel",
+                          "identifier",
+                          "medium",
+                          "pkgVersion",
+                          "board",
+                          "subject",
+                          "resourceType",
+                          "primaryCategory",
+                          "contentType",
+                          "channel",
+                          "organisation",
+                          "trackable",
+                          "license",
+                          "posterImage",
+                          "idealScreenSize",
+                          "learningMode",
+                          "creatorLogo",
+                          "duration",
+                          "avgRating"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find recently added programs here.",
+                  "request": {
+                    "searchV6": {
+                      "request": {
+                        "filters": {
+                          "primaryCategory": [
+                            "Curated Program"
+                          ],
+                          "contentType": [
+                            "Course"
+                          ]
+                        },
+                        "query": "",
+                        "sort_by": {
+                          "lastUpdatedOn": "desc"
+                        },
+                        "fields": [
+                          "name",
+                          "appIcon",
+                          "instructions",
+                          "description",
+                          "purpose",
+                          "mimeType",
+                          "gradeLevel",
+                          "identifier",
+                          "medium",
+                          "pkgVersion",
+                          "board",
+                          "subject",
+                          "resourceType",
+                          "primaryCategory",
+                          "contentType",
+                          "channel",
+                          "organisation",
+                          "trackable",
+                          "license",
+                          "posterImage",
+                          "idealScreenSize",
+                          "learningMode",
+                          "creatorLogo",
+                          "duration",
+                          "avgRating"
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "filters": [],
+          "request":{
+
+          }
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
       "strips": [
         {
             "active": true,
@@ -2300,6 +2845,9 @@
       ]
     },
     {
+      "order": 4,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
       "strips": [
         {
             "active": true,
@@ -2342,6 +2890,9 @@
       ]
     }, 
     {
+      "order": 5,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
       "strips": [
         {
             "active": true,
@@ -2406,6 +2957,9 @@
       ]
     },
     {
+      "order": 6,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
       "strips": [
         {
             "active": true,
@@ -2470,5 +3024,384 @@
       ]
     }
   ],
-  "enableLazyLoading": true
+  "enableLazyLoading": true,
+  "rightSideStrip":[
+    {
+      "order": 3,
+      "strips": [
+        {
+          "active": true,
+          "key": "forYou",
+          "logo": "school",
+          "title": "For you",
+          "type":"forYou",
+          "disableTranslate": true,
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "stripBackground": "",
+          "titleDescription": "For you",
+          "stripConfig": {
+            "cardSubType": "card-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "recentlyAdded"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-lib-skeleton"
+          },
+          "tabs": [
+            {
+
+              "label": "Trending across Departments",
+              "value": "trendingAcrossDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+
+              "label": "Trending in your Department",
+              "value": "trendingInDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+
+            {
+
+              "label": "Recently Added",
+              "value": "recentlyAdded",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find recently added courses here.",
+                  "request": {
+                    "searchV6": {
+                      "request": {
+                        "filters": {
+                          "primaryCategory": [
+                            "Course"
+                          ],
+                          "contentType": [
+                            "Course"
+                          ]
+                        },
+                        "query": "",
+                        "sort_by": {
+                          "lastUpdatedOn": "desc"
+                        },
+                        "fields": [
+                          "name",
+                          "appIcon",
+                          "instructions",
+                          "description",
+                          "purpose",
+                          "mimeType",
+                          "gradeLevel",
+                          "identifier",
+                          "medium",
+                          "pkgVersion",
+                          "board",
+                          "subject",
+                          "resourceType",
+                          "primaryCategory",
+                          "contentType",
+                          "channel",
+                          "organisation",
+                          "trackable",
+                          "license",
+                          "posterImage",
+                          "idealScreenSize",
+                          "learningMode",
+                          "creatorLogo",
+                          "duration",
+                          "avgRating"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find recently added programs here.",
+                  "request": {
+                    "searchV6": {
+                      "request": {
+                        "filters": {
+                          "primaryCategory": [
+                            "Curated Program"
+                          ],
+                          "contentType": [
+                            "Course"
+                          ]
+                        },
+                        "query": "",
+                        "sort_by": {
+                          "lastUpdatedOn": "desc"
+                        },
+                        "fields": [
+                          "name",
+                          "appIcon",
+                          "instructions",
+                          "description",
+                          "purpose",
+                          "mimeType",
+                          "gradeLevel",
+                          "identifier",
+                          "medium",
+                          "pkgVersion",
+                          "board",
+                          "subject",
+                          "resourceType",
+                          "primaryCategory",
+                          "contentType",
+                          "channel",
+                          "organisation",
+                          "trackable",
+                          "license",
+                          "posterImage",
+                          "idealScreenSize",
+                          "learningMode",
+                          "creatorLogo",
+                          "duration",
+                          "avgRating"
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "filters": [],
+          "request":{
+
+          }
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "strips": [
+        {
+          "active": true,
+          "key": "cbpPlan",
+          "logo": "school",
+          "title": "My iGOT",
+          "customeClass": "mr-5",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-lib-skeleton"
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "stripBackground": "",
+          "titleDescription": "My Learning",
+          "stripConfig": {
+            "cardSubType": "card-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/page/cbp",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "cbpPlan"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-standard-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-standard"
+            }
+          },
+          "tabs": [
+            {
+              "label": "My iGOT Plans",
+              "value": "myIgotPlans",
+              "pillsData": [
+                {
+                  "label": "Upcoming",
+                  "value": "upcoming",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see all the content that needs to be completed within the next 30 days."
+                },
+                {
+                  "label": "Overdue",
+                  "value": "overdue",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will see here all the content for which the due date has passed."
+                },
+                {
+                  "label": "Completed",
+                  "value": "completed",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "No Data Msg Completed"
+                },
+                {
+                  "label": "All",
+                  "value": "all",
+                  "computeDataOnClick": false,
+                  "showTabDataCount": true,
+                  "requestRequired": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You don’t have any content in progress."
+                }
+              ]
+            }
+          ],
+          "filters": [],
+          "request": {
+            "cbpList": {
+              "path": "/apis/proxies/v8/user/v1/cbplan/<userId>"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

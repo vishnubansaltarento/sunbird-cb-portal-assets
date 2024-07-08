@@ -821,6 +821,7 @@
         "legend": "Legend",
         "submitted": "Submitted",
         "marks": "Marks",
+        "mark": "Mark",
         "clearResponse": "Clear Response",
         "markForReviewNext": "Mark for Review & next",
         "warningNoteForAssessmentSubmit": "Do you want to submit your test finally. After submitting test, you will have to start the test from beginning.",

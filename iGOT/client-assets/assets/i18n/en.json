@@ -127,6 +127,21 @@
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
     },
+    "learnerAdvisory":{
+        "watchContent": "Watch content at a speed that ensures understanding and retention.",
+        "fastForwarding":"Avoid fast-forwarding and speeding through.",
+        "followSequence" :"Follow the sequence of content as presented.",
+        "oneCourse": "Take one course at a time instead of consuming multiple courses across multiple devices.",
+        "participateDiscussions": "Participate in discussions at the Discussion Forum regularly.",
+        "dontRushAssessments": "Don't rush through assessments without understanding, reflecting.",
+        "supplementaryResources": "Use supplementary resources and readings.",
+        "minimizeDistractions" : "Minimize distractions during study sessions.",
+        "seekClarification": "Seek clarification and assistance when needed.",
+        "allocateTime": "Allocate dedicated time for learning activities.",
+        "useGyaanKarmayogi": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+        "updateProfile": "Update your profile regularly if required.",
+        "followSuggestions": "Follow suggestions at My iGOT."
+    },
     "cardshublist": {
         "more": "More",
         "noHubs": "No hubs Info Available",

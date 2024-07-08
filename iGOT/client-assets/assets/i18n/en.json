@@ -83,7 +83,8 @@
         "trendingAcrossDepartments": "Trending across departments",
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "forYou": "For you"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -836,6 +837,7 @@
         "legend": "Legend",
         "submitted": "Submitted",
         "marks": "Marks",
+        "mark": "Mark",
         "clearResponse": "Clear Response",
         "markForReviewNext": "Mark for Review & next",
         "warningNoteForAssessmentSubmit": "Do you want to submit your test finally. After submitting test, you will have to start the test from beginning.",
@@ -1411,7 +1413,9 @@
         "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
         "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
         "viewAll": "View All",
-        "noDataMsgCompleted": "You will see all the completed content here."
+        "noDataMsgCompleted": "You will see all the completed content here.",
+        "myIgotPlans":"My iGOT Plans",
+        "mySpace":"My Space"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",

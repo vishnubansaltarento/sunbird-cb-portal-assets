@@ -3022,6 +3022,166 @@
             }
         }
       ]
+    },
+    {
+      "order": 7,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
+      "strips": [
+        {
+          "active": true,
+          "key": "blendedPrograms",
+          "logo": "school",
+          "title": "Blended Program",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-standard-skeleton"
+          },
+          "stripBackground": "",
+          "titleDescription": "Blended Program",
+          "stripConfig": {
+            "cardSubType": "standard"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "blendedPrograms"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "searchV6": {
+              "request": {
+                "filters": {
+                  "primaryCategory": [
+                    "Blended Program"
+                  ],
+                  "contentType": [
+                    "Course"
+                  ],
+                  "batches.endDate": {
+                    ">=": "new Date().toISOString().substring(0,10)"
+                  }
+                },
+                "offset": 0,
+                "limit": 12,
+                "query": "",
+                "sort_by": {
+                  "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                  "name",
+                  "appIcon",
+                  "instructions",
+                  "description",
+                  "purpose",
+                  "mimeType",
+                  "gradeLevel",
+                  "identifier",
+                  "medium",
+                  "pkgVersion",
+                  "board",
+                  "subject",
+                  "resourceType",
+                  "primaryCategory",
+                  "contentType",
+                  "channel",
+                  "organisation",
+                  "trackable",
+                  "license",
+                  "posterImage",
+                  "idealScreenSize",
+                  "learningMode",
+                  "creatorLogo",
+                  "duration",
+                  "version",
+                  "programDuration",
+                  "avgRating",
+                  "additionalTags"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "stripType":"withOutPils",
+      "stripVisable":"responsive",
+      "strips": [
+        {
+          "active": true,
+          "key": "certificationsOfWeek",
+          "logo": "school",
+          "title": "Certifications of the Week",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "cerificateCardMargin": true
+          },
+          "loader": true,
+          "stripBackground": "",
+          "titleDescription": "Certifications of the Week",
+          "stripConfig": {
+            "cardSubType": "card-wide-v2"
+          },
+          "loaderConfig": {
+            "cardSubType": "card-wide-v2-skelton"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "certificationsOfWeek"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-click-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-click"
+            }
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "trendingSearch": {
+              "request": {
+                "filters": {
+                  "contextType": [
+                    "certifications"
+                  ],
+                  "organisation": "across"
+                },
+                "limit": 5
+              },
+              "responseKey": "certifications"
+            }
+          }
+        }
+      ]
     }
   ],
   "enableLazyLoading": true,

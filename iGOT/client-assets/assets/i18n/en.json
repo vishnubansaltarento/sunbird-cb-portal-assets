@@ -83,7 +83,8 @@
         "trendingAcrossDepartments": "Trending across departments",
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "forYou": "For you"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",

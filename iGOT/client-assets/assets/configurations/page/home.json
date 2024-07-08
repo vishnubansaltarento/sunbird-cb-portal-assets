@@ -2521,7 +2521,7 @@
             "cardSubType": "card-portrait-lib"
           },
           "viewMoreUrl": {
-            "path": "/app/seeAll",
+            "path": "/app/seeAll/new",
             "viewMoreText": "Show all",
             "queryParams": {
               "key": "recentlyAdded"

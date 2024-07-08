@@ -169,6 +169,24 @@
                     }
 
                   ]
+                },
+                {
+                  "menuCategory": "Designation",
+                  "submenu": false,
+                  "key": "designation-section",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                    "enabled": false,
+                    "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/org-designations",
+                  "requiredRoles": [
+                    "admin",
+                    "mdo_admin",
+                    "mdo_leader"
+                  ]
                 }
               ],
             "menus": [

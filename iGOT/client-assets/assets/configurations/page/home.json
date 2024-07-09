@@ -960,11 +960,11 @@
             "key": "continueLearning"
           },
           "loaderConfig": {
-            "cardSubType": "card-progress-portrait-lib-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-progress-portrait-lib"
-          }
+              "cardSubType": "card-portrait-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait"
+            }
         },
         "tabs": [
           {
@@ -2452,10 +2452,10 @@
               "key": "continueLearning"
             },
             "loaderConfig": {
-              "cardSubType": "card-progress-portrait-lib-skeleton"
+              "cardSubType": "card-portrait-skeleton"
             },
             "stripConfig": {
-              "cardSubType": "card-progress-portrait-lib"
+              "cardSubType": "card-portrait"
             }
           },
           "tabs": [
@@ -2851,7 +2851,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "mdoChannel",
             "logo": "school",
             "disableTranslate": true,
             "title": "MDO Channels",
@@ -2866,7 +2866,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "MDO Channel",
             "stripConfig": {
                 "cardSubType": "card-mdo-home-lib"
             },
@@ -2896,7 +2896,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "karmaProgram",
             "logo": "school",
             "disableTranslate": true,
             "title": "Karma Programs",
@@ -2911,7 +2911,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "Karma Programs",
             "stripConfig": {
                 "cardSubType": "card-karma-program-lib"
             },
@@ -3044,12 +3044,12 @@
           },
           "loader": true,
           "loaderConfig": {
-            "cardSubType": "card-standard-skeleton"
+            "cardSubType": "card-portrait-lib-skeleton"
           },
           "stripBackground": "",
           "titleDescription": "Blended Program",
           "stripConfig": {
-            "cardSubType": "standard"
+            "cardSubType": "card-portrait-lib"
           },
           "viewMoreUrl": {
             "path": "/app/seeAll",

@@ -83,7 +83,8 @@
         "trendingAcrossDepartments": "Trending across departments",
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
-        "recentlyAdded": "Recently added"
+        "recentlyAdded": "Recently added",
+        "forYou": "For you"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -125,6 +126,21 @@
         "frequentlyAskedQuestions": "Frequently asked questions",
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
+    },
+    "learnerAdvisory":{
+        "watchContent": "Watch content at a speed that ensures understanding and retention.",
+        "fastForwarding":"Avoid fast-forwarding and speeding through.",
+        "followSequence" :"Follow the sequence of content as presented.",
+        "oneCourse": "Take one course at a time instead of consuming multiple courses across multiple devices.",
+        "participateDiscussions": "Participate in discussions at the Discussion Forum regularly.",
+        "dontRushAssessments": "Don't rush through assessments without understanding, reflecting.",
+        "supplementaryResources": "Use supplementary resources and readings.",
+        "minimizeDistractions" : "Minimize distractions during study sessions.",
+        "seekClarification": "Seek clarification and assistance when needed.",
+        "allocateTime": "Allocate dedicated time for learning activities.",
+        "useGyaanKarmayogi": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+        "updateProfile": "Update your profile regularly if required.",
+        "followSuggestions": "Follow suggestions at My iGOT."
     },
     "cardshublist": {
         "more": "More",
@@ -621,7 +637,9 @@
         "paidContent": "Paid Content",
         "free": "Free",
         "view": "View",
-        "cbpDeadLine": "CBP plan deadline"
+        "cbpDeadLine": "CBP plan deadline",
+        "redirect":"Redirect",
+        "objectives":"Objectives"
     },
     "playerbrief": {
         "download": "Download",
@@ -819,6 +837,7 @@
         "legend": "Legend",
         "submitted": "Submitted",
         "marks": "Marks",
+        "mark": "Mark",
         "clearResponse": "Clear Response",
         "markForReviewNext": "Mark for Review & next",
         "warningNoteForAssessmentSubmit": "Do you want to submit your test finally. After submitting test, you will have to start the test from beginning.",
@@ -1394,7 +1413,9 @@
         "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "You will see all the content for which the due date has passed here.",
         "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
         "viewAll": "View All",
-        "noDataMsgCompleted": "You will see all the completed content here."
+        "noDataMsgCompleted": "You will see all the completed content here.",
+        "myIgotPlans":"My iGOT Plans",
+        "mySpace":"My Space"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",

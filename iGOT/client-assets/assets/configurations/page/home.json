@@ -2876,7 +2876,7 @@
             },
             "loader": true,
             "loaderConfig": {
-                "cardSubType": "card-mdo-home-skeleton"
+                "cardSubType": "card-mdo-home-lib-skeleton"
             },
             "tabs": [],
             "filters": [],
@@ -2963,7 +2963,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "providers",
             "logo": "school",
             "disableTranslate": true,
             "title": "Providers",
@@ -2978,7 +2978,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "Providers list",
             "stripConfig": {
                 "cardSubType": "card-providers-lib"
             },
@@ -3002,21 +3002,9 @@
             "tabs": [],
             "filters": [],
             "request": {
-                "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "playlistSearch": {
-                    "request": {
-                      "filterCriteriaMap": {
-                          "type":"program"
-                      },
-                      "pageNumber": 0,
-                      "pageSize": 20,
-                      "orderBy": "createdOn",
-                      "orderDirection": "ASC",
-                      "facets": [
-                          "category",
-                          "orgId"
-                      ]
-                  }
+                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
+                "playlistRead": {
+                   "type": "dummy"
  
                 }
             }

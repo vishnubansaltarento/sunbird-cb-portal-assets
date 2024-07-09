@@ -1,313 +1,329 @@
 {
-    "menus": {
-        "widgetType": "menus",
-        "widgetSubType": "leftMenu",
-        "widgetData": {
-            "logo": true,
-            "menusList": [
-                {
-                  "menuCategory": "Home",
-                  "submenu": false,
-                  "key": "Home",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/welcome",
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "wat_member",
-                    "mdo_leader"
-                  ]
-                },
-                {
-                  "menuCategory": "Users",
-                  "submenu": true,
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ],
-                  "subMenu": [
-                    {
-                      "name": "All users",
-                      "key": "users",
-                      "fragment": false,
-                      "render": true,
-                      "badges": {
-                        "enabled": false,
-                        "uri": ""
-                      },
-                      "enabled": true,
-                      "routerLink": "/app/home/users",
-                      "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                      ]
-                    },
-                    {
-                      "name": "Approvals",
-                      "key": "approvals",
-                      "fragment": false,
-                      "render": true,
-                      "badges": {
-                        "enabled": false,
-                        "uri": ""
-                      },
-                      "enabled": true,
-                      "routerLink": "/app/home/approvals/profileverification",
-                      "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "menuCategory": "Roles and access",
-                  "submenu": false,
-                  "key": "roles-access",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/roles-access",
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ]
-                },
-                {
-                  "menuCategory": "Blended program",
-                  "submenu": false,
-                  "key": "blended-approvals",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/blended-approvals",
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ]
-                },
-                {
-                  "menuCategory": "Reports",
-                  "submenu": false,
-                  "key": "reports-section",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/reports-section",
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ]
-                },
-                {
-                  "menuCategory": "Training Plan",
-                  "submenu": false,
-                  "key": "training-plan-dashboard",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/training-plan-dashboard",
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ]
-                },
-                {
-                  "menuCategory": "Manage",
-                  "submenu": true,
-                  "requiredRoles": [
-                    "admin",
-                    "mdo_admin",
-                    "mdo_leader"
-                  ],
-                  "subMenu": [
-                    {
-                      "name": "Content Request",
-                      "key": "Manage",
-                      "fragment": false,
-                      "render": true,
-                      "badges": {
-                        "enabled": false,
-                        "uri": ""
-                      },
-                      "enabled": true,
-                      "routerLink": "/app/home/request-list",
-                      "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                      ]
-                    }
-
-                  ]
-                }
-              ],
-            "menus": [
-                {
-                    "name": "Home",
-                    "key": "Home",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/welcome",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "wat_member",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Users",
-                    "key": "users",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/users",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Roles and access",
-                    "key": "roles-access",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/roles-access",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Approvals",
-                    "key": "approvals",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/approvals/pending",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Organisation profile",
-                    "key": "orgProfile",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/setup",
-                    "requiredRoles": [
-                        "isInstuteOrg"
-                    ]
-                },
-                {
-                    "name": "Blended program",
-                    "key": "blended-approvals",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/blended-approvals",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Reports",
-                    "key": "reports-section",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/reports-section",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                },
-                {
-                    "name": "Training Plan",
-                    "key": "training-plan-dashboard",
-                    "fragment": false,
-                    "render": true,
-                    "badges": {
-                        "enabled": false,
-                        "uri": ""
-                    },
-                    "enabled": true,
-                    "routerLink": "/app/home/training-plan-dashboard",
-                    "requiredRoles": [
-                        "admin",
-                        "mdo_admin",
-                        "mdo_leader"
-                    ]
-                }
-            ]
+  "menus": {
+    "widgetType": "menus",
+    "widgetSubType": "leftMenu",
+    "widgetData": {
+      "logo": true,
+      "menusList": [
+        {
+          "menuCategory": "Home",
+          "submenu": false,
+          "key": "Home",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/welcome",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "wat_member",
+            "mdo_leader"
+          ]
+        },
+        {
+          "menuCategory": "Users",
+          "submenu": true,
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ],
+          "subMenu": [
+            {
+              "name": "All users",
+              "key": "users",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/users",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            },
+            {
+              "name": "Approvals",
+              "key": "approvals",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/approvals/profileverification",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            },
+            {
+              "name": "Mentor Manage",
+              "key": "mentor-manage",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/mentor-manage",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            }
+          ]
+        },
+        {
+          "menuCategory": "Roles and access",
+          "submenu": false,
+          "key": "roles-access",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/roles-access",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "menuCategory": "Blended program",
+          "submenu": false,
+          "key": "blended-approvals",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/blended-approvals",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "menuCategory": "Reports",
+          "submenu": false,
+          "key": "reports-section",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/reports-section",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "menuCategory": "Training Plan",
+          "submenu": false,
+          "key": "training-plan-dashboard",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/training-plan-dashboard",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "menuCategory": "Manage",
+          "submenu": true,
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ],
+          "subMenu": [
+            {
+              "name": "Content Request",
+              "key": "Manage",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/request-list",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            }
+          ]
         }
+      ],
+      "menus": [
+        {
+          "name": "Home",
+          "key": "Home",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/welcome",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "wat_member",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Users",
+          "key": "users",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/users",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Roles and access",
+          "key": "roles-access",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/roles-access",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Approvals",
+          "key": "approvals",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/approvals/pending",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Organisation profile",
+          "key": "orgProfile",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/setup",
+          "requiredRoles": [
+            "isInstuteOrg"
+          ]
+        },
+        {
+          "name": "Blended program",
+          "key": "blended-approvals",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/blended-approvals",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Reports",
+          "key": "reports-section",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/reports-section",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        },
+        {
+          "name": "Training Plan",
+          "key": "training-plan-dashboard",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/app/home/training-plan-dashboard",
+          "requiredRoles": [
+            "admin",
+            "mdo_admin",
+            "mdo_leader"
+          ]
+        }
+      ]
     }
+  }
 }

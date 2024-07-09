@@ -2538,61 +2538,7 @@
             "cardSubType": "card-portrait-lib-skeleton"
           },
           "tabs": [
-            {
 
-              "label": "Trending across Departments",
-              "value": "trendingAcrossDepartment",
-              "pillsData": [
-                {
-                  "label": "Courses",
-                  "value": "courses",
-                  "computeDataOnClick": false,
-                  "computeDataOnClickKey": "",
-                  "requestRequired": true,
-                  "showTabDataCount": false,
-                  "maxWidgets": 12,
-                  "selected": false,
-                  "nodataMsg": "You will find trending courses here.",
-                  "request": {
-                    "trendingSearch": {
-                      "request": {
-                        "filters": {
-                          "contextType": [
-                            "courses"
-                          ],
-                          "organisation": "across"
-                        },
-                        "limit": 12
-                      }
-                    }
-                  }
-                },
-                {
-                  "label": "Programs",
-                  "value": "programs",
-                  "computeDataOnClick": false,
-                  "computeDataOnClickKey": "",
-                  "requestRequired": true,
-                  "showTabDataCount": false,
-                  "maxWidgets": 12,
-                  "selected": false,
-                  "nodataMsg": "You will find trending programs here.",
-                  "request": {
-                    "trendingSearch": {
-                      "request": {
-                        "filters": {
-                          "contextType": [
-                            "programs"
-                          ],
-                          "organisation": "across"
-                        },
-                        "limit": 12
-                      }
-                    }
-                  }
-                }
-              ]
-            },
             {
 
               "label": "Trending in your Department",
@@ -2640,6 +2586,61 @@
                             "programs"
                           ],
                           "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+
+              "label": "Trending across Departments",
+              "value": "trendingAcrossDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "across"
                         },
                         "limit": 12
                       }

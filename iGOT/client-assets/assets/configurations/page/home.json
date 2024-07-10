@@ -1163,6 +1163,72 @@
     },
     {
       "order": 3,
+      "loadStripType":"package",
+      "strips": [
+        {
+            "active": true,
+            "key": "karmaProgram",
+            "logo": "school",
+            "disableTranslate": true,
+            "title": "Karma Programs",
+            "stripTitleLink": {
+                "link": "",
+                "icon": ""
+            },
+            "sliderConfig": {
+                "showNavs": true,
+                "showDots": true,
+                "maxWidgets": 12,
+                "showNavsSpacing": true
+            },
+            "stripBackground": "",
+            "titleDescription": "Karma Programs",
+            "stripConfig": {
+                "cardSubType": "card-karma-program-lib"
+            },
+            "viewMoreUrl": {
+                "path": "/app/learn/karma-programs/all-programs",
+                "viewMoreText": "Show all",
+                "queryParams": {
+                    "key": ""
+                },
+                "loaderConfig": {
+                    "cardSubType": "card-portrait-lib-skeleton"
+                },
+                "stripConfig": {
+                    "cardSubType": "card-portrait-lib"
+                }
+            },
+            "loader": true,
+            "loaderConfig": {
+                "cardSubType": "card-karma-program-lib-skeleton"
+            },
+            "tabs": [],
+            "filters": [],
+            "request": {
+                "apiUrl": "/apis/proxies/v8/playList/v2/search",
+                "playlistSearch": {
+                    "request": {
+                      "filterCriteriaMap": {
+                          "type":"program"
+                      },
+                      "pageNumber": 0,
+                      "pageSize": 20,
+                      "orderBy": "createdOn",
+                      "orderDirection": "ASC",
+                      "facets": [
+                          "category",
+                          "orgId"
+                      ]
+                  }
+
+                }
+            }
+        }
+      ]
+    },
+    {
+      "order": 4,
       "strips": [
         {
           "active": true,
@@ -1364,7 +1430,7 @@
       ]
     },
     {
-      "order": 4,
+      "order": 5,
       "strips": [
         {
           "active": true,
@@ -1469,7 +1535,7 @@
       ]
     },
     {
-      "order": 5,
+      "order": 6,
       "strips": [
         {
           "active": true,
@@ -1574,7 +1640,7 @@
       ]
     },
     {
-      "order": 6,
+      "order": 7,
       "strips": [
         {
           "active": true,
@@ -1632,7 +1698,7 @@
       ]
     },
     {
-      "order": 7,
+      "order": 8,
       "strips": [
         {
           "active": true,
@@ -1729,7 +1795,7 @@
       ]
     },
     {
-      "order": 8,
+      "order": 9,
       "strips": [
         {
           "active": true,
@@ -2151,71 +2217,6 @@
     }
   ],
   "newHomeStrip": [
-    {
-      "order": 1,
-      "strips": [
-        {
-            "active": true,
-            "key": "karmaProgram",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Karma Programs",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "Karma Programs",
-            "stripConfig": {
-                "cardSubType": "card-karma-program-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/learn/karma-programs/all-programs",
-                "viewMoreText": "Show all",
-                "queryParams": {
-                    "key": ""
-                },
-                "loaderConfig": {
-                    "cardSubType": "card-portrait-lib-skeleton"
-                },
-                "stripConfig": {
-                    "cardSubType": "card-portrait-lib"
-                }
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-karma-program-lib-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "playlistSearch": {
-                    "request": {
-                      "filterCriteriaMap": {
-                          "type":"program"
-                      },
-                      "pageNumber": 0,
-                      "pageSize": 20,
-                      "orderBy": "createdOn",
-                      "orderDirection": "ASC",
-                      "facets": [
-                          "category",
-                          "orgId"
-                      ]
-                  }
-
-                }
-            }
-        }
-      ]
-    }
   ],
   "enableLazyLoading": true
 }

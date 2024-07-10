@@ -164,7 +164,7 @@
                           "orgdetails": "orgName,email",
                           "licenseDetails": "name,description,url",
                           "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,avgRating,license,programDuration",
-                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates"
+                          "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates&retiredCoursesEnabled=true"
                         }
                       }
                     }
@@ -960,11 +960,11 @@
             "key": "continueLearning"
           },
           "loaderConfig": {
-            "cardSubType": "card-progress-portrait-lib-skeleton"
-          },
-          "stripConfig": {
-            "cardSubType": "card-progress-portrait-lib"
-          }
+              "cardSubType": "card-portrait-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait"
+            }
         },
         "tabs": [
           {
@@ -2519,10 +2519,10 @@
               "key": "continueLearning"
             },
             "loaderConfig": {
-              "cardSubType": "card-progress-portrait-lib-skeleton"
+              "cardSubType": "card-portrait-skeleton"
             },
             "stripConfig": {
-              "cardSubType": "card-progress-portrait-lib"
+              "cardSubType": "card-portrait"
             }
           },
           "tabs": [
@@ -2605,61 +2605,7 @@
             "cardSubType": "card-portrait-lib-skeleton"
           },
           "tabs": [
-            {
 
-              "label": "Trending across Departments",
-              "value": "trendingAcrossDepartment",
-              "pillsData": [
-                {
-                  "label": "Courses",
-                  "value": "courses",
-                  "computeDataOnClick": false,
-                  "computeDataOnClickKey": "",
-                  "requestRequired": true,
-                  "showTabDataCount": false,
-                  "maxWidgets": 12,
-                  "selected": false,
-                  "nodataMsg": "You will find trending courses here.",
-                  "request": {
-                    "trendingSearch": {
-                      "request": {
-                        "filters": {
-                          "contextType": [
-                            "courses"
-                          ],
-                          "organisation": "across"
-                        },
-                        "limit": 12
-                      }
-                    }
-                  }
-                },
-                {
-                  "label": "Programs",
-                  "value": "programs",
-                  "computeDataOnClick": false,
-                  "computeDataOnClickKey": "",
-                  "requestRequired": true,
-                  "showTabDataCount": false,
-                  "maxWidgets": 12,
-                  "selected": false,
-                  "nodataMsg": "You will find trending programs here.",
-                  "request": {
-                    "trendingSearch": {
-                      "request": {
-                        "filters": {
-                          "contextType": [
-                            "programs"
-                          ],
-                          "organisation": "across"
-                        },
-                        "limit": 12
-                      }
-                    }
-                  }
-                }
-              ]
-            },
             {
 
               "label": "Trending in your Department",
@@ -2707,6 +2653,61 @@
                             "programs"
                           ],
                           "organisation": "<orgID>"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+
+              "label": "Trending across Departments",
+              "value": "trendingAcrossDepartment",
+              "pillsData": [
+                {
+                  "label": "Courses",
+                  "value": "courses",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending courses here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "courses"
+                          ],
+                          "organisation": "across"
+                        },
+                        "limit": 12
+                      }
+                    }
+                  }
+                },
+                {
+                  "label": "Programs",
+                  "value": "programs",
+                  "computeDataOnClick": false,
+                  "computeDataOnClickKey": "",
+                  "requestRequired": true,
+                  "showTabDataCount": false,
+                  "maxWidgets": 12,
+                  "selected": false,
+                  "nodataMsg": "You will find trending programs here.",
+                  "request": {
+                    "trendingSearch": {
+                      "request": {
+                        "filters": {
+                          "contextType": [
+                            "programs"
+                          ],
+                          "organisation": "across"
                         },
                         "limit": 12
                       }
@@ -2918,7 +2919,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "mdoChannel",
             "logo": "school",
             "disableTranslate": true,
             "title": "MDO Channels",
@@ -2933,7 +2934,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "MDO Channel",
             "stripConfig": {
                 "cardSubType": "card-mdo-home-lib"
             },
@@ -2943,7 +2944,7 @@
             },
             "loader": true,
             "loaderConfig": {
-                "cardSubType": "card-mdo-home-skeleton"
+                "cardSubType": "card-mdo-home-lib-skeleton"
             },
             "tabs": [],
             "filters": [],
@@ -2963,7 +2964,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "karmaProgram",
             "logo": "school",
             "disableTranslate": true,
             "title": "Karma Programs",
@@ -2978,7 +2979,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "Karma Programs",
             "stripConfig": {
                 "cardSubType": "card-karma-program-lib"
             },
@@ -3030,7 +3031,7 @@
       "strips": [
         {
             "active": true,
-            "key": "topContents",
+            "key": "providers",
             "logo": "school",
             "disableTranslate": true,
             "title": "Providers",
@@ -3045,7 +3046,7 @@
                 "showNavsSpacing": true
             },
             "stripBackground": "",
-            "titleDescription": "Recently Added",
+            "titleDescription": "Providers list",
             "stripConfig": {
                 "cardSubType": "card-providers-lib"
             },
@@ -3069,21 +3070,9 @@
             "tabs": [],
             "filters": [],
             "request": {
-                "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "playlistSearch": {
-                    "request": {
-                      "filterCriteriaMap": {
-                          "type":"program"
-                      },
-                      "pageNumber": 0,
-                      "pageSize": 20,
-                      "orderBy": "createdOn",
-                      "orderDirection": "ASC",
-                      "facets": [
-                          "category",
-                          "orgId"
-                      ]
-                  }
+                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
+                "playlistRead": {
+                   "type": "dummy"
  
                 }
             }
@@ -3111,12 +3100,12 @@
           },
           "loader": true,
           "loaderConfig": {
-            "cardSubType": "card-standard-skeleton"
+            "cardSubType": "card-portrait-lib-skeleton"
           },
           "stripBackground": "",
           "titleDescription": "Blended Program",
           "stripConfig": {
-            "cardSubType": "standard"
+            "cardSubType": "card-portrait-lib"
           },
           "viewMoreUrl": {
             "path": "/app/seeAll",

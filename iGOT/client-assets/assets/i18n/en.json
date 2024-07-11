@@ -162,7 +162,9 @@
         "identifyYourCompetency": "Identify your competency requirements, and competency gaps.",
         "comingSoon": "Coming soon",
         "career": "Career",
-        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise."
+        "exploreOpportunities": "Explore career opportunities across the country and signal your expertise.",
+        "discoverMentors": "Discover Mentors",
+        "discoverMentorsTagline": "Connect with mentors who will guide your learning journey"
     },
     "footer": {
         "hubs": "Hubs",
@@ -2193,7 +2195,8 @@
         "general": "General",
         "obc": "OBC",
         "sc": "SC",
-        "st": "ST"
+        "st": "ST",
+        "viewMentorProfile": "View Mentor Profile"
     },
     "mobileApp": {}
 }

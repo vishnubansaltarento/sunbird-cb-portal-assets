@@ -187,6 +187,23 @@
                     "mdo_admin",
                     "mdo_leader"
                   ]
+                },
+                {
+                  "menuCategory": "ODCS mapping",
+                  "submenu": false,
+                  "key": "odcs-mapping-section",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                    "enabled": false,
+                    "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/odcs-mapping",
+                  "requiredRoles": [
+                    "mdo_admin",
+                    "mdo_leader"
+                  ]
                 }
               ],
             "menus": [

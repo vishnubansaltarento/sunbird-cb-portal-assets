@@ -2374,7 +2374,7 @@
           "key": "scheduledAssessment",
           "logo": "school",
           "disableTranslate": true,
-          "title": "Scheduled Assessments",
+          "title": "Scheduled Assessment",
           "stripTitleLink": {
             "link": "",
             "icon": ""
@@ -2386,7 +2386,7 @@
             "showNavsSpacing": true
           },
           "stripBackground": "",
-          "titleDescription": "Scheduled Assessments",
+          "titleDescription": "Scheduled Assessment",
           "stripConfig": {
             "cardSubType": "card-scheduled-assessment"
           },

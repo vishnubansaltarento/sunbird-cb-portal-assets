@@ -84,7 +84,8 @@
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
         "recentlyAdded": "Recently added",
-        "forYou": "For you"
+        "forYou": "For you",
+        "marketplace": "Market place"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -497,7 +498,8 @@
         "mostTrending": "Most trending",
         "selfLearning": "Self learning",
         "completedCourse": "You completed this course on",
-        "provider": "Provider"
+        "provider": "Provider",
+        "objectives": "Objectives"
     },
     "ratingsummary": {
         "ratings": "ratings",

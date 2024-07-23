@@ -1,15 +1,19 @@
 {
     "mainHeading": "Org » Designation » Theme » Sub-Theme  Framework(ODCS)",
     "topsection": {
-        "heading": "SPV Help Center: Video Guides and Tips",
+        "heading": "MDO Help Center: Video Guides and Tips",
         "steps": [
             {
                 "index": 1,
-                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit orci in ultricies aliquam. Maecenas tempus fermentum mi, at laoreet elit ultricies eget."
+                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organization's needs."
             },
             {
-                "index": 1,
-                "title": "Lorem 2ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit orci in ultricies aliquam. Maecenas tempus fermentum mi, at laoreet elit ultricies eget."
+                "index": 2,
+                "title": "You can select from a broader pool of designations available on the iGOT master platform."
+            },
+            {
+                "index": 3,
+                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organization."
             }
         ],
         "guideVideo": {

@@ -1792,7 +1792,15 @@
         "last6Months": "Last 6 months",
         "lastYear": "Last year",
         "invite-onlyProgram": "Invite only Program",
-        "invite-onlyAssessment": "Invite only Assessment"
+        "invite-onlyAssessment": "Invite only Assessment",
+        "notStarted": "Not Started",
+        "inProgress": "In Progress",
+        "last3Month": "Last 3 months",
+        "last6Month": "Last 6 months",
+        "completed": "Completed",
+        "behavioural": "Behavioural",
+        "domain": "Domain",
+        "functional": "Functional"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

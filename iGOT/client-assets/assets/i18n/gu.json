@@ -1697,7 +1697,15 @@
     "lastMonth": "ગત મહિને",
     "last3Months": "છેલ્લા 3 મહિના",
     "last6Months": "છેલ્લા 6 મહિના",
-    "lastYear": "ગયા વર્ષે"
+    "lastYear": "ગયા વર્ષે",
+    "notStarted": "શરૂ થયું નથી",
+    "inProgress": "પ્રગતિમાં છે",
+    "last3Month": "છેલ્લા 3 મહિના",
+    "last6Month": "છેલ્લા 6 મહિના",
+    "completed": "પૂર્ણ થયું",
+    "behavioural": "વર્તણૂક",
+    "functional": "કાર્યાત્મક",
+    "domain": "ડોમેન"
   },
   "utilslogout": {
     "logoutNow": "હમણાં લૉગઆઉટ કરો",

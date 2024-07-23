@@ -171,21 +171,33 @@
                   ]
                 },
                 {
-                  "menuCategory": "Designation",
-                  "submenu": false,
-                  "key": "designation-section",
-                  "fragment": false,
-                  "render": true,
-                  "badges": {
-                    "enabled": false,
-                    "uri": ""
-                  },
-                  "enabled": true,
-                  "routerLink": "/app/home/org-designations",
+                  "menuCategory": "My Designation Master",
+                  "submenu": true,
                   "requiredRoles": [
                     "admin",
                     "mdo_admin",
                     "mdo_leader"
+                  ],
+
+                  "subMenu": [
+                    {
+                      "name": "Manage Designations",
+                      "key": "mdDesignations",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/org-designations",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    }
+
                   ]
                 },
                 {

@@ -150,6 +150,51 @@
                     "enableThreeDot":true
                 }
             ]
+        },
+
+        {
+            "frameworkId": "kcmcopytwo_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)",
+                   "createBtnEnabled": false,
+                    "iconEnabled": false,
+                     "categoryName": "Competency Theme",
+                     "labelName":"Competency",
+                     "enableAdd":true,
+                     "enableView":false,
+                     "enabaleEdit":false
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "settings",
+                    "color": "#F57E3B",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "categoryName": "Competency Sub Theme",
+                     "labelName":"Competency",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "#743CA5",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "categoryName": "Competency Sub Theme",
+                    "labelName":"Competency",
+                    "enableAdd":false,
+                    "enableView":true,
+                    "enabaleEdit":true
+                }
+            ]
         }
     ]
 }

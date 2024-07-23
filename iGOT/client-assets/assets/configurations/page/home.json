@@ -845,34 +845,33 @@
       ]
     }
   },
-  
-  "assessmentData" : [
+  "assessmentData": [
     {
-    "strips": [
-      {
+      "strips": [
+        {
           "active": true,
           "key": "scheduledAssessment",
           "logo": "school",
           "disableTranslate": true,
-          "title": "Scheduled Assessment",
+          "title": "Scheduled Assessments",
           "stripTitleLink": {
-              "link": "",
-              "icon": ""
+            "link": "",
+            "icon": ""
           },
           "sliderConfig": {
-              "showNavs": true,
-              "showDots": true,
-              "maxWidgets": 5,
-              "showNavsSpacing": true
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 5,
+            "showNavsSpacing": true
           },
           "stripBackground": "",
-          "titleDescription": "Scheduled Assessment",
+          "titleDescription": "Scheduled Assessments",
           "stripConfig": {
-              "cardSubType": "card-scheduled-assessment"
+            "cardSubType": "card-scheduled-assessment"
           },
           "loader": true,
           "loaderConfig": {
-              "cardSubType": "card-scheduled-assessment-skeleton"
+            "cardSubType": "card-scheduled-assessment-skeleton"
           },
           "tabs": [],
           "filters": [],
@@ -922,87 +921,86 @@
               }
             }
           }
-      }
-    ]
-  },
-  {
-    "order": 2,
-    "strips": [
-      {
-        "active": true,
-        "key": "continueLearning",
-        "logo": "school",
-        "title": "My Learning",
-        "customeClass": "",
-        "stripTitleLink": {
-          "link": "",
-          "icon": ""
-        },
-        "loader": true,
-        "loaderConfig": {
-          "cardSubType": "card-progress-portrait-lib-skeleton"
-        },
-        "sliderConfig": {
-          "showNavs": true,
-          "showDots": false,
-          "maxWidgets": 12,
-          "showNavsSpacing": true
-        },
-        "stripBackground": "",
-        "titleDescription": "My Learning",
-        "stripConfig": {
-          "cardSubType": "card-progress-portrait-lib"
-        },
-        "viewMoreUrl": {
-          "path": "/app/seeAll",
-          "viewMoreText": "Show all",
-          "queryParams": {
-            "key": "continueLearning"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "strips": [
+        {
+          "active": true,
+          "key": "continueLearning",
+          "logo": "school",
+          "title": "My Learning",
+          "customeClass": "",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
           },
+          "loader": true,
           "loaderConfig": {
+            "cardSubType": "card-progress-portrait-lib-skeleton"
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": false,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "My Learning",
+          "stripConfig": {
+            "cardSubType": "card-progress-portrait-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "continueLearning"
+            },
+            "loaderConfig": {
               "cardSubType": "card-portrait-skeleton"
             },
             "stripConfig": {
               "cardSubType": "card-portrait"
             }
-        },
-        "tabs": [
-          {
-            "label": "In Progress",
-            "value": "inprogress",
-            "computeDataOnClick": false,
-            "showTabDataCount": true,
-            "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You don’t have any new course in progress."
           },
-          {
-            "label": "Completed",
-            "value": "completed",
-            "computeDataOnClick": false,
-            "showTabDataCount": true,
-            "requestRequired": false,
-            "maxWidgets": 12,
-            "nodataMsg": "You will find your Completed Courses/Program here."
-          }
-        ],
-        "filters": [],
-        "request": {
-          "enrollmentList": {
-            "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
-            "queryParams": {
-              "orgdetails": "orgName,email",
-              "licenseDetails": "name,description,url",
-              "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
-              "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates&retiredCoursesEnabled=true"
+          "tabs": [
+            {
+              "label": "In Progress",
+              "value": "inprogress",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You don’t have any new course in progress."
+            },
+            {
+              "label": "Completed",
+              "value": "completed",
+              "computeDataOnClick": false,
+              "showTabDataCount": true,
+              "requestRequired": false,
+              "maxWidgets": 12,
+              "nodataMsg": "You will find your Completed Courses/Program here."
+            }
+          ],
+          "filters": [],
+          "request": {
+            "enrollmentList": {
+              "path": "/apis/proxies/v8/learner/course/v1/user/enrollment/list/<id>",
+              "queryParams": {
+                "orgdetails": "orgName,email",
+                "licenseDetails": "name,description,url",
+                "fields": "contentType,name,channel,mimeType,appIcon,resourceType,identifier,trackable,objectType,organisation,pkgVersion,version,trackable,primaryCategory,posterImage,duration,creatorLogo,license,programDuration,avgRating,additionalTags",
+                "batchDetails": "name,endDate,startDate,status,enrollmentType,createdBy,certificates&retiredCoursesEnabled=true"
+              }
             }
           }
         }
-      }
-    ]
-  }
-],
-  
+      ]
+    }
+  ],
   "weeklyClaps": {
     "enableCard": true,
     "weekList": [
@@ -1032,70 +1030,70 @@
       }
     ]
   },
-  "learnerAdvisory":  [
+  "learnerAdvisory": [
     {
       "id": 1,
-      "content" : "Watch content at a speed that ensures understanding and retention.",
+      "content": "Watch content at a speed that ensures understanding and retention.",
       "contentImg": "assets/icons/learner-advisory/watch-speed.png"
     },
     {
       "id": 2,
-      "content" : "Avoid fast-forwarding and speeding through.",
+      "content": "Avoid fast-forwarding and speeding through.",
       "contentImg": "assets/icons/learner-advisory/avoid-fast-forwarding.png"
     },
     {
       "id": 3,
-      "content" : "Follow the sequence of content as presented.",
+      "content": "Follow the sequence of content as presented.",
       "contentImg": "assets/icons/learner-advisory/follow-sequence.png"
     },
     {
       "id": 4,
-      "content" : "Take one course at a time instead of consuming multiple courses across multiple devices.",
+      "content": "Take one course at a time instead of consuming multiple courses across multiple devices.",
       "contentImg": "assets/icons/learner-advisory/one-course-at-a-time.png"
     },
     {
       "id": 5,
-      "content" : "Participate in discussions at the Discussion Forum regularly.",
+      "content": "Participate in discussions at the Discussion Forum regularly.",
       "contentImg": "assets/icons/learner-advisory/participate-discussions.png"
     },
     {
       "id": 6,
-      "content" : "Don't rush through assessments without understanding, reflecting.",
+      "content": "Don't rush through assessments without understanding, reflecting.",
       "contentImg": "assets/icons/learner-advisory/dont-rush-assessments.png"
     },
     {
       "id": 7,
-      "content" : "Use supplementary resources and readings.",
+      "content": "Use supplementary resources and readings.",
       "contentImg": "assets/icons/learner-advisory/use-supplementary-resources.png"
     },
     {
       "id": 8,
-      "content" : "Minimize distractions during study sessions.",
+      "content": "Minimize distractions during study sessions.",
       "contentImg": "assets/icons/learner-advisory/minimize-distractions.png"
     },
     {
       "id": 9,
-      "content" : "Seek clarification and assistance when needed.",
+      "content": "Seek clarification and assistance when needed.",
       "contentImg": "assets/icons/learner-advisory/seek-clarification.png"
     },
     {
       "id": 10,
-      "content" : "Allocate dedicated time for learning activities.",
+      "content": "Allocate dedicated time for learning activities.",
       "contentImg": "assets/icons/learner-advisory/allocate-time.png"
     },
     {
       "id": 11,
-      "content" : "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+      "content": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
       "contentImg": "assets/icons/learner-advisory/use-gyaan-karmayogi.png"
     },
     {
       "id": 12,
-      "content" : "Update your profile regularly if required.",
+      "content": "Update your profile regularly if required.",
       "contentImg": "assets/icons/learner-advisory/update-profile.png"
     },
     {
       "id": 13,
-      "content" : "Follow suggestions at My iGOT.",
+      "content": "Follow suggestions at My iGOT.",
       "contentImg": "assets/icons/learner-advisory/follow-suggestions.png"
     }
   ],
@@ -1313,67 +1311,66 @@
     },
     {
       "order": 3,
-      "loadStripType":"package",
+      "loadStripType": "package",
       "strips": [
         {
-            "active": true,
-            "key": "karmaProgram",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Karma Programs",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
+          "active": true,
+          "key": "karmaProgram",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "Karma Programs",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "Karma Programs",
+          "stripConfig": {
+            "cardSubType": "card-karma-program-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/learn/karma-programs/all-programs",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": ""
             },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "Karma Programs",
-            "stripConfig": {
-                "cardSubType": "card-karma-program-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/learn/karma-programs/all-programs",
-                "viewMoreText": "Show all",
-                "queryParams": {
-                    "key": ""
-                },
-                "loaderConfig": {
-                    "cardSubType": "card-portrait-lib-skeleton"
-                },
-                "stripConfig": {
-                    "cardSubType": "card-portrait-lib"
-                }
-            },
-            "loader": true,
             "loaderConfig": {
-                "cardSubType": "card-karma-program-lib-skeleton"
+              "cardSubType": "card-portrait-lib-skeleton"
             },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "playlistSearch": {
-                    "request": {
-                      "filterCriteriaMap": {
-                          "type":"program"
-                      },
-                      "pageNumber": 0,
-                      "pageSize": 20,
-                      "orderBy": "createdOn",
-                      "orderDirection": "ASC",
-                      "facets": [
-                          "category",
-                          "orgId"
-                      ]
-                  }
-
-                }
+            "stripConfig": {
+              "cardSubType": "card-portrait-lib"
             }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-karma-program-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/playList/v2/search",
+            "playlistSearch": {
+              "request": {
+                "filterCriteriaMap": {
+                  "type": "program"
+                },
+                "pageNumber": 0,
+                "pageSize": 20,
+                "orderBy": "createdOn",
+                "orderDirection": "ASC",
+                "facets": [
+                  "category",
+                  "orgId"
+                ]
+              }
+            }
+          }
         }
       ]
     },
@@ -2268,7 +2265,7 @@
         "f": "{}"
       },
       "title": ""
-    },    
+    },
     {
       "active": true,
       "banners": {
@@ -2444,89 +2441,89 @@
   "newHomeStrip": [
     {
       "order": 1,
-      "stripType":"withOutPils",
-      "stripVisable":"mobile",
+      "stripType": "withOutPils",
+      "stripVisable": "mobile",
       "strips": [
         {
-            "active": true,
-            "key": "scheduledAssessment",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Scheduled Assessment",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 5,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "Scheduled Assessment",
-            "stripConfig": {
-                "cardSubType": "card-scheduled-assessment"
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-scheduled-assessment-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-              "searchV6": {
-                "request": {
-                  "filters": {
-                    "primaryCategory": [
-                      "Standalone Assessment"
-                    ],
-                    "courseCategory": "Invite-Only Assessment",
-                    "contentType": [
-                      "Course"
-                    ]
-                  },
-                  "query": "",
-                  "sort_by": {
-                    "lastUpdatedOn": "desc"
-                  },
-                  "fields": [
-                    "name",
-                    "appIcon",
-                    "instructions",
-                    "description",
-                    "purpose",
-                    "mimeType",
-                    "gradeLevel",
-                    "identifier",
-                    "medium",
-                    "pkgVersion",
-                    "board",
-                    "subject",
-                    "resourceType",
-                    "primaryCategory",
-                    "contentType",
-                    "channel",
-                    "organisation",
-                    "trackable",
-                    "license",
-                    "posterImage",
-                    "idealScreenSize",
-                    "learningMode",
-                    "creatorLogo",
-                    "duration",
-                    "avgRating"
+          "active": true,
+          "key": "scheduledAssessment",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "Scheduled Assessment",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 5,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "Scheduled Assessment",
+          "stripConfig": {
+            "cardSubType": "card-scheduled-assessment"
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-scheduled-assessment-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "searchV6": {
+              "request": {
+                "filters": {
+                  "primaryCategory": [
+                    "Standalone Assessment"
+                  ],
+                  "courseCategory": "Invite-Only Assessment",
+                  "contentType": [
+                    "Course"
                   ]
-                }
+                },
+                "query": "",
+                "sort_by": {
+                  "lastUpdatedOn": "desc"
+                },
+                "fields": [
+                  "name",
+                  "appIcon",
+                  "instructions",
+                  "description",
+                  "purpose",
+                  "mimeType",
+                  "gradeLevel",
+                  "identifier",
+                  "medium",
+                  "pkgVersion",
+                  "board",
+                  "subject",
+                  "resourceType",
+                  "primaryCategory",
+                  "contentType",
+                  "channel",
+                  "organisation",
+                  "trackable",
+                  "license",
+                  "posterImage",
+                  "idealScreenSize",
+                  "learningMode",
+                  "creatorLogo",
+                  "duration",
+                  "avgRating"
+                ]
               }
             }
+          }
         }
       ]
     },
     {
       "order": 1,
-      "stripType":"withPils",
-      "stripVisable":"responsive",
+      "stripType": "withPils",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
@@ -2568,7 +2565,7 @@
           },
           "tabs": [
             {
-              "label": "My iGOT Plans",
+              "label": "My iGOT",
               "value": "myIgotPlans",
               "pillsData": [
                 {
@@ -2625,8 +2622,8 @@
     },
     {
       "order": 2,
-      "stripType":"withOutPils",
-      "stripVisable":"mobile",
+      "stripType": "withOutPils",
+      "stripVisable": "mobile",
       "strips": [
         {
           "active": true,
@@ -2703,15 +2700,15 @@
     },
     {
       "order": 2,
-      "stripType":"withPils",
-      "stripVisable":"responsive",
+      "stripType": "withPils",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
           "key": "forYou",
           "logo": "school",
           "title": "For you",
-          "type":"forYou",
+          "type": "forYou",
           "disableTranslate": true,
           "stripTitleLink": {
             "link": "",
@@ -2746,9 +2743,7 @@
             "cardSubType": "card-portrait-lib-skeleton"
           },
           "tabs": [
-
             {
-
               "label": "Trending in your Department",
               "value": "trendingInDepartment",
               "pillsData": [
@@ -2803,7 +2798,6 @@
               ]
             },
             {
-
               "label": "Trending across Departments",
               "value": "trendingAcrossDepartment",
               "pillsData": [
@@ -2857,9 +2851,7 @@
                 }
               ]
             },
-
             {
-
               "label": "Recently Added",
               "value": "recentlyAdded",
               "pillsData": [
@@ -2979,254 +2971,246 @@
             }
           ],
           "filters": [],
-          "request":{
-
-          }
+          "request": {}
         }
       ]
     },
     {
       "order": 3,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
-            "active": true,
-            "key": "ciosContent",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Marketplace",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "CIOS DATA",
-            "stripConfig": {
-                "cardSubType": "card-portrait-ext-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/seeAll",
-            "viewMoreText": "Show all",
-            "queryParams": {
-              "key": "ciosContent"
+          "active": true,
+          "key": "ciosContent",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "Marketplace",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "CIOS DATA",
+          "stripConfig": {
+            "cardSubType": "card-portrait-ext-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/learn/mdo-channels/all-channels",
+            "viewMoreText": "Show all"
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-ext-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
+            "ciosContent": {
+              "filterCriteriaMap": {},
+              "requestedFields": [
+                "topic",
+                "name",
+                "appIcon",
+                "duration",
+                "externalId",
+                "objectives",
+                "description",
+                "redirectUrl",
+                "contentId",
+                "createdOn",
+                "lastUpdatedOn",
+                "isActive"
+              ],
+              "pageNumber": 0,
+              "pageSize": 10,
+              "facets": [
+                "topic"
+              ],
+              "orderBy": "createdOn",
+              "orderDirection": "desc",
+              "searchString": ""
             }
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-portrait-ext-lib-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
-                "ciosContent": {
-                  "filterCriteriaMap": {
-                  },
-                  "requestedFields": [
-                      "topic",
-                      "name",
-                      "appIcon",
-                      "duration",
-                      "externalId",
-                      "objectives",
-                      "description",
-                      "redirectUrl",
-                      "contentId",
-                      "createdOn",
-                      "lastUpdatedOn",
-                      "isActive"
-                  ],
-                  "pageNumber": 0,
-                  "pageSize": 10,
-                  "facets":[
-                      "topic"
-                  ],
-                  "orderBy": "createdOn",
-                  "orderDirection": "desc",
-                  "searchString": ""
-              }
-            }
+          }
         }
       ]
     },
     {
       "order": 4,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
-            "active": true,
-            "key": "mdoChannel",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "MDO Channels",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "MDO Channel",
-            "stripConfig": {
-                "cardSubType": "card-mdo-home-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/learn/mdo-channels/all-channels",
-                "viewMoreText": "Show all"
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-mdo-home-lib-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/orgBookmark/v1/read/<bookmarkId>",
-                "bookmarkRead": {
-                    "bookmarkId":"5309e5a0-1f35-11ef-b71b-7ba7231baeba"
-                }
+          "active": true,
+          "key": "mdoChannel",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "MDO Channels",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "MDO Channel",
+          "stripConfig": {
+            "cardSubType": "card-mdo-home-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/learn/mdo-channels/all-channels",
+            "viewMoreText": "Show all"
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-mdo-home-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/orgBookmark/v1/read/<bookmarkId>",
+            "bookmarkRead": {
+              "bookmarkId": "5309e5a0-1f35-11ef-b71b-7ba7231baeba"
             }
+          }
         }
       ]
-    }, 
+    },
     {
       "order": 5,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
-            "active": true,
-            "key": "karmaProgram",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Karma Programs",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
+          "active": true,
+          "key": "karmaProgram",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "Karma Programs",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "Karma Programs",
+          "stripConfig": {
+            "cardSubType": "card-karma-program-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/learn/karma-programs/all-programs",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": ""
             },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "Karma Programs",
-            "stripConfig": {
-                "cardSubType": "card-karma-program-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/learn/karma-programs/all-programs",
-                "viewMoreText": "Show all",
-                "queryParams": {
-                    "key": ""
-                },
-                "loaderConfig": {
-                    "cardSubType": "card-portrait-lib-skeleton"
-                },
-                "stripConfig": {
-                    "cardSubType": "card-portrait-lib"
-                }
-            },
-            "loader": true,
             "loaderConfig": {
-                "cardSubType": "card-karma-program-lib-skeleton"
+              "cardSubType": "card-portrait-lib-skeleton"
             },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/playList/v2/search",
-                "playlistSearch": {
-                    "request": {
-                      "filterCriteriaMap": {
-                          "type":"program"
-                      },
-                      "pageNumber": 0,
-                      "pageSize": 20,
-                      "orderBy": "createdOn",
-                      "orderDirection": "ASC",
-                      "facets": [
-                          "category",
-                          "orgId"
-                      ]
-                  }
-
-                }
+            "stripConfig": {
+              "cardSubType": "card-portrait-lib"
             }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-karma-program-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/playList/v2/search",
+            "playlistSearch": {
+              "request": {
+                "filterCriteriaMap": {
+                  "type": "program"
+                },
+                "pageNumber": 0,
+                "pageSize": 20,
+                "orderBy": "createdOn",
+                "orderDirection": "ASC",
+                "facets": [
+                  "category",
+                  "orgId"
+                ]
+              }
+            }
+          }
         }
       ]
     },
     {
       "order": 6,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
-            "active": true,
-            "key": "providers",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Providers",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
+          "active": true,
+          "key": "providers",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "Providers",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "Providers list",
+          "stripConfig": {
+            "cardSubType": "card-providers-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/learn/providers/all-providers",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": ""
             },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "Providers list",
-            "stripConfig": {
-                "cardSubType": "card-providers-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/learn/providers/all-providers",
-                "viewMoreText": "Show all",
-                "queryParams": {
-                    "key": ""
-                },
-                "loaderConfig": {
-                    "cardSubType": "card-portrait-lib-skeleton"
-                },
-                "stripConfig": {
-                    "cardSubType": "card-portrait-lib"
-                }
-            },
-            "loader": true,
             "loaderConfig": {
-                "cardSubType": "card-providers-lib-skeleton"
+              "cardSubType": "card-portrait-lib-skeleton"
             },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
-                "playlistRead": {
-                   "type": "dummy"
- 
-                }
+            "stripConfig": {
+              "cardSubType": "card-portrait-lib"
             }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-providers-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
+            "playlistRead": {
+              "type": "dummy"
+            }
+          }
         }
       ]
     },
     {
       "order": 7,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
@@ -3324,8 +3308,8 @@
     },
     {
       "order": 8,
-      "stripType":"withOutPils",
-      "stripVisable":"responsive",
+      "stripType": "withOutPils",
+      "stripVisable": "responsive",
       "strips": [
         {
           "active": true,
@@ -3385,7 +3369,7 @@
     }
   ],
   "enableLazyLoading": true,
-  "rightSideStrip":[
+  "rightSideStrip": [
     {
       "order": 3,
       "strips": [
@@ -3394,7 +3378,7 @@
           "key": "forYou",
           "logo": "school",
           "title": "For you",
-          "type":"forYou",
+          "type": "forYou",
           "disableTranslate": true,
           "stripTitleLink": {
             "link": "",
@@ -3429,7 +3413,6 @@
           },
           "tabs": [
             {
-
               "label": "Trending across Departments",
               "value": "trendingAcrossDepartment",
               "pillsData": [
@@ -3484,7 +3467,6 @@
               ]
             },
             {
-
               "label": "Trending in your Department",
               "value": "trendingInDepartment",
               "pillsData": [
@@ -3538,9 +3520,7 @@
                 }
               ]
             },
-
             {
-
               "label": "Recently Added",
               "value": "recentlyAdded",
               "pillsData": [
@@ -3660,9 +3640,7 @@
             }
           ],
           "filters": [],
-          "request":{
-
-          }
+          "request": {}
         }
       ]
     },

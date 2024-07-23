@@ -148,7 +148,9 @@
     "identifyYourCompetency": "તમારી યોગ્યતા જરૂરિયાતો અને યોગ્યતા અંતરાયોને ઓળખો.",
     "comingSoon": "ટૂંક સમયમાં આવી રહ્યું છે",
     "career": "કારકિર્દી",
-    "exploreOpportunities": "દેશભરમાં કારકિર્દીની તકોનું અન્વેષણ કરો અને તમારી કુશળતાનો સંકેત આપો."
+    "exploreOpportunities": "દેશભરમાં કારકિર્દીની તકોનું અન્વેષણ કરો અને તમારી કુશળતાનો સંકેત આપો.",
+    "discoverMentors": "માર્ગદર્શકો શોધો",
+    "discoverMentorsTagline": "માર્ગદર્શકો સાથે જોડાઓ જે તમારી શીખવાની યાત્રાનું માર્ગદર્શન કરશે"
   },
   "footer": {
     "hubs": "હબ્સ",
@@ -1695,7 +1697,15 @@
     "lastMonth": "ગત મહિને",
     "last3Months": "છેલ્લા 3 મહિના",
     "last6Months": "છેલ્લા 6 મહિના",
-    "lastYear": "ગયા વર્ષે"
+    "lastYear": "ગયા વર્ષે",
+    "notStarted": "શરૂ થયું નથી",
+    "inProgress": "પ્રગતિમાં છે",
+    "last3Month": "છેલ્લા 3 મહિના",
+    "last6Month": "છેલ્લા 6 મહિના",
+    "completed": "પૂર્ણ થયું",
+    "behavioural": "વર્તણૂક",
+    "functional": "કાર્યાત્મક",
+    "domain": "ડોમેન"
   },
   "utilslogout": {
     "logoutNow": "હમણાં લૉગઆઉટ કરો",
@@ -2015,7 +2025,8 @@
     "insightsDataFail": "આંતરદૃષ્ટિ માહિતી મેળવવામાં અસમર્થ, મહેરબાની કરીને પછીથી ફરી પ્રયાસ કરો!",
     "discussionsDataFail": "ચર્ચાની માહિતી મેળવવામાં અસમર્થ, મહેરબાની કરીને પછીથી ફરી પ્રયાસ કરો!",
     "hideCredentials": "મારી ઓળખ છુપાવો",
-    "viewCredentials": "મારી ઓળખપત્રો જુઓ"
+    "viewCredentials": "મારી ઓળખપત્રો જુઓ",
+    "viewMentorProfile": "માર્ગદર્શક પ્રોફાઇલ જુઓ"
   },
   "mobileApp": {}
 }

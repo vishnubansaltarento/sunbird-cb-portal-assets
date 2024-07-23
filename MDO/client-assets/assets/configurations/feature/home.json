@@ -169,6 +169,53 @@
                     }
 
                   ]
+                },
+                {
+                  "menuCategory": "My Designation Master",
+                  "submenu": true,
+                  "requiredRoles": [
+                    "admin",
+                    "mdo_admin",
+                    "mdo_leader"
+                  ],
+
+                  "subMenu": [
+                    {
+                      "name": "Manage Designations",
+                      "key": "mdDesignations",
+                      "fragment": false,
+                      "render": true,
+                      "badges": {
+                        "enabled": false,
+                        "uri": ""
+                      },
+                      "enabled": true,
+                      "routerLink": "/app/home/org-designations",
+                      "requiredRoles": [
+                        "admin",
+                        "mdo_admin",
+                        "mdo_leader"
+                      ]
+                    }
+
+                  ]
+                },
+                {
+                  "menuCategory": "ODCS mapping",
+                  "submenu": false,
+                  "key": "odcs-mapping-section",
+                  "fragment": false,
+                  "render": true,
+                  "badges": {
+                    "enabled": false,
+                    "uri": ""
+                  },
+                  "enabled": true,
+                  "routerLink": "/app/home/odcs-mapping",
+                  "requiredRoles": [
+                    "mdo_admin",
+                    "mdo_leader"
+                  ]
                 }
               ],
             "menus": [

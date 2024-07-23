@@ -267,5 +267,72 @@
       "toolTipText": "completeTip"
     }
   ],
+  "learnerAdvisory":  [
+    {
+      "id": 1,
+      "content" : "Watch content at a speed that ensures understanding and retention.",
+      "contentImg": "assets/icons/learner-advisory/watch-speed.png"
+    },
+    {
+      "id": 2,
+      "content" : "Avoid fast-forwarding and speeding through.",
+      "contentImg": "assets/icons/learner-advisory/avoid-fast-forwarding.png"
+    },
+    {
+      "id": 3,
+      "content" : "Follow the sequence of content as presented.",
+      "contentImg": "assets/icons/learner-advisory/follow-sequence.png"
+    },
+    {
+      "id": 4,
+      "content" : "Take one course at a time instead of consuming multiple courses across multiple devices.",
+      "contentImg": "assets/icons/learner-advisory/one-course-at-a-time.png"
+    },
+    {
+      "id": 5,
+      "content" : "Participate in discussions at the Discussion Forum regularly.",
+      "contentImg": "assets/icons/learner-advisory/participate-discussions.png"
+    },
+    {
+      "id": 6,
+      "content" : "Don't rush through assessments without understanding, reflecting.",
+      "contentImg": "assets/icons/learner-advisory/dont-rush-assessments.png"
+    },
+    {
+      "id": 7,
+      "content" : "Use supplementary resources and readings.",
+      "contentImg": "assets/icons/learner-advisory/use-supplementary-resources.png"
+    },
+    {
+      "id": 8,
+      "content" : "Minimize distractions during study sessions.",
+      "contentImg": "assets/icons/learner-advisory/minimize-distractions.png"
+    },
+    {
+      "id": 9,
+      "content" : "Seek clarification and assistance when needed.",
+      "contentImg": "assets/icons/learner-advisory/seek-clarification.png"
+    },
+    {
+      "id": 10,
+      "content" : "Allocate dedicated time for learning activities.",
+      "contentImg": "assets/icons/learner-advisory/allocate-time.png"
+    },
+    {
+      "id": 11,
+      "content" : "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+      "contentImg": "assets/icons/learner-advisory/use-gyaan-karmayogi.png"
+    },
+    {
+      "id": 12,
+      "content" : "Update your profile regularly if required.",
+      "contentImg": "assets/icons/learner-advisory/update-profile.png"
+    },
+    {
+      "id": 13,
+      "content" : "Follow suggestions at My iGOT.",
+      "contentImg": "assets/icons/learner-advisory/follow-suggestions.png"
+    }
+  ],
   "ScormProgressThreshold": 40
 }

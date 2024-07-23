@@ -145,7 +145,9 @@
     "identifyYourCompetency": "अपनी कॉम्पीटेन्सी की आवश्यकताओं, और कॉम्पीटेन्सी में गैप को पहचानें",
     "comingSoon": "जल्द आ रहा है",
     "career": "करियर",
-    "exploreOpportunities": "देश-भर में करियर के अवसर खोजें और अपनी विशेषज्ञता बताएँ"
+    "exploreOpportunities": "देश-भर में करियर के अवसर खोजें और अपनी विशेषज्ञता बताएँ",
+    "discoverMentors": "संरक्षक खोजें",
+    "discoverMentorsTagline": "अपने सीखने की यात्रा का मार्गदर्शन करने वाले संरक्षक से जुड़ें"
   },
   "footer": {
     "hubs": "हब",
@@ -845,7 +847,7 @@
     "questionTagging": "Question Tagging hi",
     "viewAll": "सभी देखें",
     "collapse": "Collapse hi",
-    "all":"सभी",
+    "all": "सभी",
     "unattempted": "Unattempted"
   },
   "network": {
@@ -1744,7 +1746,15 @@
     "last6Months": "पिछले 6 महीने",
     "lastYear": "पिछले साल",
     "invite-onlyProgram": "केवल कार्यक्रम आमंत्रित करें",
-    "invite-onlyAssessment": "केवल आकलन आमंत्रित करें"
+    "invite-onlyAssessment": "केवल आकलन आमंत्रित करें",
+    "notStarted": "शुरू नहीं किया गया",
+    "inProgress": "प्रगति में",
+    "last3Month": "पिछले 3 महीने",
+    "last6Month": "पिछले 6 महीने",
+    "completed": "पूरा किया।",
+    "behavioural": "बिहेवियरल (व्यावहारिक)",
+    "functional": "फंक्शनल",
+    "domain": "डोमेन"
   },
   "utilslogout": {
     "logoutNow": "अभी लॉगआउट करें",
@@ -2241,7 +2251,8 @@
     "general": "सामान्य",
     "obc": "ओ.बी.सी.",
     "sc": "एससी",
-    "st": "एसटी"
+    "st": "एसटी",
+    "viewMentorProfile": "मेंटर प्रोफ़ाइल देखें"
   },
   "mobileApp": {}
 }

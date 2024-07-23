@@ -1061,6 +1061,12 @@
       }
     },
     {
+      "icon": "",
+      "image": "/assets/images/micro-sites/mdo_channel.svg",
+      "name": "MDO channels",
+      "route": "/app/learn/mdo-channels/all-channels"
+    },
+    {
       "icon": "video_library",
       "image": "",
       "name": "Karma programs",

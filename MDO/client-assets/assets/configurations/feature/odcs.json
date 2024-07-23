@@ -168,5 +168,64 @@
                 }
             ]
         }
+    ],
+    "defaultOdcsConfig":[
+        {
+            "frameworkId": "odctest_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "org",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Organisation",
+                     "enableAdd":false,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 2,
+                    "category": "designation",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Designation",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 3,
+                    "category": "competency",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "labelName":"Competency",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 4,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "labelName":"Sub Theme",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                }
+            ]
+        }
     ]
 }

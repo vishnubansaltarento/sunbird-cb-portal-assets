@@ -2048,22 +2048,9 @@
                 "ciosContent": {
                   "filterCriteriaMap": {
                   },
-                  "requestedFields": [
-                      "topic",
-                      "name",
-                      "appIcon",
-                      "duration",
-                      "externalId",
-                      "objectives",
-                      "description",
-                      "redirectUrl",
-                      "contentId",
-                      "createdOn",
-                      "lastUpdatedOn",
-                      "isActive"
-                  ],
+                  "requestedFields": [],
                   "pageNumber": 0,
-                  "pageSize": 10,
+                  "pageSize": 50,
                   "facets":[
                       "topic"
                   ],
@@ -3002,8 +2989,17 @@
             "cardSubType": "card-portrait-ext-lib"
           },
           "viewMoreUrl": {
-            "path": "/app/learn/mdo-channels/all-channels",
-            "viewMoreText": "Show all"
+            "path": "/app/seeAll",
+            "viewMoreText": "Show all",
+            "queryParams": {
+              "key": "ciosContent"
+            },
+            "loaderConfig": {
+              "cardSubType": "card-portrait-ext-lib-skeleton"
+            },
+            "stripConfig": {
+              "cardSubType": "card-portrait-ext-lib"
+            }
           },
           "loader": true,
           "loaderConfig": {
@@ -3015,20 +3011,7 @@
             "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
             "ciosContent": {
               "filterCriteriaMap": {},
-              "requestedFields": [
-                "topic",
-                "name",
-                "appIcon",
-                "duration",
-                "externalId",
-                "objectives",
-                "description",
-                "redirectUrl",
-                "contentId",
-                "createdOn",
-                "lastUpdatedOn",
-                "isActive"
-              ],
+              "requestedFields": [],
               "pageNumber": 0,
               "pageSize": 10,
               "facets": [

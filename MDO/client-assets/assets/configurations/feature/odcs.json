@@ -186,9 +186,9 @@
                     "iconEnabled": false,
                     "labelName":"Organisation",
                      "enableAdd":false,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                     "enableView":false,
+                     "enabaleEdit":false,
+                     "enableThreeDot":false
                 },
                 {
                     "index": 2,
@@ -199,8 +199,8 @@
                     "iconEnabled": false,
                     "labelName":"Designation",
                      "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
+                     "enableView":false,
+                     "enabaleEdit":false,
                      "enableThreeDot":true
                 },
                 {
@@ -221,7 +221,7 @@
                     "category": "subtheme",
                     "icon": "extension",
                     "color": "rgb(115, 115, 115)",
-                    "createBtnEnabled": true,
+                    "createBtnEnabled": false,
                     "iconEnabled": false,
                     "labelName":"Sub Theme",
                      "enableAdd":true,

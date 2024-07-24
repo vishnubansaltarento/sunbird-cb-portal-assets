@@ -5,7 +5,7 @@
         "steps": [
             {
                 "index": 1,
-                "title": "To add a theme, clicks on the area, then either clicks on the three dots to add the theme or use the Add button at the top of the theme column."
+                "title": "To add a theme, click on the area, then either click on the three dots to add the theme or use the Add button at the top of the theme column."
             },
             {
                 "index": 2,
@@ -247,3 +247,4 @@
         }
     ]
 }
+

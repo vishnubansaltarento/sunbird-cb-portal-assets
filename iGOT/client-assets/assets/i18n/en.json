@@ -84,7 +84,8 @@
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
         "recentlyAdded": "Recently added",
-        "forYou": "For you"
+        "forYou": "For you",
+        "marketplace": "Market place"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -127,15 +128,15 @@
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
     },
-    "learnerAdvisory":{
+    "learnerAdvisory": {
         "watchContent": "Watch content at a speed that ensures understanding and retention.",
-        "fastForwarding":"Avoid fast-forwarding and speeding through.",
-        "followSequence" :"Follow the sequence of content as presented.",
+        "fastForwarding": "Avoid fast-forwarding and speeding through.",
+        "followSequence": "Follow the sequence of content as presented.",
         "oneCourse": "Take one course at a time instead of consuming multiple courses across multiple devices.",
         "participateDiscussions": "Participate in discussions at the Discussion Forum regularly.",
         "dontRushAssessments": "Don't rush through assessments without understanding, reflecting.",
         "supplementaryResources": "Use supplementary resources and readings.",
-        "minimizeDistractions" : "Minimize distractions during study sessions.",
+        "minimizeDistractions": "Minimize distractions during study sessions.",
         "seekClarification": "Seek clarification and assistance when needed.",
         "allocateTime": "Allocate dedicated time for learning activities.",
         "useGyaanKarmayogi": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
@@ -202,7 +203,7 @@
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
         "moderatedCourses": "Moderated Contents",
-        "standaloneAssessment": "Standalone Assessment",
+        "standaloneAssessment": "Standalone Assessments",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
         "seeall": "See all",
@@ -269,7 +270,8 @@
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "Search"
+        "search": "Search",
+        "searchChannles": "Search Channels"
     },
     "providerallcbp": {
         "allCbps": "All Contents",
@@ -497,7 +499,8 @@
         "mostTrending": "Most trending",
         "selfLearning": "Self learning",
         "completedCourse": "You completed this course on",
-        "provider": "Provider"
+        "provider": "Provider",
+        "objectives": "Objectives"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -640,8 +643,8 @@
         "free": "Free",
         "view": "View",
         "cbpDeadLine": "CBP plan deadline",
-        "redirect":"Redirect",
-        "objectives":"Objectives"
+        "redirect": "Redirect",
+        "objectives": "Objectives"
     },
     "playerbrief": {
         "download": "Download",
@@ -881,7 +884,7 @@
         "questionTagging": "Question Tagging",
         "viewAll": "View All",
         "collapse": "Collapse",
-        "all":"All",
+        "all": "All",
         "unattempted": "Unattempted"
     },
     "network": {
@@ -1301,7 +1304,7 @@
         "completeBeforeText": "Congrats! You've completed the course and earned",
         "completeAfterText": "for each course you complete, with a limit of four non-My iGOT courses per month.",
         "completeTip": "For every My iGOT course you complete (as per ACBP), you will earn 15 Karma Points. For every other course you complete, you will earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
-        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",        
+        "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
         "fKarmaPoints": "5 Karma Points",
         "courseEnrollement": "for your 1st course enrolment!"
     },
@@ -1402,6 +1405,7 @@
         "completed": "Completed",
         "courses": "Courses",
         "programs": "Programs",
+        "assessments": "Assessments",
         "showAll": "Show all",
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
@@ -1416,8 +1420,16 @@
         "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "You will see here all the content for which the due date has passed.",
         "viewAll": "View All",
         "noDataMsgCompleted": "You will see all the completed content here.",
-        "myIgotPlans":"My iGOT Plans",
-        "mySpace":"My Space"
+        "myIgotPlans": "My iGOT Plans",
+        "mySpace": "My Space",
+        "nocontent": "Content will be available soon.",
+        "atinofuturecourses": "Currently, there are no featured courses available. Please check back later for updates on our upcoming courses.",
+        "atinofutureprograms": "Currently, there are no featured programs available. Please check back later for updates on our upcoming programs.",
+        "atinofutureassessments": "Currently, there are no featured assessments available. Please check back later for updates on our upcoming assessments",
+        "atinotopcourses": "Currently, there are no top courses available. Please check back later for updates on our upcoming courses.",
+        "atinotopprograms": "Currently, there are no top programs available. Please check back later for updates on our upcoming programs.",
+        "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
+        "noCbpData": "No capacity building plans yet."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1786,7 +1798,15 @@
         "last6Months": "Last 6 months",
         "lastYear": "Last year",
         "invite-onlyProgram": "Invite only Program",
-        "invite-onlyAssessment": "Invite only Assessment"
+        "invite-onlyAssessment": "Invite only Assessment",
+        "notStarted": "Not Started",
+        "inProgress": "In Progress",
+        "last3Month": "Last 3 months",
+        "last6Month": "Last 6 months",
+        "completed": "Completed",
+        "behavioural": "Behavioural",
+        "domain": "Domain",
+        "functional": "Functional"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

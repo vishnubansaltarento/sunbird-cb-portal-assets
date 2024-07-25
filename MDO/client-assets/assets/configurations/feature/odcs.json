@@ -1,0 +1,235 @@
+{
+    "mainHeading": "Org » Designation » Theme » Sub-Theme  Framework(ODCS)",
+    "topsection": {
+        "heading": "MDO Help Center Tips",
+        "steps": [
+            {
+                "index": 1,
+                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organization's needs."
+            },
+            {
+                "index": 2,
+                "title": "You can select from a broader pool of designations available on the iGOT master platform."
+            },
+            {
+                "index": 3,
+                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organization."
+            }
+        ],
+        "guideVideo": {
+            "type": "video/mp4",
+            "url": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4",
+            "enabled": false
+        }
+    },
+    "frameworkCreationMSg": "Please hold on while the designation master is being generated. This process will take approximately 1 minute. You can continue exploring other features of the MDO portal during this time.",
+    "frameworkConfig": [
+        {
+            "frameworkId": "odctest_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "org",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Organisation",
+                     "enableAdd":false,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 2,
+                    "category": "designation",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Designation",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 3,
+                    "category": "competency",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "labelName":"Competency",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 4,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "labelName":"Sub Theme",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                }
+            ]
+        },
+        {
+            "frameworkId": "cats_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 4,
+                    "category": "org",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                }
+            ]
+        },
+        {
+            "frameworkId": "kcmfinal_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)"
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                }
+            ]
+        },
+        {
+            "frameworkId": "kcm_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)"
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false
+                }
+            ]
+        }
+    ],
+    "defaultOdcsConfig":[
+        {
+            "frameworkId": "odctest_fw",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "org",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Organisation",
+                     "enableAdd":false,
+                     "enableView":false,
+                     "enabaleEdit":false,
+                     "enableThreeDot":false
+                },
+                {
+                    "index": 2,
+                    "category": "designation",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Designation",
+                     "enableAdd":true,
+                     "enableView":false,
+                     "enabaleEdit":false,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 3,
+                    "category": "competency",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "labelName":"Competency",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 4,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": false,
+                    "iconEnabled": false,
+                    "labelName":"Sub Theme",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                }
+            ]
+        }
+    ]
+}

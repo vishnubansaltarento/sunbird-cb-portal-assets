@@ -1,0 +1,26 @@
+{
+    "mainHeading": "My Designation Master",
+    "topsection": {
+        "heading": "Note:",
+        "steps": [
+            {
+                "index": 1,
+                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organization's needs."
+            },
+            {
+                "index": 2,
+                "title": "You can select from a broader pool of designations available on the iGOT master platform."
+            },
+            {
+                "index": 3,
+                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organization."
+            }
+        ],
+        "guideVideo": {
+            "type": "video/mp4",
+            "url": "/assets/instances/eagle/videos/Eagle_New_AppTour_Final.mp4",
+            "enabled": false
+        }
+    },
+    "frameworkCreationMSg": "Please hold on while the designation master is being generated. This process will take approximately 1 minute. You can continue exploring other features of the MDO portal during this time."
+}

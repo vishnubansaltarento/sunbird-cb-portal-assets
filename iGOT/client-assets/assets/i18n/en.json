@@ -270,7 +270,8 @@
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "Search"
+        "search": "Search",
+        "searchChannles": "Search Channels"
     },
     "providerallcbp": {
         "allCbps": "All Contents",

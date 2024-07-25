@@ -85,7 +85,7 @@
         "certificationsOfTheWeek": "Certifications of the week",
         "recentlyAdded": "Recently added",
         "forYou": "For you",
-        "marketplace": "Market place"
+        "contentPatner": "Content Patner"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -1428,7 +1428,8 @@
         "atinotopcourses": "Currently, there are no top courses available. Please check back later for updates on our upcoming courses.",
         "atinotopprograms": "Currently, there are no top programs available. Please check back later for updates on our upcoming programs.",
         "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
-        "noCbpData": "No capacity building plans yet."
+        "noCbpData": "No capacity building plans yet.",
+        "trainingInstitutions" : "Training Institutions"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",

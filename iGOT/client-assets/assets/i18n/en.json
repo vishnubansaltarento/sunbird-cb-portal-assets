@@ -84,7 +84,8 @@
         "learningUnder30Minutes": "Learning under 30 min",
         "certificationsOfTheWeek": "Certifications of the week",
         "recentlyAdded": "Recently added",
-        "forYou": "For you"
+        "forYou": "For you",
+        "contentPatner": "Content Patner"
     },
     "appnavbar": {
         "searchforLearningContents": "Search for learning contents",
@@ -202,7 +203,7 @@
         "curatedPrograms": "Curated Programs",
         "featuredCourses": "Featured courses",
         "moderatedCourses": "Moderated Contents",
-        "standaloneAssessment": "Standalone Assessment",
+        "standaloneAssessment": "Standalone Assessments",
         "recentlyAdded": "Recently added",
         "exploreAll": "Explore all",
         "seeall": "See all",
@@ -269,7 +270,8 @@
         "sortBy": "Sort by",
         "ascending": "Ascending",
         "descending": "Descending",
-        "search": "Search"
+        "search": "Search",
+        "searchChannles": "Search Channels"
     },
     "providerallcbp": {
         "allCbps": "All Contents",
@@ -497,7 +499,8 @@
         "mostTrending": "Most trending",
         "selfLearning": "Self learning",
         "completedCourse": "You completed this course on",
-        "provider": "Provider"
+        "provider": "Provider",
+        "objectives": "Objectives"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -1423,7 +1426,11 @@
         "atinofuturecourses": "Currently, there are no featured courses available. Please check back later for updates on our upcoming courses.",
         "atinofutureprograms": "Currently, there are no featured programs available. Please check back later for updates on our upcoming programs.",
         "atinofutureassessments": "Currently, there are no featured assessments available. Please check back later for updates on our upcoming assessments",
-        "noCbpData": "No capacity building plans yet."
+        "atinotopcourses": "Currently, there are no top courses available. Please check back later for updates on our upcoming courses.",
+        "atinotopprograms": "Currently, there are no top programs available. Please check back later for updates on our upcoming programs.",
+        "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
+        "noCbpData": "No capacity building plans yet.",
+        "trainingInstitutions" : "Training Institutions"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1792,7 +1799,15 @@
         "last6Months": "Last 6 months",
         "lastYear": "Last year",
         "invite-onlyProgram": "Invite only Program",
-        "invite-onlyAssessment": "Invite only Assessment"
+        "invite-onlyAssessment": "Invite only Assessment",
+        "notStarted": "Not Started",
+        "inProgress": "In Progress",
+        "last3Month": "Last 3 months",
+        "last6Month": "Last 6 months",
+        "completed": "Completed",
+        "behavioural": "Behavioural",
+        "domain": "Domain",
+        "functional": "Functional"
     },
     "utilslogout": {
         "logoutNow": "Logout Now",

@@ -2008,7 +2008,7 @@
             "key": "ciosContent",
             "logo": "school",
             "disableTranslate": true,
-            "title": "Marketplace",
+            "title": "courses",
             "stripTitleLink": {
                 "link": "",
                 "icon": ""
@@ -3008,26 +3008,7 @@
           "tabs": [ 
             {
               "label": "Courses",
-              "value": "providers",
-              "computeDataOnClick": false,
-              "computeDataOnClickKey": "",
-              "requestRequired": true,
-              "showTabDataCount": false,
-              "maxWidgets": 12,
-              "stripConfig": {
-                "cardSubType": "card-providers-lib"
-              },
-              "nodataMsg": "You will find provider courses here.",
-              "request": {
-                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
-                "playlistRead": {
-                  "type": "dummy"
-                }
-              }
-            },
-            {
-              "label": "Training Institutions",
-              "value": "trainingInstitutions",
+              "value": "extCourse",
               "computeDataOnClick": false,
               "computeDataOnClickKey": "",
               "requestRequired": true,
@@ -3047,6 +3028,25 @@
                   "orderBy": "createdOn",
                   "orderDirection": "desc",
                   "searchString": ""
+                }
+              }
+            },
+            {
+              "label": "Training Institutions",
+              "value": "providers",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "stripConfig": {
+                "cardSubType": "card-providers-lib"
+              },
+              "nodataMsg": "You will find provider courses here.",
+              "request": {
+                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
+                "playlistRead": {
+                  "type": "dummy"
                 }
               }
             }
@@ -3187,7 +3187,7 @@
       "stripVisable": "responsive",
       "strips": [
         {
-          "active": true,
+          "active": false,
           "key": "providers",
           "logo": "school",
           "disableTranslate": true,

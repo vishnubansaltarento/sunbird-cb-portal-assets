@@ -1380,7 +1380,8 @@
     "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जो आपको अगले 30 दिनों में पूरा करना है।",
     "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "आपको वह सभी कंटेन्ट दिखेंगे जिसके लिए नियत तिथि यहाँ बीत चुकी है।",
     "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जिसकी पूरा करने की तारीख़ बीत चुकी है।",
-    "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।"
+    "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।",
+    "providers": "प्रोवाईडर"
   },
   "homeotherportals": {
     "otherPortals": "अन्य पोर्टल जिन तक आपकी पहुंच है",

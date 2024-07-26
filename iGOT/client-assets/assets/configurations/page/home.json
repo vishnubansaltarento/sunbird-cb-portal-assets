@@ -2004,28 +2004,28 @@
       "order": 10,
       "strips": [
         {
-            "active": true,
-            "key": "ciosContent",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "courses",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "CIOS DATA",
-            "stripConfig": {
-                "cardSubType": "card-portrait-ext-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/seeAll",
+          "active": true,
+          "key": "ciosContent",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "courses",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "CIOS DATA",
+          "stripConfig": {
+            "cardSubType": "card-portrait-ext-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
             "viewMoreText": "Show all",
             "queryParams": {
               "key": "ciosContent"
@@ -2036,29 +2036,28 @@
             "stripConfig": {
               "cardSubType": "card-portrait-ext-lib"
             }
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-portrait-ext-lib-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
-                "ciosContent": {
-                  "filterCriteriaMap": {
-                  },
-                  "requestedFields": [],
-                  "pageNumber": 0,
-                  "pageSize": 50,
-                  "facets":[
-                      "topic"
-                  ],
-                  "orderBy": "createdOn",
-                  "orderDirection": "desc",
-                  "searchString": ""
-              }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-ext-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
+            "ciosContent": {
+              "filterCriteriaMap": {},
+              "requestedFields": [],
+              "pageNumber": 0,
+              "pageSize": 50,
+              "facets": [
+                "topic"
+              ],
+              "orderBy": "createdOn",
+              "orderDirection": "desc",
+              "searchString": ""
             }
+          }
         }
       ]
     }
@@ -3005,9 +3004,28 @@
           "loaderConfig": {
             "cardSubType": "card-portrait-ext-lib-skeleton"
           },
-          "tabs": [ 
+          "tabs": [
             {
-              "label": "Courses",
+              "label": "Training Institutions",
+              "value": "providers",
+              "computeDataOnClick": false,
+              "computeDataOnClickKey": "",
+              "requestRequired": true,
+              "showTabDataCount": false,
+              "maxWidgets": 12,
+              "stripConfig": {
+                "cardSubType": "card-providers-lib"
+              },
+              "nodataMsg": "You will find provider courses here.",
+              "request": {
+                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
+                "playlistRead": {
+                  "type": "dummy"
+                }
+              }
+            },
+            {
+              "label": "Providers",
               "value": "extCourse",
               "computeDataOnClick": false,
               "computeDataOnClickKey": "",
@@ -3028,25 +3046,6 @@
                   "orderBy": "createdOn",
                   "orderDirection": "desc",
                   "searchString": ""
-                }
-              }
-            },
-            {
-              "label": "Training Institutions",
-              "value": "providers",
-              "computeDataOnClick": false,
-              "computeDataOnClickKey": "",
-              "requestRequired": true,
-              "showTabDataCount": false,
-              "maxWidgets": 12,
-              "stripConfig": {
-                "cardSubType": "card-providers-lib"
-              },
-              "nodataMsg": "You will find provider courses here.",
-              "request": {
-                "apiUrl": "apis/proxies/v8/action/content/v3/read/<doId>",
-                "playlistRead": {
-                  "type": "dummy"
                 }
               }
             }

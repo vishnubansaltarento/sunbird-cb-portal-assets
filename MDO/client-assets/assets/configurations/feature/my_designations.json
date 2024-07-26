@@ -5,7 +5,7 @@
         "steps": [
             {
                 "index": 1,
-                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organization's needs."
+                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organisation's needs."
             },
             {
                 "index": 2,
@@ -13,7 +13,7 @@
             },
             {
                 "index": 3,
-                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organization."
+                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organisation."
             }
         ],
         "guideVideo": {

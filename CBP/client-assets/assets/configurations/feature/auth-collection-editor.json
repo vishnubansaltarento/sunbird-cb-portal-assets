@@ -161,6 +161,42 @@
           "minimum": 0,
           "maximum": 0,
           "enabled": false
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Simple Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a final assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Simple Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": false
         }
       ],
       "allowCreation": true,
@@ -261,6 +297,24 @@
           "name": "Practice Assessment",
           "primaryCategory": "Practice Question Set",
           "compatability": 7,
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Simple Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "compatability": 6,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",
@@ -553,6 +607,43 @@
           "maximum": 0,
           "enabled": false
         },
+
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Simple Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a final assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Simple Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": true
+        },
         {
           "conditions": {
             "fit": [
@@ -643,6 +734,42 @@
           "name": "Practice Assessment",
           "primaryCategory": "Practice Question Set",
           "compatability": 7,
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Simple Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a final assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Simple Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "compatability": 6,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",

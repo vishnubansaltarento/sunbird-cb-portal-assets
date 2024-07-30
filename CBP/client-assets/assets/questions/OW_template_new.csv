@@ -1,5 +1,4 @@
 ﻿QuestionNo,QuestionType,Question,Option1,isOption1Correct,Option2,isOption2Correct,Option3,isOption3Correct,Option4,isOption4Correct,Option5,isOption5Correct,Option6,isOption6Correct,Option7,isOption7Correct,Option8,isOption8Correct,Option9,isOption9Correct,Option10,isOption10Correct
-1,MCQ-MCA-W,Sample Question 1,Triangle,10,Square,20,Round,30,Rectangle,40,None of the above,0,,,,,,,,,,
-2,MCQ-MCA-W,Sample Question 2,White,10,Round,20,Big,30,Square,40,None of the above,0,,,,,,,,,,
-4,MCQ-MCA-W,Sample Question 3,Moon,10,Boat,10,Car,10,Mango,10,Potato,10,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
+1,MCQ-SCA-W,Sample Question 1,Triangle,10,Square,20,Round,30,Rectangle,40,None of the above,0,,,,,,,,,,
+2,MCQ-SCA-W,Sample Question 2,White,10,Round,20,Big,30,Square,40,None of the above,0,,,,,,,,,,
+4,MCQ-SCA-W,Sample Question 3,Moon,10,Boat,10,Car,10,Mango,10,Potato,10,,,,,,,,,,

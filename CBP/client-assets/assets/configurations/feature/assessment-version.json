@@ -1,12 +1,12 @@
 [
     {
-        "name": "Simple assesment",
+        "name": "Basic assesment",
         "value": "assessmentV1",
         "compatability": 6,
         "enabledFor": ["Standalone Assessment"]
     },
     {
-        "name": "Advance assessment",
+        "name": "Advanced assessment",
         "value": "assessmentV2",
         "compatability": 7,
         "enabledFor": ["Standalone Assessment"]

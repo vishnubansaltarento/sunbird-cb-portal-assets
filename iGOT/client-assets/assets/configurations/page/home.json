@@ -2004,28 +2004,28 @@
       "order": 10,
       "strips": [
         {
-            "active": true,
-            "key": "ciosContent",
-            "logo": "school",
-            "disableTranslate": true,
-            "title": "Marketplace",
-            "stripTitleLink": {
-                "link": "",
-                "icon": ""
-            },
-            "sliderConfig": {
-                "showNavs": true,
-                "showDots": true,
-                "maxWidgets": 12,
-                "showNavsSpacing": true
-            },
-            "stripBackground": "",
-            "titleDescription": "CIOS DATA",
-            "stripConfig": {
-                "cardSubType": "card-portrait-ext-lib"
-            },
-            "viewMoreUrl": {
-                "path": "/app/seeAll",
+          "active": true,
+          "key": "ciosContent",
+          "logo": "school",
+          "disableTranslate": true,
+          "title": "courses",
+          "stripTitleLink": {
+            "link": "",
+            "icon": ""
+          },
+          "sliderConfig": {
+            "showNavs": true,
+            "showDots": true,
+            "maxWidgets": 12,
+            "showNavsSpacing": true
+          },
+          "stripBackground": "",
+          "titleDescription": "CIOS DATA",
+          "stripConfig": {
+            "cardSubType": "card-portrait-ext-lib"
+          },
+          "viewMoreUrl": {
+            "path": "/app/seeAll",
             "viewMoreText": "Show all",
             "queryParams": {
               "key": "ciosContent"
@@ -2036,29 +2036,28 @@
             "stripConfig": {
               "cardSubType": "card-portrait-ext-lib"
             }
-            },
-            "loader": true,
-            "loaderConfig": {
-                "cardSubType": "card-portrait-ext-lib-skeleton"
-            },
-            "tabs": [],
-            "filters": [],
-            "request": {
-                "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
-                "ciosContent": {
-                  "filterCriteriaMap": {
-                  },
-                  "requestedFields": [],
-                  "pageNumber": 0,
-                  "pageSize": 50,
-                  "facets":[
-                      "topic"
-                  ],
-                  "orderBy": "createdOn",
-                  "orderDirection": "desc",
-                  "searchString": ""
-              }
+          },
+          "loader": true,
+          "loaderConfig": {
+            "cardSubType": "card-portrait-ext-lib-skeleton"
+          },
+          "tabs": [],
+          "filters": [],
+          "request": {
+            "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
+            "ciosContent": {
+              "filterCriteriaMap": {},
+              "requestedFields": [],
+              "pageNumber": 0,
+              "pageSize": 50,
+              "facets": [
+                "topic"
+              ],
+              "orderBy": "createdOn",
+              "orderDirection": "desc",
+              "searchString": ""
             }
+          }
         }
       ]
     }
@@ -3005,9 +3004,9 @@
           "loaderConfig": {
             "cardSubType": "card-portrait-ext-lib-skeleton"
           },
-          "tabs": [ 
+          "tabs": [
             {
-              "label": "Courses",
+              "label": "Training Institutions",
               "value": "providers",
               "computeDataOnClick": false,
               "computeDataOnClickKey": "",
@@ -3026,8 +3025,8 @@
               }
             },
             {
-              "label": "Training Institutions",
-              "value": "trainingInstitutions",
+              "label": "Providers",
+              "value": "extCourse",
               "computeDataOnClick": false,
               "computeDataOnClickKey": "",
               "requestRequired": true,
@@ -3187,7 +3186,7 @@
       "stripVisable": "responsive",
       "strips": [
         {
-          "active": true,
+          "active": false,
           "key": "providers",
           "logo": "school",
           "disableTranslate": true,

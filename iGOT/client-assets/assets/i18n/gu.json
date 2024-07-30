@@ -1333,7 +1333,9 @@
     "today'sEvents": "આજની ઘટનાઓ",
     "youDon’tHaveAnyNewCourseInProgress.": "તમારી પાસે કોઈ નવો અભ્યાસક્રમ પ્રગતિમાં નથી.",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "તમે 30 દિવસની અંદર તે બધી સામગ્રી જોશો કે જેના માટે નિયત તારીખ છે.",
-    "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "તમે તે બધી સામગ્રી જોશો કે જેના માટે નિયત તારીખ અહીં પસાર થઈ ગઈ છે."
+    "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "તમે તે બધી સામગ્રી જોશો કે જેના માટે નિયત તારીખ અહીં પસાર થઈ ગઈ છે.",
+    "trainingInstitutions": "Training Institutions-GU",
+    "providers": "પ્રદાતાઓ"
   },
   "homeotherportals": {
     "otherPortals": "તમારી પાસે ઍક્સેસ હોય તેવા અન્ય પોર્ટલ",
@@ -2026,7 +2028,17 @@
     "discussionsDataFail": "ચર્ચાની માહિતી મેળવવામાં અસમર્થ, મહેરબાની કરીને પછીથી ફરી પ્રયાસ કરો!",
     "hideCredentials": "મારી ઓળખ છુપાવો",
     "viewCredentials": "મારી ઓળખપત્રો જુઓ",
-    "viewMentorProfile": "માર્ગદર્શક પ્રોફાઇલ જુઓ"
+    "viewMentorProfile": "માર્ગદર્શક પ્રોફાઇલ જુઓ",
+    "note":"નોંધ",
+    "emailApprovedNoteStart": "1. ઈ-મેલ આઈડીને અપડેટ કરવાની મંજૂરી માત્ર માન્ય સરકારી ઈ-મેલ આઈ. ડી. માટે જ છે. જો",
+    "theUser": "વપરાશકર્તા",
+    "emailApprovedNoteEnd": "અપડેટ કરવામાં સક્ષમ નથી, તો કૃપા કરીને એમ. ડી. ઓ. એડમિનનો સંપર્ક કરો.",
+    "emailDigilockerNoteStart": "2. જો વપરાશકર્તા",
+    "wants": "ઈચ્છાઓ",
+    "emailDigilockerNoteEnd": "ડિજિલોકર પર તેમના પ્રમાણપત્રો મેળવવા માટે, મહેરબાની કરીને ખાતરી કરો કે મોબાઇલ નંબર બંને પ્લેટફોર્મ પર મેળ ખાય છે.",
+    "emailApprovedPopupMsg": "ઈ-મેલ આઈડી માટે માત્ર માન્ય સરકારી ઈ-મેલ ડોમેન્સની મંજૂરી છે",
+    "changes":"ફેરફારો કરે છે.",
+    "emailApprovedPopupSubmsg": "જો તમે ઇમેઇલ આઈડી બદલી શકતા નથી, તો મહેરબાની કરીને એમ. ડી. ઓ. એડમિનનો સંપર્ક કરો."
   },
   "mobileApp": {}
 }

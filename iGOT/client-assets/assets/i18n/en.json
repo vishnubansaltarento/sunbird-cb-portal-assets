@@ -1430,7 +1430,8 @@
         "atinotopprograms": "Currently, there are no top programs available. Please check back later for updates on our upcoming programs.",
         "atinotopassessments": "Currently, there are no top assessments available. Please check back later for updates on our upcoming assessments",
         "noCbpData": "No capacity building plans yet.",
-        "trainingInstitutions" : "Training Institutions"
+        "trainingInstitutions": "Training Institutions",
+        "providers": "Providers"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -2217,7 +2218,17 @@
         "obc": "OBC",
         "sc": "SC",
         "st": "ST",
-        "viewMentorProfile": "View Mentor Profile"
+        "viewMentorProfile": "View Mentor Profile",
+        "note":"Note",
+        "emailApprovedNoteStart": "1. Email ID update is allowed for approved government email IDs only. If",
+        "theUser": "the user",
+        "emailApprovedNoteEnd": "is not able to update, please reach out to MDO Admin.",
+        "emailDigilockerNoteStart": "2. If a user",
+        "wants": "wants",
+        "emailDigilockerNoteEnd": "to access their Certificates on Digilocker, please make sure the mobile number matches on both platforms.",
+        "emailApprovedPopupMsg": "Only approved government email domains are allowed for email ID",
+        "changes": "changes.",
+        "emailApprovedPopupSubmsg": "Please reach out to the MDO Admin, if you are not able to change the email ID."
     },
     "mobileApp": {}
 }

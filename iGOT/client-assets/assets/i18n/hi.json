@@ -1380,7 +1380,9 @@
     "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जो आपको अगले 30 दिनों में पूरा करना है।",
     "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "आपको वह सभी कंटेन्ट दिखेंगे जिसके लिए नियत तिथि यहाँ बीत चुकी है।",
     "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जिसकी पूरा करने की तारीख़ बीत चुकी है।",
-    "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।"
+    "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।",
+    "trainingInstitutions": "Training Institutions-HI",
+    "providers": "प्रोवाईडर"
   },
   "homeotherportals": {
     "otherPortals": "अन्य पोर्टल जिन तक आपकी पहुंच है",
@@ -2166,7 +2168,7 @@
     "sendForApproval": "मंजूरी के लिए भेजें",
     "otherDetails": "अन्य विवरण",
     "employeeId": "कर्मचारी आईडी",
-    "email": "ईमेल करें।",
+    "email": "ईमेल",
     "getOTP": "ओटीपी लें ",
     "mobileNumber": "मोबाइल नंबर",
     "gender": "लिंग",
@@ -2252,7 +2254,17 @@
     "obc": "ओ.बी.सी.",
     "sc": "एससी",
     "st": "एसटी",
-    "viewMentorProfile": "मेंटर प्रोफ़ाइल देखें"
+    "viewMentorProfile": "मेंटर प्रोफ़ाइल देखें",
+    "note":"नोट",
+    "emailApprovedNoteStart": "1. ई-मेल आई.डी. को अपडेट करने की अनुमति केवल अनुमोदित सरकारी ई-मेल आई.डी. के लिए है । यदि",
+    "theUser": "उपयोगकर्ता",
+    "emailApprovedNoteEnd": "अपडेट नहीं कर पा रहे हैं, तो कृपया एम.डी.ओ. एड्मिन से संपर्क करें।",
+    "emailDigilockerNoteStart": "2. डिजिलॉकर पर",
+    "wants": "अपने",
+    "emailDigilockerNoteEnd": "प्रमाणपत्रों को देखने के लिए, कृपया सुनिश्चित करें कि दोनों प्लेटफार्मों पर मोबाइल नंबर मेल खाते हों ।",
+    "emailApprovedPopupMsg": "ईमेल आईडी को बदलने के लिए केवल अनुमोदित सरकारी ईमेल डोमेन की",
+    "changes":"अनुमति है।",
+    "emailApprovedPopupSubmsg": "यदि ईमेल आई.डी. बदलने में कोई परेशानी हो रही है, तो कृपया एम.डी.ओ. एड्मिन से संपर्क करें।"
   },
   "mobileApp": {}
 }

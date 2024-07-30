@@ -188,6 +188,7 @@
                      "enableAdd":false,
                      "enableView":false,
                      "enabaleEdit":false,
+                     "enableDelete":false,
                      "enableThreeDot":false
                 },
                 {
@@ -201,6 +202,7 @@
                      "enableAdd":true,
                      "enableView":false,
                      "enabaleEdit":false,
+                     "enableDelete":false,
                      "enableThreeDot":true
                 },
                 {
@@ -214,6 +216,7 @@
                      "enableAdd":true,
                      "enableView":true,
                      "enabaleEdit":true,
+                     "enableDelete":true,
                      "enableThreeDot":true
                 },
                 {
@@ -221,12 +224,13 @@
                     "category": "subtheme",
                     "icon": "extension",
                     "color": "rgb(115, 115, 115)",
-                    "createBtnEnabled": false,
+                    "createBtnEnabled": true,
                     "iconEnabled": false,
                     "labelName":"Sub Theme",
-                     "enableAdd":true,
+                     "enableAdd":false,
                      "enableView":true,
-                     "enabaleEdit":true,
+                     "enabaleEdit":false,
+                     "enableDelete":true,
                      "enableThreeDot":true
                 }
             ]

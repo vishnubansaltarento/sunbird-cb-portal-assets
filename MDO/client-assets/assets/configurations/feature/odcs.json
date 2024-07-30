@@ -1,5 +1,5 @@
 {
-    "mainHeading": "Org » Designation » Theme » Sub-Theme  Framework(ODCS)",
+    "mainHeading": "Competency Role Mapping ",
     "topsection": {
         "heading": "MDO Help Center Tips",
         "steps": [
@@ -213,6 +213,7 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "labelName":"Competency",
+                    "categoryDisplayName": "Competency Theme",
                      "enableAdd":true,
                      "enableView":true,
                      "enabaleEdit":true,
@@ -227,11 +228,12 @@
                     "createBtnEnabled": true,
                     "iconEnabled": false,
                     "labelName":"Sub Theme",
-                     "enableAdd":false,
-                     "enableView":true,
-                     "enabaleEdit":false,
-                     "enableDelete":true,
-                     "enableThreeDot":true
+                    "categoryDisplayName": "Competency Sub Theme",
+                    "enableAdd":false,
+                    "enableView":true,
+                    "enabaleEdit":false,
+                    "enableDelete":true,
+                    "enableThreeDot":true
                 }
             ]
         }

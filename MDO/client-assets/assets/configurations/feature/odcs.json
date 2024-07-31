@@ -5,15 +5,11 @@
         "steps": [
             {
                 "index": 1,
-                "title": "My Designation Master functions as a curated list of designations that MDO admins/leaders have designated as relevant to their organization's needs."
+                "title": "<span>Please ensure your Designation Master is updated before starting to map designations to competencies.</span>"
             },
             {
                 "index": 2,
-                "title": "You can select from a broader pool of designations available on the iGOT master platform."
-            },
-            {
-                "index": 3,
-                "title": "You can also expedite the process by utilizing designations already declared or verified by users within your organization."
+                "title": "<span>Once designations appear, you can begin mapping or adding competencies for each designation. Click &ldquo;Add,&rdquo; then select the area, theme, and associated sub-theme.</span>"
             }
         ],
         "guideVideo": {
@@ -188,7 +184,9 @@
                      "enableAdd":false,
                      "enableView":false,
                      "enabaleEdit":false,
-                     "enableThreeDot":false
+                     "enableDelete":false,
+                     "enableThreeDot":false,
+                     "showSearch": false
                 },
                 {
                     "index": 2,
@@ -201,7 +199,9 @@
                      "enableAdd":true,
                      "enableView":false,
                      "enabaleEdit":false,
-                     "enableThreeDot":true
+                     "enableDelete":false,
+                     "enableThreeDot":true,
+                     "showSearch": false
                 },
                 {
                     "index": 3,
@@ -215,21 +215,25 @@
                      "enableAdd":true,
                      "enableView":true,
                      "enabaleEdit":true,
-                     "enableThreeDot":true
+                     "enableDelete":true,
+                     "enableThreeDot":true,
+                     "showSearch": false
                 },
                 {
                     "index": 4,
                     "category": "subtheme",
                     "icon": "extension",
                     "color": "rgb(115, 115, 115)",
-                    "createBtnEnabled": false,
+                    "createBtnEnabled": true,
                     "iconEnabled": false,
                     "labelName":"Sub Theme",
                     "categoryDisplayName": "Competency Sub Theme",
-                     "enableAdd":true,
-                     "enableView":true,
-                     "enabaleEdit":true,
-                     "enableThreeDot":true
+                    "enableAdd":false,
+                    "enableView":true,
+                    "enabaleEdit":false,
+                    "enableDelete":true,
+                    "enableThreeDot":true,
+                    "showSearch": false
                 }
             ]
         }

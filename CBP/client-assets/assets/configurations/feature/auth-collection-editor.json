@@ -134,7 +134,25 @@
               }
             ]
           },
-          "name": "Final Assessment",
+          "name": "Basic Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "compatability": 6,
+          "position": "",
+          "description": "Create a final assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Advanced Final Assessment",
           "primaryCategory": "Course Assessment",
           "compatability": 7,
           "position": "",
@@ -152,9 +170,9 @@
               }
             ]
           },
-          "name": "Practice Assessment",
+          "name": "Basic Practice Assessment",
           "primaryCategory": "Practice Question Set",
-          "compatability": 7,
+          "compatability": 6,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",
@@ -166,31 +184,13 @@
           "conditions": {
             "fit": [
               {
-                "primaryCategory": ["Course Assessment"]
-              }
-            ]
-          },
-          "name": "Simple Final Assessment",
-          "primaryCategory": "Course Assessment",
-          "compatability": 6,
-          "position": "",
-          "description": "Create a final assesment content",
-          "icon": "playlist_add_check",
-          "minimum": 0,
-          "maximum": 1,
-          "enabled": true
-        },
-        {
-          "conditions": {
-            "fit": [
-              {
                 "primaryCategory": ["Practice Question Set"]
               }
             ]
           },
-          "name": "Simple Practice Assessment",
+          "name": "Advanced Practice Assessment",
           "primaryCategory": "Practice Question Set",
-          "compatability": 6,
+          "compatability": 7,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",
@@ -294,9 +294,9 @@
               }
             ]
           },
-          "name": "Practice Assessment",
+          "name": "Basic Practice Assessment",
           "primaryCategory": "Practice Question Set",
-          "compatability": 7,
+          "compatability": 6,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",
@@ -312,9 +312,9 @@
               }
             ]
           },
-          "name": "Simple Practice Assessment",
+          "name": "Advanced Practice Assessment",
           "primaryCategory": "Practice Question Set",
-          "compatability": 6,
+          "compatability": 7,
           "position": "",
           "description": "Create a practice assesment content",
           "icon": "playlist_add_check",
@@ -579,44 +579,7 @@
               }
             ]
           },
-          "name": "Final Assessment",
-          "primaryCategory": "Course Assessment",
-          "compatability": 7,
-          "position": "",
-          "description": "Create a final assesment to your blended program.",
-          "icon": "playlist_add_check",
-          "minimum": 0,
-          "maximum": 1,
-          "enabled": true
-        },
-        {
-          "conditions": {
-            "fit": [
-              {
-                "primaryCategory": ["Practice Question Set"]
-              }
-            ]
-          },
-          "name": "Practice Assessment",
-          "primaryCategory": "Practice Question Set",
-          "compatability": 7,
-          "position": "",
-          "description": "Create a practice assesment content",
-          "icon": "playlist_add_check",
-          "minimum": 0,
-          "maximum": 0,
-          "enabled": false
-        },
-
-        {
-          "conditions": {
-            "fit": [
-              {
-                "primaryCategory": ["Course Assessment"]
-              }
-            ]
-          },
-          "name": "Simple Final Assessment",
+          "name": "Basic Final Assessment",
           "primaryCategory": "Course Assessment",
           "compatability": 6,
           "position": "",
@@ -630,11 +593,30 @@
           "conditions": {
             "fit": [
               {
+                "primaryCategory": ["Course Assessment"]
+              }
+            ]
+          },
+          "name": "Advanced Final Assessment",
+          "primaryCategory": "Course Assessment",
+          "compatability": 7,
+          "position": "",
+          "description": "Create a final assesment to your blended program.",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 1,
+          "enabled": true
+        },
+        
+        {
+          "conditions": {
+            "fit": [
+              {
                 "primaryCategory": ["Practice Question Set"]
               }
             ]
           },
-          "name": "Simple Practice Assessment",
+          "name": "Basic Practice Assessment",
           "primaryCategory": "Practice Question Set",
           "compatability": 6,
           "position": "",
@@ -642,7 +624,25 @@
           "icon": "playlist_add_check",
           "minimum": 0,
           "maximum": 0,
-          "enabled": true
+          "enabled": false
+        },
+        {
+          "conditions": {
+            "fit": [
+              {
+                "primaryCategory": ["Practice Question Set"]
+              }
+            ]
+          },
+          "name": "Advanced Practice Assessment",
+          "primaryCategory": "Practice Question Set",
+          "compatability": 7,
+          "position": "",
+          "description": "Create a practice assesment content",
+          "icon": "playlist_add_check",
+          "minimum": 0,
+          "maximum": 0,
+          "enabled": false
         },
         {
           "conditions": {
@@ -713,7 +713,7 @@
               }
             ]
           },
-          "name": "Final Assessment",
+          "name": "Advanced Final Assessment",
           "primaryCategory": "Course Assessment",
           "compatability": 7,
           "position": "",
@@ -731,7 +731,7 @@
               }
             ]
           },
-          "name": "Practice Assessment",
+          "name": "Advanced Practice Assessment",
           "primaryCategory": "Practice Question Set",
           "compatability": 7,
           "position": "",
@@ -749,7 +749,7 @@
               }
             ]
           },
-          "name": "Simple Final Assessment",
+          "name": "Basic Final Assessment",
           "primaryCategory": "Course Assessment",
           "compatability": 6,
           "position": "",
@@ -767,7 +767,7 @@
               }
             ]
           },
-          "name": "Simple Practice Assessment",
+          "name": "Basic Practice Assessment",
           "primaryCategory": "Practice Question Set",
           "compatability": 6,
           "position": "",

@@ -4,7 +4,7 @@
         "widgetSubType": "leftMenu",
         "widgetData": {
             "logo": true,
-            "menusList":[
+            "menusList": [
                 {
                     "menuCategory": "Manage",
                     "submenu": true,
@@ -15,28 +15,26 @@
                         "state_admin"
                     ],
                     "subMenu": [
-                      {
-                        "name": "All Request",
-                        "key": "Manage",
-                        "fragment": false,
-                        "render": true,
-                        "badges": {
-                          "enabled": false,
-                          "uri": ""
-                        },
-                        "enabled": true,
-                        "routerLink": "/app/home/request-list",
-                        "requiredRoles": [
-                            "SPV_ADMIN",
-                            "STATE_ADMIN",
-                            "spv_admin",
-                            "state_admin"
-                        ]
-                      }
-                   
-                   
+                        {
+                            "name": "All Request",
+                            "key": "Manage",
+                            "fragment": false,
+                            "render": true,
+                            "badges": {
+                                "enabled": false,
+                                "uri": ""
+                            },
+                            "enabled": true,
+                            "routerLink": "/app/home/request-list",
+                            "requiredRoles": [
+                                "SPV_ADMIN",
+                                "STATE_ADMIN",
+                                "spv_admin",
+                                "state_admin"
+                            ]
+                        }
                     ]
-                  }
+                }
             ],
             "menus": [
                 {
@@ -249,8 +247,8 @@
                     "fragment": false,
                     "render": true,
                     "badges": {
-                      "enabled": false,
-                      "uri": ""
+                        "enabled": false,
+                        "uri": ""
                     },
                     "enabled": true,
                     "routerLink": "/app/home/all-request",
@@ -260,7 +258,7 @@
                         "spv_admin",
                         "state_admin"
                     ]
-                  },
+                },
                 {
                     "name": "KCM mapping",
                     "key": "KCM",
@@ -276,9 +274,24 @@
                         "SPV_ADMIN",
                         "spv_admin"
                     ]
+                },
+                {
+                    "name": "Surveys",
+                    "key": "Surveys",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/survey",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
                 }
             ]
-          
         }
     }
 }

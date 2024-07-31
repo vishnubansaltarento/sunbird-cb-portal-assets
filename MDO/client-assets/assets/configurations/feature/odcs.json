@@ -189,7 +189,8 @@
                      "enableView":false,
                      "enabaleEdit":false,
                      "enableDelete":false,
-                     "enableThreeDot":false
+                     "enableThreeDot":false,
+                     "showSearch": false
                 },
                 {
                     "index": 2,
@@ -203,7 +204,8 @@
                      "enableView":false,
                      "enabaleEdit":false,
                      "enableDelete":false,
-                     "enableThreeDot":true
+                     "enableThreeDot":true,
+                     "showSearch": false
                 },
                 {
                     "index": 3,
@@ -218,7 +220,8 @@
                      "enableView":true,
                      "enabaleEdit":true,
                      "enableDelete":true,
-                     "enableThreeDot":true
+                     "enableThreeDot":true,
+                     "showSearch": false
                 },
                 {
                     "index": 4,
@@ -233,7 +236,8 @@
                     "enableView":true,
                     "enabaleEdit":false,
                     "enableDelete":true,
-                    "enableThreeDot":true
+                    "enableThreeDot":true,
+                    "showSearch": false
                 }
             ]
         }

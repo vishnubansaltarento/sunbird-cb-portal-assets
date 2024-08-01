@@ -201,7 +201,7 @@
                   ]
                 },
                 {
-                  "menuCategory": "ODCS mapping",
+                  "menuCategory": "Competency Role Mapping",
                   "submenu": false,
                   "key": "odcs-mapping-section",
                   "fragment": false,

@@ -244,6 +244,53 @@
                     "enableThreeDot":true
                 }
             ]
+        },
+        {
+            "frameworkId": "kcmfinal_fw_v1",
+            "config": [
+                {
+                    "index": 1,
+                    "category": "competencyarea",
+                    "icon": "person",
+                    "color": "rgb(115, 115, 115)",
+                   "createBtnEnabled": false,
+                    "iconEnabled": false,
+                     "categoryDisplayName": "Competency Area",
+                     "labelName":"Competency Area",
+                     "enableAdd":true,
+                     "enableView":false,
+                     "enabaleEdit":false,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 2,
+                    "category": "theme",
+                    "icon": "settings",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "categoryDisplayName": "Competency Theme",
+                     "labelName":"Competency Area",
+                     "enableAdd":true,
+                     "enableView":true,
+                     "enabaleEdit":true,
+                     "enableThreeDot":true
+                },
+                {
+                    "index": 3,
+                    "category": "subtheme",
+                    "icon": "extension",
+                    "color": "rgb(115, 115, 115)",
+                    "createBtnEnabled": true,
+                    "iconEnabled": false,
+                    "categoryDisplayName": "Competency Sub Theme",
+                    "labelName":"Competency Area",
+                    "enableAdd":false,
+                    "enableView":true,
+                    "enabaleEdit":true,
+                    "enableThreeDot":true
+                }
+            ]
         }
     ]
 }

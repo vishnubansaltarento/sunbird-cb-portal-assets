@@ -1097,6 +1097,18 @@
       "contentImg": "assets/icons/learner-advisory/follow-suggestions.png"
     }
   ],
+  "surveyForm": {
+    "active": true,
+    "surveyFormData": [
+      {
+        "title": "Take the iGOT Survey, help us make iGOT even better!",
+        "content": "Take a few minutes to complete this survey and contribute to enhancing the iGOT learning experience",
+        "btnTitle": "Click here",
+        "ImageUrl": "assets/icons/learner-advisory/surveyEdit.png",
+        "surveyId": "668e250da8bfb500083136b1"
+      }
+    ]
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",

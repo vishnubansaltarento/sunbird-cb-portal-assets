@@ -1412,13 +1412,14 @@
     "recentlyAdded": "नए जोड़े गए",
     "youWillFindYourCompletedCourses/programHere": "आपको यहां अपने पूरे किए गए कोर्स/कार्यक्रम मिलेंगे।",
     "today'sEvents": "आज के इवेंट्स",
+    "noDataCourse":"कोई पाठ्यक्रम उपलब्ध नहीं.",
     "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई सामग्री प्रगति पर नहीं है।",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "आपको वह सभी कंटेन्ट दिखेंगे जिसकी नियत तारीख 30 दिनों के भीतर है।",
     "youWillSeeAllTheContentThatNeedsToBeCompletedWithinTheNext30Days.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जो आपको अगले 30 दिनों में पूरा करना है।",
     "youWillSeeAllTheContentForWhichTheDueDateHasPassedHere.": "आपको वह सभी कंटेन्ट दिखेंगे जिसके लिए नियत तिथि यहाँ बीत चुकी है।",
     "youWillSeeHereAllTheContentForWhichTheDueDateHasPassed.": "आपको यहाँ वह सब कंटेन्ट दिखेगा जिसकी पूरा करने की तारीख़ बीत चुकी है।",
     "noDataMsgCompleted": "आप यहाँ सभी पूर्ण सामग्री देखेंगे।",
-    "trainingInstitutions": "Training Institutions-HI",
+    "trainingInstitutions": "प्रशिक्षण संस्थान",
     "providers": "प्रोवाईडर"
   },
   "homeotherportals": {
